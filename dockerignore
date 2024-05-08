@@ -1,0 +1,6 @@
+datasets/
+model/
+Dockerfile
+.dockerignore
+.gitignore
+.pre-commit-config.yaml
