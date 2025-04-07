@@ -1,7 +1,7 @@
-from setuptools import setup, find_namespace_packages, find_packages
+from setuptools import setup, find_packages
 
 import re
-VERSIONFILE="example_project/_version.py"
+VERSIONFILE="web-scrapping-airline-dataset/_version.py"
 verstrline = open(VERSIONFILE, "rt").read()
 VSRE = r"^__version__ = ['\"]([^'\"]*)['\"]"
 mo = re.search(VSRE, verstrline, re.M)
@@ -28,5 +28,5 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.8',
 )
