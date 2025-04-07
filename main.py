@@ -9,9 +9,9 @@ from io import StringIO
 if __name__ == "__main__":
     WIKI_URL = 'https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft'
 
-    # print("--- Starting Wikipedia Scraper ---")
-    # intiate_scrapping(WIKI_URL)
-    # print("--- Scraper Finished ---")
+    print("--- Starting Wikipedia Scraper ---")
+    intiate_scrapping(WIKI_URL)
+    print("--- Scraper Finished ---")
 
     df = pd.read_csv('data/raw_wikipedia_data.csv')
     df['Formatted_Date'] = df.apply(create_formatted_date, axis=1)
