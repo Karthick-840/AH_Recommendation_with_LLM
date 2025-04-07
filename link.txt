@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft
+https://www.kaggle.com/datasets/warcoder/civil-aviation-accidents/code

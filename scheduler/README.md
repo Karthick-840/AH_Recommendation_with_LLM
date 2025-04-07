@@ -1,1 +1,0 @@
-Placeholder directory for scheduler scripts or preferably scheduled using a common scheduler tool across many projects for a team/department.

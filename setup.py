@@ -14,14 +14,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="example_project",
+    name="Web Scrapping for Airlines Dataset",
     version=verstr,
-    author="Joel Thomas",
-    author_email="joelcthomas.com",
-    description="An example project template to showcase how to structure a productive data science project",
+    author="Karthick Jayaraman",
+    author_email="karthick840@yahoo.in",
+    description="An example project on Web Scrapping and publishing data to Kaggle",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/joelcthomas/productive-datascience-template",
+    url="https://github.com/Karthick-840/Web-Scrapping-Airline-Dataset.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

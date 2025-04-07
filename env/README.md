@@ -1,1 +1,0 @@
-Use this location to host python virtual environments or preferably use conda to manage and reproduce the environment.
