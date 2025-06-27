@@ -1,6 +1,8 @@
 import os
 import json
-import requests # New dependency for making HTTP requests
+import requests
+
+# --- START: SendPulse API Functions (Copied from your send_email.py for this test) ---
 
 def get_sendpulse_access_token(api_id, api_secret):
     """
@@ -23,7 +25,7 @@ def get_sendpulse_access_token(api_id, api_secret):
 
 def send_html_email_sendpulse(
     sender_email,
-    sender_name, # Added sender name for SendPulse
+    sender_name,
     receiver_email,
     subject,
     html_content_file,
@@ -32,18 +34,8 @@ def send_html_email_sendpulse(
 ):
     """
     Sends an HTML email using SendPulse API.
-
-    Args:
-        sender_email (str): The 'from' email address verified in SendPulse.
-        sender_name (str): The name to display as the sender (e.g., "Your Company").
-        receiver_email (str): The email address of the recipient.
-        subject (str): The subject line of the email.
-        html_content_file (str): The path to the HTML file containing the email body.
-        api_id (str): Your SendPulse API ID.
-        api_secret (str): Your SendPulse API Secret.
     """
     try:
-        # Read the HTML content from the file
         if not os.path.exists(html_content_file):
             print(f"Error: HTML file '{html_content_file}' not found.")
             return
@@ -51,32 +43,27 @@ def send_html_email_sendpulse(
         with open(html_content_file, 'r', encoding='utf-8') as f:
             html_body = f.read()
 
-        # Get SendPulse access token
         access_token = get_sendpulse_access_token(api_id, api_secret)
         if not access_token:
             print("Failed to obtain SendPulse access token. Cannot send email.")
             return
 
-        # --- NEW: Validate email addresses before sending ---
         if not sender_email:
-            print("Error: SENDER_EMAIL is missing. Please check your GitHub Secret 'EMAIL_SENDER_EMAIL'.")
+            print("Error: SENDER_EMAIL is missing.")
             return
         if not receiver_email:
-            print("Error: RECEIVER_EMAIL is missing. Please check your GitHub Secret 'EMAIL_RECEIVER_EMAIL'.")
+            print("Error: RECEIVER_EMAIL is missing.")
             return
-        # --- End NEW Validation ---
 
-        # Send email via SendPulse API
         send_email_url = "https://api.sendpulse.com/smtp/emails"
         send_email_headers = {
             "Content-Type": "application/json",
             "Authorization": f"Bearer {access_token}"
         }
         
-        # Construct the email payload
         email_data = {
             "html": html_body,
-            "text": "Please enable HTML to view this email.", # Fallback for text-only clients
+            "text": "Please enable HTML to view this email.",
             "subject": subject,
             "from": {
                 "name": sender_name,
@@ -91,7 +78,7 @@ def send_html_email_sendpulse(
 
         print(f"Attempting to send email to {receiver_email} via SendPulse...")
         response = requests.post(send_email_url, headers=send_email_headers, data=json.dumps(email_data))
-        response.raise_for_status() # Raise an exception for HTTP errors
+        response.raise_for_status()
 
         result = response.json()
         if result.get("result") and result["result"] == "success":
@@ -107,30 +94,27 @@ def send_html_email_sendpulse(
     except Exception as e:
         print(f"An unexpected error occurred during SendPulse email sending: {e}")
 
-# --- Retrieve Configuration from Environment Variables ---
-# These variables will be set by GitHub Actions secrets
-SENDPULSE_API_ID = os.environ.get("SENDPULSE_API_ID")
-SENDPULSE_API_SECRET = os.environ.get("SENDPULSE_API_SECRET")
-SENDER_EMAIL = os.environ.get("SENDER_EMAIL")
-SENDER_NAME = os.environ.get("SENDER_NAME", "Your Company") # Default sender name
-RECEIVER_EMAIL = os.environ.get("RECEIVER_EMAIL")
-EMAIL_SUBJECT = os.environ.get("EMAIL_SUBJECT")
-HTML_FILE_PATH = os.environ.get("HTML_FILE_PATH")
+# --- END: SendPulse API Functions ---
 
-# Basic validation for env vars being loaded
-if not all([SENDPULSE_API_ID, SENDPULSE_API_SECRET, SENDER_EMAIL, RECEIVER_EMAIL, EMAIL_SUBJECT, HTML_FILE_PATH]):
-    print("Error: Missing one or more required environment variables for SendPulse email sending.")
-    print("Please ensure SENDPULSE_API_ID, SENDPULSE_API_SECRET, SENDER_EMAIL, RECEIVER_EMAIL, EMAIL_SUBJECT, HTML_FILE_PATH are set as GitHub Secrets.")
-else:
-    # --- Call the function to send the email using SendPulse API ---
-    print("Attempting to send email...")
-    send_html_email_sendpulse(
-        sender_email=SENDER_EMAIL,
-        sender_name=SENDER_NAME,
-        receiver_email=RECEIVER_EMAIL,
-        subject=EMAIL_SUBJECT,
-        html_content_file=HTML_FILE_PATH,
-        api_id=SENDPULSE_API_ID,
-        api_secret=SENDPULSE_API_SECRET
-    )
+# --- TEST CONFIGURATION (HARDCODED FOR LOCAL TEST) ---
+# !!! REPLACE THESE WITH YOUR ACTUAL CREDENTIALS AND EMAILS !!!
+TEST_SENDPULSE_API_ID = "81f8ec7f01e05acc67d897878e0959c3"
+TEST_SENDPULSE_API_SECRET = "04a26510e771af184fc0a388e313f530"
+TEST_SENDER_EMAIL = "karthick840@yahoo.in" # Must be verified in SendPulse!
+TEST_SENDER_NAME = "My Test Sender"
+TEST_RECEIVER_EMAIL = "karthick840@gmail.com" # Can be the same as sender for testing
+TEST_EMAIL_SUBJECT = "Local Test: Your Latest Product Offers"
+TEST_HTML_FILE_PATH = "generated_email.html" # Ensure this file exists relative to your script
 
+# --- Run the test ---
+print("Initiating local email test...")
+send_html_email_sendpulse(
+    sender_email=TEST_SENDER_EMAIL,
+    sender_name=TEST_SENDER_NAME,
+    receiver_email=TEST_RECEIVER_EMAIL,
+    subject=TEST_EMAIL_SUBJECT,
+    html_content_file=TEST_HTML_FILE_PATH,
+    api_id=TEST_SENDPULSE_API_ID,
+    api_secret=TEST_SENDPULSE_API_SECRET
+)
+print("Local email test finished attempt.")
