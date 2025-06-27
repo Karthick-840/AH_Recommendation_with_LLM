@@ -1,0 +1,158 @@
+[
+    {
+        "webshopId": 561719,
+        "hqId": 86395,
+        "title": "AH Ginger power verse gember appel citroen",
+        "salesUnitSize": "125 ml",
+        "unitPriceDescription": "normale prijs per liter €8.72",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393430?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393430?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393430?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393430?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "5 + 1 gratis",
+        "priceBeforeBonus": 1.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Fruit en groenteshots",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 719885,
+        "bonusSegmentDescription": "AH Groenteshots",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "5+1 gratis",
+                "count": 5,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 561718,
+        "hqId": 672539,
+        "title": "AH Ginger passion gember passievrucht",
+        "salesUnitSize": "125 ml",
+        "unitPriceDescription": "normale prijs per liter €8.72",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "5 + 1 gratis",
+        "priceBeforeBonus": 1.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Fruit en groenteshots",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 719885,
+        "bonusSegmentDescription": "AH Groenteshots",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "5+1 gratis",
+                "count": 5,
+                "freeCount": 1
+            }
+        ]
+    }
+]

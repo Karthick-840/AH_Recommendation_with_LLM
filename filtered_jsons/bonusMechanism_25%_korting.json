@@ -1,0 +1,1790 @@
+[
+    {
+        "webshopId": 129993,
+        "hqId": 590269,
+        "title": "AH Zoete kleine appeltjes",
+        "salesUnitSize": "1 kg",
+        "unitPriceDescription": "normale prijs per kg €3.19",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393238353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393238353636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393238353636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393238353636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393238353636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.39,
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Zakken",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal Gala zijn zoete kleine appeltjes: sappig en zoet van smaak. Een echte allemansvriend met een toegankelijke smaak met tonen van nectarine.</p><p><ul><li>Smaak: volzoet</li><li>Bereiden: de appel wassen en eventueel schillen</li><li>Bewaren: appels na aankoop bewaren in de koelkast</li><li>Geschikt voor: snack</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 723263,
+        "bonusSegmentDescription": "AH Zoete kleine appeltjes 1 kilo",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 462712,
+        "hqId": 715707,
+        "title": "AH Scharrel roasted kipfilet",
+        "salesUnitSize": "ca. 110 g",
+        "unitPriceDescription": "normale prijs per kg €30.85",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.54,
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Kipfilet en kalkoenfilet (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Roasted kip is een smaakvol product en tevens bijzonder mager (max 3% vet).</p><p><ul><li>Afgebakken in traditionele bakovens wat zorgt voor een mooie grillrand</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714233,
+        "bonusSegmentDescription": "Alle AH Roasted vleeswaren van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 548312,
+        "hqId": 670102,
+        "title": "AH Scharrel kipfilet minder vet",
+        "salesUnitSize": "125 g",
+        "unitPriceDescription": "normale prijs per kg €23.92",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935363238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935363238?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935363238?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935363238?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935363238?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.24,
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Kipfilet en kalkoenfilet (voorverpakt)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 718834,
+        "bonusSegmentDescription": "Alle AH Vlees of vleeswaren minder vet",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 20,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 440336,
+        "hqId": 73997,
+        "title": "AH Roasted ham",
+        "salesUnitSize": "ca. 110 g",
+        "unitPriceDescription": "normale prijs per kg €30.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.54,
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Ham (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze ham is langzaam gegaard en vervolgens geroosterd waardoor het vlees lekker mals blijft en tegelijk een mooi en knapperige grillgrand krijgt.</p><p><ul><li>Fijne structuur en perfecte malsheid</li><li>Heerlijk op een pistoletje</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714233,
+        "bonusSegmentDescription": "Alle AH Roasted vleeswaren van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 461862,
+        "hqId": 714665,
+        "title": "Alpro Barista haver",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.49",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.87,
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro barista haver past perfect in koffie van vrijwel elke boon, melange of manier van branden. Geef je lievelingskoffie een ware barista ervaring met de perfecte schuimlaag.</p><p><ul><li>Plantaardig met de zachte, subtiel zoete smaak van in europa geoogste haver</li><li>Speciaal ontwikkeld om op te schuimen, zowel warm als koud</li><li>Bron van vezels en vitamine b2, b12 en d</li><li>Van nature lactosevrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714239,
+        "bonusSegmentDescription": "Alle Alpro houdbare drinks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met deze drink kun je eindeloos in je koffie combineren. Schuim de melk op voor een lekkere plantaardige cappuccino, latte macchiato, koffie verkeerd of voeg toe aan je ijskoffie. Gezien onze haverdrank plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 28,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 188227,
+        "hqId": 789013,
+        "title": "Alpro Sojadrink original",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.49,
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Sojadrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro sojadrink original is een drink waar je altijd op kunt rekenen! Dankzij de milde smaak is deze plantaardige kanjer enorm veelzijdig en te gebruiken in al jouw favoriete gerechten.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Rijk aan plantaardige eiwitten en laag in suikers en verzadigd vet</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714239,
+        "bonusSegmentDescription": "Alle Alpro houdbare drinks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro sojadrank kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, in overnight oats/ smoothie of zo uit het glas. Gezien onze drink plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 28,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 474625,
+        "hqId": 727636,
+        "title": "Almhof Choco met echte slagroom original",
+        "salesUnitSize": "180 g",
+        "unitPriceDescription": "normale prijs per kg €8.83",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.19,
+        "priceBeforeBonus": 1.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Chocolademousse, pudding",
+        "brand": "Almhof",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Almhof choco met slagroom is een heerlijk romig chocolade dessert, gemaakt met echte Belgische chocolade en een toef echte slagroom bovenop.</p><p><ul><li>Met gesmolten Belgische chocolade</li><li>Met een toef echte slagroom</li><li>De volle romige smaak van almhof</li><li>Rainforest alliance gecertificeerde cacao</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714905,
+        "bonusSegmentDescription": "Alle Almhof 140-190 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Almhof koopt rainforest alliance gecertificeerde cacao. Zo dragen wij zorg voor mens en natuur. Dat maakt onze choco met slagroom nog lekkerder!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 80101,
+        "hqId": 779716,
+        "title": "Heineken Premium pilsener 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €3.36",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 4.99,
+        "priceBeforeBonus": 6.65,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Pils blik",
+        "brand": "Heineken",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heineken pilsener, het meest verfrissende pilsener sinds 1873. Dankzij de combinatie van een licht fruitige smaak die perfect in balans is met de bitterheid van de hop.</p><p><ul><li>Categorie: pilsener</li><li>Smaak: verfrissende smaak dankzij het unieke Heineken a-gist heineken</li><li>Alcoholpercentage: 5.0%</li><li>Blik (6x33cl: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld en 0.0"
+        ],
+        "bonusSegmentId": 714823,
+        "bonusSegmentDescription": "Alle Heineken, Amstel of Grolsch multipacks of kratten*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Al meer dan 150 jaar maakt een onverzettelijke toewijding aan puurheid en kwaliteit Heineken het meest iconische biermerk ter wereld. Als je de rode ster op dat groene flesje ziet, weet je al dat elke ijskoude slok je die heerlijke smaak met subtiele fruittonen brengt. Een traditie van smaak die al meer dan anderhalve eeuw voortleeft dankzij eenvoud en de kwaliteit van de ingredienten, en natuurlijk de zorgvuldige aandacht voor het brouwproces. Heineken is gebrouwen met 100% groene energie en is gekoeld op een tempratuur tussen de 2 - 5 graden het allerlekkerst.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 84,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 96577,
+        "hqId": 543391,
+        "title": "Hertog Jan Natuurzuiver bier 6-pack",
+        "salesUnitSize": "6 x 33 cl",
+        "unitPriceDescription": "normale prijs per liter €3.53",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 5.24,
+        "priceBeforeBonus": 6.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Pils blik",
+        "brand": "Hertog Jan",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier.</p><p><ul><li>Categorie: pils</li><li>Soort, smaak: vol, met een aangenaam bittere afdronk</li><li>Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland</li><li>Alcoholpercentage: 5.1%</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. 0.0 en gekoeld"
+        ],
+        "bonusSegmentId": 714243,
+        "bonusSegmentDescription": "Alle Hertog Jan, Jupiler of Brand multipacks of kratten*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Ons pilsener is het visitekaartje van Hertog Jan binnen de reeks bieren. Vanzelfsprekend selecteren we alle ingredienten die we voor het brouwen gebruiken met de allergrootste zorg. Alleen de rijkste mout, de mooiste hop en kristalhelder natuurzuiver water uit de eifel zijn goed genoeg voor ons bier. Dankzij deze ingredienten en natuurlijk de kunde van onze Brouwers krijgt het bier die prachtige gouden kleur en vormt het een mooie, volle schuimkraag. Ons pils is een bier om trots op te zijn.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 52,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 187533,
+        "hqId": 597746,
+        "title": "Almhof Volle kwark spaanse sinaasappel",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €5.98",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303038383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303038383136?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303038383136?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303038383136?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303038383136?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.24,
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Kwark met smaak",
+        "brand": "Almhof",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Almhof volle kwark spaanse sinaasappel is heerlijk romig en zacht van smaak, verrijkt met de lekkerste sinaasappels uit Spanje. Kwark om met volle teugen van te genieten. Dat is 100% puur genieten!</p><p><ul><li>Heerlijk romig en zacht van smaak</li><li>Het lekkerste fruit en de beste ingredienten</li><li>100% puur, geen kunstmatige kleur- en smaakstoffen</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714905,
+        "bonusSegmentDescription": "Alle Almhof 140-190 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 63581,
+        "hqId": 780500,
+        "title": "Heineken Premium pilsener 24-pack",
+        "salesUnitSize": "24 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €2.84",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 16.87,
+        "priceBeforeBonus": 22.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Pils blik",
+        "brand": "Heineken",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heineken pilsener, het meest verfrissende pilsener sinds 1873. Dankzij de combinatie van een licht fruitige smaak die perfect in balans is met de bitterheid van de hop.</p><p><ul><li>Categorie: pilsener</li><li>Smaak: verfrissende smaak dankzij het unieke Heineken a-gist heineken</li><li>Alcoholpercentage: 5.0%</li><li>Blik (24x33cl: tray)</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld en 0.0"
+        ],
+        "bonusSegmentId": 714823,
+        "bonusSegmentDescription": "Alle Heineken, Amstel of Grolsch multipacks of kratten*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Gebrouwen met 100% groene energie.gekoeld tussen de 2 - 5 graden het allerlekkerst.al meer dan 150 jaar maakt een onverzettelijke toewijding aan puurheid en kwaliteit Heineken het meest iconische biermerk ter wereld. Als je de rode ster op dat groene flesje ziet, weet je al dat elke ijskoude slok je die heerlijke smaak met subtiele fruittonen brengt. Een traditie van smaak die al meer dan anderhalve eeuw voortleeft dankzij eenvoud en de kwaliteit van de ingredienten, en natuurlijk de zorgvuldige aandacht voor het brouwproces.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 84,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 419916,
+        "hqId": 691591,
+        "title": "AH Excellent Prosciutto di parma",
+        "salesUnitSize": "80 g",
+        "unitPriceDescription": "normale prijs per kg €49.88",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331383930?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331383930?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331383930?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331383930?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.99,
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Spaanse en Italiaanse vleeswaren (versafdeling)",
+        "brand": "AH Excellent",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De perfecte condities in het gebied rondom Parma maken van deze ham een echt kwaliteitsproduct. Proef een subtiele combinatie van zoet en nootachtig.</p><p><ul><li>Geproduceerd in het gebied Parma</li><li>Tip! Omwikkel stukjes meloen met een plakje Parmaham</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714901,
+        "bonusSegmentDescription": "Alle AH Excellent vleeswaren 65-230 gram of droge worst",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 43,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 114698,
+        "hqId": 535295,
+        "title": "Alpro Sojadrink zonder suikers",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.49,
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Sojadrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro sojadrink zonder suikers is de basis voor jouw favoriete gerechtjes. Lekker in ontbijtgranen, overnight oats, smoothies, pannenkoeken of gewoon uit een glas!</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Zonder suikers, rijk aan plantaardige eiwitten en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714239,
+        "bonusSegmentDescription": "Alle Alpro houdbare drinks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro sojadrank kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, in overnight oats/ smoothie of zo uit het glas. Gezien onze drink plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 28,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 170059,
+        "hqId": 638267,
+        "title": "AH Stroopwafels",
+        "salesUnitSize": "8 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313232393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313232393835?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313232393835?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313232393835?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313232393835?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.02,
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bakkerij",
+        "subCategory": "Verse koeken",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze roomboter wafels gevuld met roomboterstroop zijn heerlijk bij de koffie of thee! Of op ieder moment van de dag.</p><p><ul><li>Bereid met 25% roomboter</li><li>Met roomboter stroopvulling</li><li>De lekkerste stroopwafels (Consumentengids februari 2015)</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714195,
+        "bonusSegmentDescription": "Alle AH Koeken van de bakkerij",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>De oorspronkelijke naam van de stroopwafel is eigenlijk: siroopwafel. Stroopwafels werden oorspronkelijk gemaakt van oude koeksnippers, deegresten en stroop en waren daardoor erg goedkoop.</p>\n  <p>Traditionele Hollandse koek, rijk gevuld met zachte stroop. De wafels zijn bereid met roomboter. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 30,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 570848,
+        "hqId": 11083,
+        "title": "Alpro Barista kokos",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €3.59",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.02,
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Kokosdrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro barista kokosnoot past perfect in koffie van vrijwel elke boon, melange of manier van branden. Geef je lievelingskoffie een ware barista ervaring met de perfecte schuimlaag.</p><p><ul><li>Plantaardig met een tropische smaak van duurzaam geteelde kokosnoten</li><li>Speciaal ontwikkeld om op te schuimen, zowel warm als koud</li><li>Rijk aan plantaardige eiwitten, laag in vet en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714239,
+        "bonusSegmentDescription": "Alle Alpro houdbare drinks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met deze drink kun je eindeloos in je koffie combineren. Schuim de drink op voor een lekkere plantaardige cappuccino, latte macchiato, koffie verkeerd of voeg toe aan je ijskoffie. Gezien onze kokosdrank plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 28,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 493045,
+        "hqId": 748490,
+        "title": "AH Roasted gehakt",
+        "salesUnitSize": "ca. 115 g",
+        "unitPriceDescription": "normale prijs per kg €25.15",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393437353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393437353737?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393437353737?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393437353737?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393437353737?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.17,
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Gegrild en gebraden gehakt (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>AH gegrild gehakt is kant en klaar om een stevige boterham mee te beleggen. Gekookt en vervolgens gegrild en dat proef je terug in de karakteristieke smaak.</p><p><ul><li>Rulle structuur en de verfijnde smaak van gehaktkruiden</li><li>Varken Beter Leven keurmerk 1 ster</li><li>Lekker op een pistoletje met roomkaas en komkommer</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714233,
+        "bonusSegmentDescription": "Alle AH Roasted vleeswaren van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 474626,
+        "hqId": 727685,
+        "title": "Almhof Choco met echte slagroom wit-vanille",
+        "salesUnitSize": "180 g",
+        "unitPriceDescription": "normale prijs per kg €8.83",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.19,
+        "priceBeforeBonus": 1.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Chocolademousse, pudding",
+        "brand": "Almhof",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Almhof choco met slagroom is een heerlijk romig chocolade dessert, gemaakt met echte Belgische chocolade en een toef echte slagroom bovenop.</p><p><ul><li>Met Belgische witte chocolade</li><li>Met een toef echte slagroom</li><li>De volle romige smaak van almhof</li><li>Rainforest alliance gecertificeerde cacao</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714905,
+        "bonusSegmentDescription": "Alle Almhof 140-190 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Almhof koopt rainforest alliance gecertificeerde cacao. Zo dragen wij zorg voor mens en natuur. Dat maakt onze choco met slagroom nog lekkerder!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 386562,
+        "hqId": 844100,
+        "title": "Desperados Original beer 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €5.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 7.49,
+        "priceBeforeBonus": 9.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Mexicaans bier",
+        "brand": "Desperados",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Met Desperados maak je van ieder moment een partymoment! Ideaal voor ieder proostmoment thuis met vrienden of familie, maar ook voor een next level party in de club of op een festival! Go desperados!</p><p><ul><li>Let op: je favoriete bier nu met statiegeld, wel even terugbrengen he</li><li>Categorie: bier</li><li>Smaak: het zoete van agave spirit gecombineerd met het bittere van bier</li><li>Alcoholpercentage: 5.9%</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714801,
+        "bonusSegmentDescription": "Alle Desperados multipacks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Go desperados! Desperados is bier met een kick van latin spirits! Het werd geboren uit een experiment in Frankrijk in 1995: daar herschreven we de regels door bier te brouwen met agave spirit.het resultaat? een unieke smaaksensatie doordat het de bitterheid van bier en het zoete van agave spirit combineert. Het is bier van topkwaliteit dat lekker doordrinkbaar is.met dit ultieme partybier haal je met je vrienden het feest in huis en voeg je aan ieder proostmoment energie en party vibes toe.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 27,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 192858,
+        "hqId": 780695,
+        "title": "AH Speklapjes a la minute met kruiden",
+        "salesUnitSize": "362 g",
+        "unitPriceDescription": "normale prijs per kg €13.81",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313938333136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313938333136?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313938333136?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313938333136?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313938333136?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 3.75,
+        "priceBeforeBonus": 5.0,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Speklappen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ouderwets lekkere speklapjes, alleen nog even kruiden naar smaak en in de pan. Met 1 ster van het beter leven keurmerk. Marineer eens met honing en mosterd, een heerlijke combinatie met witlof.</p><p><ul><li>Varkensvlees van varkens van Nederlandse boeren</li><li>Bereiding: koekenpan, ongeveer 4 minuten</li><li>Ook geschikt voor BBQ en grill</li><li>Weetje: extra dun gesneden, dus snel klaar</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 718846,
+        "bonusSegmentDescription": "Alle AH Spek- of filetlapjes à la minute",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Varkensvlees met het 1 ster beter leven keurmerk heeft naast de ah-kwaliteit nog iets extras: het staat borg voor een beter leven voor het dier. De boer moet zijn best doen om deze ster te verdienen: hij geeft de varkens onder andere meer ruimte en beter afleidingsmateriaal tegen verveling en biggen worden niet gecastreerd. Letterlijk dus: een beter leven en minder stress. Het 1 ster beter leven keurmerk wordt toegekend door de dierenbescherming. </p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 5,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 562279,
+        "hqId": 174,
+        "title": "AH Excellent Spianata romana",
+        "salesUnitSize": "100 g",
+        "unitPriceDescription": "normale prijs per kg €29.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.24,
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Spaanse en Italiaanse vleeswaren (versafdeling)",
+        "brand": "AH Excellent",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714901,
+        "bonusSegmentDescription": "Alle AH Excellent vleeswaren 65-230 gram of droge worst",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 43,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 548311,
+        "hqId": 59004,
+        "title": "AH Kalkoenfilet minder vet",
+        "salesUnitSize": "125 g",
+        "unitPriceDescription": "normale prijs per kg €23.92",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363439?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363439?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363439?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363439?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.24,
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Kipfilet en kalkoenfilet (voorverpakt)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 718834,
+        "bonusSegmentDescription": "Alle AH Vlees of vleeswaren minder vet",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 20,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 548572,
+        "hqId": 60388,
+        "title": "Texels Skuumkoppe speciaalbier 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €5.22",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 7.04,
+        "priceBeforeBonus": 9.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Wit en weizen",
+        "brand": "Texels",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Texels skuumkoppe is een bovengistend donker tarwebier, gebrouwen van natuurlijke ingredienten, dat bij ieder seizoen past. Een bier puur, robuust en recht door zee, net als texel zelf.</p><p><ul><li>Categorie: tarwebier</li><li>Smaak: volle en romige smaak, met hints van karamel en abrikoos</li><li>Alcoholpercentage: 6.0%</li><li>Fles (6x300ml: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714814,
+        "bonusSegmentDescription": "Alle Affligem of Texels multipacks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Onder de waddenlucht, midden tussen de uitgestrekte groene weiden aan de rand van natuurgebied de hoge berg staat de voormalige zuivelfabriek van oudeschild. Waar vroeger kaas werd gemaakt, glanzen nu de koperen brouwketels. Het hart van een brouwerij waar bijzonder Texels bier zijn oorsprong vindt.de texelse bierbrouwerij brouwt unieke speciaalbieren van uitsluitend natuurlijke grondstoffen. Dat echte, dat authentieke, dat maakt dat mensen zeggen: ja, dit is texels. overheerlijke speciaalbieren, geroemd om hun volle, romige smaak en geprezen om hun zacht frisse afdronk. Speciaalbier zo puur als het eiland zelf! brouwerij: de texelse bierbrouwerij",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 34,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 384052,
+        "hqId": 843121,
+        "title": "Almhof Hoekje choco balls naturel yoghurt",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €9.93",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303239383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303239383830?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303239383830?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303239383830?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303239383830?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.12,
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Luxe toetjes",
+        "brand": "Almhof",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Almhof hoekje choco balls, daar is iedereen toch dol op! Een heerlijke combinatie van de romigste yoghurt en de knapperigste choco balls. Mix op jouw Manier!</p><p><ul><li>Voor de echte chocoladeliefhebbers</li><li>Knapperige choco balletjes gecombineerd met romige naturel yoghurt</li><li>Lekker om zelf te mixen</li><li>In portieverpakking dus een ultiem verwenmomentje voor jezelf</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714905,
+        "bonusSegmentDescription": "Alle Almhof 140-190 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Almhof hoekje is bereid met heerlijke romige melk en verkrijgbaar in verrassende smaken. Waar ga jij voor? een lekkere crunch met choco balls en choco cookie of fruitig genieten met kers en aardbei? of toch onze wereld editie venetie? maar waarom kiezen als je ze ook allemaal kan proberen! Het maakt niet uit hoe je je hoekje eet. Of je nou eerst de chocoladeballetjes eruit eet of alles door elkaar mixt, Almhof hoekje eet je zoals jij wilt!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "webshopId": 573407,
+        "hqId": 0,
+        "title": "Coca-Cola Original taste 4-pack",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539363031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539363031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539363031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539363031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "13.5% pakketkorting",
+        "currentPrice": 9.65,
+        "priceBeforeBonus": 11.16,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Cola regular",
+        "brand": "Coca-Cola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Coca-Cola is de meest favoriete frisdrank van de wereld. De 4x1,5L PET is de ideale verpakking voor feestjes en gezellige momenten aan tafel. Bewaar Coca-Cola op een droge schone plaats uit de zon. Coca-Cola smaakt ijskoud het lekkerst.</p><p><ul><li>Coca-Cola Original taste 4x</li><li>frisdrank met plantenextracten</li><li>natuurlijke aroma's</li><li>geen toevoegde conserveermiddelen</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 2800,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_MIXED",
+                "defaultDescription": "13.5% pakketkorting",
+                "percentage": 13,
+                "precisePercentage": 13.5
+            }
+        ]
+    }
+]

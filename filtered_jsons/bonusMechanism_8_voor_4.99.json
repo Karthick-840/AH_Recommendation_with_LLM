@@ -1,0 +1,236 @@
+[
+    {
+        "webshopId": 589015,
+        "hqId": 34574,
+        "title": "Fanta Tutti frutti zero sugar limited edition",
+        "salesUnitSize": "250 ml",
+        "unitPriceDescription": "normale prijs per liter €3.16",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323039?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323039?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323039?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323039?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "8 voor 4.99",
+        "priceBeforeBonus": 0.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Sinas",
+        "brand": "Fanta",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Fanta Tutti frutti: verfrissende en zoete bruisende frisdrank met een heerlijke mix van fruitsmaken. Kleurrijke, heerlijke en speelse frisdrank.</p><p><ul><li>Bruisende frisdrank met fruitsmaak, zonder suiker</li><li>Heerlijke fruitige traktatie met verfrissende en geweldige smaak</li><li>Levendige kleuren en natuurlijke smaken: perfect als tussendoortje</li><li>Koolzuurhoudende drank met heerlijke smaak</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714921,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 22,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "8 voor 4.99",
+                "count": 8,
+                "price": 4.99
+            }
+        ]
+    },
+    {
+        "webshopId": 589016,
+        "hqId": 34573,
+        "title": "Coca-Cola Lime zero sugar",
+        "salesUnitSize": "250 ml",
+        "unitPriceDescription": "normale prijs per liter €3.16",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323230?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323230?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323230?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434323230?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "8 voor 4.99",
+        "priceBeforeBonus": 0.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Cola zero, suikervrij, light",
+        "brand": "Coca-Cola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Coca-cola zero sugar lime is een verfrissend zachte combinatie van de legendarische coke bruisende frisdrank met een pittige limesmaak, absoluut suikervrij.</p><p><ul><li>Geweldige Coca-Cola smaak zonder suiker en nul calorieen</li><li>Gewoon een heerlijke, sensationele Coca-Cola lime smaak</li><li>Coca-cola smaak, brengt vreugde aan generaties van frisdrankliefhebbers</li><li>Legendarisch frisdrankmerk met een geweldige limoen smaak</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714921,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 22,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "8 voor 4.99",
+                "count": 8,
+                "price": 4.99
+            }
+        ]
+    },
+    {
+        "webshopId": 476706,
+        "hqId": 729903,
+        "title": "Coca-Cola Zero sugar",
+        "salesUnitSize": "250 ml",
+        "unitPriceDescription": "normale prijs per liter €3.16",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736323838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736323838?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736323838?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736323838?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736323838?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "8 voor 4.99",
+        "priceBeforeBonus": 0.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Cola zero, suikervrij, light",
+        "brand": "Coca-Cola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Coca-cola zero sugar heeft de originele smaak van Coca-Cola maar dan zonder suiker. Het 250ml blik is een handige verpakking om onderweg van een verfrissende cola te genieten.</p><p><ul><li>Frisdrank met plantenextracten, met zoetstoffen</li><li>Zonder suiker</li><li>Geen toegevoegde conserveermiddelen</li><li>Bevat een bron van fenylalanine</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714921,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 22,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "8 voor 4.99",
+                "count": 8,
+                "price": 4.99
+            }
+        ]
+    }
+]

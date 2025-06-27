@@ -1,0 +1,78 @@
+[
+    {
+        "webshopId": 370447,
+        "hqId": 835448,
+        "title": "AH Filet americain",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €21.27",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 2.69",
+        "currentPrice": 2.69,
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Filet americain (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Smeu&#x00EF;ge filet americain van mals rundvlees. Heerlijk als broodbeleg op een meergranen pistoletje, maar ook lekker bij de borrel op stokbrood of toast.</p><p><ul><li>Zacht, kruidig en romig van smaak</li><li>Gouden match met o.a. Worcestersaus, mosterd, paprika, nootmuskaat en kruidnagel</li><li>Tip: smeer een wrap in met filet americain, voeg wat rucola toe en rol de wrap op. Snij deze daarna in stukjes, prikkertje erin en je hebt een leuk borrelhapje.</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714917,
+        "bonusSegmentDescription": "AH Filet americain naturel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 2.69",
+                "price": 2.69
+            }
+        ]
+    }
+]

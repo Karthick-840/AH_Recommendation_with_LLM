@@ -1,0 +1,1617 @@
+[
+    {
+        "webshopId": 130191,
+        "hqId": 590209,
+        "title": "AH Gerookte zalm",
+        "salesUnitSize": "100 g",
+        "unitPriceDescription": "normale prijs per kg €45.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 euro korting",
+        "currentPrice": 3.59,
+        "priceBeforeBonus": 4.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze smakelijk gerookte zalmfilet is lekker op de boterham met verse dille en ideaal voor fijne hapjes, op toastjes of blini's met wat zure room.</p><p><ul><li>Ideaal als lunch- of voorgerecht</li><li>Heerlijk bij of door een frisse salade</li><li>Rol eens gerookte zalm in croissantdeeg voor een heerlijk warm broodje!</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714281,
+        "bonusSegmentDescription": "Alle AH Gerookte zalm 100-200 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 14,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_AMOUNT",
+                "defaultDescription": "€1.00 euro korting",
+                "amount": 1.0
+            }
+        ]
+    },
+    {
+        "webshopId": 567333,
+        "hqId": 0,
+        "title": "AH Gerookte zalmfilet 3-pack",
+        "salesUnitSize": "3-pack",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130373737?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130373737?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130373737?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130373737?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 10.77,
+        "priceBeforeBonus": 13.77,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>AH Gerookte zalmfilet 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 130191,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 496941,
+        "hqId": 795495,
+        "title": "Princes Tonijnstukken in water",
+        "salesUnitSize": "145 g",
+        "unitPriceDescription": "prijs per kg €25.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837313237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837313237?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837313237?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837313237?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837313237?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Tonijn in water",
+        "brand": "Princes",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Msc tonijnstukken in water: de ideale basis voor jouw warme en koude gerechten. Snel, gemakkelijk en rijk aan eiwitten.</p><p><ul><li>Heerlijke tonijn in water</li><li>Direct genieten uit blik of verwerkt in koude  en  warme gerechten</li><li>Duurzaam gevangen - msc gecertificeerd</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "De lekkerste visgerechten in een handomdraai op tafel! Creeer uiteenlopende visgerechten van over de hele wereld, gewoon gezellig thuis met onze heerlijke tonijn, zalm, makreel, ansjovis, haring of sardines. Hoe verruim jij je blik vanavond? voor inspirerende recepten, kijk hier: www.princes.eu",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 596834,
+        "hqId": 0,
+        "title": "Princes tonijnstukken in water 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313330?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313330?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313330?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313330?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 5.18,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Tonijn in water",
+        "brand": "Princes",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Profiteer nu van extra korting bij aankoop van 2 stuks Princes Tonijnstukken Msc in water. Ideale basis voor warme en koude gerechten, om snel en gemakkelijk een maaltijd te bereiden en ook nog eens rijk aan eiwitten.</p><p><ul><li>Princes Tonijnstukken in water 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 496941,
+                "quantity": 2
+            }
+        ],
+        "labelType": "NO_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakket"
+            }
+        ]
+    },
+    {
+        "webshopId": 420789,
+        "hqId": 692454,
+        "title": "Statesman Tonijn stukken in water",
+        "salesUnitSize": "160 g",
+        "unitPriceDescription": "prijs per kg €12.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383432393231?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383432393231?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383432393231?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383432393231?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383432393231?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.35,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Tonijn in water",
+        "brand": "Statesman",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Tonijnstukken in water: de basis voor jouw gerechten. Rijk aan eiwitten.</p><p><ul><li>Lekker in warme en koude gerechten</li><li>Rijk aan eiwitten</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Het Statesman assortiment behoort niet voor niets tot de best verkochte visconserven in Nederland! Vele consumenten genieten van onze producten. Van een heerlijke tuna melt sandwich tot een frisse pastasalade met makreel: met Statesman bereid je de lekkerste gerechten. Smakelijk eten hoeft niet duur te zijn!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 121453,
+        "hqId": 552022,
+        "title": "AH Zalmfilet",
+        "salesUnitSize": "ca. 170 g",
+        "unitPriceDescription": "prijs per kg €35.24",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303038?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303038?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303038?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303038?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Zalm (vers)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De zalm wordt gekweekt in Noorwegen en is ASC-gecertificeerd. De keten is gesloten en daardoor transparant, we weten precies wat voor leven de zalm heeft gehad en waar de zalm vandaan komt.</p><p><ul><li>Van nature rijk aan omega-3-vetzuren, eiwitten en vitamine D</li><li>1 portie zalm van 140 g bevat voldoende omega-3-vetzuren om te voorzien in de behoefte voor een hele week!</li><li>Vers en onbewerkt</li><li>Zalmfilet is makkelijk te bereiden, in een pasta, salade of met wat groente</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 467462,
+        "hqId": 718960,
+        "title": "AH Vissticks",
+        "salesUnitSize": "450 g",
+        "unitPriceDescription": "prijs per kg €5.44",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836303531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836303531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836303531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836303531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836303531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.45,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Vissticks (diepvries)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Vers ingevroren voor de beste kwaliteit</p><p><ul><li>Krokant korstje</li><li>15 stuks</li><li>MSC-logo</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 470617,
+        "hqId": 721966,
+        "title": "AH Gerookte zalm",
+        "salesUnitSize": "200 g",
+        "unitPriceDescription": "normale prijs per kg €39.95",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 euro korting",
+        "currentPrice": 6.99,
+        "priceBeforeBonus": 7.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Gerookte noorse zalm 200g.</p><p><ul><li>Gerookt op een mix van eiken- en beukenhout</li><li>Te gebruiken voor bijna alle eetmomenten</li><li>Gekweekt in de koude wateren in fjorden van noorwegen. Asc gecertificeerd</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714281,
+        "bonusSegmentDescription": "Alle AH Gerookte zalm 100-200 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 14,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_AMOUNT",
+                "defaultDescription": "€1.00 euro korting",
+                "amount": 1.0
+            }
+        ]
+    },
+    {
+        "webshopId": 178129,
+        "hqId": 613642,
+        "title": "AH Wilde zalmfilet",
+        "salesUnitSize": "250 g",
+        "unitPriceDescription": "prijs per kg €11.96",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836373836?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836373836?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836373836?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836373836?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Zalm (diepvries)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Vers ingevroren voor de beste kwaliteit</p><p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "diepvries"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 445351,
+        "hqId": 95825,
+        "title": "AH Excellent Warm gerookte forelsalade",
+        "salesUnitSize": "125 g",
+        "unitPriceDescription": "normale prijs per kg €27.12",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Vissalades (beleg)",
+        "brand": "AH Excellent",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Luxe salade van warm gerookte forel, witvis en foreleitjes. Met recht het neusje van de zalm! Heerlijk op een luxe broodje of op een toastje bij de borrel met een mooi glas wijn.</p><p><ul><li>Gegarneerd met foreleitjes</li><li>Salade met 24% asc gerookte forel en 22% msc witvis</li><li>Rijkelijk gevuld</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714897,
+        "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 211718,
+        "hqId": 804944,
+        "title": "Johma Tonijnsalade",
+        "salesUnitSize": "175 g",
+        "unitPriceDescription": "prijs per kg €18.57",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323034393734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323034393734?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323034393734?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323034393734?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323034393734?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.25,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Vissalades (beleg)",
+        "brand": "Johma",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een goed gevulde tonijnsalade. Lekker bij lunch op een boterham of tijdens de borrel op een toastje!</p><p><ul><li>Met msc-gecertificeerde tonijn</li><li>Rijkgevulde tonijnsalade in een romige dressing</li><li>Lekker varieren</li><li>Voor op de boterham of op een toastje</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Johma tonijnsalade is een echte klassieker. deze tonijnsalade is rijk gevuld met fijne stukjes msc tonijn, gemengd met een romige dressing. Perfect voor op brood, toastjes of bijvoorbeeld op een wrap. De smaak is vertrouwd en lekker, precies zoals je dat van Johma mag verwachten. Gewoon een lekkere salade voor elk moment van de dag.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 496943,
+        "hqId": 795580,
+        "title": "Princes Tonijnstukken in olijfolie",
+        "salesUnitSize": "145 g",
+        "unitPriceDescription": "prijs per kg €30.29",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339393535?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339393535?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339393535?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339393535?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Tonijn in olijfolie",
+        "brand": "Princes",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Msc tonijnstukken in olijfolie: de ideale basis voor jouw warme en koude gerechten. Snel, gemakkelijk en rijk aan eiwitten.</p><p><ul><li>Heerlijke tonijn in olijfolie</li><li>Direct genieten uit blik of verwerkt in koude  en  warme gerechten</li><li>Duurzaam gevangen - msc gecertificeerd</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "De lekkerste visgerechten in een handomdraai op tafel! Creeer uiteenlopende visgerechten van over de hele wereld, gewoon gezellig thuis met onze heerlijke tonijn, zalm, makreel, ansjovis, haring of sardines. Hoe verruim jij je blik vanavond? voor inspirerende recepten, kijk hier: www.princes.eu",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 47285,
+        "hqId": 527800,
+        "title": "Olav's Gerookte zalmfilet",
+        "salesUnitSize": "200 g",
+        "unitPriceDescription": "prijs per kg €32.45",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 6.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "Olav's",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Zalm gekweekt in Noorwegen.</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 496942,
+        "hqId": 795505,
+        "title": "Princes Tonijnstukken in zonnebloemolie",
+        "salesUnitSize": "145 g",
+        "unitPriceDescription": "prijs per kg €26.37",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835393937?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835393937?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835393937?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835393937?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Tonijn in zonnebloemolie",
+        "brand": "Princes",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Msc tonijnstukken in zonnebloemolie: de ideale basis voor jouw warme en koude gerechten. Snel, gemakkelijk en rijk aan eiwitten.</p><p><ul><li>Heerlijke tonijn in zonnebloemolie</li><li>Direct genieten uit blik of verwerkt in koude  en  warme gerechten</li><li>Duurzaam gevangen - msc gecertificeerd</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "De lekkerste visgerechten in een handomdraai op tafel! Creeer uiteenlopende visgerechten van over de hele wereld, gewoon gezellig thuis met onze heerlijke tonijn, zalm, makreel, ansjovis, haring of sardines. Hoe verruim jij je blik vanavond? voor inspirerende recepten, kijk hier: www.princes.eu",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 596925,
+        "hqId": 0,
+        "title": "Princes tonijnstukkem zonnebloemolie 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 4.57,
+        "priceBeforeBonus": 5.38,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Tonijn in zonnebloemolie",
+        "brand": "Princes",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Profiteer nu van extra korting bij aankoop van 2 stuks Princes Tonijnstukken Msc in zonnebloemolie. Ideale basis voor warme en koude gerechten, om snel en gemakkelijk een maaltijd te bereiden en ook nog eens rijk aan eiwitten.</p><p><ul><li>Princes Tonijnstukken in zonnebloemolie 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 496942,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 226264,
+        "hqId": 820213,
+        "title": "John West Tonijnstukken in water",
+        "salesUnitSize": "145 g",
+        "unitPriceDescription": "prijs per kg €27.35",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933313234?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933313234?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933313234?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933313234?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Tonijn in water",
+        "brand": "John West",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>John West Tonijnstukken in water zijn mals en sappig!</p><p><ul><li>Wild gevangen Skipjack Tonijn</li><li>Op basis van water dus mager</li><li>Rijk aan eiwitten</li><li>De basis voor vele recepten</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p> Met de John West Tonijnstukken maak je de lekkerste recepten in een handomdraai. Lekker, makkelijk en gezond!  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 51335,
+        "hqId": 99631,
+        "title": "AH Zalmfilet",
+        "salesUnitSize": "ca. 310 g",
+        "unitPriceDescription": "prijs per kg €31.26",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303138?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303138?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303138?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303138?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 9.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Zalm (vers)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De zalm wordt gekweekt in Noorwegen en is ASC-gecertificeerd. De keten is gesloten en daardoor transparant, we weten precies wat voor leven de zalm heeft gehad en waar de zalm vandaan komt.</p><p><ul><li>Van nature rijk aan omega-3-vetzuren, eiwitten en vitamine D</li><li>1 portie zalm van 140 g bevat voldoende omega-3-vetzuren om te voorzien in de behoefte voor een hele week!</li><li>Vers en onbewerkt</li><li>Zalmfilet is makkelijk te bereiden, in een pasta, salade of met wat groente</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 211064,
+        "hqId": 807063,
+        "title": "AH Biologisch Gerookte zalm",
+        "salesUnitSize": "100 g",
+        "unitPriceDescription": "normale prijs per kg €49.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 euro korting",
+        "currentPrice": 3.99,
+        "priceBeforeBonus": 4.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "AH Biologisch",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Gerookt</li></ul></p>",
+        "propertyIcons": [
+            "biologisch"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714281,
+        "bonusSegmentDescription": "Alle AH Gerookte zalm 100-200 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Neem het ervan en geniet van het lekkerste dat de natuur te bieden heeft. Van onze biologische producten kun je met een goed gevoel genieten dankzij de aandacht en inspanning van de boeren en producenten die ze voor ons maken. Natuurlijk worden al onze biologische producten onafhankelijk gecontroleerd en daarom verdienen ze het Europese keurmerk. Biologisch van Albert Heijn: dat smaak naar meer!  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 14,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_AMOUNT",
+                "defaultDescription": "€1.00 euro korting",
+                "amount": 1.0
+            }
+        ]
+    },
+    {
+        "webshopId": 197614,
+        "hqId": 787039,
+        "title": "Johma Zalm salade",
+        "salesUnitSize": "175 g",
+        "unitPriceDescription": "prijs per kg €22.23",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393232373632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393232373632?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393232373632?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393232373632?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393232373632?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Vissalades (beleg)",
+        "brand": "Johma",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een lekker zalmsalade rijk gevuld met gekookte zalm en ei. Lekker bij lunch en borrel.</p><p><ul><li>Met msc-gecertificeerde zalm</li><li>Romige en smeuig</li><li>Lekker op de boterham, broodje of toastje</li><li>Makkelijk smeerbaar</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Johma zalmsalade is een lekker romige salade. De salade is rijkgevuld met gekookte asc zalm en stukjes ei. Deze luxe salade is lekker voor op een boterham of cracker tijdens de lunch of op een stokbroodje tijdens de borrel. Zet in een handomdraai iets lekker op tafel. over johma, Johma is de bekendste en grootste saladebereider van Nederland en Kent een ruime geschiedenis. al sinds 1968 komen de lekkerste salades uit de keukens van johma. Bij het maken van haar salades heeft Johma steeds maar een doel voor ogen: Johma moet gewoon de allerlekkerste zijn!johma maakt salades die lekker zijn op de boterham, stokbroodje, broodje of op een toastje. Zoals bijvoorbeeld de tonijnalade of de kip-kerriesalade. Lekker en makkelijk, als ontbijt, lunch of voor bij de borrel. Maar daarnaast heeft Johma ook aardappelsalades en rauwkost salades.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 481414,
+        "hqId": 735995,
+        "title": "AH Gerookte zalm",
+        "salesUnitSize": "50 g",
+        "unitPriceDescription": "prijs per kg €51.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383034?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383034?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383034?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383034?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze zalmfilet wordt gerookt op beukenhout en dat proef je terug in de karakteristieke smaak. Deze portie is uiterst geschikt voor een salade, op brood, op toast of op een pizza.</p><p><ul><li>Met 50 gram in een verpakking, een ideale portiepack</li><li>Deze zalm wordt gekweekt in de koude wateren van de noorse fjorden</li><li>Gerookt op beukenhout</li><li>Vacuum verpakt</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Dit product komt uit een onafhankelijk gecertificeerde asc kwekerij.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 568726,
+        "hqId": 0,
+        "title": "AH Gerookte zalmfilet 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343732?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343732?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343732?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343732?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 4.92,
+        "priceBeforeBonus": 5.18,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>AH Gerookte zalmfilet 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 481414,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 217317,
+        "hqId": 807614,
+        "title": "AH Tonijnsalade",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €17.27",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383339?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383339?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383339?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383339?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Vissalades (beleg)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Romige tonijnsalade met frisse stukjes augurk en een dille kruiding</p><p><ul><li>Smaak: Frisromig</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714897,
+        "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Tip: Heerlijk op de boterham bij de lunch of op een toastje bij de borrel met een mooi glas wijn.  </p>\n  <p>Ahaatje: Probeer eens een borrelhapje van uitgeholde komkommer met tonijnsalade en verse dille. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 571233,
+        "hqId": 12559,
+        "title": "AH Pangasiusfilet",
+        "salesUnitSize": "ca. 350 g",
+        "unitPriceDescription": "normale prijs per kg €13.40",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393833?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393833?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393833?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393833?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% KORTING",
+        "currentPrice": 3.52,
+        "priceBeforeBonus": 4.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Pangasius (vers)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716006,
+        "bonusSegmentDescription": "Alle AH Verse pangasiusfilet",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 558179,
+        "hqId": 62089,
+        "title": "AH Kabeljauwhaasje 2 stuks",
+        "salesUnitSize": "ca. 260 g",
+        "unitPriceDescription": "prijs per kg €30.73",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393236?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393236?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393236?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639393236?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 7.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Kabeljauw (vers)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 799,
+        "hqId": 42373,
+        "title": "AH Lekkerbekjes",
+        "salesUnitSize": "3 x 100 g",
+        "unitPriceDescription": "prijs per kg €9.97",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131343538?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131343538?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131343538?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131343538?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Vis cuisine (diepvries)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Vers ingevroren voor de beste kwaliteit</p><p><ul><li>Krokant korstje en graatvrij</li><li>3 stuks</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "webshopId": 588228,
+        "hqId": 0,
+        "title": "Witte Reus Blauw Actief 5-pack",
+        "salesUnitSize": "5 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313530303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313530303835?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313530303835?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313530303835?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313530303835?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "40% volume voordeel",
+        "currentPrice": 12.87,
+        "priceBeforeBonus": 21.45,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Toiletblokken",
+        "brand": "Witte Reus",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Witte Reus Blauw Actief Voordeelpakket</p><p><ul><li>Witte Reus Toiletblok blauw actief hygiene 5x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 474379,
+                "quantity": 5
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "40% volume voordeel",
+                "percentage": 40,
+                "precisePercentage": 40
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "webshopId": 168718,
+        "hqId": 751928,
+        "title": "Verkade Nizza kokos",
+        "salesUnitSize": "240 g",
+        "unitPriceDescription": "normale prijs per kg €7.71",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334363636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334363636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334363636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334363636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334363636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 1.49",
+        "currentPrice": 1.49,
+        "priceBeforeBonus": 1.85,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Koek, snoep, chocolade",
+        "subCategory": "Theebiscuits",
+        "brand": "Verkade",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Nizza Kokos is &#233;&#233;n van Neerlands meest geliefde koekjes. Verras jezelf met dit heerlijke luchtige kokosbiscuitje bestrooid met suiker. Nizza Kokos blijft het lekkerst als je ze koel, droog en donker bewaart.</p><p><ul><li>knisperend laagje suiker</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714848,
+        "bonusSegmentDescription": "Alle Verkade Originals",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Nizza Kokos blijft het lekkerst als je ze koel, droog en donker bewaart.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 1.49",
+                "price": 1.49
+            }
+        ]
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "webshopId": 232017,
+        "hqId": 810832,
+        "title": "AH Mozzarella geraspt",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Extra smeu&#239;ge rasp van mozzarella, lekker romig en zacht van smaak. Ideaal om zelfgemaakte pizza's of crackers mee te bestrooien.</p><p><ul><li>Romig en zacht</li><li>Koemelk. Geschikt voor vegetari&#235;rs.</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Smelt snel en gelijkmatig op warme gerechten  </p>\n  <p>Lekker en eindeloos combineren! Ideaal voor gebruik in lasagne, pasta, pizza en salades.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 162601,
+        "hqId": 603012,
+        "title": "AH Pasta geraspte kaas",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Speciaal voor Pasta, een melange van maasdammer en Goudse jong belegen kaas.</p><p><ul><li><strong>Smaak: </strong>Extra smeu&#239;g</li><li><strong>Gemaakt van: </strong>Koemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p><strong>Ahaatje</strong><br />Lekker &amp; eindeloos combineren. altijd handig om in huis te hebben!</p>\n",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 454161,
+        "hqId": 600439,
+        "title": "AH Cheddar geraspte kaas",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €19.93",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Cheddar kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze geraspte cheddar is heerlijk om te gebruiken in tex-mex of ovenschotel gerechten, zoals nacho's.</p><p><ul><li>Smaak: licht pittig</li><li>Geschikt voor vegetariers</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 197154,
+        "hqId": 603010,
+        "title": "AH Geraspte kaas speciaal voor pizza",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Speciaal voor Pizza, gemaakt van mozzarella, goudse jong belegen en regato kaas.</p><p><ul><li>Smaak: Mild & extra smeuïg</li><li>Gemaakt van: Koemelk</li><li>Ideaal om over pizza's te strooien!</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 202090,
+        "hqId": 796238,
+        "title": "AH Ovengratin geraspte kaas",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Speciaal voor ovengratin, een melange van mozzarella, emmentaler en Goudse jonge kaas.</p><p><ul><li><strong>Smaak: </strong>Extra smeu&#239;g</li><li><strong>Gemaakt van: </strong>Koemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p><strong>Ahaatje</strong><br />Lekker &amp; eindeloos combineren. altijd handig om in huis te hebben!</p>\n",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 478232,
+        "hqId": 731985,
+        "title": "AH Tex-mex geraspte kaas",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Speciaal voor mexicaanse gerechten. Deze tex-mex rasp is licht pittig van smaak. Lekker bij nachos, burritos, tacos, quesadillas en wraps.</p><p><ul><li>Smaak: licht pittig</li><li>Gemaakt van koemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    }
+]

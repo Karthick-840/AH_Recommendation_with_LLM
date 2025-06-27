@@ -1,0 +1,473 @@
+[
+    {
+        "webshopId": 2600,
+        "hqId": 66797,
+        "title": "AH Goudse jong 48+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €15.53",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 2.95,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jonge kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekker smeuige goudse jonge kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: zacht</li><li>Herkomst: Nederland</li><li>Gemaakt van: koemelk</li><li>Rijping: minimaal 4 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 2601,
+        "hqId": 66794,
+        "title": "AH Goudse jong belegen 48+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €16.26",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 3.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jong belegen kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekker smeuige goudse jonge kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: mild</li><li>Herkomst: Nederland</li><li>Gemaakt van: koemelk</li><li>Rijping: minimaal 7 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 2594,
+        "hqId": 66796,
+        "title": "AH Goudse belegen 48+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €17.84",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Belegen kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekkere gerijpte Goudse belegen kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: Licht pittig</li><li>Herkomst: Nederland</li><li>Gemaakt van: Koemelk</li><li>Rijping: minimaal 16 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Gemaakt van 100% weidemelk: Melk van koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen  </p>\n  <p>De kaas ligt altijd met de juiste smaak, die bij de leeftijd hoort, in de winkels.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 2606,
+        "hqId": 69866,
+        "title": "AH Goudse oud 48+ plakken",
+        "salesUnitSize": "160 g",
+        "unitPriceDescription": "normale prijs per kg €24.31",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313636363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313636363338?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313636363338?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313636363338?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313636363338?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 3.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Oude kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekkere volrijpe Goudse oude kaas.</p><p><ul><li><strong>Smaak: </strong>Krachtig</li><li><strong>Gemaakt van: </strong>Koemelk</li><li><strong>Rijping: </strong>minimaal 48  \t\t\t\t\t\tweken</li><li>Gemaakt van 100% weidemelk: Melk van koeien die  \t\t\t\t\t\tminimaal 120 dagen per jaar, 6 uur per dag in de wei lopen.</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p><strong>Ahaatje</strong><br />Heerlijk op de boterham of gewoon\n    uit het vuistje. </p>\n",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 136084,
+        "hqId": 603028,
+        "title": "AH Goudse jong belegen 30+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €17.11",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 3.25,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jong belegen kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekkere kort gerijpte Goudse jong belegen kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: Mild en minder vet</li><li>Herkomst: Nederland</li><li>Gemaakt van: Koemelk</li><li>Rijping: minimaal 8 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Gemaakt van 100% weidemelk: Melk van koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen  </p>\n  <p>De kaas ligt altijd met de juiste smaak, die bij de leeftijd hoort, in de winkels.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 2597,
+        "hqId": 66798,
+        "title": "AH Goudse jong komijn 48+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €16.58",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 3.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Gekruide kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekker smeu&#x00EF;ge Goudse jonge kaas met komijn. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: Zacht en gekruid</li><li>Herkomst: Nederland</li><li>Gemaakt van: Koemelk</li><li>Rijping: minimaal 4 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Gemaakt van 100% weidemelk: Melk van koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen  </p>\n  <p>De kaas ligt altijd met de juiste smaak, die bij de leeftijd hoort, in de winkels.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    }
+]

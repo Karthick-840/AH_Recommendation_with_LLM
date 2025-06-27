@@ -1,0 +1,77 @@
+[
+    {
+        "webshopId": 474379,
+        "hqId": 727048,
+        "title": "Witte Reus Toiletblok blauw actief hygiene",
+        "salesUnitSize": "50 g",
+        "unitPriceDescription": "normale prijs per kg €85.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937353537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937353537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937353537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937353537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937353537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 4 GRATIS",
+        "priceBeforeBonus": 4.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Toiletblokken",
+        "brand": "Witte Reus",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ontdek het Witte Reus blauw actief hygiene wcblok voor een hygienisch schoon toilet. Dit toiletblok zorgt ervoor dat uw toilet makkelijk schoon en fris te houden is.</p><p><ul><li>Het reinigend schuim zorgt voor een schoon toilet na elke spoelbeurt</li><li>Maakt zichtbaar schoon dankzij de krachtige blauw water ballen</li><li>Voorkomt de vorming van vuil en kalkaanslag</li><li>Extra frisheid: laat een langdurige frisse geur achter in de badkamer</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714261,
+        "bonusSegmentDescription": "Alle Witte Reus toiletblokken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Witte Reus zorgt voor een hygienisch schoon toilet. </p>\n  <p>  Witte Reus Blauw Actief activeert een speciale combinatie van blauwe ballen die elke spoeling verandert in een zichtbare reinigingservaring met blauw water. Nu met de 50% extra glans op het toiletoppervlak ziet je toilet er schoner uit dan ooit tevoren. Wanneer het toilet wordt doorgespoeld, ervaar dan de zichtbare reinigingskracht met blauw water die je toilet reinigt tussen de spoelbeurten door. Daarnaast geniet je van een langdurige frisse geur in je toilet dat ervoor zorgt dat onaangename toiletgeuren tot het verleden behoren. Om te recyclen, scheid het karton van de toiletreiniger van de plastic verpakking.  </p>\n  <p>  Dit typische Nederlandse merk staat voor waskracht, kwaliteit en betrouwbaarheid. De wasmiddelen zijn verkrijgbaar in capsules, gels en poeder. Door de jaren heen is de Witte Reus familie gegroeid! Naast wasmiddelen biedt Witte Reus ook de meest complete oplossing voor het reinigen en fris houden van je toilet. De Witte Reus toiletblokken zijn de meest verkochte toiletblokken van Nederland!  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 24,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+4 gratis",
+                "count": 2,
+                "freeCount": 4
+            }
+        ]
+    }
+]

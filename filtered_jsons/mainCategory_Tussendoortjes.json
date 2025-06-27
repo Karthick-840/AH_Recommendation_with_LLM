@@ -1,0 +1,995 @@
+[
+    {
+        "webshopId": 167428,
+        "hqId": 643603,
+        "title": "Hero B'tween mueslireep melkchocolade",
+        "salesUnitSize": "6 x 25 g",
+        "unitPriceDescription": "prijs per kg €14.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734363136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734363136?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734363136?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734363136?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734363136?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Mueslirepen",
+        "brand": "Hero",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een heerlijke b'tween mueslireep met melkchocolade en granen, zoals haver, tarwe en gerst. De ideale granenreep als tussendoortje, zonder conserveermiddelen of kunstmatige kleurstoffen.</p><p><ul><li>Een lekkere granenreep voor elk moment van de dag</li><li>Mueslireep zonder conserveermiddelen of kunstmatige kleurstoffen</li><li>Elke haverreep is apart verpakt</li><li>B'tween mueslirepen zijn ideaal voor onderweg, op het werk of thuis</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Granenreep met melkchocolade en stukjes pinda.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 587043,
+        "hqId": 0,
+        "title": "Hero B'tween mueslireep melkchocolade 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313631?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313631?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313631?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313631?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 5.91,
+        "priceBeforeBonus": 6.57,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Mueslirepen",
+        "brand": "Hero",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hero B'tween melkchocolade is een heerlijke mueslireep met melkchocolade. Deze notenreep bevat enkel de allerlekkerste ingrediënten, wat de granenreep tot een ideaal tussendoortje maakt. Kies nu voor deze bundel en profiteer van extra voordeel!</p><p><ul><li>Hero B'tween mueslireep melkchocolade 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 167428,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 3771,
+        "hqId": 7912,
+        "title": "Liga Evergreen krenten",
+        "salesUnitSize": "225 g",
+        "unitPriceDescription": "prijs per kg €12.84",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313135353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313135353435?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313135353435?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313135353435?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313135353435?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Fruitbiscuit en melkbiscuit",
+        "brand": "Liga",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Zin in een lekker tussendoortje? evergreen koeken bevatten volkorengranen en tarwebloem. Een portie van 2 Liga evergreen biscuits is rijk aan voedingsvezels en vitamine b6 en is een bron van ijzer.</p><p><ul><li>Evergreen granenbiscuits met appelsmaak</li><li>Rijk aan voedingsvezels en vitamine b6 en een bron van ijzer</li><li>Handig verpakt per 2 stuks</li><li>Duurzame tarweteelt met harmony: tarwe juist geteeld voor jou en de planeet</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 572372,
+        "hqId": 0,
+        "title": "Liga Evergreen krenten 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032373937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032373937?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032373937?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032373937?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032373937?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 8.24,
+        "priceBeforeBonus": 8.67,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Fruitbiscuit en melkbiscuit",
+        "brand": "Liga",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>LiGA EverGreen Original is een gebalanceerd en verantwoord tussendoortje. De koeken zijn gemaakt van volkoren haver en tarwemeel en zijn verrijkt met een vruchtenvulling van rozijnen en krenten. Rijk aan voedingsvezels, calcium, ijzer en vitamine B6. De granenbiscuits zijn handig verpakt per 2 stuks. Duurzame tarweteelt met Harmony: Tarwe juist geteeld, voor jou en de planeet.</p><p><ul><li>Liga Evergreen krenten 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 3771,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 457696,
+        "hqId": 647569,
+        "title": "Hero B'tween mueslireep zero witte chocolade",
+        "salesUnitSize": "120 g",
+        "unitPriceDescription": "prijs per kg €18.25",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313039393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313039393735?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313039393735?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313039393735?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313039393735?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Mueslirepen",
+        "brand": "Hero",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>B'tween zero witte chocolade mueslireep zonder toegevoegde suikers geeft je niet alleen dat beetje extra, maar stilt ook de lekkere trek. De ideale granenreep als tussendoortje!</p><p><ul><li>Een lekkere granenreep voor elk moment van de dag</li><li>Mueslireep zonder conserveermiddelen of kunstmatige kleurstoffen</li><li>Elke haverreep is apart verpakt, ideaal voor onderweg, thuis of op het werk</li><li>B'tween notenreep met slechts 68 kcal per reep</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Granenreep met witte chocolade, pinda's en zoetstoffen: zonder toegevoegde suikers. *bevat van nature aanwezige suikers.: overmatig gebruik kan een laxerende werking hebben.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 588121,
+        "hqId": 0,
+        "title": "Hero B'tween mueslireep zero wit choc 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313435353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313435353739?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313435353739?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313435353739?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313435353739?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 5.91,
+        "priceBeforeBonus": 6.57,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Mueslirepen",
+        "brand": "Hero",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hero B'tween zero witte chocolade mueslireep zonder toegevoegde suikers geeft je niet alleen dat beetje extra, maar stilt ook de lekkere trek. De ideale granenreep als tussendoortje! Kies nu voor deze bundel en profiteer van extra voordeel!</p><p><ul><li>Hero B'tween mueslireep zero witte chocolade 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 457696,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 407188,
+        "hqId": 852795,
+        "title": "AH Fruitbiscuit bosvruchtensmaak",
+        "salesUnitSize": "262 g",
+        "unitPriceDescription": "prijs per kg €5.69",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935303339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935303339?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935303339?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935303339?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935303339?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Fruitbiscuit en melkbiscuit",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Knapperige fruitbiscuits vol rozijnen en krenten en met de frisse smaak van bosvruchten. Lekker voor tussendoor, voor onderweg of op ieder ander moment van de dag.</p><p><ul><li>Neem mee! Lekker handig voor onderweg</li><li>6 porties a 3 biscuits</li><li>Het perfecte tussendoortje</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 132032,
+        "hqId": 594307,
+        "title": "Liga Milkbreak melk",
+        "salesUnitSize": "245 g",
+        "unitPriceDescription": "prijs per kg €13.02",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383635?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383635?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383635?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383635?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Fruitbiscuit en melkbiscuit",
+        "brand": "Liga",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Zin in een lekker tussendoortje? Liga milkbreak melk is een lekkere tarwebiscuit met melkvulling. Elke portie van 2 biscuits is een bron van voedingsvezels en ijzer en rijk aan calcium en vitamine b6.</p><p><ul><li>Een bron van voedingsvezels en ijzer en rijk aan calcium en vitamine b6</li><li>Lekker voor thuis, op school of gewoon tussendoor</li><li>Handig verpakt per 2 koeken</li><li>Duurzame tarweteelt met harmony: tarwe juist geteeld voor jou en de planeet</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 590128,
+        "hqId": 0,
+        "title": "Liga Milkbreak Melk 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343536?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343536?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343536?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343536?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 6.06,
+        "priceBeforeBonus": 6.38,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Fruitbiscuit en melkbiscuit",
+        "brand": "Liga",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Zin in een lekker tussendoortje? Liga milkbreak melk is een lekkere tarwebiscuit met melkvulling. Elke portie van 2 biscuits is een bron van voedingsvezels en ijzer en rijk aan calcium en vitamine b6.</p><p><ul><li>LiGA Milkbreak Melk 2x</li><li>Een bron van voedingsvezels en ijzer en rijk aan calcium en vitamine b6</li><li>Lekker voor thuis, op school of gewoon tussendoor</li><li>Handig verpakt per 2 koeken</li><li>Duurzame tarweteelt met harmony: tarwe juist geteeld voor jou en de planeet</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 132032,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 450907,
+        "hqId": 573858,
+        "title": "McVitie's Digestives original",
+        "salesUnitSize": "400 g",
+        "unitPriceDescription": "normale prijs per kg €5.73",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533353637?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533353637?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533353637?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533353637?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.00",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Haverrepen",
+        "brand": "McVitie's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De enige echte originele digestive volgens de traditionele mcvities digestive receptuur. Het is een heerlijke tarwebiscuit gemaakt van het beste graan.</p><p><ul><li>Bron van vezels</li><li>De enige echte</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. grootverpakkingen"
+        ],
+        "bonusSegmentId": 714201,
+        "bonusSegmentDescription": "Alle Verkade Specials en McVities*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Digestive original blijft het lekkerst als je ze droog en bij voorkeur koel bewaart. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 41,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.00",
+                "count": 2,
+                "price": 4.0
+            }
+        ]
+    },
+    {
+        "webshopId": 132037,
+        "hqId": 594312,
+        "title": "Liga Milkbreak melk-aardbeiensmaak",
+        "salesUnitSize": "245 g",
+        "unitPriceDescription": "prijs per kg €13.02",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343437?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343437?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343437?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343437?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Fruitbiscuit en melkbiscuit",
+        "brand": "Liga",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Zin in een lekker tussendoortje? Liga milkbreak is een lekkere tarwebiscuit met melkvulling. Elke portie van 2 biscuits is een bron van voedingsvezels en ijzer en rijk aan calcium en vitamine b6.</p><p><ul><li>Een bron van voedingsvezels en ijzer en rijk aan calcium en vitamine b6</li><li>Melk gecombineerd met een lekkere zoete aardbeiensmaak</li><li>Handig verpakt per 2 koeken</li><li>Duurzame tarweteelt met harmony: tarwe juist geteeld voor jou en de planeet</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 518742,
+        "hqId": 597225,
+        "title": "Hero B'tween mueslireep zero melkchocolade",
+        "salesUnitSize": "120 g",
+        "unitPriceDescription": "prijs per kg €18.25",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031343836?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031343836?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031343836?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031343836?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Mueslirepen",
+        "brand": "Hero",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>B'tween zero mueslireep met melkchocolade zonder toegevoegde suikers geeft je niet alleen dat beetje extra, maar stilt ook de lekkere trek. De ideale granenreep als tussendoortje!</p><p><ul><li>Een lekkere granenreep voor elk moment van de dag</li><li>Mueslireep zonder conserveermiddelen of kunstmatige kleurstoffen</li><li>Elke haverreep is apart verpakt, ideaal voor onderweg, thuis of op het werk</li><li>B'tween notenreep met slechts 68 kcal per reep</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Granenreep met melkchocolade, pinda's en zoetstoffen: zonder toegevoegde suikers. *bevat van nature aanwezige suikers.: overmatig gebruik kan een laxerende werking hebben.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 587044,
+        "hqId": 0,
+        "title": "Hero B'tween mueslireep zero melkchoc 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 5.91,
+        "priceBeforeBonus": 6.57,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Mueslirepen",
+        "brand": "Hero",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hero B'tween melkchocolade is een heerlijke mueslireep met melkchocolade, zonder toegevoegde suikers. Deze notenreep bevat enkel de allerlekkerste ingrediënten, wat de granenreep tot een ideaal tussendoortje maakt. Kies nu voor deze bundel en profiteer van extra voordeel!</p><p><ul><li>Hero B'tween mueslireep zero melkchocolade 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 518742,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 407185,
+        "hqId": 852792,
+        "title": "AH Fruitbiscuit appelsmaak",
+        "salesUnitSize": "262 g",
+        "unitPriceDescription": "prijs per kg €5.69",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838343531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838343531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838343531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838343531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Fruitbiscuit en melkbiscuit",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Knapperige fruitbiscuits vol rozijnen en krenten en met de frisse smaak van appel. Lekker voor tussendoor, voor onderweg of op ieder ander moment van de dag.</p><p><ul><li>Neem mee! Lekker handig voor onderweg</li><li>6 porties a 3 biscuits</li><li>Het perfecte tussendoortje</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 435755,
+        "hqId": 48743,
+        "title": "Liga Belvita chocolade koekjes",
+        "salesUnitSize": "300 g",
+        "unitPriceDescription": "prijs per kg €12.30",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343930?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343930?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343930?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343930?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Tussendoortjes",
+        "subCategory": "Haverrepen",
+        "brand": "Liga",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Knapperige chocolade ontbijtbiscuits gemaakt met 5 volkorengranen en tarwebloem. Een portie van 4 belvita biscuits is een bron van vezels, calcium, ijzer en magnesium. Handig om mee te nemen.</p><p><ul><li>Rijk aan granen, gemaakt met 5 volkorengranen</li><li>Een bron van vezels, calcium, magnesium en ijzer</li><li>Een verpakking bevat 6 pakjes van 4 koekjes</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    }
+]

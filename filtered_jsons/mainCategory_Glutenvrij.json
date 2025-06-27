@@ -1,0 +1,60 @@
+[
+    {
+        "webshopId": 419899,
+        "hqId": 691529,
+        "title": "Wasa Glutenvrij en lactosevrij classic",
+        "salesUnitSize": "240 g",
+        "unitPriceDescription": "prijs per kg €15.63",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353532393430?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353532393430?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353532393430?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353532393430?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353532393430?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.75,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Glutenvrij",
+        "subCategory": "Glutenvrije crackers, knackebrod",
+        "brand": "Wasa",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Wasa gluten- en lactosevrij is onze glutenvrije cracker, die rijk is aan vezels. Prachtig goud gebakken met een heerlijke krokante smaak.</p><p><ul><li>Vegan</li><li>Rijk aan vezels (7,7%)</li><li>Handig verpakt in portieverpakking voor gemak  en  versheid</li><li>Lekker als ontbijt, lunch of gewoon tussendoor, met je favoriete beleg</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>  Wasa glutenvrij classic wordt net als onze andere producten 100% co2-gecompenseerd geproduceerd (meer info: wasaco2.com/nl). </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    }
+]

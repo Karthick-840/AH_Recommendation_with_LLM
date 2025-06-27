@@ -1,0 +1,1446 @@
+[
+    {
+        "webshopId": 582865,
+        "hqId": 0,
+        "title": "Arla Biologisch halfvolle melk 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373632?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373632?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373632?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373632?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 4.56,
+        "priceBeforeBonus": 5.37,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Halfvolle melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Melk van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch halfvolle melk 1L 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 168925,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 582866,
+        "hqId": 0,
+        "title": "Arla Biologisch halfvolle melk 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373333?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373333?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373333?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373333?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 3.04,
+        "priceBeforeBonus": 3.58,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Halfvolle melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Melk van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch halfvolle melk 1L 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 168925,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 578513,
+        "hqId": 0,
+        "title": "Heinz Frito 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 3.54,
+        "priceBeforeBonus": 4.17,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Tomatenpuree",
+        "brand": "Heinz",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Als iets het succes van je gerecht bepaalt, dan is dat een goede basis. Onze Heinz tomato frito is gemaakt van kwaliteit zongerijpte tomaten voor een onweerstaanbare volle smaak. Geef meer smaak aan jouw favoriete gerechten in een handomdraai. It has to be Heinz!</p><p><ul><li>HNZ Tomato Frito (15) 350gm 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 378632,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 594704,
+        "hqId": 0,
+        "title": "Arla Biologisch volle melk 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373634?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373634?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373634?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373634?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 4.4,
+        "priceBeforeBonus": 5.18,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Volle melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Melk van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch volle melk 1.5 liter 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 474591,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 594705,
+        "hqId": 0,
+        "title": "Arla Biologisch volle melk 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373635?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373635?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373635?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373635?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 6.6,
+        "priceBeforeBonus": 7.77,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Volle melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Melk van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch volle melk 1.5 liter 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 474591,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 582017,
+        "hqId": 0,
+        "title": "Arla Biologisch skyr naturel yoghurt 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313130323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313130323736?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313130323736?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313130323736?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313130323736?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 6.6,
+        "priceBeforeBonus": 7.77,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Skyr naturel",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Skyr van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch skyr naturel 450g 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 425564,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 582867,
+        "hqId": 0,
+        "title": "Arla Biologisch halfvolle melk 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373335?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373335?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373335?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373335?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 4.06,
+        "priceBeforeBonus": 4.78,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Halfvolle melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Melk van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch halfvolle melk 1,5L 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 407049,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 594657,
+        "hqId": 0,
+        "title": "Arla Biologisch skyr naturel yoghurt 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373637?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373637?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373637?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373637?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 4.4,
+        "priceBeforeBonus": 5.18,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Skyr naturel",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Skyr van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch skyr naturel yoghurt 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 425564,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 575077,
+        "hqId": 0,
+        "title": "Arla Biologisch volle melk 1L 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373337?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373337?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373337?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373337?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 3.38,
+        "priceBeforeBonus": 3.98,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Volle melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Melk van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch volle melk 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 349195,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 582868,
+        "hqId": 0,
+        "title": "Arla Biologisch volle melk 1L 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373338?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373338?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373338?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373338?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 11.68,
+        "priceBeforeBonus": 13.74,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Volle melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Melk van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch volle melk 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 349195,
+                "quantity": 3
+            },
+            {
+                "productId": 474591,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 594655,
+        "hqId": 0,
+        "title": "Arla Biologisch kefir naturel 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 3.89,
+        "priceBeforeBonus": 4.58,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Probiotica, kefir, gut health drinks",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Kefir van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch kefir naturel 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 440366,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 582200,
+        "hqId": 0,
+        "title": "Honig basis voor macaroni en spaghetti 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131353233?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131353233?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131353233?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131353233?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 5.07,
+        "priceBeforeBonus": 5.97,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Paprikaconserven",
+        "brand": "Honig",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Honig Basis voor macaroni en spaghetti 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 3472,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 594656,
+        "hqId": 0,
+        "title": "Arla Biologisch kefir naturel 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 5.84,
+        "priceBeforeBonus": 6.87,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Probiotica, kefir, gut health drinks",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Kefir van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch kefir naturel 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 440366,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 596925,
+        "hqId": 0,
+        "title": "Princes tonijnstukkem zonnebloemolie 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038313238?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 4.57,
+        "priceBeforeBonus": 5.38,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Tonijn in zonnebloemolie",
+        "brand": "Princes",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Profiteer nu van extra korting bij aankoop van 2 stuks Princes Tonijnstukken Msc in zonnebloemolie. Ideale basis voor warme en koude gerechten, om snel en gemakkelijk een maaltijd te bereiden en ook nog eens rijk aan eiwitten.</p><p><ul><li>Princes Tonijnstukken in zonnebloemolie 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 496942,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 594654,
+        "hqId": 0,
+        "title": "Arla Biologisch halfvolle yoghurt 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 3.38,
+        "priceBeforeBonus": 3.98,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Halfvolle yoghurt",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Yoghurt van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch halfvolle yoghurt 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 212539,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 594658,
+        "hqId": 0,
+        "title": "Arla Bio vanille yoghurt halfvol 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373532?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373532?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373532?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373532?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 4.06,
+        "priceBeforeBonus": 4.78,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Vanille yoghurt",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Yoghurt van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch vanille yoghurt halfvol 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 167913,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 594659,
+        "hqId": 0,
+        "title": "Arla Bio vanille yoghurt halfvol 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 6.09,
+        "priceBeforeBonus": 7.17,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Vanille yoghurt",
+        "brand": "Arla",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Yoghurt van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch vanille yoghurt halfvol 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 167913,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    },
+    {
+        "webshopId": 574747,
+        "hqId": 0,
+        "title": "Page Page Kussenzacht 12 rol 2-pack",
+        "salesUnitSize": "24 rollen",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303635373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303635373532?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303635373532?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303635373532?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303635373532?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "15% volume voordeel",
+        "currentPrice": 13.58,
+        "priceBeforeBonus": 15.98,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Toiletpapier - 3 laags",
+        "brand": "Page",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Page kussenzacht toiletpapier heeft heerlijke dikke, superzachte velletjes met een unieke air pocket-textuur die zacht zijn voor de huid en comfortabele reiniging bieden.</p><p><ul><li>Page Kussenzacht 12 rol 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.\n",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 417027,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "15% volume voordeel",
+                "percentage": 15,
+                "precisePercentage": 15
+            }
+        ]
+    }
+]

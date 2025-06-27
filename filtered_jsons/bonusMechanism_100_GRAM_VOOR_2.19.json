@@ -1,0 +1,158 @@
+[
+    {
+        "webshopId": 440333,
+        "hqId": 72577,
+        "title": "AH Gegrilde beenham",
+        "salesUnitSize": "ca. 110 g",
+        "unitPriceDescription": "normale prijs per kg €30.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "100 GRAM VOOR 2.19",
+        "currentPrice": 2.41,
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Ham (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze gegrilde beenham heeft een boterzachte structuur en lekkere grillsmaak doordat het aan het bot gegrild is.</p><p><ul><li>Lekker op een pistolet met honing mosterd saus</li><li>Een broodje beenham is simpel, maar juist daarom zo lekker</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714249,
+        "bonusSegmentDescription": "AH Gegrilde beenham van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_WEIGHT",
+                "defaultDescription": "per 100 GRAM voor €2.19",
+                "count": 100,
+                "price": 2.19,
+                "unit": "GRAM"
+            }
+        ]
+    },
+    {
+        "webshopId": 197177,
+        "hqId": 628303,
+        "title": "AH Flinterdunne gegrilde beenham",
+        "salesUnitSize": "ca. 100 g",
+        "unitPriceDescription": "normale prijs per kg €30.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "100 GRAM VOOR 2.19",
+        "currentPrice": 2.19,
+        "priceBeforeBonus": 3.08,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Ham (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze beenham is flinterdun gesneden en heeft daardoor een heerlijk zachte en verfijnde bite. Met deze flinterdunne gekrulde plakjes kun je iedere boterham verrijken.</p><p><ul><li>Boterzachte structuur, lekkere grillsmaak</li><li>Nederland, varken Beter Leven Keurmerk 1 ster</li><li>Ideaal voor verschillende gerechten</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714249,
+        "bonusSegmentDescription": "AH Gegrilde beenham van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_WEIGHT",
+                "defaultDescription": "per 100 GRAM voor €2.19",
+                "count": 100,
+                "price": 2.19,
+                "unit": "GRAM"
+            }
+        ]
+    }
+]

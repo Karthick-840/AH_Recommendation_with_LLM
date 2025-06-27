@@ -1,0 +1,1014 @@
+[
+    {
+        "webshopId": 502305,
+        "hqId": 819328,
+        "title": "AH Snoepgroente komkommer",
+        "salesUnitSize": "230 g",
+        "unitPriceDescription": "normale prijs per kg €9.96",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Snoepgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 719966,
+        "bonusSegmentDescription": "AH Snoepgroente 175-250 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 490796,
+        "hqId": 745269,
+        "title": "AH Snoepgroente tomaat",
+        "salesUnitSize": "250 g",
+        "unitPriceDescription": "normale prijs per kg €8.76",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Snoepgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Snoeptomaatjes zijn volzoet en sappig van smaak. Deze tomaatjes zijn ideaal als gezonde snack in de lunchtrommel of als extra bite bij de borrel.</p><p><ul><li>Snoeptomaatjes zijn volzoet en sappig van smaak</li><li>Buiten de koelkast bewaren</li><li>Van nature een bron van vitamine c. Vitamine c is goed voor de vorming van collageen, voor de normale werking van de huid</li></ul></p>",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 719966,
+        "bonusSegmentDescription": "AH Snoepgroente 175-250 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 502289,
+        "hqId": 818887,
+        "title": "AH Snoepgroente paprikamix",
+        "salesUnitSize": "175 g",
+        "unitPriceDescription": "normale prijs per kg €13.09",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303433393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303433393637?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303433393637?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303433393637?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303433393637?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Snoepgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 719966,
+        "bonusSegmentDescription": "AH Snoepgroente 175-250 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 544086,
+        "hqId": 63427,
+        "title": "AH Verse mango",
+        "salesUnitSize": "120 g",
+        "unitPriceDescription": "normale prijs per kg €20.75",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435343839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435343839?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435343839?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435343839?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435343839?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Fruitsalade",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714137,
+        "bonusSegmentDescription": "AH Fruitsalades en druiven",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 21,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 388475,
+        "hqId": 844475,
+        "title": "AH Verse granaatappelpitjes",
+        "salesUnitSize": "90 g",
+        "unitPriceDescription": "normale prijs per kg €27.67",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435353130?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435353130?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435353130?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393435353130?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Fruitsalade",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Zin in iets fris en fruitigs? Deze zongerijpte tropische pitjes van de granaatappel zijn klaar om zo te eten, lekker door de yoghurt of de salade.</p><p><ul><li>Variatietip! Lekker in de yoghurt met granen</li><li>Of door de salade</li><li>Voor ieder moment van de dag: ontbijt, lunch of tussendoor</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714137,
+        "bonusSegmentDescription": "AH Fruitsalades en druiven",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Via AH Foundation dragen we ook bij aan de leefomstandigheden van de mensen die dit fruit voor ons telen en bereiden, zie www.ahfoundation.nl  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 21,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 520805,
+        "hqId": 886718,
+        "title": "AH Snoepgroente tomatenmix",
+        "salesUnitSize": "250 g",
+        "unitPriceDescription": "normale prijs per kg €8.76",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323036?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323036?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323036?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393430323036?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Snoepgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 719966,
+        "bonusSegmentDescription": "AH Snoepgroente 175-250 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 215318,
+        "hqId": 809320,
+        "title": "AH Witte druiven pitloos",
+        "salesUnitSize": "250 g",
+        "unitPriceDescription": "normale prijs per kg €8.76",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333238?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333238?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333238?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333238?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Druiven",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De witte pitloze druif heeft een frisse, knapperige en zoete smaak. Deze druiven zijn heerlijk zo uit de hand, maar ook lekker door een salade of smoothie. Een ideale verpakking voor in de tas!</p><p><ul><li>Smaak: Witte pitloze druif heeft een frisse, knapperige en zoete smaak.</li><li>Bewaren: In de koelkast.</li><li>Gezondheid: Bron van vezels</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714137,
+        "bonusSegmentDescription": "AH Fruitsalades en druiven",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 21,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 215520,
+        "hqId": 809400,
+        "title": "AH Rode druiven pitloos",
+        "salesUnitSize": "250 g",
+        "unitPriceDescription": "normale prijs per kg €8.76",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333236?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333236?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333236?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339333236?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Druiven",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De rode pitloze druif heeft een frisse, knapperige en zoete smaak. Deze druiven zijn heerlijk zo uit de hand, maar ook lekker door een salade of smoothie. Een ideale verpakking voor in de tas!</p><p><ul><li>De rode pitloze druif heeft een frisse, knapperige en zoete smaak.</li><li>Bewaren: In de koelkast.</li><li>Gezondheid: Bron van vezels</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714137,
+        "bonusSegmentDescription": "AH Fruitsalades en druiven",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 21,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 520318,
+        "hqId": 886443,
+        "title": "AH Ananas",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €15.67",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393431383633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393431383633?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393431383633?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393431383633?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393431383633?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.35,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Fruitsalade",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714137,
+        "bonusSegmentDescription": "AH Fruitsalades en druiven",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 21,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 520300,
+        "hqId": 591685,
+        "title": "AH Verse meloenmix",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €16.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393432323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393432323830?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393432323830?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393432323830?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393432323830?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Fruitsalade",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714137,
+        "bonusSegmentDescription": "AH Fruitsalades en druiven",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 21,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 551190,
+        "hqId": 757752,
+        "title": "AH Snoepgroente radijsmix",
+        "salesUnitSize": "250 g",
+        "unitPriceDescription": "normale prijs per kg €8.76",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303931?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303931?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303931?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303931?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Snoepgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 719966,
+        "bonusSegmentDescription": "AH Snoepgroente 175-250 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 593054,
+        "hqId": 40964,
+        "title": "AH Snoepgroente pitloze paprikamix",
+        "salesUnitSize": "175 g",
+        "unitPriceDescription": "normale prijs per kg €13.09",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738383437?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738383437?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738383437?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738383437?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Snoepgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 719966,
+        "bonusSegmentDescription": "AH Snoepgroente 175-250 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 520275,
+        "hqId": 12971,
+        "title": "AH Ananas appel druif",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €16.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393433333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393433333838?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393433333838?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393433333838?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393433333838?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 5.00",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Fruitsalade",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714137,
+        "bonusSegmentDescription": "AH Fruitsalades en druiven",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 21,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 5.00",
+                "count": 3,
+                "price": 5.0
+            }
+        ]
+    }
+]

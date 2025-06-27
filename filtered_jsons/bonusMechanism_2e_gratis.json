@@ -1,0 +1,2535 @@
+[
+    {
+        "webshopId": 4004,
+        "hqId": 646767,
+        "title": "AH Rundergehakt",
+        "salesUnitSize": "300 g",
+        "unitPriceDescription": "normale prijs per kg €18.30",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393130?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393130?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393130?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393130?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Rundergehakt",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Rundergehakt om eindeloos mee te varieren. Natuurlijk voor een gewone gehaktbal, maar ook voor snackballetjes of soepballetjes. Of gebruik het geruld in pastasaus en ovengerechten.</p><p><ul><li>Rundvlees</li><li>Bereiding: koekenpan/wok. Rullen ca. 4-5 minuten</li><li>Weetje: je kunt het gehakt rullen zonder boter of olie toe te voegen</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714877,
+        "bonusSegmentDescription": "AH Runder- en scharrelkipgehakt 300 gram en AH Terra plantaardig rulgehakt",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Met het vertrouwde ahhuismerk haal je een lekker stukje vlees in huis voor een goede prijs. Bewaar het rundergehakt in de koelkast op maximaal 4 graden celsius of vries het in op de dag van aankoop. Na invriezen wel binnen 3 maanden gebruiken. Voor gebruik ontdooien. </p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 531876,
+        "hqId": 803098,
+        "title": "AH Scharrel krokante kipfiletburger 2 stuks",
+        "salesUnitSize": "200 g",
+        "unitPriceDescription": "normale prijs per kg €17.45",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373333?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373333?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373333?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373333?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 3.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Kipburger",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714776,
+        "bonusSegmentDescription": "Alle AH Scharrelkipburgers 2 stuks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 5,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 48785,
+        "hqId": 831576,
+        "title": "Campina Halfvolle yoghurt",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €1.89",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Halfvolle yoghurt",
+        "brand": "Campina",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze yoghurt is mild van smaak en bevat van nature voedingstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat.</p><p><ul><li>Zacht en mild van smaak</li><li>Van nature rijk aan calcium, proteine en vitamine b5</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li><li>Gemaakt van Nederlandse weidemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714896,
+        "bonusSegmentDescription": "Alle Campina kwark 500 gram en yoghurt 1 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Door de jarenlange ervaring van de Campina boeren maakt Campina heerlijke producten. Al 150 jaar. Ze halen de eerlijke en pure kracht uit de natuur. En dat proef je.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 451124,
+        "hqId": 574647,
+        "title": "Ben & Jerry's Cookie dough",
+        "salesUnitSize": "100 ml",
+        "unitPriceDescription": "normale prijs per liter €22.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs pints",
+        "brand": "Ben & Jerry's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ben en jerry's cookie dough ijs is (h)eerlijk vanille-ijs met choco chip koekjesdeeg chunks!</p><p><ul><li>Ben en jerry's cookie dough ijs heeft een klein lepeltje in het deksel</li><li>Vanille-ijs vol met choco chip koekjesdeeg chunks</li><li>Dit ijs bevat Fairtrade gecertificeerde ingredienten</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714839,
+        "bonusSegmentDescription": "Alle Ben & Jerry's en Magnum pints",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 41,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 189671,
+        "hqId": 791486,
+        "title": "Hak Appelmoes extra kwaliteit",
+        "salesUnitSize": "355 g",
+        "unitPriceDescription": "normale prijs per kg €5.89",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383936323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383936323834?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383936323834?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383936323834?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383936323834?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Appelmoes, appelcompote",
+        "brand": "Hak",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hak appelmoes is een lekkere friszoete appelmoes, gemaakt van een unieke combinatie van 3 zorgvuldig geselecteerde appelrassen. Lekker als smaakmaker bij elke Hollandse maaltijd of als toetje.</p><p><ul><li>Vaste mix van 3 appelrassen zorgt voor unieke en constante smaak</li><li>Stevige structuur</li><li>Gemakkelijk te openen door 1 2 open deksel</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714803,
+        "bonusSegmentDescription": "Alle Hak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Variatietip: Roer een handvol rozijnen door de appelmoes, voeg eventueel wat kaneel toe en vul ijsvormpjes met dit mengsel, plaats het in de vriezer en je hebt een heerlijk fris appelijsje.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 93,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 476433,
+        "hqId": 729760,
+        "title": "Flower Farm Smeren zonder palmolie",
+        "salesUnitSize": "375 g",
+        "unitPriceDescription": "normale prijs per kg €8.51",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739323633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739323633?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739323633?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739323633?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739323633?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Margarine",
+        "brand": "Flower Farm",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714802,
+        "bonusSegmentDescription": "Alle Flower Farm",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 171022,
+        "hqId": 632640,
+        "title": "Taksi Tropisch fruit geen suiker toegevoegd",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €1.26",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Frisse fruitdranken",
+        "brand": "Taksi",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Drank met de heerlijke smaak van Tropisch Fruit, geen suiker toegevoegd! Voor als je echt van de tropen wilt genieten!</p><p><ul><li>68% minder calorie&#x00EB;n dan Taksi Tropisch Fruit regulier</li><li>Gemaakt op basis van vruchtensap en zuivel</li><li>Geen suiker toegevoegd!</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714832,
+        "bonusSegmentDescription": "Alle DubbelFrisss Boost en Taksi 1.5 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> De heerlijke smaak van tropisch Fruit bestaat nu ook in Geen Suiker Toegevoegd variant! Deze nieuwe taksi drank smaakt naar tropische vruchten, zit vol met zuivel en vitamine C, maar bevat geen toegevoegde suikers. Daarom bevat deze drank 75% minder calorieen dan Taksi Tropisch Fruit regulier.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 12,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 221095,
+        "hqId": 815633,
+        "title": "Campina Magere yoghurt",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €1.69",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333739?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333739?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333739?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333739?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Magere yoghurt",
+        "brand": "Campina",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze yoghurt is mild van smaak en bevat van nature voedingstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat.</p><p><ul><li>Zacht en mild van smaak</li><li>Van nature rijk aan calcium, proteine en vitamine b2</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li><li>Gemaakt van Nederlandse weidemelk</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714896,
+        "bonusSegmentDescription": "Alle Campina kwark 500 gram en yoghurt 1 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Door de jarenlange ervaring van de Campina boeren maakt Campina heerlijke producten. Al 150 jaar. Ze halen de eerlijke en pure kracht uit de natuur. En dat proef je.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 124420,
+        "hqId": 579137,
+        "title": "Taksi Tropisch fruit",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €1.26",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Frisse fruitdranken",
+        "brand": "Taksi",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Drank met de heerlijke smaak van Tropisch Fruit. Voor als je echt van de tropen wilt genieten!</p><p><ul><li>Geen zoetstoffen!</li><li>Rijk aan vitamine C</li><li>Gemaakt op basis van vruchtensap en zuivel</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714832,
+        "bonusSegmentDescription": "Alle DubbelFrisss Boost en Taksi 1.5 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Drank op basis van vruchtensap en zuivel.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 12,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 533085,
+        "hqId": 805332,
+        "title": "AH Scharrel kipburger 2 stuks",
+        "salesUnitSize": "250 g",
+        "unitPriceDescription": "normale prijs per kg €14.36",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373633?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373633?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373633?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373633?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 3.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Kipburger",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714776,
+        "bonusSegmentDescription": "Alle AH Scharrelkipburgers 2 stuks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 5,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 48585,
+        "hqId": 97052,
+        "title": "Nalys Xtra power keukenpapier",
+        "salesUnitSize": "2 rollen",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313430353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313430353132?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313430353132?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313430353132?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313430353132?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 3.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "2-laags keukenpapier",
+        "brand": "Nalys",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Nalys xtra is uniek van structuur, zelft nat blijft het papier super sterk. Het pluist niet en is super absorberend.</p><p><ul><li>Multigebruik</li><li>Resistent zelf als nat</li><li>Absorberend</li><li>Pluist niet</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714831,
+        "bonusSegmentDescription": "Alle Nalys keukenpapier",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 221096,
+        "hqId": 815635,
+        "title": "Campina Volle yoghurt",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €1.95",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.95,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Volle yoghurt",
+        "brand": "Campina",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze yoghurt is mild van smaak en bevat van nature voedingstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat.</p><p><ul><li>Zacht en mild van smaak</li><li>Van nature rijk aan calcium, proteine en vitamine b3</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li><li>Gemaakt van Nederlandse weidemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714896,
+        "bonusSegmentDescription": "Alle Campina kwark 500 gram en yoghurt 1 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Door de jarenlange ervaring van de Campina boeren maakt Campina heerlijke producten. Al 150 jaar. Ze halen de eerlijke en pure kracht uit de natuur. En dat proef je.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 564796,
+        "hqId": 2455,
+        "title": "AH Terra Plantaardig rulgehakt",
+        "salesUnitSize": "200 g",
+        "unitPriceDescription": "normale prijs per kg €8.45",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313332?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313332?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313332?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313332?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Vegetarisch gehakt",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714877,
+        "bonusSegmentDescription": "AH Runder- en scharrelkipgehakt 300 gram en AH Terra plantaardig rulgehakt",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 547694,
+        "hqId": 28925,
+        "title": "Dreft Afwasmiddel platinum quick wash original",
+        "salesUnitSize": "350 ml",
+        "unitPriceDescription": "normale prijs per liter €8.54",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537323339?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537323339?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537323339?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537323339?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Afwasmiddel",
+        "brand": "Dreft",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Dreft platinum quickwash original met vloeibaar afwasmiddel ben je sneller de keuken uit door sneller en moeiteloos schoonmaken.</p><p><ul><li>Elke druppel dringt diep door en weekt hardnekkige vetresten van je afwas</li><li>Niet meer eerst een nacht weken en hard schrobben</li><li>Eenvoudig afspoelen voor snellere resultaten</li><li>Laat een verkwikkende geur achter in je keuken</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714835,
+        "bonusSegmentDescription": "Alle Dreft handafwas en Platinum vaatwascapsules",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Elke druppel Dreft dringt snel door en verzwakt hardnekkige vetresten op je afwas, voor onberispelijke resultaten, zelfs bij de moeilijkste en meest vettige uitdagingen.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 23,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 124423,
+        "hqId": 579237,
+        "title": "Perla Huisblends Classic koffiepads",
+        "salesUnitSize": "36 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383031373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383031373836?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383031373836?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383031373836?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383031373836?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Koffie, thee",
+        "subCategory": "Koffiepads (regular)",
+        "brand": "Perla Huisblends",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Perla Classic roast pads zijn mooi uitgebalanceerd, vol en rond van smaak en zeer geurig. Voor het perfecte kopje koffie</p><p><ul><li>Smaaksegment: soepel & gebalanceerd</li><li>Medium gebrand</li><li>Een uitgebalanceerde melange van Arabica en Robusta bonen</li><li>Smaakintensiteit #06</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714902,
+        "bonusSegmentDescription": "Alle Perla Huisblends koffiepads",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 387970,
+        "hqId": 845350,
+        "title": "Campina Magere milde kwark naturel",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €3.98",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363030?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363030?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363030?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363030?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Magere kwark",
+        "brand": "Campina",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Campina kwark is mild van smaak en rijk aan proteine. Daarnaast is Campina trotse leverancier van teamnl en is de kwark samen met olympisch kampioen epke zonderland ontwikkeld.</p><p><ul><li>Gemaakt van Nederlandse weidemelk</li><li>Van nature rijk aan proteine en mild van smaak</li><li>Trotse leverancier van teamnl</li><li>Kwark voor (top) sporters</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714896,
+        "bonusSegmentDescription": "Alle Campina kwark 500 gram en yoghurt 1 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Door de jarenlange ervaring van de Campina boeren maakt Campina heerlijke producten. Al 150 jaar. Ze halen de eerlijke en pure kracht uit de natuur. En dat proef je.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 195105,
+        "hqId": 798355,
+        "title": "Hak Doperwtjes met worteltjes",
+        "salesUnitSize": "350 g",
+        "unitPriceDescription": "normale prijs per kg €9.09",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Groentemix conserven",
+        "brand": "Hak",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hak doperwtjes met worteltjes is een klassieke combinatie van deze twee heerlijke groenten om eens lekker te varieren aan tafel.</p><p><ul><li>Direct na de oogst vers verwerkt</li><li>Van Hollandse bodem</li><li>Rijk aan voedingsvezels</li><li>Gemakkelijk te openen door 1 2 open deksel</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714803,
+        "bonusSegmentDescription": "Alle Hak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Variatietip: Voeg de uitgelekte groente toe aan het omelet mengsel en bak het geheel tot een goudbruine omelet.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 93,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 3013,
+        "hqId": 24736,
+        "title": "WC-Eend Wc eend nr. 1 ontkalker",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €4.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323934?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323934?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323934?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323934?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 3.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Toiletreiniger",
+        "brand": "WC-Eend",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Wc eend nr. 1 ontkalker toiletreiniger zorgt voor een grondige reiniging boven en onder het water. Verwijdert hardnekkige vlekken en kalkaanslag.</p><p><ul><li>Dringt door en verwijdert kalkaanslag</li><li>Maakt schoon boven en onder het water</li><li>Verwijdert hardnekkige vlekken</li><li>Hygienisch schoon</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714819,
+        "bonusSegmentDescription": "Alle WC-Eend",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Wc eendzorgt voor een fris, schoon en hygienischtoilet. De producten vanwc eendmaken schoonmaken van hettoileteenvoudig en gemakkelijk. Van toiletreinigers tot toiletblokken, voor een totale toiletverzorging kies je wc eend.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 10,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 570826,
+        "hqId": 11286,
+        "title": "Dreft Afwasmiddel max power original",
+        "salesUnitSize": "450 ml",
+        "unitPriceDescription": "normale prijs per liter €10.42",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635363231?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635363231?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635363231?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635363231?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 4.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Afwasmiddel",
+        "brand": "Dreft",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Dreft maxpower vloeibaar afwasmiddel wordt geleverd in een ondersteboven fles zonder flipdop, zodat je kunt schoonmaken zonder gedoe.</p><p><ul><li>Eenvoudig en moeiteloos schoonmaken, zelfs je vuilste potten en pannen</li><li>Ondersteboven fles zonder flipdop, zodat je kunt schoonmaken zonder gedoe</li><li>Dringt snel door in hardnekkig vet en maakt het zachter</li><li>Onweerstaanbare geur die je keuken lekker fris laat ruiken</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714835,
+        "bonusSegmentDescription": "Alle Dreft handafwas en Platinum vaatwascapsules",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Het maakt de afwas snel en eenvoudig, zodat je sneller klaar bent in de keuken.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 23,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 387974,
+        "hqId": 845354,
+        "title": "Campina Magere milde kwark met vleugje vanille",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €4.18",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363033?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363033?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363033?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036363033?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Kwark met smaak",
+        "brand": "Campina",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Campina kwark is mild van smaak en rijk aan proteine. Daarnaast is Campina trotse leverancier van teamnl en is de kwark samen met olympisch kampioen epke zonderland ontwikkeld.</p><p><ul><li>Gemaakt van Nederlandse weidemelk</li><li>Van nature rijk aan proteine en mild van smaak</li><li>Trotse leverancier van teamnl</li><li>Kwark voor (top) sporters</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714896,
+        "bonusSegmentDescription": "Alle Campina kwark 500 gram en yoghurt 1 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Door de jarenlange ervaring van de Campina boeren maakt Campina heerlijke producten. Al 150 jaar. Ze halen de eerlijke en pure kracht uit de natuur. En dat proef je.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 233988,
+        "hqId": 826818,
+        "title": "Hak Appelmoes 0%",
+        "salesUnitSize": "350 g",
+        "unitPriceDescription": "normale prijs per kg €7.11",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353639303139?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353639303139?revLabel=4&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353639303139?revLabel=4&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353639303139?revLabel=4&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353639303139?revLabel=4&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Appelmoes, appelcompote",
+        "brand": "Hak",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hak Appelmoes 0% is een friszoete variatie naar beproefd recept op de bekende Hak Appelmoes.</p><p><ul><li>Aan deze appelmoes zijn geen suikers en/of zoetstoffen toegevoegd</li><li>Een rijke en pure, maar veel minder zoete appelsmaak</li><li>Niet alleen lekker bij de maaltijd, maar ook als tussendoortje</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714803,
+        "bonusSegmentDescription": "Alle Hak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Variatietip: met een vleugje kaneel en een handje rozijnen en een paar plakjes bladerdeeg maak je in een handomdraai lekkere appelflappen.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 93,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 202196,
+        "hqId": 798339,
+        "title": "Hak Witte bonen in tomatensaus",
+        "salesUnitSize": "360 g",
+        "unitPriceDescription": "normale prijs per kg €7.19",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036333936?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036333936?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036333936?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036333936?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Witte bonen",
+        "brand": "Hak",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hak witte bonen in tomatensaus volgens authentiek Hak receptuur. Heerlijk voor de aardappel, vlees, groente maaltijd, maar bonen zijn ook geschikt als vlees vervanger.</p><p><ul><li>Lekker voor jong en oud</li><li>Gemakkelijk te openen door Hak 1 2 open deksel</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714803,
+        "bonusSegmentDescription": "Alle Hak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Variatietip: Voeg een pot witte bonen in tomatensaus toe aan de groentesoep voor een snelle minestronesoep.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 93,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 123,
+        "hqId": 830145,
+        "title": "Campina Halfvolle yoghurt vanillesmaak",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134373236?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134373236?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134373236?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134373236?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Vanille yoghurt",
+        "brand": "Campina",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze yoghurt is mild van smaak en bevat van nature voedingstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat.</p><p><ul><li>Zacht en mild van smaak</li><li>Van nature rijk aan calcium, proteine en vitamine b4</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li><li>Gemaakt van Nederlandse weidemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714896,
+        "bonusSegmentDescription": "Alle Campina kwark 500 gram en yoghurt 1 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Door de jarenlange ervaring van de Campina boeren maakt Campina heerlijke producten. Al 150 jaar. Ze halen de eerlijke en pure kracht uit de natuur. En dat proef je.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 195104,
+        "hqId": 798352,
+        "title": "Hak Doperwtjes",
+        "salesUnitSize": "350 g",
+        "unitPriceDescription": "normale prijs per kg €10.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363637?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363637?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363637?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393230363637?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Doperwten",
+        "brand": "Hak",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De rassenselectie van Hak doperwtjes zijn geselecteerd op zoetheid en malsheid en dit proef je.</p><p><ul><li>Van nature rijk aan voedingsvezels</li><li>Van Hollandse bodem</li><li>Direct na de oogst vers verwerkt</li><li>Gemakkelijk te openen door 1 2 open deksel</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714803,
+        "bonusSegmentDescription": "Alle Hak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Variatietip: Pureer de uitgelekte doperwten (houdt het vocht even apart) met een staafmixer, meng dit door een gelijke hoeveelheid aardappelpuree, voeg wat vocht van de doperwten toe tot de gewenste smeuigheid, kruid het geheel met vers gemalen peper en eventueel wat zout en je hebt een heerlijke smeuige doperwtenpuree.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 93,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 515697,
+        "hqId": 672920,
+        "title": "Ben & Jerry's Chocolate fudge brownie",
+        "salesUnitSize": "100 ml",
+        "unitPriceDescription": "normale prijs per liter €22.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs pints",
+        "brand": "Ben & Jerry's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Bestel nu de chocolate fudge brownie mini cup, heerlijk chocoladeroomijs met stukjes chocolate fudge brownie!</p><p><ul><li>Overheerlijk chocoladeroomijs</li><li>Een unieke smaakcombinatie</li><li>Gemaakt met Fairtrade ingredienten</li><li>Met (h)eerlijke chunks</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714839,
+        "bonusSegmentDescription": "Alle Ben & Jerry's en Magnum pints",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 41,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 459979,
+        "hqId": 77254,
+        "title": "Nalys Vochtvangers keukenpapier 2=4 rol",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323132?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323132?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323132?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323132?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "2-laags keukenpapier",
+        "brand": "Nalys",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Nalys vochtvangers, voor de hoogste absorptie!</p><p><ul><li>Unieke structuur: met super absorberende kussentjes</li><li>Het extra grote vel zorgt dat opruimen veel sneller en makkelijker gaat</li><li>Door de 2x zo lange rollen doe je ook veel langer met Nalys vochtvangers</li><li>Door de extra lange rollen is ook minder verpakking nodig</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714831,
+        "bonusSegmentDescription": "Alle Nalys keukenpapier",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Kortom efficienter in gebruik en minder belastend voor onze omgeving. </p>\n  <p>  Met handige easy-opening.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 451103,
+        "hqId": 58668,
+        "title": "Ben & Jerry's Caramel chew chew",
+        "salesUnitSize": "100 ml",
+        "unitPriceDescription": "normale prijs per liter €22.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Schepijs",
+        "brand": "Ben & Jerry's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Bestel nu de caramel chew chew mini cup, heerlijk karamelroomijs met een Swirl van karamel en choco-karamel chunks!</p><p><ul><li>Overheerlijk karamelroomijs</li><li>Een unieke smaakcombinatie</li><li>Gemaakt met fairtrade ingredienten</li><li>Met chunks en swirls</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714839,
+        "bonusSegmentDescription": "Alle Ben & Jerry's en Magnum pints",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 41,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 163693,
+        "hqId": 634276,
+        "title": "Ajax Allesreiniger eucalyptus",
+        "salesUnitSize": "1,25 l",
+        "unitPriceDescription": "normale prijs per liter €2.79",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738313037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738313037?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738313037?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738313037?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313738313037?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 3.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Allesreiniger",
+        "brand": "Ajax",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Zorg voor je huis en de planeet met Ajax eucalyptus allesreiniger. De nieuwe formule is net zo effectief als voorheen, maar meer verantwoord met 99% ingredienen van natuurlijke oorsprong.</p><p><ul><li>Nieuwe formule met 99% ingredienten van natuurlijke oorsprong</li><li>100% reinigingkracht, werkt tegen alle soorten vuil</li><li>Fles gemaakt van 100% gerecycled plastic</li><li>Fles en dop zijn 100% recyclebaar</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714841,
+        "bonusSegmentDescription": "Alle Dettol en Ajax",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Zorg voor je huis en de planeet met Ajax eucalyptus allesreiniger. Deze allesreiniger heeft een nieuwe meer verantwoorde formule gemaakt van 99% ingredienen van natuurlijke oorsprong en is nog steeds net zo effectief als de vorige formule. Ajax eucalyptus zit daarnaast in een fles is gemaakt van 100% gerecycled plastic en 100% recyclebaar. Wanneer je zorgt voor je huis, kun je er gerust op zijn dat Ajax zacht is voor de planeet. Ajax ontwikkelt samen met je.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 52,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 553815,
+        "hqId": 87676,
+        "title": "Batu Kombucha ginger & lemon",
+        "salesUnitSize": "250 ml",
+        "unitPriceDescription": "normale prijs per liter €6.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635323737?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635323737?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635323737?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635323737?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.65,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Kombucha",
+        "brand": "Batu",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Batu kombucha is een heerlijke lichtbruisende en verfrissende suikervrije drank, op basis van biologisch gefermenteerde thee en vruchtensap. Door consumenten gekozen tot beste product van het jaar.</p><p><ul><li>Zonder suiker</li><li>Een 100% natuurlijke, verkwikkende en verfrissende sensatie</li><li>Met echt (biologisch) fruitsap</li><li>Ambachtelijk gebrouwen in het meest duurzame brouwhuis van europa</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "biologisch"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714931,
+        "bonusSegmentDescription": "Alle craft frisdranken 250-330 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Batu ginger en lemon is volwassen, tintelend fris en een gezond alternatief voor alcohol en suikerhoudende dranken. Het heeft een avontuurlijke smaak en productiewijze. De basis is biologische groene en zwarte thee, die door een eerste fermentatie frisse zuren en prachtige smaakaroma's krijgt. Na dertig dagen wordt er extra thee en versgeperste gember en citroen toegevoegd, waarna alles nog een klein weekje verder fermenteert. Het resultaat: een frisse, 100% natuurlijke en suikervrije kombucha.het verhaal gaat dat kombucha oorspronkelijk door avonturiers uit mongolie via de zijderoute naar europa is gebracht. Batu staat in het mongools voor de moed en de kracht die nodig is om nieuwe dingen te doen.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 74,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 207330,
+        "hqId": 802249,
+        "title": "Hak Rode kool met stukjes appel",
+        "salesUnitSize": "355 g",
+        "unitPriceDescription": "normale prijs per kg €6.62",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313038313136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313038313136?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313038313136?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313038313136?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313038313136?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.35,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Rode kool (conserven)",
+        "brand": "Hak",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hak rode kool met stukjes appel is door de stukjes appel heerlijk friszoet. Verrukkelijk bij een stukje wild of hachee, maar ook door de stamppot of zelfs bij pasta.</p><p><ul><li>Rijk aan vitamine C</li><li>Gemakkelijk te openen door Hak 1 2 open deksel</li><li>Mooie glans</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714803,
+        "bonusSegmentDescription": "Alle Hak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Eet de rode kool eens als een salade: met stukjes mandarijn en rozijntjes.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 93,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 564798,
+        "hqId": 2454,
+        "title": "AH Terra Plantaardig rulgehakt",
+        "salesUnitSize": "375 g",
+        "unitPriceDescription": "normale prijs per kg €7.17",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313333?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313333?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313333?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537313333?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Vegetarisch gehakt",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714877,
+        "bonusSegmentDescription": "AH Runder- en scharrelkipgehakt 300 gram en AH Terra plantaardig rulgehakt",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 189672,
+        "hqId": 791489,
+        "title": "Hak Appelmoes extra kwaliteit",
+        "salesUnitSize": "700 g",
+        "unitPriceDescription": "normale prijs per kg €4.27",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383937333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383937333933?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383937333933?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383937333933?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383937333933?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Appelmoes, appelcompote",
+        "brand": "Hak",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hak appelmoes is een lekkere friszoete appelmoes, gemaakt van een unieke combinatie van 3 zorgvuldig geselecteerde appelrassen. Lekker als smaakmaker bij elke Hollandse maaltijd of als toetje.</p><p><ul><li>Vaste mix van 3 appelrassen zorgt voor unieke en constante smaak</li><li>Stevige structuur</li><li>Gemakkelijk te openen door 1 2 open deksel</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714803,
+        "bonusSegmentDescription": "Alle Hak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Variatietip: Roer een eetlepel zoete chilisaus door twee eetlepels appelmoes. Lekker voor bij de frietjes en of een hamburger.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 93,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 560559,
+        "hqId": 684265,
+        "title": "AH Scharrel smokey kipburger",
+        "salesUnitSize": "250 g",
+        "unitPriceDescription": "normale prijs per kg €14.76",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937363837?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937363837?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937363837?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937363837?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 3.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Kipburger",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714776,
+        "bonusSegmentDescription": "Alle AH Scharrelkipburgers 2 stuks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 5,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,3794 @@
+[
+    {
+        "webshopId": 212118,
+        "hqId": 622404,
+        "title": "AH IJsblokjes",
+        "salesUnitSize": "1 kg",
+        "unitPriceDescription": "prijs per kg €0.85",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935313434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935313434?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935313434?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935313434?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935313434?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.85,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "IJsblokjes",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Altijd ijsblokjes op voorraad</li><li>Direct te gebruiken</li><li>Individueel ingevroren</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 514003,
+        "hqId": 7923,
+        "title": "Dr. Oetker Ristorante pizza salami",
+        "salesUnitSize": "320 g",
+        "unitPriceDescription": "prijs per kg €9.97",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383930?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383930?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383930?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383930?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ristorante pizza salame is een heerlijke diepvries pizza, rijk belegd met (hoe kan het ook anders) salami, mozzarella en Edammer kaas. We say salame, you say salami. En mmm!</p><p><ul><li>Krokante dunne bodem, rijkelijk belegd tot aan de rand</li><li>Een echte pizza party voor de kaas- en vleesliefhebber</li><li>Romantisch aan tafel, knus op de bank of gezellig tijdens de borrel</li><li>Oven: elektrisch 220 graden celsius of hetelucht ca. 200 graden celsius, 10-12 min</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Geef jouw dag meer amore met Ristorante. Dit is de pizza met een krokante dunne bodem die rijkelijk belegd is met de lekkerste ingredienten. Met het brede assortiment is er genoeg keuze voor iedereen. Zo kunnen nog meer pizzaliefhebbers samen genieten van een heerlijke pizza. Ristorante, Smaakt altijd zoals bij de italiaan. Buon appetito!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 195093,
+        "hqId": 796712,
+        "title": "AH Airfryer ovenfriet",
+        "salesUnitSize": "750 g",
+        "unitPriceDescription": "prijs per kg €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538373031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538373031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538373031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538373031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538373031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (oven)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><p class=\"extension-description\">\n\t\t\tHeerlijk lang en knapperige oven friet</p><p><ul><li><strong>Bereidingswijze: </strong>Oven</li><li><strong>Weetje of tip: </strong>De oven friet voor gebruik niet ontdooien.</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p class=\"extra-description\"> Oven (220&#176;C): spreid de oven friet in &#233;&#233;n laag op een bakplaat met bakpapier. Bak de oven friet gedurende 15-20 minuten in het midden van een voorverwarmde oven goudgeel. Eenmaal keren.  </p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 209562,
+        "hqId": 803962,
+        "title": "Ola Raket",
+        "salesUnitSize": "12 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 3.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Waterijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ola raket waterijs is de enige echte raket sinds 1962, een heerlijk fris en fruitig waterijsje met slechts 42 kilocalorieen, zonder kunstmatige kleur- en smaakstoffen.</p><p><ul><li>Ola raket waterijs, de enige echte raket sinds 1962, is lekker fruitig</li><li>Een fruitig tussendoortje met slechts 42 kilocalorieen per ijsje</li><li>Een heerlijk fris waterijsje met ananas-, frambozen- en sinaasappelsmaak</li><li>Heerlijk waterijs zonder kunstmatige kleur- en smaakstoffen</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over Ola raket waterijs: Ola raket waterijs is een heerlijk fruitig waterijsje met verschillende smaken. Een frisse combinatie van ananas-, frambozen- en sinaasappelsmaak. Het begint met een topje frambozenijs en het eindigt met een groot stuk ananasijs. Middenin vind je een laag sinaasappelijs. Heerlijk verfrissend en fruitig. Perfect als tussendoortje, maar ook bij warme temperaturen, op een vakantie, in je eigen tuin, onderweg, als toetje of voor bij een leuke film. Houd het ijsje lekker voor jezelf, of deel een Ola raket met je lief, vrienden of familie. Daarnaast is de raket een ijsje met maar 40 kilocalorieen per stuk. Kortom, een lekker koude traktatie om lang van te genieten. De enige echte raket sinds 1962. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is onderdeel van 'the heartbrand', het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 585194,
+        "hqId": 0,
+        "title": "Ola Raket 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313238363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313238363338?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313238363338?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313238363338?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313238363338?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 5.38,
+        "priceBeforeBonus": 7.18,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Waterijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Koop nu in een 2-pack met extra voordeel, met 12 verpakte ijsjes per doos (24 verpakte ijsjes per 2-pack). Ola Raket waterijs, de enige echte Raket sinds 1962, is lekker fruitig. Een verfrissend tussendoortje met slechts 42 kilocalorieen per ijsje.</p><p><ul><li>Ola Raket 12 stuks 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 209562,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 451124,
+        "hqId": 574647,
+        "title": "Ben & Jerry's Cookie dough",
+        "salesUnitSize": "100 ml",
+        "unitPriceDescription": "normale prijs per liter €22.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs pints",
+        "brand": "Ben & Jerry's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ben en jerry's cookie dough ijs is (h)eerlijk vanille-ijs met choco chip koekjesdeeg chunks!</p><p><ul><li>Ben en jerry's cookie dough ijs heeft een klein lepeltje in het deksel</li><li>Vanille-ijs vol met choco chip koekjesdeeg chunks</li><li>Dit ijs bevat Fairtrade gecertificeerde ingredienten</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714839,
+        "bonusSegmentDescription": "Alle Ben & Jerry's en Magnum pints",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 41,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 590454,
+        "hqId": 0,
+        "title": "Ben & Jerry's Cookie Dough mini 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343931?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343931?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343931?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343931?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 6.18,
+        "priceBeforeBonus": 6.87,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs pints",
+        "brand": "Ben & Jerry's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Ben & Jerry's Cookie Dough mini 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 451124,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 451996,
+        "hqId": 582686,
+        "title": "AH Stokbrood kruidenboter",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832363538?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832363538?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832363538?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832363538?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Zelfbakbrood (diepvries)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Altijd warm afgebakken brood in huis met dit knapperig en voorgesneden stokbrood met kruidenboter.</p><p><ul><li>Lekker bij borrel of soep</li><li>Ook ideaal bij een feestje, soep, bbq, Gourmet of kaasfondue</li><li>Met kruidenboter</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega",
+            "diepvries",
+            "afbakken"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 397800,
+        "hqId": 848309,
+        "title": "Aviko Supercrunch airfryer pommes frites",
+        "salesUnitSize": "750 g",
+        "unitPriceDescription": "prijs per kg €3.45",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313938?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313938?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313938?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313938?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (oven)",
+        "brand": "Aviko",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Aviko supercrunch pommes frites voor de airfryer zijn speciaal ontwikkeld voor bereiding in de airfryer. Deze airfryer friet is extra krokant, lang en dun, speciaal voor de fijnproevers.</p><p><ul><li>Super krokante friet</li><li>Speciaal ontwikkeld voor bereiding in de airfryer</li><li>Patat gemaakt van de lekkerste aardappelen</li><li>Extra lekker met mayonaise of jouw favoriete saus</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Aviko supercrunch pommes frites voor de airfryer is heerlijk Crispy patat waar iedereen van geniet. Krokant van buiten en zacht van binnen zoals friet hoort te zijn. Aviko selecteert hiervoor zorgvuldig verse aardappelen, afkomstig van lokale boeren. De aardappelen worden geschild, gesneden en speciaal voorgebakken, zodat deze perfect kunnen afbakken in de airfryer. Ook na bereiding blijven de frites extra lang knapperig.een heerlijke combinatie is Aviko supercrunch airfryer friet met verse groenten en eenvegetarische hamburger. Of denk eens aan een rustieke hotdog met crunchy friet. Bak hiervoor de friet zoals aangegeven op de verpakking. Warm kant en klare hotdogs op in heet water. Snijd rustieke ministokbroodjes in de lengte van boven in. Vul de broodjes met dunne partjes zure appel en met de worstjes. Maak de broodjes af met wat munt, mayonaise en fijngesneden lente-uitjes.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 474188,
+        "hqId": 726833,
+        "title": "Aviko Supercrunch airfryer dunne friet",
+        "salesUnitSize": "750 g",
+        "unitPriceDescription": "prijs per kg €3.85",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536323032?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536323032?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536323032?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536323032?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (oven)",
+        "brand": "Aviko",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Aviko dunne friet supercrunch voor de airfryer zijn speciaal ontwikkeld voor bereiding in de airfryer. Deze airfryer friet is extra krokant, lang en dun, speciaal voor de fijnproevers.</p><p><ul><li>Super krokante en dunne friet</li><li>Speciaal ontwikkeld voor bereiding in de airfryer</li><li>Patat gemaakt van de lekkerste aardappelen</li><li>Extra lekker met mayonaise of jouw favoriete saus</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "De Aviko dunne friet supercrunch voor de airfryer is heerlijk Crispy patat waar iedereen van geniet. Krokant van buiten en zacht van binnen zoals patat hoort te zijn. Aviko selecteert hiervoor zorgvuldig verse aardappelen, afkomstig van lokale boeren. De dunne friet is gemakkelijk te bereiden in de airfryer en binnen mum van tijd goudgeel en super knapperig. Ook na bereiding blijft de patat extra lang krokant.een heerlijke combinatie is deze airfryer patat met verse groenten en een vegetarische hamburger. Of denk eens aan een rustieke hotdog met crunchy patat. Bak hiervoor de friet zoals aangegeven op de verpakking. Warm kant en klare hotdogs op in heet water. Snijd rustieke ministokbroodjes in de lengte van boven in. Vul de broodjes met dunne partjes zure appel en met de worstjes. Maak de broodjes af met wat munt, mayonaise en fijngesneden lente-uitjes.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 62761,
+        "hqId": 524664,
+        "title": "Dr. Oetker Big Americans pizza Texas",
+        "salesUnitSize": "435 g",
+        "unitPriceDescription": "prijs per kg €11.47",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393838?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393838?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393838?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393838?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 4.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dikke bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ga voor een superieure smaak met Big Americans pizza texas! Deze pizza met kruidige pepperoni-salami en extra veel kaas is de perfecte keuze voor vleesliefhebbers.</p><p><ul><li>Voetbal-, game-, of filmavond? dit is jouw pizza</li><li>Dikke Amerikaanse bodem: luchtig van binnen, knapperig van buiten</li><li>Tot de rand royaal belegd met de allerlekkerste ingredienten</li><li>Oven voorverwarmen. Elektrisch 220 graden celsius, hetelucht ca. 200 graden celsius. 14-16 min</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Maak een avond tv kijken of gamen op de bank helemaal compleet met de pizza's van Big Americans. Amerika, het land van pulled pork, barbecue en pizza, is groots in veel opzichten. Big Americans BBQ chicken is de juiste keuze voor liefhebbers van barbecuesaus. Ben jij die liefhebber? leg er een paar in je vriezer en zet een heerlijke pizza op tafel voor whenever. Snel te bereiden in de oven en daarom precies wat je wilt voor een relaxte maaltijd. De extra dikke bodem is luchtig van binnen en knapperig van buiten, royaal belegd met echte kaas en afgetopt met de lekkerste ingredienten. Het resultaat? intense smaak en smeuigheid tot en met de laatste hap. The real big taste!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 167127,
+        "hqId": 643266,
+        "title": "AH 4 kleuren ijsjes",
+        "salesUnitSize": "8 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383930343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383930343033?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383930343033?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383930343033?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383930343033?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Waterijs",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Vier kleuren sticks met ananas-, sinaasappel- en framboossap en citroensmaak. 8 in een pak, genoeg om uit te delen!</p><p><ul><li>Bereid met vruchtensap</li><li>Met vier frisse fruitsmaken</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 514005,
+        "hqId": 7946,
+        "title": "Dr. Oetker Ristorante pizza margherita",
+        "salesUnitSize": "295 g",
+        "unitPriceDescription": "prijs per kg €13.19",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393134?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393134?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393134?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393134?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De koningin onder de pizza's, de pizza margherita! Deze heerlijke Ristorante diepvries pizza is rijkelijk belegd met mozzarella, Goudse kaas en basilicum. Echt zon allemansvriend die iedereen lust.</p><p><ul><li>Krokante dunne bodem, rijkelijk belegd tot aan de rand</li><li>Ook favoriet bij de jonge fijnproevers</li><li>Romantisch aan tafel, knus op de bank of gezellig tijdens de borrel</li><li>Oven: elektrisch 220 graden celsius of hetelucht ca. 200 graden celsius, 10-12 min</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Geef jouw dag meer amore met Ristorante. Dit is de pizza met een krokante dunne bodem die rijkelijk belegd is met de lekkerste ingredienten. Met het brede assortiment is er genoeg keuze voor iedereen. Zo kunnen nog meer pizzaliefhebbers samen genieten van een heerlijke pizza. Ristorante, Smaakt altijd zoals bij de italiaan. Buon appetito!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 169184,
+        "hqId": 752060,
+        "title": "Aviko Supercrunch originals Franse friet",
+        "salesUnitSize": "750 g",
+        "unitPriceDescription": "prijs per kg €3.32",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536333637?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536333637?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536333637?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536333637?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (frituur)",
+        "brand": "Aviko",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Aviko franse friet supercrunch wordt gemaakt van verse, met zorg geselecteerde aardappelen voor de lekkerste patat.</p><p><ul><li>Super krokante dunne friet</li><li>Gemakkelijk te bereiden in de frituur, oven of airfryer</li><li>Friet gemaakt van de lekkerste aardappelen</li><li>Extra lekker met mayonaise of jouw favoriete saus</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Aviko franse friet supercrunch is heerlijk knapperige patat waar iedereen van geniet. Deze friet is extra lang en extra dun, speciaal voor de fijnproevers. Krakend krokant van buiten en zacht van binnen zoals friet hoort te zijn. Aviko selecteert hiervoor zorgvuldig de beste verse aardappelen, afkomstig van lokale boeren. De aardappelen worden geschild, gesneden en speciaal voorgebakken, zodat deze perfect afgebakken kunnen worden in de frituur, oven of airfryer.een heerlijke combinatie is Aviko franse frites met verse groenten en een (vegetarische) hamburger. Of denk eens aan franse friet met kip, venkel en sinaasappel. Bak hiervoor de frites zoals aangegeven op de verpakking. Maak een marinade van sinaasappel- en citroensap. Leg de kip op de borst tussen de venkel in een ovenschaal en bestrijk met de sinaasappelmarinade. Bak 75 minuten in de oven op 175 ?c. Leg de kip met de venkel en sinaasappel op een schaal. Schep de patat erbij en bestrooi met peterselie. Serveer met de mayonaise. Check aviko.nl voor het volledige recept, zoek op `franse friet`.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 437046,
+        "hqId": 60851,
+        "title": "AH Choco's mini mix",
+        "salesUnitSize": "8 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130333834?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130333834?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130333834?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303130333834?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.35,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een mix van romige vanille ijssticks omhuld met onweerstaanbare belgische melkchocolade, witte chocolade, pure chocolade of melkchocolade met crunchy amandelen.</p><p><ul><li>Ijs op basis van verse melk</li><li>Coating van echte belgische chocolade</li><li>Met bourbonvanille-extract</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 772,
+        "hqId": 624315,
+        "title": "AH Aardappelkroketjes",
+        "salesUnitSize": "600 g",
+        "unitPriceDescription": "prijs per kg €2.32",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338383932?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338383932?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338383932?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338383932?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Aardappelkroketten (diepvries)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Voorgebakken aardappelkroketjes, van verse aardappelpuree. <strong>Frituur (175&#176;C):</strong> maximaal 200-250 gram aardappelkroketjes gedurende 3-4 minuten. Laat na het frituren even uitlekken. <strong>Oven (220&#176;C):</strong> bak de aardappelkroketjes 15-20 minuten in het midden van een voorverwarmde oven. Eenmaal keren.</p><p><ul><li><strong>Bereidingswijze:</strong> Frituur, Oven</li><li><strong>Weetje of tip:</strong> Bak voor een gezondere bereidingswijze de aardappelkroketjes in de oven, in plaats van in de friteuse.</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<strong>Frituur (175&#176;C):</strong> maximaal 200-250 gram aardappelkroketjes gedurende 3-4 minuten. Laat na het frituren even uitlekken. <strong>Oven (220&#176;C):</strong> bak de aardappelkroketjes 15-20 minuten in het midden van een voorverwarmde oven. Eenmaal keren.<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 420327,
+        "hqId": 692058,
+        "title": "AH Oven kroket",
+        "salesUnitSize": "320 g",
+        "unitPriceDescription": "prijs per kg €8.59",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933303430?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933303430?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933303430?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933303430?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.75,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Kroket (oven)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze rundvlees kroket m&#x00E9;t een heerlijk krokant laagje komt gewoon uit eigen oven!</p><p><ul><li>Heerlijk als snack of borrelhapje</li><li>Eenvoudig thuis in de oven te bereiden</li><li>Kan ook in airfryer</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 62060,
+        "hqId": 538520,
+        "title": "Magnum Mini classic almond white",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "Magnum",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Al jouw favoriete Magnum ijs in mini-formaat: classic, almond en white chocolate, de perfecte balans tussen fluweelzacht vanille-ijs, omhuld met een laag krakende Magnum chocolade.</p><p><ul><li>Magnum mini classic, almond en white chocolate ijs, perfect om uit te delen</li><li>Heerlijk vanille-ijs overgoten met een krakende laag Magnum chocolade</li><li>Met de klassieke Magnum mini ijs kan je maximaal genieten in klein formaat</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 585187,
+        "hqId": 0,
+        "title": "Magnum Mini Classic Almond White 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353134?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353134?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353134?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353134?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 8.98,
+        "priceBeforeBonus": 11.98,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "Magnum",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Koop nu in een 2-pack met extra voordeel met 6 verpakte ijsjes per doos (12 verpakte ijsjes per 2-pack). De Magnum Mini Classic bevat romig vanilleijs en is overgoten met chocolade. De Magnum Mini Almond is heerlijk, dankzij de knapperige stukjes amandel. De Magnum Mini White: voor iedereen die wilt genieten van witte chocolade.</p><p><ul><li>Magnum Mini Classic 6 stuks 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 62060,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 220407,
+        "hqId": 815523,
+        "title": "Mora Oven & airfryer frikandellen",
+        "salesUnitSize": "4 x 70 g",
+        "unitPriceDescription": "prijs per kg €9.61",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036353635?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036353635?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036353635?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036353635?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Frikandel (oven)",
+        "brand": "Mora",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze speciale ovenfrikandel heeft de vertrouwde Mora smaak.</p><p><ul><li>12 minuutjes bereiden in de oven</li><li>Zonder kunstmatige geur- en smaakstoffen</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 217006,
+        "hqId": 808774,
+        "title": "AH Krokante friet",
+        "salesUnitSize": "1 kg",
+        "unitPriceDescription": "prijs per kg €1.79",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931383233?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931383233?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931383233?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931383233?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (frituur)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Gebakken in zonnebloemolie</li><li>Alleen voor de frituur</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 513999,
+        "hqId": 7827,
+        "title": "Dr. Oetker Ristorante pizza mozzarella",
+        "salesUnitSize": "355 g",
+        "unitPriceDescription": "prijs per kg €8.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393034?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393034?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393034?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393034?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ristorante mozzarella is een heerlijke vegetarische diepvries pizza, rijk belegd met mozzarella, cocktailtomaatjes en pesto van de beste olijfolie en pecorino. Hou maar op, je had me al bij pizza!</p><p><ul><li>Krokante dunne bodem, rijkelijk belegd tot aan de rand</li><li>De perfecte pizza keuze voor kaasliefhebbers</li><li>De perfecte pizza keuze voor kaasliefhebbers</li><li>Oven: elektrisch 220 graden celsius of hetelucht ca. 200 graden celsius, 10-12 min</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Geef jouw dag meer amore met Ristorante. Dit is de pizza met een krokante dunne bodem die rijkelijk belegd is met de lekkerste ingredienten. Met het brede assortiment is er genoeg keuze voor iedereen. Zo kunnen nog meer pizzaliefhebbers samen genieten van een heerlijke pizza. Ristorante, Smaakt altijd zoals bij de italiaan. Buon appetito!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 765,
+        "hqId": 624311,
+        "title": "AH Aardappelschijfjes",
+        "salesUnitSize": "600 g",
+        "unitPriceDescription": "prijs per kg €3.15",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303130393831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303130393831?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303130393831?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303130393831?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303130393831?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Aardappelschijfjes (diepvries)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Typische smaak van aardappel Frituur (175&#176;C): maximaal 200-250 gram aardappelschijfjes tegelijk gedurende 4-6 minuten. Laat de aardappelschijfjes na het frituren even uitlekken. Koekenpan: verhit boter en/of (olijf)olie en bak</p><p><ul><li><strong>Bereidingswijze: </strong>Frituur, Koekenpan, Oven, Airfreyer</li><li><strong>Weetje of tip: </strong>De aardappelschijfjes voor gebruik niet ontdooien.</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Frituur (175&#176;C): maximaal 200-250 gram aardappelschijfjes tegelijk gedurende 4-6 minuten. Laat de aardappelschijfjes na het frituren even uitlekken. Koekenpan: verhit boter en/of (olijf)olie en bak<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 579284,
+        "hqId": 0,
+        "title": "AH Aardappelschijfjes 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032303034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032303034?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032303034?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032303034?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032303034?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 3.59,
+        "priceBeforeBonus": 3.78,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Aardappelschijfjes (diepvries)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>AH Aardappelschijfjes 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 765,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 514010,
+        "hqId": 9480,
+        "title": "Dr. Oetker Casa di mama pizza salami",
+        "salesUnitSize": "390 g",
+        "unitPriceDescription": "normale prijs per kg €11.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 4.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Casa di mama salame is een authentieke Italiaanse pizza die thuis in de oven rijst! De luchtige dikke rand en een krokante dunne bodem is rijkelijk belegd met salami en mozzarella. Proeven?</p><p><ul><li>Krokante dunne bodem met luchtige dikke rand</li><li>Unieke gistbodem: rijst thuis in de oven</li><li>Houd je van salami, dan is dit jouw nieuwe favoriete pizza</li><li>Verwarm oven voor: 250 graden celsius elektrisch/ca. 230 graden celsius hetelucht en bak 12-15 min</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714305,
+        "bonusSegmentDescription": "Alle Dr. Oetker Casa di Mama",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Mmm, pizza. Wie houdt er niet van? Casa di Mama salami is een echte klassieker en is de perfecte pizza keuze voor liefhebbers van vlees. De kruidige salami geeft een intens verrukkelijke smaak en de romige mozzarella en Edammer kaas maken deze diepvries pizza compleet. Stuk voor stuk heerlijke hoogwaardige ingredienten als topping. \n\nmaar het geheim zit m in de bodem! Een krokante dunne bodem en een luchtige dikke rand, die thuis in de oven rijst. Voor het beste resultaat verwarm je de oven voor op de aangegeven temperatuur (250 graden celsius elektrisch/ca. 230 graden celsius hetelucht), voordat je de pizza in de oven stopt. Verwijder het folie en het karton, laat het bakpapier onder de pizza zitten tijdens het bakken en bak de bevroren pizza op een bakplaat onderin de oven. Kijk je goed, dan zie je de pizza rijzen en nog meer rijzen voor je ware Italiaanse pizzabelevenis.\n\nde pizza's van Casa di Mama zijn er in meer verschillende varianten en worden allemaal gemaakt van de beste ingredienten. Altijd handig om in de diepvries te hebben liggen voor een uitgebreid italiaans dinner met verschillende hapjes of om te serveren tijdens drukke avonden als makkelijke maaltijd. Geniet van iedere hap van deze authentieke Italiaanse pizza.\n\ncasa di mama, je pizza die rijst in de oven!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "webshopId": 209567,
+        "hqId": 803997,
+        "title": "Ola Cornetto classico",
+        "salesUnitSize": " 6 x 90 ml",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 4.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs bekertjes",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De enige echte originele Ola Cornetto classico is liefde op het eerste gezicht.</p><p><ul><li>De enige echte Ola Cornetto classico is liefde op het eerste gezicht</li><li>Een knapperig wafelhoorntje gevuld met heerlijk vanille roomijs</li><li>Met krokante chocolade en nog meer nootjes dan voorheen</li><li>Cornetto's met het welbekende chocoladepuntje</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "De Ola Cornetto classico is terug van weggeweest en smaak door zijn verbeterde receptuur nu nog beter dan ooit. Het extra knapperige wafelhoorntje is gevuld met heerlijk roomijs, de knapperige chocolade is vol van smaak en de bovenkant van het ijsje is rijkelijk gevuld met nootjes. In deze handige uitdeelverpakking zitten 8 ijsjes, die je perfect met elkaar kan delen. Wij bij Cornetto perfectioneren al drie generaties lang ons speciale recept, zodat het eten van Cornetto ijs een van de kleine genietmomenten van het leven is. Iedere Cornetto is namelijk echt een traktatie. Van de verrassende toplaag, via het heerlijk zachte ijs naar het knapperige wafelhoorntje en het geliefde chocoladepuntje. Bij Cornetto is iedere hap een genot, omdat we vinden dat onze ingredienten goed van smaak en kwaliteit moeten zijn. De extra knapperige chocolade en het feit dat de bovenkant nu nog rijkelijker met stukjes hazelnoot is bedekt maken die eerste happen nog onvergetelijker. Toch is de Cornetto classico verder vooral hetzelfde gebleven. Waarom zou je veel veranderen aan iets wat al zo goed is? de Ola Cornetto classico heeft dan ook nog steeds zijn geliefde smaak en vertrouwde charme. Bovendien zijn de individuele verpakkingen van Cornetto ook nog eens ideaal voor feestjes of voor een dag op het strand. Zelfs in de zon blijven ze makkelijk om uit te delen en om te eten. Zo maak je er voor iedereen een onvergetelijke zomer van. Bewaar de ijsjes koel en donker bij -18  graden celsius.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 594715,
+        "hqId": 0,
+        "title": "Ola Cornetto classico 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373332?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373332?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373332?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373332?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 6.22,
+        "priceBeforeBonus": 8.3,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs bekertjes",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Ola Cornetto classico 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 209567,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 226519,
+        "hqId": 815621,
+        "title": "Ola Cornetto classico mini",
+        "salesUnitSize": "6 x 60 ml",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 3.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs bekertjes",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Cornetto Ola mini classico ijs: de kleinere versie van de vertrouwde Cornetto classico, een echte traktatie!</p><p><ul><li>Cornetto Ola mini classico ijs is liefde op het eerste gezicht</li><li>Een knapperig wafelhoorntje gevuld met heerlijk vanille-roomijs</li><li>Met krokante chocolade en knapperige nootjes</li><li>Cornetto mini in het vertrouwde hoorntje met het welbekende chocoladepuntje</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over Cornetto Ola mini classico ijs: Cornetto Ola mini classico ijs: een extra knapperig wafelhoorntje gevuld met heerlijk roomijs, de knapperige chocolade is vol van smaak en de bovenkant van het ijsje is rijkelijk gevuld met nootjes. In deze handige uitdeelverpakking zitten 6 mini-ijsjes, die je perfect met elkaar kan delen. Wij bij Cornetto perfectioneren al drie generaties lang ons speciale recept, zodat het eten van Cornetto ijs een van de kleine genietmomenten van het leven is. Iedere Cornetto is namelijk echt een traktatie. Van de verrassende toplaag, via het heerlijk zachte ijs naar het knapperige wafelhoorntje en het geliefde chocoladepuntje. Bovendien zijn de individuele verpakkingen van Cornetto ook nog eens ideaal voor feestjes of voor een dag op het strand. Zelfs in de zon blijven ze makkelijk om uit te delen en om te eten. Zo maak je er voor iedereen een onvergetelijke zomer van. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is onderdeel van 'the heartbrand', het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 514008,
+        "hqId": 8092,
+        "title": "Dr. Oetker Ristorante pizza salami mozzarella pesto",
+        "salesUnitSize": "360 g",
+        "unitPriceDescription": "prijs per kg €10.81",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393137?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393137?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393137?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393137?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Het is altijd pizzatijd met onze Ristorante pizza salami mozzarella pesto. Een heerlijke diepvries pizza, rijkelijk belegd met salami, mozzarella, pesto en ook cherrytomaatjes. Klinkt goed he?</p><p><ul><li>Krokante dunne bodem, rijkelijk belegd tot aan de rand</li><li>Salami, mozzarella, pesto en cherrytomaatjes wat wil je nog meer?</li><li>Romantisch aan tafel, knus op de bank of gezellig tijdens de borrel</li><li>Oven: elektrisch 220 graden celsius of hetelucht ca. 200 graden celsius, 11-13 min</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Geef jouw dag meer amore met Ristorante. Dit is de pizza met een krokante dunne bodem die rijkelijk belegd is met de lekkerste ingredienten. Met het brede assortiment is er genoeg keuze voor iedereen. Zo kunnen nog meer pizzaliefhebbers samen genieten van een heerlijke pizza. Ristorante, Smaakt altijd zoals bij de italiaan. Buon appetito!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 429057,
+        "hqId": 696700,
+        "title": "AH Saté ajam",
+        "salesUnitSize": "160 g",
+        "unitPriceDescription": "prijs per kg €9.31",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303538343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303538343033?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303538343033?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303538343033?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303538343033?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Sate (diepvries)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heerlijke malse kipsat&#x00E9; in een bakje, met smaakvolle pindasaus voor een ouderwets lekkere sat&#x00E9; maaltijd. Serveer met bijvoorbeeld friet, rijst of brood.</p><p><ul><li>Van de Nieuwe AH Kip</li><li>Erg lekker bij bijvoorbeeld friet, rijst of brood</li><li>Makkelijk en bovenal lekker</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 515697,
+        "hqId": 672920,
+        "title": "Ben & Jerry's Chocolate fudge brownie",
+        "salesUnitSize": "100 ml",
+        "unitPriceDescription": "normale prijs per liter €22.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs pints",
+        "brand": "Ben & Jerry's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Bestel nu de chocolate fudge brownie mini cup, heerlijk chocoladeroomijs met stukjes chocolate fudge brownie!</p><p><ul><li>Overheerlijk chocoladeroomijs</li><li>Een unieke smaakcombinatie</li><li>Gemaakt met Fairtrade ingredienten</li><li>Met (h)eerlijke chunks</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714839,
+        "bonusSegmentDescription": "Alle Ben & Jerry's en Magnum pints",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 41,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 590452,
+        "hqId": 0,
+        "title": "Ben & Jerry's Chocolate fudge brownie 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343839?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343839?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343839?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343839?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 4.12,
+        "priceBeforeBonus": 4.58,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs pints",
+        "brand": "Ben & Jerry's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Ben & Jerry's Chocolate fudge brownie 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 515697,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 112579,
+        "hqId": 564435,
+        "title": "Ola Festini peer",
+        "salesUnitSize": "12 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 4.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Waterijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ola festini peer waterijs is een heerlijk fruitijsje met echte peren.</p><p><ul><li>Ola festini peer waterijs is een heerlijk fruitig ijsje</li><li>Een fruitig tussendoortje met slechts 50 kilocalorieen per waterijsje</li><li>De waterijsjes bevatten vitamine c en echte peren</li><li>De perenijsjes bevatten geen kunstmatige kleur- en smaakstoffen</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over Ola festini peer waterijs: Ola festini peer waterijs is een heerlijk ijsje met de fruitige smaak van peer. Dat is simpel genieten. De festini peer is al jaren een absolute favoriet onder ijsliefhebbers en dat is ook niet zo gek. De festini fruitijsjes, zonder kunstmatige kleur- en smaakstoffen, bevatten 23% van de aanbevolen dagelijkse hoeveelheid vitamine c. Met maar 50 calorieen per stuk is het een heel puur en fruitig ijsje. Perfect voor bij warme temperaturen, op een vakantie, in je eigen tuin, als nagerecht, tussendoortje, toetje, onderweg of voor bij een leuke film. Daarnaast is de festini ook verkrijgbaar in de smaak aardbei. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is onderdeel van 'the heartbrand', het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten. Share happiness en geniet van een Ola festini waterijsje met echte peren!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 173078,
+        "hqId": 767810,
+        "title": "Ola Calippo supermix",
+        "salesUnitSize": "5 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 4.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Waterijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De Ola calippo supermix is een uitdeeldoos met een gevarieerd assortiment calippo-ijsjes, voor een zomers gevoel het hele jaar door.</p><p><ul><li>Ola calippo supermix waterijs: uitdeeldoos met vier verschillende smaken</li><li>Verfrissende traktatie in de smaken sinaasappel, cola, aardbei en citroen</li><li>Calippo is heerlijk waterijs gemaakt met natuurlijke aroma's</li><li>Een lekker waterijsje om alleen of met anderen van te genieten</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over calippo supermix waterijs: de Ola calippo supermix waterijs is een uitdeeldoos met waterijsjes in verschillende smaken. In deze verpakking zitten de heerlijke calippo-ijsjes in vier verschillende smaken: sinaasappel-, cola-, aardbei- en citroen-waterijs. De calippo-waterijsjes zijn gemaakt met natuurlijke aroma's. Deze waterijsjes zijn een perfecte verfrissing voor op een warme zomerse dag en bij warme temperaturen bijvoorbeeld op vakantie, in je eigen tuin, onderweg of voor bij een leuke film. En door de handige verpakking van calippo geniet je zonder plakkerige handen. Houd het ijsje lekker voor jezelf, of deel een Ola calippo-waterijsje met je lief, vrienden of familie. Kortom, een lekkere koude traktatie in een uitdeeldoos om lang van te genieten. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is onderdeel van 'the heartbrand', het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 167126,
+        "hqId": 643265,
+        "title": "AH Sunniez sinaasappel",
+        "salesUnitSize": "9 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838373832?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838373832?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838373832?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838373832?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.95,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekkere combi! 9 vanille roomijsjes omhuld door een frisse laag sinaasappelwaterijs. Genoeg in een pak om uit te delen.</p><p><ul><li>Kinderen zijn er dol op!</li><li>Heerlijk verfrissend</li><li>Een echte klassieker</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 451463,
+        "hqId": 583158,
+        "title": "Mora Crispy chick'n original strips",
+        "salesUnitSize": "240 g",
+        "unitPriceDescription": "prijs per kg €16.63",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353536303231?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353536303231?revLabel=4&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353536303231?revLabel=4&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353536303231?revLabel=4&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239353536303231?revLabel=4&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Kipsnacks (oven)",
+        "brand": "Mora",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heerlijk van smaak met 100% beter welzijn kipfilet. Mals van binnen en omhuld met een knapperig korstje. Perfect voor bij de borrel of maaltijd. Daar wil je als de kippen bij zijn!</p><p><ul><li>100% kipfilet</li><li>Beter welzijn kipfilet</li><li>Zonder kunstmatige geur-, kleur- en smaakstoffen</li><li>Heerlijk uit de frituur, airfryer en oven</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 591841,
+        "hqId": 0,
+        "title": "Mora Crispy Chick'n strips 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735393630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735393630?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735393630?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735393630?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735393630?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 10.77,
+        "priceBeforeBonus": 11.97,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Kipsnacks (oven)",
+        "brand": "Mora",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ieder gerecht kiplekker! Mora Crispy Chick'n is heerlijk van smaak met 100% kipfilet. Ze zijn mals en sappig van binnen, omhuld met een knapperig korstje. De Mora Crispy Chick'n strips zijn heerlijk als snack, bijgerecht of onderdeel van een maaltijd. Een onweerstaanbare keuze voor liefhebbers van de authentieke kip-ervaring.</p><p><ul><li>Mora Crispy Chick'n original strips 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 451463,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 162681,
+        "hqId": 631745,
+        "title": "Magnum Mini almond",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 5.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "Magnum",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Magnum mini almond ijs is de perfecte balans tussen fluweelzacht vanille-ijs, omhuld met een laag krakende melkchocolade met knapperige stukjes amandel.</p><p><ul><li>Ontdek Magnum mini almond ijs met knapperige stukjes amandel</li><li>Heerlijk vanille-ijs overgoten met een krakende laag Magnum melkchocolade</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 451103,
+        "hqId": 58668,
+        "title": "Ben & Jerry's Caramel chew chew",
+        "salesUnitSize": "100 ml",
+        "unitPriceDescription": "normale prijs per liter €22.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538353737?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Schepijs",
+        "brand": "Ben & Jerry's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Bestel nu de caramel chew chew mini cup, heerlijk karamelroomijs met een Swirl van karamel en choco-karamel chunks!</p><p><ul><li>Overheerlijk karamelroomijs</li><li>Een unieke smaakcombinatie</li><li>Gemaakt met fairtrade ingredienten</li><li>Met chunks en swirls</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714839,
+        "bonusSegmentDescription": "Alle Ben & Jerry's en Magnum pints",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 41,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 580674,
+        "hqId": 23751,
+        "title": "AH Extra krokante friet",
+        "salesUnitSize": "750 g",
+        "unitPriceDescription": "prijs per kg €3.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833353330?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833353330?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833353330?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833353330?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (oven)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 513996,
+        "hqId": 6231,
+        "title": "Dr. Oetker Ristorante pizza hawaii",
+        "salesUnitSize": "355 g",
+        "unitPriceDescription": "prijs per kg €8.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393231?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393231?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393231?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734393231?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ristorante hawaii is een heerlijke diepvries pizza, rijk belegd met ananas, gekookte achterham, mozzarella en Edammer kaas. Maak er een a-lo-ha dag van!</p><p><ul><li>Krokante dunne bodem, rijkelijk belegd tot aan de rand</li><li>Pizza met frisse ananas, tropischer wordt je pizza niet</li><li>Romantisch aan tafel, knus op de bank of gezellig tijdens de borrel</li><li>Oven: elektrisch 220 graden celsius of hetelucht ca. 200 graden celsius, 11-13 min</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Geef jouw dag meer amore met Ristorante. Dit is de pizza met een krokante dunne bodem die rijkelijk belegd is met de lekkerste ingredienten. Met het brede assortiment is er genoeg keuze voor iedereen. Zo kunnen nog meer pizzaliefhebbers samen genieten van een heerlijke pizza. Ristorante, Smaakt altijd zoals bij de italiaan. Buon appetito!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 163522,
+        "hqId": 633220,
+        "title": "Ola Split",
+        "salesUnitSize": "9 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Het welbekende Ola split ijs is altijd lekker als verfrissend tussendoortje.</p><p><ul><li>Ola split ijs is de enige echte split sinds 1965</li><li>Een verfrissend tussendoortje met slechts 65 kilocalorieen per ijsje</li><li>Heerlijk vanille-ijs met een frisse laag sinaasappel-waterijs</li><li>Ola split ijs bevat geen kunstmatige kleur- en smaakstoffen</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over Ola split ijs: Ola split ijs is een heerlijk fruitig ijsje met een kern van zacht vanille-ijs, bedekt met een frisse laag sinaasappel-waterijs. Heerlijk verfrissend en zoet. Het is dan ook niet zo gek dat het split-ijsje bijna net zo'n klassieker is als het raketje. Perfect voor bij warme temperaturen, als tussendoortje, op een vakantie, in je eigen tuin, onderweg of voor bij een leuke film. Houd het ijsje lekker voor jezelf, of deel een Ola split met je lief, vrienden of familie. Daarnaast is de split een ijsje zonder kunstmatige kleur- en smaakstoffen en telt het ijsje slechts 65 kilocalorieen per stuk. Kortom, een verfrissende traktatie om lekker lang van te genieten. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat namelijk steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is namelijk onderdeel van heartbrand, het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten. Share happiness en geniet van Ola split ijs!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 590453,
+        "hqId": 0,
+        "title": "Ola Split 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343930?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343930?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343930?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343930?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 8.23,
+        "priceBeforeBonus": 10.98,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Ola Split 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 163522,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 170625,
+        "hqId": 754730,
+        "title": "AH Frikandel",
+        "salesUnitSize": "20 stuks",
+        "unitPriceDescription": "prijs per kg €2.71",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036363439?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036363439?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036363439?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393036363439?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Frikandel (frituur)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>20 stuks</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 583946,
+        "hqId": 0,
+        "title": "AH Frikandel 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353132?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353132?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353132?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239353132?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 7.58,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Frikandel (frituur)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>AH Frikandel 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 170625,
+                "quantity": 2
+            }
+        ],
+        "labelType": "NO_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakket"
+            }
+        ]
+    },
+    {
+        "webshopId": 489702,
+        "hqId": 742934,
+        "title": "AH Airfryer ovenfriet zoete aardappel",
+        "salesUnitSize": "600 g",
+        "unitPriceDescription": "prijs per kg €4.98",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363632?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363632?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363632?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930363632?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (oven)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Gebakken in zonnebloemolie</li><li>Geschikt voor de airfryer en oven</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 474190,
+        "hqId": 727003,
+        "title": "AH Regenboog ijsjes",
+        "salesUnitSize": "8 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833373935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833373935?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833373935?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833373935?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833373935?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Waterijs",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Waterijs met kersen-, citroen- en colasmaak.</p><p><ul><li>Kleurrijke ijsjes in alle kleuren van de regenboog</li><li>Met natuurlijke kleur- en smaakstoffen</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 169186,
+        "hqId": 752062,
+        "title": "Aviko Oma's smulfriet",
+        "salesUnitSize": "750 g",
+        "unitPriceDescription": "prijs per kg €3.85",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313936?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313936?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313936?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536313936?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (oven)",
+        "brand": "Aviko",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De Aviko smulfriet van oma wordt gemaakt van grofgesneden aardappelen. Door de lekkere, volle smaak van de aardappel proeft het alsof je de patat helemaal zelf gemaakt hebt.</p><p><ul><li>Extra dikke friet</li><li>Gemakkelijk te bereiden in frituur, oven of airfryer</li><li>Patat gemaakt van de lekkerste aardappelen</li><li>Extra lekker met mayonaise of jouw favoriete saus</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Oma's smulfriet heerlijk grofgesneden waardoor je extra geniet van de lekkere, volle smaak van de aardappel. Oma's smulfriet is extra dikke patat voor de echte liefhebber. Krokant van buiten en zacht van binnen zoals patat hoort te zijn. Aviko selecteert hiervoor zorgvuldig de beste verse aardappelen, afkomstig van lokale boeren. De aardappelen worden geschild, gesneden en speciaal voorgebakken, zodat deze perfect afgebakken kunnen worden in de frituur, oven of airfryer.een heerlijke combinatie is Aviko smul friet van oma met verse groenten en een (vegetarische) hamburger. Maar je kan de frites ook een bijzondere twist geven door er rozemarijn patat van te maken. Bak hiervoor de friet volgens de aanwijzingen op de verpakking goudbruin en krokant. Rits intussen de rozemarijnnaaldjes van de takjes: Hak ze eventueel nog fijn. Voeg de laatste minuut een paar rozemarijnnaaldjes toe bij bereiding in de oven of airfryer. Strooi zout over de patat en serveer direct.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 590009,
+        "hqId": 0,
+        "title": "Aviko Oma's Smulfriet 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343632?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343632?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343632?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536343632?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 7.8,
+        "priceBeforeBonus": 8.67,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (frituur)",
+        "brand": "Aviko",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De Aviko smulfriet van oma wordt gemaakt van grofgesneden aardappelen. Door de lekkere, volle smaak van de aardappel proeft het alsof je de patat helemaal zelf gemaakt hebt.</p><p><ul><li>Aviko Oma's smulfriet 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 169186,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 143764,
+        "hqId": 624317,
+        "title": "AH Rosti rondjes",
+        "salesUnitSize": "600 g",
+        "unitPriceDescription": "prijs per kg €2.75",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836383939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836383939?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836383939?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836383939?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836383939?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.65,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Rosti (diepvries)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Voorgebakken aardappelr&#246;sties, van geraspte aardappel. <strong>Frituurpan (175&#176;C):</strong> maximaal 200-250 gram aardappelrosties gedurende 3-4 minuten. Laat na het frituren even uitlekken. <strong>Oven (220&#176;C):</strong> bak de aardappelrosties 15-20 minuten in het midden van een voorverwarmde oven. Eenmaal keren. <strong>BBQ:</strong> Leg de r&#246;stirondjes in een aluminiumschaaltje en verwarm ca. 15 min.</p><p><ul><li><strong>Bereidingswijze:</strong> Frituur, Oven, Barbecue</li><li><strong>Weetje of tip:</strong> Ook geschikt voor bereidig op de barbecue.</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<strong>Frituurpan (175&#176;C):</strong> maximaal 200-250 gram aardappelrosties gedurende 3-4 minuten. Laat na het frituren even uitlekken. <strong>Oven (220&#176;C):</strong> bak de aardappelrosties 15-20 minuten in het midden van een voorverwarmde oven. Eenmaal keren. <strong>BBQ:</strong> Leg de r&#246;stirondjes in een aluminiumschaaltje en verwarm ca. 15 min.<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 165152,
+        "hqId": 629409,
+        "title": "Aviko Supercrunch oven pommes frites",
+        "salesUnitSize": "750 g",
+        "unitPriceDescription": "prijs per kg €3.85",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535393935?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535393935?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535393935?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535393935?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Friet (oven)",
+        "brand": "Aviko",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Aviko oven pommes frites supercrunch is super crunchy. Voor iedereen die houdt van knapperige ovenfriet, die ook na bereiding lekker lang krokant blijft. Ideaal om zelf patat stoofvlees te maken.</p><p><ul><li>Super krokante friet</li><li>Speciaal ontwikkeld voor de oven maar ook te bereiden in de airfryer</li><li>Patat gemaakt van de lekkerste aardappelen</li><li>Extra lekker met mayonaise of jouw favoriete saus</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Aviko oven friet pommes frites supercrunch is heerlijke knapperige ovenfriet waar iedereen van geniet. Deze patat is speciaal ontwikkeld voor het beste resultaat uit de oven: krokant van buiten en zacht van binnen, precies zoals friet hoort te zijn. Door de lekkere, volle smaak van de aardappel wordt iedereen tijdens een heerlijke maaltijd verrast door deze oven friet. Aviko selecteert hiervoor zorgvuldig de beste verse aardappelen, afkomstig van lokale boeren. De aardappelen worden geschild, gesneden en speciaal voorgebakken, zodat deze patat perfect afgebakken kan worden in de oven. een heerlijke combinatie is Aviko oven pommes frites supercrunch met mayonaise of jouw favoriete saus. Of denk eens aan gehaktballetjes in honingmosterdsaus met ovenfriet. Bak hiervoor de patat zoals aangegeven op de verpakking. Bak de gehaktballetjes voor in 5 min. Bruin aan. Schep de balletjes uit de pan en voeg 1,5 el honing toe aan het bakvet. Schenk 200ml slagroom erbij en laat de saus zachtjes tot de gewenste dikte inkoken. Roer 1 el mosterd door de saus. Leg de gehaktballetjes terug in de pan en houd op laag vuur warm. Bestrooi de gehaktballetjes met de dille en serveer met de ovenpatat.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 209479,
+        "hqId": 787936,
+        "title": "Hertog Ijssalon mini drie chocolades",
+        "salesUnitSize": "200 ml",
+        "unitPriceDescription": "prijs per liter €8.95",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334313938?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334313938?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334313938?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334313938?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs pints",
+        "brand": "Hertog",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hertog Drie Chocolades Mini IJssalon roomijs van witte chocolade, melkchocolade en pure chocoladesaus</p><p><ul><li>een traktatie voor chocoladeliefhebbers.</li><li>Hertog Drie Chocolades Mini IJssalon met een chocolade sensatie</li><li>Roomijs van witte chocolade en melkchocolade, met pure chocoladesaus</li><li>Met hartstocht bereid Mini IJssalon met knapperige chocolade chunks</li><li>Hertog brengt het ijssalon gevoel bij jou thuis</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 582683,
+        "hqId": 0,
+        "title": "Hertog Ijssalon mini drie chocolades 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 4.83,
+        "priceBeforeBonus": 5.37,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs bekertjes",
+        "brand": "Hertog",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Hertog Ijssalon mini drie chocolades 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 209479,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 745,
+        "hqId": 56775,
+        "title": "AH Chantilly",
+        "salesUnitSize": "8 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536383136?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536383136?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536383136?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313536383136?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs bekertjes",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hoorntjes met slagroomijs, chocoladesaus en krokante\n\t\thazelnootjes, 8 stuks.</p><p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>   <ul>   <li>Bewaren: In het vriesvak -12 &#x00B0;C, twee weken na   aankoop. In de diepvries -18 &#x00B0;C, zie houdbaarheidsdatum.</li>   <li>Meer informatie: Na ontdooiing niet opnieuw   invriezen.</li>   </ul></p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 514004,
+        "hqId": 7934,
+        "title": "Dr. Oetker Ristorante pizza pollo",
+        "salesUnitSize": "355 g",
+        "unitPriceDescription": "prijs per kg €10.96",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383932?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383932?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383932?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383932?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hallo, pizza pollo. De heerlijke Ristorante diepvries pizza die rijkelijk is belegd met malse stukjes kipfilet, knapperige mais, spinazie en mozzarella. Kiplekker!</p><p><ul><li>Krokante dunne bodem, rijkelijk belegd tot aan de rand</li><li>Royale topping van onder andere Beter Leven kip voor de lekkerste kwaliteit</li><li>Romantisch aan tafel, knus op de bank of gezellig tijdens de borrel</li><li>Oven: elektrisch 220 graden celsius of hetelucht ca. 200 graden celsius, 11-13 min</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Geef jouw dag meer amore met Ristorante. Dit is de pizza met een krokante dunne bodem die rijkelijk belegd is met de lekkerste ingredienten. Met het brede assortiment is er genoeg keuze voor iedereen. Zo kunnen nog meer pizzaliefhebbers samen genieten van een heerlijke pizza. Ristorante, Smaakt altijd zoals bij de italiaan. Buon appetito!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 514065,
+        "hqId": 9114,
+        "title": "Dr. Oetker Ristorante pizza quattro formaggi",
+        "salesUnitSize": "340 g",
+        "unitPriceDescription": "prijs per kg €11.44",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383937?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383937?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383937?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383937?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ristorante quattro formaggi is een heerlijke 4 kazen pizza. Deze diepvries pizza is rijk belegd met mozzarella, edammer, emmentaler en blauwschimmelkaas. Kaas, kaas en nog eens kaas. Buon appetito!</p><p><ul><li>Krokante dunne bodem, rijkelijk belegd tot aan de rand</li><li>Vegetarische pizza</li><li>De perfecte pizza keuze voor kaasliefhebbers</li><li>Oven: elektrisch 220 graden celsius of hetelucht ca. 200 graden celsius, 11-13 min</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Geef jouw dag meer amore met Ristorante. Dit is de pizza met een krokante dunne bodem die rijkelijk belegd is met de lekkerste ingredienten. Met het brede assortiment is er genoeg keuze voor iedereen. Zo kunnen nog meer pizzaliefhebbers samen genieten van een heerlijke pizza. Ristorante, Smaakt altijd zoals bij de italiaan. Buon appetito!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 513998,
+        "hqId": 7816,
+        "title": "Dr. Oetker Ristorante pizza tonno",
+        "salesUnitSize": "355 g",
+        "unitPriceDescription": "prijs per kg €8.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383939?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383939?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383939?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313734383939?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Visliefhebbers, let op. Ristorante tonno is een heerlijke diepvries pizza, rijk belegd met tonijn, mozzarella, Edammer kaas, rode ui en kappertjes. Zalig!</p><p><ul><li>Krokante dunne bodem, rijkelijk belegd tot aan de rand</li><li>Royale topping van onder andere duurzame tonijn</li><li>De perfecte pizza keuze voor visliefhebbers</li><li>Oven: elektrisch 220 graden celsius of hetelucht ca. 200 graden celsius, 11-13 min</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Geef jouw dag meer amore met Ristorante. Dit is de pizza met een krokante dunne bodem die rijkelijk belegd is met de lekkerste ingredienten. Met het brede assortiment is er genoeg keuze voor iedereen. Zo kunnen nog meer pizzaliefhebbers samen genieten van een heerlijke pizza. Ristorante, Smaakt altijd zoals bij de italiaan. Buon appetito!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    }
+]

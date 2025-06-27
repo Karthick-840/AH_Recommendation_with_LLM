@@ -1,0 +1,3195 @@
+[
+    {
+        "webshopId": 99086,
+        "hqId": 554582,
+        "title": "Unox Good noodles kip",
+        "salesUnitSize": "70 g",
+        "unitPriceDescription": "prijs per kg €16.43",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733373635?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733373635?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733373635?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733373635?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Noedelsoep kip",
+        "brand": "Unox",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox good noodles kip is een snelle snack, lunch of zelfs kleine maaltijd, waar je lekker lang op door kunt gaan.</p><p><ul><li>Unox good noodles met de smaak van kip zijn in een handomdraai klaar</li><li>De kruidige noodles zijn heerlijk als tussendoortje of als kleine maaltijd</li><li>Deze instant noodles zijn klaar binnen 3 minuten</li><li>Een snack zonder toegevoegde kunstmatige kleurstoffen en conserveermiddelen</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Over Unox good noodles kip: het dagelijks leven kan soms erg druk zijn: werk, vrienden, familie, studie en sport. Hierdoor krijg je vanzelf zin in een tussendoortje of een kleine maaltijd. Maak het jezelf makkelijk en probeer de Unox good noodles kip. Het is een lekkere snack die je snel en makkelijk klaar kunt maken. Zoals je van ons gewend bent, besteden wij veel zorg en aandacht aan onze receptuur en onze ingredienten. Daarom bevat Unox good noodles kip geen kunstmatige kleurstoffen en conserveermiddelen. Unox good noodles biedt een gevarieerd aanbod van snackmaaltijden om van te genieten waar en wanneer je maar wilt: thuis, tijdens het studeren, op kantoor, voor het sporten of gewoon even tussendoor! Over unox: al meer dan 80 jaar is Unox onlosmakelijk verbonden aan de Hollandse keuken. Inmiddels zijn veel Nederlandse huishoudens fan van unox-producten. Over het ontstaan van de merknaam Unox gaan verschillende verhalen. De een beweert dat iemand eens bedacht heeft om unilever, oss en ox (engels voor os) samen te voegen tot unox. En anderen zweren dat de naam een uitkomst is van een prijsvraag onder werknemers. Hoe het ook zij, vanaf 1937 worden onder de merknaam Unox de lekkerste vleesproducten gemaakt. Unox maakt niet alleen knakworst, maar ook soep, rookworst, snacks en zelfs vegetarische gehaktballetjes. Zo is er dus een voorgerecht, hoofdgerecht of snack voor iedereen. Dat kan alleen maar Unox zijn!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 579113,
+        "hqId": 0,
+        "title": "Unox Good Noodles Kip 6-pack",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333935?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333935?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333935?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333935?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 6.21,
+        "priceBeforeBonus": 6.9,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Noedelsoep groenten",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Unox Good Noodles Kip 6 x 70G</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 99086,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 496580,
+        "hqId": 783819,
+        "title": "Van Wijngaarden's Zaanse mayonaise",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "prijs per liter €5.32",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373432303431?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373432303431?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373432303431?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373432303431?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373432303431?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Mayonaise",
+        "brand": "Van Wijngaarden's",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De authentieke Zaanse mayonaise in handige knijpfles met steropening.\n</p><p><ul><li>De enige en echte Zaanse mayonaise</li><li>80% raapzaadolie voor een volle en romige smaak</li><li>Ideaal voor gebruik op tafel</li><li>Handige doseerdop met steropening om salades te versieren</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Van Wijngaarden bv is een familiebedrijf gevestigd in de Zaanstreek. Gestart in 1929 met de handel in plantaardige oliën, is het bedrijf eind vijftiger jaren van de twintigste eeuw begonnen met het maken van mayonaise op basis van de olie die werd verhandeld. Door een hoog olie gehalte (80%) en een uitgekiende balans van water, eigeel en kruiden ontstond een unieke en herkenbare smaak: vol en romig en met een licht aangenaam zuurtje. Deze receptuur is bekend komen te staan als de Zaanse mayonaise en wordt tot op de dag van vandaag gemaakt volgens het tradiotionele recept uit de vorite eeuw. De familie Van Wijngaarden heeft daarmee een belangrijke bijdrage geleverd aan de maakindustrie waar wij de Zaanstreek van kennen. Zaanse mayonaise is een begrip in heel Nederland en tot ver erbuiten.\n",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 196672,
+        "hqId": 791231,
+        "title": "AH Soepstengels volkoren",
+        "salesUnitSize": "125 g",
+        "unitPriceDescription": "prijs per kg €6.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323733?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323733?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323733?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323733?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.75,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Soepstengels",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Knapperig krokant</li><li>Maakt van iedere soep een feestje</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 194759,
+        "hqId": 794438,
+        "title": "Remia Friteslijn",
+        "salesUnitSize": "350 ml",
+        "unitPriceDescription": "prijs per liter €6.14",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373539?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373539?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373539?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373539?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Fritessaus",
+        "brand": "Remia",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Remia friteslijn is fris en romig van smaak met slechts 5% vet.</p><p><ul><li>Heerlijk bij frites, snacks en salades</li><li>In handige kleine knijptube met doseerdop</li><li>Bevat geen gluten</li><li>Bereid met vrije uitloopeieren</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Remia is een Nederlands familiebedrijf, waar al sinds 1925 de lekkerste sauzen en smaakmakers worden gemaakt! Bovendien is Remia de eerste sauzenfabriek van europa, waar klimaatneutraal wordt geproduceerd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 519391,
+        "hqId": 636892,
+        "title": "Van Wijngaarden's Zaanse mayonaise",
+        "salesUnitSize": "200 ml",
+        "unitPriceDescription": "prijs per liter €7.95",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383636363830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383636363830?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383636363830?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383636363830?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383636363830?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Mayonaise",
+        "brand": "Van Wijngaarden's",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Zaanse mayonaise is een pure mayonaise zonder bindmiddel, stabilisator of hulpstof. Deze sinds 1955 ongewijzigde receptuur zorgt voor een unieke zuivere, romige smaaksensatie.</p><p><ul><li>De echte zaanse mayonaise</li><li>Met 80% raapzaadolie voor een volle romige smaak</li><li>Rijk aan onverzadigde vetzuren</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 99084,
+        "hqId": 554580,
+        "title": "Unox Good noodles kip",
+        "salesUnitSize": "65 g",
+        "unitPriceDescription": "prijs per kg €32.15",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343238?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343238?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343238?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343238?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Noedelsoep kip",
+        "brand": "Unox",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox good noodles kip, daar kun je lekker lang op door!</p><p><ul><li>Unox good noodles cup kip zijn kruidige noedels met de smaak van kip</li><li>De noedels zijn heerlijk als tussendoortje of kleine maaltijd</li><li>Deze instant noodles in een handige cup zijn klaar in 3 minuten</li><li>Een vullende snack zonder kunstmatige kleurstoffen en conserveermiddelen</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Over Unox good noodles cup kip: Unox good noodles kip is een lekkere snack met noedels en de smaak van kip. Het dagelijks leven kan soms erg druk zijn: werk, vrienden, familie, studie en sport. Hierdoor krijg je vanzelf zin in een tussendoortje of een kleine maaltijd. Maak het jezelf makkelijk en probeer de Unox good noodles kip in een handige cup. Het is een lekkere snack die je snel en makkelijk klaar kunt maken. Zoals je van ons gewend bent, besteden wij veel zorg en aandacht aan onze recepten en ingredienten. Daarom bevat Unox good noodles kip geen kunstmatige kleurstoffen en conserveermiddelen. Unox good noodles biedt een gevarieerd aanbod van snackmaaltijden om van te genieten waar en wanneer je maar wilt: thuis, tijdens het studeren, op kantoor, voor het sporten of gewoon even tussendoor. Bereidingswijze: open de helft van het deksel en giet kokend water tot aan de stippellijn in de cup. Sluit het deksel en laat het geheel ongeveer 3 minuten staan. Open het deksel, even roeren en klaar! Let op, want de cup kan heet zijn. Eet smakelijk en geniet van je noodles! Over unox: al meer dan 80 jaar is Unox onlosmakelijk verbonden aan de Hollandse keuken. Over het ontstaan van de merknaam Unox gaan verschillende verhalen. De een beweert dat iemand eens bedacht heeft om unilever, oss en ox (engels voor os) samen te voegen tot unox. En anderen zweren dat de naam een uitkomst is van een prijsvraag onder werknemers. Hoe het ook zij, vanaf 1937 worden onder de merknaam Unox de lekkerste producten gemaakt. Unox maakt niet alleen rookworst en knakworst, maar ook soepen, snacks en een steeds groter vegetarisch en vegan aanbod. Zo is er dus een voorgerecht, hoofdgerecht of snack voor iedereen. Dat kan alleen maar Unox zijn!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 123848,
+        "hqId": 752374,
+        "title": "Unox Romige tomatensoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €5.70",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 3.25,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Tomatensoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox smaakfavoriet romige tomaten soep in zak is een heerlijke soep met groenten, zongedroogde tomaat, mascarpone en basilicum.</p><p><ul><li>Unox smaakfavoriet romige tomaten soep in zak is een heerlijke soep</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Een vegetarische soep met zongedroogde tomaat, mascarpone en basilicum</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 579112,
+        "hqId": 0,
+        "title": "Unox Romige tomatencrèmesoep 4-pack",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333936?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333936?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333936?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030333936?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 8.98,
+        "priceBeforeBonus": 13.0,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Noedelsoep kip",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Unox SIZ Romige tomatencrèmesoep 4x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 123848,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 388341,
+        "hqId": 845537,
+        "title": "Unox Cup-a-soup tomaat",
+        "salesUnitSize": "10 x 175 ml",
+        "unitPriceDescription": "prijs per liter €3.02",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839353234?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839353234?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839353234?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839353234?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 5.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Kopsoep",
+        "brand": "Unox",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox cup-a-soup tomaat is een heerlijk hartig tussendoortje en is eenvoudig en snel te bereiden!</p><p><ul><li>Bevat 10 zakjes voor 10 heerlijke mokken soep</li><li>Unox cup-a-soup tomaat bevat 61 calorieen per mok</li><li>Een soep zonder smaakversterkers, kleurstoffen en conserveermiddelen</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 590367,
+        "hqId": 0,
+        "title": "Unox Cup-a-soup tomaat 4-pack",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343130?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343130?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343130?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343130?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 19.04,
+        "priceBeforeBonus": 21.16,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Kopsoep",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Unox Cup-a-soup tomaat 4x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 388341,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 48896,
+        "hqId": 501576,
+        "title": "AH Olijfolie traditioneel",
+        "salesUnitSize": "0,5 l",
+        "unitPriceDescription": "prijs per liter €11.58",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313136303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313136303137?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313136303137?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313136303137?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313136303137?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 5.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Olijfolie basis",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Olijfolie verkregen uit koude extractie. Verfijnd en zacht, voor bakken en braden.</p><p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>\n   <list />\n  </p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 99089,
+        "hqId": 554585,
+        "title": "Unox Good noodles groente",
+        "salesUnitSize": "70 g",
+        "unitPriceDescription": "prijs per kg €16.43",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734303736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734303736?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734303736?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734303736?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303734303736?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Noedelsoep groenten",
+        "brand": "Unox",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox good noodles groente: daar kun je lekker lang op door!</p><p><ul><li>Unox good noodles met de smaak van groente</li><li>De noedels zijn heerlijk als tussendoortje of kleine maaltijd</li><li>Deze instant noodles zijn klaar in 3 minuten</li><li>Een snack zonder toegevoegde kunstmatige kleurstoffen en conserveermiddelen</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Het dagelijks leven kan soms erg druk zijn: werk, vrienden, familie, studie en sport. Hierdoor krijg je vanzelf zin in een tussendoortje of een kleine maaltijd. Maak het jezelf makkelijk en probeer de Unox good noodles groente. Het is een lekkere snack die je snel en makkelijk klaar kunt klaarmaken. Unox good noodles groente is bovendien geschikt voor vegetariers en veganisten. Zo maak je de Unox good noodles klaar: doe de instant noodles samen met de inhoud van de kruidenmix in een kom. Giet er ruim kokend water op en laat het geheel 3 minuten staan. Even roeren en klaar! Geniet van de heerlijke noedelsoep. Eet jij noedels liever zonder soep? giet de noedels dan na 3 minuten af en voeg daarna Pas de inhoud van het kruidenzakje toe. Roer dit goed door de noedels en genieten maar! Ben je op zoek naar wat extra smeuigheid? voeg dan een kleine theelepel zonnebloemolie toe. Eet smakelijk! Zoals je van ons gewend bent, besteden wij veel zorg en aandacht aan onze receptuur en onze ingredienten. Daarom bevat Unox good noodles groente geen kunstmatige kleurstoffen en conserveermiddelen. Unox good noodles biedt een gevarieerd aanbod snackmaaltijden om van te genieten waar en wanneer je maar wilt: thuis, tijdens het studeren, op kantoor, voor het sporten of gewoon even tussendoor! Probeer naast deze variant ook eens een van onze andere varianten, zoals Unox good noodles kip, Unox good noodles kerrie of Unox good noodles eend. Unox good noodles: daar kun je lekker lang op door!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 101200,
+        "hqId": 547358,
+        "title": "AH Biologisch Natuurazijn",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €0.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838373031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838373031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838373031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838373031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838373031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Natuurazijn",
+        "brand": "AH Biologisch",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Azijn met een zachte smaak</li><li>Lekker in dressings of bij vleesgerechten</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "biologisch"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p> Neem het ervan en geniet van het lekkerste dat de natuur te bieden heeft. Van onze biologische producten kun je met een goed gevoel genieten dankzij de aandacht en inspanning van de boeren en producenten die ze voor ons maken. Natuurlijk worden al onze biologische producten onafhankelijk gecontroleerd en daarom verdienen ze het Europese keurmerk. Biologisch van Albert Heijn: dat smaak naar meer!  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 441050,
+        "hqId": 704698,
+        "title": "Hela Kruiden ketchup curry original",
+        "salesUnitSize": "0,8 l",
+        "unitPriceDescription": "prijs per liter €3.94",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533303631?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533303631?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533303631?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303533303631?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Currysaus",
+        "brand": "Hela",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze populaire, zoet pittige currysaus met een hoog aandeel kruiden en specerijen is een echte smaakmaker bij veel gerechten. Lekker bij friet, patat, snacks, tosti's, broodjes en vleesgerechten.</p><p><ul><li>Zowel glutenvrij, lactosevrij als vegan</li><li>Populaire, zoet pittige currysaus met kruiden en specerijen</li><li>Lekker bij friet, patat, snacks, tosti's, broodjes en vleesgerechten</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Wij zijn hela: de smaakmaker die jouw eten elke dag nog lekkerder maakt met een assortiment vol sauzen en dressings, voegen wij smaak toe aan elke gerecht. Zodat jij overal en op elk moment nog meer kunt genieten van lekker eten samen met de mensen om je heen.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 166519,
+        "hqId": 640821,
+        "title": "Remia Mayonaise extra romig",
+        "salesUnitSize": "0,5 l",
+        "unitPriceDescription": "prijs per liter €4.50",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373330?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373330?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373330?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373330?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.25,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Mayonaise",
+        "brand": "Remia",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Remia mayonaise is extra romig en vol van smaak. Bereid met vrije uitloopeieren.</p><p><ul><li>Lekker bij aardappeltjes, een kroket of frikandel</li><li>Handige knijpverpakking. Deze fles bestaat voor 25% uit gerecycled plastic</li><li>Remia mayonaise is glutenvrij</li><li>Bereid met vrije uitloopeieren</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 485545,
+        "hqId": 740235,
+        "title": "Remia Satésaus kant & klaar",
+        "salesUnitSize": "325 g",
+        "unitPriceDescription": "prijs per kg €6.62",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373132?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373132?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373132?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373132?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Satésaus",
+        "brand": "Remia",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Remia satesaus is een kruidige, kant-en-klare satesaus. Lekker bij kip, frites, de BBQ of de oosterse maaltijd.</p><p><ul><li>100% plantaardig en daardoor geschikt voor vegetariers en veganisten</li><li>Remia satesaus is glutenvrij</li><li>De Remia satesaus verpakking is 100% recyclebaar</li><li>In handige 325g verpakking, goed voor 7 porties</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Remia is een Nederlands familiebedrijf, waar al sinds 1925 de lekkerste sauzen en smaakmakers worden gemaakt! Bovendien is Remia de eerste sauzenfabriek van europa, waar klimaatneutraal wordt geproduceerd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 595577,
+        "hqId": 0,
+        "title": "Remia Satesaus kant & klaar 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393030?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393030?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393030?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393030?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 3.87,
+        "priceBeforeBonus": 4.3,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Satésaus",
+        "brand": "Remia",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Remia Satesaus kant & klaar 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 485545,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 216494,
+        "hqId": 810991,
+        "title": "Heinz Tomato ketchup",
+        "salesUnitSize": "400 ml",
+        "unitPriceDescription": "prijs per liter €6.48",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037303132?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037303132?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037303132?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037303132?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Ketchup",
+        "brand": "Heinz",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Geen andere ketchup Smaakt zoals heinz. De onmiskenbare geliefde Heinz smaak komt van onze zongerijpte kwaliteit tomaten, samen met onze passie en kennis, die ons recept zijn unieke smaak geven.</p><p><ul><li>De authentieke en onmiskenbare smaak van Heinz tomaten ketchup</li><li>Geen kunstmatige kleurstoffen, conserveermiddelen of verdikkingsmiddelen</li><li>Jouw perfecte match bij een hamburger, hotdog, patat of tosti</li><li>Verkrijgbaar in verschillende formaten</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Geen andere tomaten ketchup Smaakt zoals de ketchup van heinz. De onmiskenbare geliefde Heinz smaak komt van onze zongerijpte tomaten, samen met onze passie en kennis, die het recept van deze ketchup zijn unieke smaak geven. Onze tomaten ketchup is grown not made, en past daardoor overal perfect bij. Deze natuurlijke tomaten saus is te gebruiken voor zowel alledaagse gerechten als voor BBQ en grill gerechten. Zonder ook maar enige kunstmatige kleur- en smaakstoffen of conserveermiddelen krijgt Heinz zijn rijke volle smaak, en dat proef je!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 591373,
+        "hqId": 0,
+        "title": "Heinz ketchup 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635313637?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635313637?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635313637?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635313637?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 4.66,
+        "priceBeforeBonus": 5.18,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Ketchup",
+        "brand": "Heinz",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Heinz ketchup 400gm 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 216494,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 568284,
+        "hqId": 0,
+        "title": "AH Naanbrood 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343437?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343437?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343437?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303237343437?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 3.59,
+        "priceBeforeBonus": 3.78,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Sriracha",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>AH Naanbrood 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 498341,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 906,
+        "hqId": 5128,
+        "title": "AH Zonnebloemolie",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €1.79",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373335363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373335363131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373335363131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373335363131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373335363131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Zonnebloemolie",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Zonnebloemolie, voor het bereiden van zowel warme als koude gerechten.</p><p><ul><li>Gewonnen uit de 'pitten' van de zonnebloem</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 130084,
+        "hqId": 101806,
+        "title": "Yum Yum Chicken flavour instant noodles",
+        "salesUnitSize": "60 g",
+        "unitPriceDescription": "prijs per kg €10.83",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930333233?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930333233?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930333233?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930333233?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.65,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Noedelsoep kip",
+        "brand": "Yum Yum",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Yum yum kip is een lekkere thaise instant noodlesoep met kipsmaak, naar smaak te verrijken met peper, kruiden en olie.</p><p><ul><li>Snel en makkelijk te bereiden</li><li>De kruiden zijn naar eigen smaak toe te voegen</li><li>Lekker met een gekookt eitje, bosui en gebakken uitjes</li><li>Authentiek uit Thailand</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 191060,
+        "hqId": 793702,
+        "title": "Unox Chinese tomatensoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €4.72",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Tomatensoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox smaakfavoriet Chinese tomaten soep in zak is een heerlijke soep, bereid met waterkastanje, mie.</p><p><ul><li>Unox smaakfavoriet Chinese tomaten soep in zak is een heerlijke soep</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Deze Chinese tomatensoep met waterkastanje en mie is vegetarisch</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 467626,
+        "hqId": 719129,
+        "title": "AH Mayonaise",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "prijs per liter €3.32",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393537313339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393537313339?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393537313339?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393537313339?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393537313339?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Mayonaise",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 167242,
+        "hqId": 643683,
+        "title": "Wijko Satesaus kant en klaar",
+        "salesUnitSize": "120 g",
+        "unitPriceDescription": "prijs per kg €12.92",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037323136?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037323136?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037323136?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037323136?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.55,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Satésaus",
+        "brand": "Wijko",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Wijko is volgens jullie de nummer 1 satesaus van Nederland, en daar zijn we erg trots op! Aan Wijko kant en klaar hoeft niks meer aan gedaan te worden: even opwarmen en de satesaus kan op tafel!</p><p><ul><li>Wijko de nummer 1 satesaus van Nederland</li><li>Even 2/3 minuten opwarmen en klaar voor gebruik</li><li>Lekker bij de bbq, kipsate, friet of oosterse gerechten</li><li>Goed voor 2 porties</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Wijko is volgens jullie de nummer 1 satesaus van Nederland, en daar zijn we erg trots op! Al vanaf 1958 is onze heerlijke saus verkrijgbaar voor al je favoriete gerechten en valt hij niet meer weg te denken uit het schap. Gebruik Wijko satesaus bijvoorbeeld bij de BBQ maar ook bij friet, oosterse gerechten of om te dippen. Met Wijko kant  en  klaar heb je de de satesaus zo klaar voor gebruik, alleen even opwarmen en je zet een lekkere schaal op tafel! Ken je ook al onze Wijko satesaus hot?",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 492034,
+        "hqId": 746527,
+        "title": "AH Bouillon groente",
+        "salesUnitSize": "120 g",
+        "unitPriceDescription": "prijs per kg €4.92",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373130343637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373130343637?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373130343637?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373130343637?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373130343637?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Bouillonblokjes groenten",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Gebruik de bouillon voor bereiding van diverse soorten soepen, sauzen, jus, ragouts, groenten en pasta's</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 166523,
+        "hqId": 640826,
+        "title": "Remia Fritessaus classic",
+        "salesUnitSize": "0,5 l",
+        "unitPriceDescription": "prijs per liter €3.98",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373136?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373136?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373136?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373136?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Fritessaus",
+        "brand": "Remia",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Remia fritessaus classic is een zacht romige fritessaus met een uniek recept en kenmerkende smaak.</p><p><ul><li>Heerlijk bij frites, snacks en salades. Ook erg lekker bij een frikandel</li><li>Unieke receptuur, uitgevonden door Remia in 1967</li><li>Handige knijpverpakking. Deze fles bestaat voor 25% uit gerecycled plastic</li><li>Bevat geen gluten. Bereid met vrije uitloopeieren</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 568021,
+        "hqId": 0,
+        "title": "AH Taco seasoning mix 4-pack",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 2.62,
+        "priceBeforeBonus": 2.76,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Maaltijd Kruidenmixen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>AH Taco seasoning mix 4x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 140615,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 130071,
+        "hqId": 589846,
+        "title": "AH Satésaus kant & klaar.",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "prijs per kg €3.70",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373334?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373334?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373334?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373334?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.85,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Satésaus",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Direct klaar voor gebruik, alleen nog opwarmen</li><li>Heerlijk voor bij frites en snacks</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 38438,
+        "hqId": 501847,
+        "title": "Conimex Marinademix saté",
+        "salesUnitSize": "38 g",
+        "unitPriceDescription": "prijs per kg €25.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393934393033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393934393033?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393934393033?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393934393033?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393934393033?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.95,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Marinade",
+        "brand": "Conimex",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Conimex sate marinademix is een heerlijke oosterse marinade voor allerlei soorten vlees en vis.</p><p><ul><li>Conimex sate marinademix geeft een milde en oosterse smaak</li><li>De bijzondere specerijenmix is bereid volgens authentiek indonesisch recept</li><li>Lekker om varkensvlees en kipfilet in te marineren</li><li>Ook lekker met een lepeltje sambal door de marinade voor extra pit</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Over het product: met de Conimex sate marinademix marineer je snel allerlei soorten vlees, vis en garnalen. Conimex sate marinademix wordt bereid volgens authentiek indonesisch recept. De bijzondere mix van specerijen geeft elk gerecht een lekkere milde en oosterse smaak. Snel te bereiden - marineer je satevlees in slechts 5 a 10 minuten. Voor een beetje extra pit kun je ook een lepeltje sambal aan je marinade toevoegen. Sate is de indonesische naam voor geroosterd vlees, kip of garnalen geregen aan een stokje. Met deze mix van Aziatische specerijen marineer je snel allerlei soorten vlees, vis en garnalen. Gril de gemarineerde sate in een pan of op de BBQ en serveer met rijst en groenten. Laten we wat vaker eten zoals ze dat in azie doen. In azie hebben ze een mooie, pure kijk op eten. Die is gebaseerd op eeuwenoude wijsheden over wat gezond eten is, hoe je dit bereidt en hoe je ervan geniet. Deze kennis en tradities worden van generatie op generatie overgedragen. Daarom eten mensen in azie ook vandaag de dag nog steeds gezonder, meer gebalanceerd en minder vlees dan in veel andere delen van de wereld. En ze verspillen minder voedsel. Over conimex: al sinds 1932 zorgt Conimex ervoor dat heerlijke oosterse smaken in Nederland verkrijgbaar zijn. Met Conimex producten maak je thuis in een paar stappen heerlijke, pittige Aziatische gerechten. Gebruik lekkere smaakmakers zoals kroepoek, gebakken uitjes, ketjap en sambal om jouw maaltijden elke keer weer anders te laten smaken.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 199088,
+        "hqId": 604222,
+        "title": "AH Citroensap",
+        "salesUnitSize": "200 ml",
+        "unitPriceDescription": "prijs per liter €3.25",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393037393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393037393133?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393037393133?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393037393133?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393037393133?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.65,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Citroensap",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Citroensap uit concentraat</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 516669,
+        "hqId": 816272,
+        "title": "Heinz Tomaten ketchup",
+        "salesUnitSize": "0,57 l",
+        "unitPriceDescription": "normale prijs per liter €4.72",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 2.49",
+        "currentPrice": 2.49,
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Ketchup",
+        "brand": "Heinz",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Geen andere ketchup Smaakt zoals heinz. De onmiskenbare geliefde Heinz smaak komt van onze zongerijpte kwaliteit tomaten, samen met onze passie en kennis, die ons recept zijn unieke smaak geven.</p><p><ul><li>De authentieke en onmiskenbare smaak van Heinz tomaten ketchup</li><li>Geen kunstmatige kleurstoffen, conserveermiddelen of verdikkingsmiddelen</li><li>Jouw perfecte match bij een hamburger, hotdog, patat of tosti</li><li>Verkrijgbaar in verschillende formaten</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714884,
+        "bonusSegmentDescription": "Alle Heinz 570 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Geen andere tomaten ketchup Smaakt zoals de ketchup van heinz. De onmiskenbare geliefde Heinz smaak komt van onze zongerijpte tomaten, samen met onze passie en kennis, die het recept van deze ketchup zijn unieke smaak geven. Onze tomaten ketchup is grown not made, en past daardoor overal perfect bij. Deze natuurlijke tomaten saus is te gebruiken voor zowel alledaagse gerechten als voor BBQ en grill gerechten. Zonder ook maar enige kunstmatige kleur- en smaakstoffen of conserveermiddelen krijgt Heinz zijn rijke volle smaak, en dat proef je!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 2.49",
+                "price": 2.49
+            }
+        ]
+    },
+    {
+        "webshopId": 67845,
+        "hqId": 535920,
+        "title": "AH Biologisch Zonnebloemolie",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €2.15",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373232?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373232?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373232?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313237373232?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Zonnebloemolie",
+        "brand": "AH Biologisch",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Neem het ervan en geniet van het lekkerste dat de natuur te bieden heeft. Van onze biologische producten kun je met een goed gevoel genieten dankzij de aandacht en inspanning van de boeren en producenten die ze voor ons maken. Natuurlijk worden al onze biologische producten onafhankelijk gecontroleerd en daarom verdienen ze het Europese keurmerk. Biologisch van Albert Heijn: dat smaak naar meer!</p>",
+        "propertyIcons": [
+            "vegan",
+            "biologisch"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 904,
+        "hqId": 5133,
+        "title": "AH Mayonaise zacht en romig",
+        "salesUnitSize": "0,65 l",
+        "unitPriceDescription": "prijs per liter €2.29",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Mayonaise",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze AH Mayonaise is extra romig en zacht van smaak en lekker bij frites, gebakken aardappels en kip.</p><p><ul><li>Ook ideaal als basis van een dressing</li><li>Met mosterd bereid</li><li>Ook voor bij de BBQ!</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p> De perfecte match: krokante frites met AH mayonaise  </p>\n  <p>Voor het hele gezin!</p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 429373,
+        "hqId": 697036,
+        "title": "Calvé Mayonaise",
+        "salesUnitSize": "650 ml",
+        "unitPriceDescription": "prijs per liter €5.92",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235313438?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235313438?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235313438?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235313438?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.85,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Mayonaise",
+        "brand": "Calvé",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Jouw vertrouwde Calve de echte mayonaise is vol van smaak en heerlijk romig. Maak je gerecht nog lekkerder met calve!</p><p><ul><li>Calve de echte mayonaise is vol van smaak en heerlijk romig</li><li>Met pure ingredienten zoals plantaardige olie, azijn en vrije-uitloopeieren</li><li>De enige echte mayonaise, zonder kunstmatige smaakstoffen</li><li>De vertrouwde pot mayonaise voor bij je frietjes en gebakken aardappels</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 169447,
+        "hqId": 752401,
+        "title": "Unox Klassieke tomatensoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €8.23",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 4.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Tomatensoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox smaakfavoriet klassieke tomaten soep in zak is een heerlijke soep, bereid met tomaten, grof gesneden courgette, paprika en gehaktballetjes.</p><p><ul><li>Unox smaakfavoriet klassieke tomaten soep in zak is een heerlijke soep</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Een tomatensoep met gehaktballetjes gemaakt van Beter Leven-vlees</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 579111,
+        "hqId": 0,
+        "title": "AH Geroosterde pijnboompitten 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030343136?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030343136?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030343136?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030343136?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 3.78,
+        "priceBeforeBonus": 3.98,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Soepmixen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>AH Geroosterde pijnboompitten 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 183248,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 2199,
+        "hqId": 6016,
+        "title": "Conimex Mix voor nasi",
+        "salesUnitSize": "20 g",
+        "unitPriceDescription": "prijs per kg €49.50",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343234?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343234?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343234?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343234?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Maaltijd Kruidenmixen",
+        "brand": "Conimex",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Conimex nasi kruidenmix is de basis voor een authentiek nasi gerecht.</p><p><ul><li>Conimex nasi kruidenmix op basis van authentiek indonesisch recept</li><li>Deze kruidenmix geeft je nasi die heerlijke, authentieke smaak</li><li>De nasimix is gemakkelijk in gebruik en snel te bereiden</li><li>Het gerecht is klaar in 25 minuten en geschikt voor 3-4 personen</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Ontdek Conimex nasi kruidenmix: laten we wat vaker eten zoals ze dat in indonesie doen, daar zijn ze dol op nasi. Open het zakje Conimex nasi kruidenmix en je waant je op een indonesische markt. Nasi is een van de populairste gerechten uit de indonesische keuken. Het staat voor 'gekookte rijst' en kan op veel Manieren worden klaargemaakt. Deze mix voor nasi is een milde kruidenmix met onder andere gember, komijn en kurkuma. De specerijen zorgen voor een heerlijk geurig gerecht! Zelf toevoegen: nasi groentepakket (a 450 g) of groente naar keuze, 400 g varkensvlees, 400 g witte rijst, Conimex wokolie. Voeg naar smaak sambal en ketjap toe aan de mix voor nasi en serveer met atjar en kroepoek. Wil je extra smaak of een dagje zonder vlees, bak dan een omelet en serveer je de nasi met omeletstukjes. Vergeet de satesaus niet! Eet smakelijk, of zoals ze in indonesie zeggen, selamat makan! Over conimex: al sinds 1932 zorgt Conimex ervoor dat heerlijke oosterse smaken in Nederland verkrijgbaar zijn. Met Conimex producten maak je thuis in een paar stappen heerlijke, pittige Aziatische gerechten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 169449,
+        "hqId": 752403,
+        "title": "Unox Heldere kippensoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €5.42",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 3.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Kippensoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox speciaal heldere kippensoep in zak is een heerlijke maaltijdsoep, boordevol malse kip en groenten en is klaar in een handomdraai.</p><p><ul><li>Unox speciaal heldere kippensoep in zak zit boordevol malse kip en groenten</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Een heldere soep vol met stukjes kip, wortel, doperwtjes en vermicelli</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 193937,
+        "hqId": 793710,
+        "title": "Unox Romige champignonsoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €5.53",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 3.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Champignonsoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox smaakfavoriet romige champignon soep in zak met ui en bieslook zet je in een handomdraai een heerlijke soep op tafel.</p><p><ul><li>Unox smaakfavoriet romige champignon soep in zak is een heerlijke soep</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Deze romige champignonsoep met ui en bieslook is vegetarisch</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 590446,
+        "hqId": 0,
+        "title": "Unox Romige champignonsoep 4-pack",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343833?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343833?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343833?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539343833?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 8.98,
+        "priceBeforeBonus": 12.6,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Champignonsoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Unox Romige champignonsoep 4x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 193937,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 388335,
+        "hqId": 845531,
+        "title": "Unox Cup-a-soup champignon crème",
+        "salesUnitSize": " 3 x 175 ml",
+        "unitPriceDescription": "prijs per liter €3.03",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343330?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343330?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343330?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839343330?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Kopsoep",
+        "brand": "Unox",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox cup-a-soup champignon creme is een heerlijk hartig tussendoortje en is eenvoudig en snel te bereiden!</p><p><ul><li>Unox cup-a-soup champignon creme met knapperige croutons</li><li>Bevat 3 zakjes voor 3 heerlijke mokken soep</li><li>Unox cup-a-soup champignon creme bevat 75 calorieen per mok</li><li>Een soep zonder smaakversterkers, kleurstoffen en conserveermiddelen</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Heb je zin in een lekker soepje? of heb je een drukke dag en zin in een snack om weer scherp en alert door te kunnen? dan zit je bij Unox cup-a-soup altijd goed! Zo ook met Unox cup-a-soup champignon creme: een snelle, hartige opkikker die je weer energie geeft om door te gaan! Deze is lekker cremig van smaak en zit vol champignons en knapperige croutons. In een verpakking zitten 3 heerlijke zakjes cup-a-soup. Een zakje van deze heerlijke Unox cup-a-soup champignon creme bevat 75 calorieen per mok. Zoals je van ons gewend bent, besteden wij veel zorg en aandacht aan ons recept en gebruiken wij alleen de beste ingredienten om de goede smaak te waarborgen. Daarnaast bevat deze Unox cup-a-soup champignon creme geen kunstmatige kleurstoffen, conserveermiddelen of toegevoegde smaakversterkers. Deze variant is ook geschikt voor vegetariers. De Unox cup-a-soup champignon creme is eenvoudig en snel te bereiden: doe de inhoud van het zakje in jouw favoriete mok en giet er 175 ml kokend water bij. Daarna eventjes roeren, 1 minuutje wachten en klaar, eet smakelijk! Zo bereid je binnen een handomdraai een heerlijke mok soep. Thuis, op kantoor of waar je ook bent, cup-a-soup is altijd een heerlijk hartig tussendoortje. Lekker, makkelijk en snel! 4-uur cup-a-soup: bam! En weer helemaal scherp!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 516647,
+        "hqId": 569847,
+        "title": "Wijko Satésaus kant en klaar",
+        "salesUnitSize": "270 g",
+        "unitPriceDescription": "prijs per kg €8.85",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333439?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333439?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333439?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333439?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Satésaus",
+        "brand": "Wijko",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Wijko is volgens jullie de nummer 1 satesaus van Nederland, en daar zijn we erg trots op! Aan Wijko kant en klaar hoeft niks meer aan gedaan te worden: even opwarmen en de satesaus kan op tafel!</p><p><ul><li>Wijko de nummer 1 satesaus van Nederland</li><li>Even 2/3 minuten opwarmen en klaar voor gebruik</li><li>Lekker bij de bbq, kipsate, friet of oosterse gerechten</li><li>Goed voor 5 porties</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Wijko is volgens jullie de nummer 1 satesaus van Nederland, en daar zijn we erg trots op! Al vanaf 1958 is onze heerlijke saus verkrijgbaar voor al je favoriete gerechten en valt hij niet meer weg te denken uit het schap. Gebruik Wijko satesaus bijvoorbeeld bij de BBQ maar ook bij friet, oosterse gerechten of om te dippen. Met Wijko kant  en  klaar heb je de de satesaus zo klaar voor gebruik, alleen even opwarmen en je zet een lekkere schaal op tafel!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 485641,
+        "hqId": 740652,
+        "title": "Van Wijngaarden's Zaanse mayonaise",
+        "salesUnitSize": "325 ml",
+        "unitPriceDescription": "prijs per liter €7.35",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363736363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363736363230?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363736363230?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363736363230?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363736363230?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Mayonaise",
+        "brand": "Van Wijngaarden's",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De authentieke zaanse mayonaise in handige knijpfles met steropening.</p><p><ul><li>De enige en echte zaanse mayonaise</li><li>80% raapzaadolie voor een volle en romige smaak</li><li>Ideaal voor gebruik op tafel</li><li>Handige doseerdop met steropening om salades te versieren</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>  Van wijngaarden bv is een familiebedrijf gevestigd in de zaanstreek. Gestart in 1929 met de handel in plantaardige olien, is het bedrijf eind vijftiger jaren van de twintigste eeuw begonnen met het maken van mayonaise op basis van de olie die werd verhandeld. Door een hoog olie gehalte (80%) en een uitgekiende balans van water, eigeel en kruiden ontstond een unieke en herkenbare smaak: vol en romig en met een licht aangenaam zuurtje. Deze receptuur is bekend komen te staan als de zaanse mayonaise en wordt tot op de dag van vandaag gemaakt volgens het tradiotionele recept uit de vorite eeuw. De familie Van Wijngaarden heeft daarmee een belangrijke bijdrage geleverd aan de maakindustrie waar wij de zaanstreek van kennen. Zaanse mayonaise is een begrip in heel Nederland en tot ver erbuiten. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 485544,
+        "hqId": 740234,
+        "title": "Remia Satésaus kant en klaar",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "prijs per kg €9.93",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373039?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373039?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373039?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313437373039?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Satésaus",
+        "brand": "Remia",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Remia satesaus is een kruidige, kant-en-klare satesaus. Lekker bij kip, frites, de BBQ of de oosterse maaltijd.</p><p><ul><li>100% plantaardig en daardoor geschikt voor vegetariers en veganisten</li><li>Remia satesaus is glutenvrij</li><li>De Remia satesaus verpakking is 100% recyclebaar</li><li>In handige 150g verpakking, goed voor 3 porties</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Remia is een Nederlands familiebedrijf, waar al sinds 1925 de lekkerste sauzen en smaakmakers worden gemaakt! Bovendien is Remia de eerste sauzenfabriek van europa, waar klimaatneutraal wordt geproduceerd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 595578,
+        "hqId": 0,
+        "title": "Remia Satésaus kant en klaar 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393034?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393034?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393034?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033393034?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 4.02,
+        "priceBeforeBonus": 4.47,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Satésaus",
+        "brand": "Remia",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Remia Satésaus kant en klaar 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 485544,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 398516,
+        "hqId": 848664,
+        "title": "Maggi Saus voor asperges",
+        "salesUnitSize": "35 g",
+        "unitPriceDescription": "normale prijs per kg €41.43",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "35% Op=Op korting",
+        "currentPrice": 0.94,
+        "priceBeforeBonus": 1.45,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Aspergesaus",
+        "brand": "Maggi",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De MAGGI Saus voor Asperges hoeft alleen maar even aangelengd te worden met wat water, om vervolgens even opgewarmd te worden in een pannetje. Lekker bij witte asperges, ham en gekookte aardappelen.</p><p><ul><li>Verpakt in mono-materiaal, waardoor het zakje bij het plasticafval mag.</li><li>Zakjes nu 1 cm kleiner dan voorheen, dit scheelt tonnen plastic per jaar!</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": -20017,
+        "bonusSegmentDescription": "OP=OP",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 49,
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_OP_IS_OP",
+                "defaultDescription": "35% korting",
+                "percentage": 35,
+                "precisePercentage": 35
+            }
+        ]
+    },
+    {
+        "webshopId": 920,
+        "hqId": 8667,
+        "title": "AH Rijkgevulde tomatensoep",
+        "salesUnitSize": "800 ml",
+        "unitPriceDescription": "prijs per liter €2.49",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639363733?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639363733?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639363733?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639363733?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Tomatensoep in blik",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een heerlijke rijkgevulde tomatensoep met gehaktballetjes</p><p><ul><li>Met groenten en vermicelli</li><li>Extra gevuld en vol van smaak</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "webshopId": 476713,
+        "hqId": 729921,
+        "title": "Coca-Cola Zero sugar 8-pack",
+        "salesUnitSize": "8 x 0,25 l",
+        "unitPriceDescription": "normale prijs per liter €2.78",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323132?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323132?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323132?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323132?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323132?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 4.99",
+        "currentPrice": 4.99,
+        "priceBeforeBonus": 5.55,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Cola zero, suikervrij, light",
+        "brand": "Coca-Cola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Coca-cola zero sugar heeft de originele smaak van Coca-Cola maar dan zonder suiker. Het multipack 8 x 250ml is ideaal om mee naar thuis te nemen en samen van te genieten.</p><p><ul><li>Frisdrank met plantenextracten, met zoetstoffen</li><li>Zonder suiker</li><li>Geen toegevoegde conserveermiddelen</li><li>Bevat een bron van fenylalanine</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714907,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 8-packs 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 4.99",
+                "price": 4.99
+            }
+        ]
+    },
+    {
+        "webshopId": 477060,
+        "hqId": 730719,
+        "title": "Coca-Cola Original taste 8-pack",
+        "salesUnitSize": "8 x 0,25 l",
+        "unitPriceDescription": "normale prijs per liter €3.15",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 4.99",
+        "currentPrice": 4.99,
+        "priceBeforeBonus": 6.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Cola regular",
+        "brand": "Coca-Cola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Coca-cola is de originele en meest iconische bruisende frisdrank sinds 1886. Het multipack 8 x 250ml is ideaal om mee naar thuis te nemen en samen van te genieten.</p><p><ul><li>Original taste</li><li>Frisdrank met plantenextracten</li><li>Natuurlijke aroma's</li><li>Geen toegevoegde conserveermiddelen</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714907,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 8-packs 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 4.99",
+                "price": 4.99
+            }
+        ]
+    },
+    {
+        "webshopId": 554753,
+        "hqId": 86317,
+        "title": "Fanta Orange zero sugar 8-pack",
+        "salesUnitSize": "8 x 0,25 l",
+        "unitPriceDescription": "normale prijs per liter €3.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339393839?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339393839?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339393839?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303339393839?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 4.99",
+        "currentPrice": 4.99,
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Sinas",
+        "brand": "Fanta",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Proef de fruitige sinassmaak van Fanta no sugar. Fanta orange no sugar is een combinatie van sprankelend water en echt sinaasappelsap.</p><p><ul><li>Frisdrank met fruitsmaak</li><li>Met natuurlijke aroma's</li><li>Geen toegevoegde kleurstoffen</li><li>Het multipack 8 x 250ml is ideaal om mee naar thuis te nemen en te genieten</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714907,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 8-packs 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Frisdrank met sinaasappelsap, met suiker en zoetstoffen.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 4.99",
+                "price": 4.99
+            }
+        ]
+    },
+    {
+        "webshopId": 518907,
+        "hqId": 689404,
+        "title": "Coca-Cola Zero sugar zero caffeïne 8-pack",
+        "salesUnitSize": "8 x 0,25 l",
+        "unitPriceDescription": "normale prijs per liter €3.15",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323239?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323239?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323239?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393038323239?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 4.99",
+        "currentPrice": 4.99,
+        "priceBeforeBonus": 6.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Cola caffeïnevrij",
+        "brand": "Coca-Cola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Coca-cola zero sugar zero caffeine heeft de originele smaak van Coca-Cola maar dan zonder suiker en cafeine. het multipack 8 x 250ml is ideaal om mee naar thuis te nemen en samen van te genieten.</p><p><ul><li>Frisdrank met plantenextracten, met zoetstoffen, zonder cafeine</li><li>Zonder suiker en cafeine</li><li>Natuurlijke aroma's</li><li>Geen toegevoegde conserveermiddelen</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714907,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 8-packs 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 4.99",
+                "price": 4.99
+            }
+        ]
+    },
+    {
+        "webshopId": 476734,
+        "hqId": 729953,
+        "title": "Fanta Orange 8-pack",
+        "salesUnitSize": "8 x 0,25 l",
+        "unitPriceDescription": "normale prijs per liter €3.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 4.99",
+        "currentPrice": 4.99,
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Sinas",
+        "brand": "Fanta",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Proef de fruitige sinassmaak van fanta. Fanta orange is een combinatie van sprankelend water en echt sinaasappelsap.</p><p><ul><li>Frisdrank met fruitsmaak</li><li>Met natuurlijke aroma's</li><li>Geen toegevoegde kleurstoffen</li><li>Het multipack 8 x 250ml is ideaal om mee naar thuis te nemen en samen van te genieten</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714907,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 8-packs 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 4.99",
+                "price": 4.99
+            }
+        ]
+    },
+    {
+        "webshopId": 476714,
+        "hqId": 729923,
+        "title": "Coca-Cola Light 8-pack",
+        "salesUnitSize": "8 x 0,25 l",
+        "unitPriceDescription": "normale prijs per liter €3.15",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303435?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303435?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303435?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336303435?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 4.99",
+        "currentPrice": 4.99,
+        "priceBeforeBonus": 6.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Cola zero, suikervrij, light",
+        "brand": "Coca-Cola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Coca-cola light taste heeft een heerlijk, lichte smaak en bevat geen suiker en geen calorieen. Het multipack 8 x 250ml is ideaal om mee naar thuis te nemen en samen van te genieten.</p><p><ul><li>Frisdrank met plantenextracten, met zoetstoffen</li><li>Natuurlijke aroma's, zonder toegevoegde conserveermiddelen</li><li>Zonder suiker en calorieen</li><li>Bevat een bron van fenylalanine</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714907,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 8-packs 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 4.99",
+                "price": 4.99
+            }
+        ]
+    }
+]

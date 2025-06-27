@@ -1,0 +1,83 @@
+[
+    {
+        "webshopId": 232208,
+        "hqId": 822313,
+        "title": "AH Varkenshaas",
+        "salesUnitSize": "2 stuks",
+        "unitPriceDescription": "normale prijs per kg €15.50",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303033?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303033?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303033?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303938303033?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "100 GRAM VOOR 1.28",
+        "currentPrice": 6.12,
+        "priceBeforeBonus": 7.44,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Varkenshaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Varkenshaas is mager vlees met een zachte smaak en het toppunt van malsheid. Heerlijk met een klassieke champignonroomsaus. Maak ook eens een superluxe sate met deze varkenshaas.</p><p><ul><li>Varkensvlees van varkens van Nederlandse boeren</li><li>Bereiding: koekenpan, ongeveer 10-14 minuten</li><li>Mager varkensvlees</li><li>Met 1 ster beter leven keurmerk</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "lokaal"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714853,
+        "bonusSegmentDescription": "AH Varkenshaas 2 stuks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Varkensvlees met het 1 ster beter leven keurmerk heeft naast de ah-kwaliteit nog iets extras: het staat borg voor een beter leven voor het dier. De boer moet zijn best doen om deze ster te verdienen: hij geeft de varkens onder andere meer ruimte en beter afleidingsmateriaal tegen verveling en biggen worden niet gecastreerd. Letterlijk dus: een beter leven en minder stress. Het 1 ster beter leven keurmerk wordt toegekend door de dierenbescherming. </p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_WEIGHT",
+                "defaultDescription": "per 100 GRAM voor €1.28",
+                "count": 100,
+                "price": 1.28,
+                "unit": "GRAM"
+            }
+        ]
+    }
+]

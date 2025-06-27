@@ -1,0 +1,82 @@
+[
+    {
+        "webshopId": 587039,
+        "hqId": 0,
+        "title": "Lay's Mega box pakket",
+        "salesUnitSize": "per pakket",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313632?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313632?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313632?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313632?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "20% pakketkorting",
+        "currentPrice": 12.78,
+        "priceBeforeBonus": 15.98,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Uitdeelzakjes chips",
+        "brand": "Lay's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Samen met je familie en vrienden kunnen jullie lekker genieten van jullie favoriete Cheetos, Lays en Doritos snacks, speciaal geselecteerd voor deze Mega Mix. Nu 20% korting bij aankoop van 2 Mega boxen.</p><p><ul><li>Lay's Mega box 20-pack 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 584983,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_MIXED",
+                "defaultDescription": "20% pakketkorting",
+                "percentage": 20,
+                "precisePercentage": 20
+            }
+        ]
+    }
+]

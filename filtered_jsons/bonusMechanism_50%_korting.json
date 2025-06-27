@@ -1,0 +1,81 @@
+[
+    {
+        "webshopId": 568105,
+        "hqId": 7653,
+        "title": "Appelsientje Fruitdrink goudappeltje",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836353837?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836353837?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836353837?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836353837?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "50% korting",
+        "currentPrice": 0.99,
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Frisse fruitdranken",
+        "brand": "Appelsientje",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Appelsientje fruitdrink Smaakt zo fruitig als 100% sap met een kleine twist door een vleugje zuivel.</p><p><ul><li>Gekoeld het lekkerst</li><li>Geen suiker toegevoegd, bevat alleen van nature aanwezige suikers</li><li>Appelsientje, al sinds 1973 het beste onder de zon</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714157,
+        "bonusSegmentDescription": "Alle Appelsientje FruitDrink literpakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "50% korting",
+                "percentage": 50,
+                "precisePercentage": 50
+            }
+        ]
+    }
+]

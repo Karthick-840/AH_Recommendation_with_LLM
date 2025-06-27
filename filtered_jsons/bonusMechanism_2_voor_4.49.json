@@ -1,0 +1,466 @@
+[
+    {
+        "webshopId": 123848,
+        "hqId": 752374,
+        "title": "Unox Romige tomatensoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €5.70",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383930?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 3.25,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Tomatensoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox smaakfavoriet romige tomaten soep in zak is een heerlijke soep met groenten, zongedroogde tomaat, mascarpone en basilicum.</p><p><ul><li>Unox smaakfavoriet romige tomaten soep in zak is een heerlijke soep</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Een vegetarische soep met zongedroogde tomaat, mascarpone en basilicum</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 96050,
+        "hqId": 549735,
+        "title": "AH Vastkokende aardappelen",
+        "salesUnitSize": "3 kg",
+        "unitPriceDescription": "normale prijs per kg €1.43",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630373934?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630373934?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630373934?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630373934?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 4.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Vastkokende aardappelen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Vastkokende aardappelen met een blanke, gladde schil en een rond-ovale vorm. Ze behouden na het koken hun vorm en blijven stevig van structuur.\nDe rassen die worden verpakt zijn o.a. Nicola, Erika, Lady Christl, Alexia en Ballerina. Na het koken geven ze een mooie gele kleur op het bord.</p>",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 724573,
+        "bonusSegmentDescription": "AH Vastkokende aardappelen 3 kilo",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>\n   <ul>\n   <li><strong>Smaak:</strong> Stevig en smaakvol. </li>\n   <li><strong>Bewaren:</strong> Bewaar de aardappelen op een koele donkere plek, liefst in de koelkast. </li>\n   <li><strong>Bereiden:</strong> Geschikt om te koken en/of te bakken. Is ook zeer geschikt om te verwerken in bijvoorbeeld een salade.\n Bereid de aardappelen in de schil want dan behouden ze meer vitamines en zijn ze smaakvoller.  </li>\n   </ul>\n  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 191060,
+        "hqId": 793702,
+        "title": "Unox Chinese tomatensoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €4.72",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303033303731?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Tomatensoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox smaakfavoriet Chinese tomaten soep in zak is een heerlijke soep, bereid met waterkastanje, mie.</p><p><ul><li>Unox smaakfavoriet Chinese tomaten soep in zak is een heerlijke soep</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Deze Chinese tomatensoep met waterkastanje en mie is vegetarisch</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 169447,
+        "hqId": 752401,
+        "title": "Unox Klassieke tomatensoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €8.23",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393838383834?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 4.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Tomatensoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox smaakfavoriet klassieke tomaten soep in zak is een heerlijke soep, bereid met tomaten, grof gesneden courgette, paprika en gehaktballetjes.</p><p><ul><li>Unox smaakfavoriet klassieke tomaten soep in zak is een heerlijke soep</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Een tomatensoep met gehaktballetjes gemaakt van Beter Leven-vlees</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 169449,
+        "hqId": 752403,
+        "title": "Unox Heldere kippensoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €5.42",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393935363832?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 3.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Kippensoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox speciaal heldere kippensoep in zak is een heerlijke maaltijdsoep, boordevol malse kip en groenten en is klaar in een handomdraai.</p><p><ul><li>Unox speciaal heldere kippensoep in zak zit boordevol malse kip en groenten</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Een heldere soep vol met stukjes kip, wortel, doperwtjes en vermicelli</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "webshopId": 193937,
+        "hqId": 793710,
+        "title": "Unox Romige champignonsoep",
+        "salesUnitSize": "570 ml",
+        "unitPriceDescription": "normale prijs per liter €5.53",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.49",
+        "priceBeforeBonus": 3.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Champignonsoep in zak",
+        "brand": "Unox",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Unox smaakfavoriet romige champignon soep in zak met ui en bieslook zet je in een handomdraai een heerlijke soep op tafel.</p><p><ul><li>Unox smaakfavoriet romige champignon soep in zak is een heerlijke soep</li><li>Deze zak is goed voor twee kommen soep, klaar in een handomdraai</li><li>Deze romige champignonsoep met ui en bieslook is vegetarisch</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714286,
+        "bonusSegmentDescription": "Alle Unox soep in zak",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 31,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.49",
+                "count": 2,
+                "price": 4.49
+            }
+        ]
+    }
+]

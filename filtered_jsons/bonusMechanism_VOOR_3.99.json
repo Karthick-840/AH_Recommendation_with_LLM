@@ -1,0 +1,80 @@
+[
+    {
+        "webshopId": 4007,
+        "hqId": 646778,
+        "title": "AH Half-om-half gehakt",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €10.98",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393038?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393038?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393038?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393038?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 3.99",
+        "currentPrice": 3.99,
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Gehakt (half-om-half)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Half-om-half gehakt om eindeloos mee te varieren. Van gehaktbal, kleine snackballetjes of soepballetjes tot rul gebakken in ovenschotels en pastasaus.</p><p><ul><li>Varkensvlees en rundvlees</li><li>Bereiding: koekenpan/braadpan. Rullen ca. 4-5 min. Gehaktballen ca. 20 min</li><li>Half-om-half gehakt bevat iets meer vet en heeft daardoor een volle smaak</li><li>Weetje: je kunt het gehakt rullen zonder boter of olie toe te voegen</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714270,
+        "bonusSegmentDescription": "AH Half-om-halfgehakt of gemengd gehakt 500 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Bewaar het half-om-half gehakt in de koelkast op maximaal 4 graden celsius of vries het in op de dag van aankoop. Na invriezen wel binnen 3 maanden gebruiken. Voor gebruik ontdooien. </p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 3,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 3.99",
+                "price": 3.99
+            }
+        ]
+    }
+]

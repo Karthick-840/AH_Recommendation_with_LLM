@@ -1,0 +1,2965 @@
+[
+    {
+        "webshopId": 4117,
+        "hqId": 646784,
+        "title": "AH Paprika rood",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303936?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303936?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303936?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303936?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 0.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Paprika",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De rode paprika is wat zoeter van smaak dan de groene variant. Daarom is deze ideaal om te gebruiken voor een verse pastasaus of een gezonde salade. Tip: probeer de rode paprika ook eens te grillen of gevuld uit de oven.</p><p><ul><li>Smaak: rode paprika is zoet en sappig van smaak.</li><li>Bewaren: Op een koele plek buiten de koelkast. Bewaar paprika's niet in de koelkast, want dan verliezen ze hun smaak.</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "lokaal"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. Biologisch"
+        ],
+        "bonusSegmentId": 723252,
+        "bonusSegmentDescription": "AH Paprika rood en geel*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 375004,
+        "hqId": 837504,
+        "title": "Lipton Ice tea green",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ice tea green",
+        "brand": "Lipton",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lipton ice tea green original, lekker verfrissend en laag in calorieen.</p><p><ul><li>Lipton ice tea green original: lekker verfrissend en laag in calorieen</li><li>Koolzuurvrije ijsthee en laag in suiker</li><li>Deze frisdrank is het lekkerst om ijskoud en samen met vrienden te drinken</li><li>Alle Lipton ice tea is 100% rainforest alliance gecertificeerd</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714190,
+        "bonusSegmentDescription": "Alle Lipton 0.5 en 1.5 literflessen*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 177570,
+        "hqId": 779454,
+        "title": "Lipton Ice tea sparkling original",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ice tea regular",
+        "brand": "Lipton",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lipton ice tea sparkling original is lekker verfrissend en laag in calorieen.</p><p><ul><li>Lipton ice tea sparkling original: lekker verfrissend en laag in calorieen</li><li>Deze ijsthee bevat de ideale hoeveelheid bubbels</li><li>Deze frisdrank is het lekkerst om ijskoud en samen met vrienden te drinken</li><li>Lipton ice tea is al meer dan 25 jaar de perfecte verfrissing onder de zon</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714190,
+        "bonusSegmentDescription": "Alle Lipton 0.5 en 1.5 literflessen*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 222563,
+        "hqId": 816815,
+        "title": "Amstel Radler citroen 0.0 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €2.97",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 5.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Amstel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag.</p><p><ul><li>Categorie: radler</li><li>Smaak: met een perfecte, frisse smaak</li><li>Alcoholpercentage: 0.0%</li><li>Blik (6x330ml: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Amstel radler. De favoriete alcoholvrije Radler van Nederland.amstel Radler is de natuurlijke mix van Amstel bier en citroenwater. Dubbel verfrissend en met maar 2% of 0% alcohol. Lekker voor na het sporten of een andere inspanning. Amstel radler. Maak het onvergetelijk verfrissend.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 368705,
+        "hqId": 834546,
+        "title": "AH Paprika geel",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323536353534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323536353534?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323536353534?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323536353534?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323536353534?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 1.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Paprika",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De gele paprika is wat frisser van smaak en daardoor ideaal door een verse pastasaus of een gezonde salade. Tip: probeer ook eens gegrild of gevuld uit de oven. De paprika's worden met de hand geoogst en gesorteerd op kleur, vorm en gewicht. Elke dag vers van onze vaste teler sinds 1975.</p><p><ul><li>Smaak: Gele paprika is zoet en sappig van smaak.</li><li>Bewaren: Op een koele plek buiten de koelkast. Bewaar paprika's niet in de koelkast, want dan verliezen ze hun smaak.</li></ul></p>",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. Biologisch"
+        ],
+        "bonusSegmentId": 723252,
+        "bonusSegmentDescription": "AH Paprika rood en geel*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 233440,
+        "hqId": 826271,
+        "title": "AH Curry madras verspakket",
+        "salesUnitSize": "4 pers | 30 min",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303738?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303738?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303738?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313339303738?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 5.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Aziatische maaltijdpakketten (vers)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Wat handig! Met dit pakket maak je in een handomdraai een lekkere Indiase curry Madras, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd paraat, met lekkere ingredienten en veel groente.  En het mooie is: het pakket bevat precies de juiste hoeveelheden. No waste, dus.</p><p><ul><li>Voor 4 personen</li><li>Zelf toevoegen: 300 g (basmati)rijst, 300 g kip(dij)filet in blokjes, 2 el zonnebloemolie</li><li>Tip: Bestrooi de curry voor het serveren met fijngehakte koriander of grof gehakte cashewnoten.</li><li>Ook lekker met naanbrood.</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714170,
+        "bonusSegmentDescription": "AH Verspakketten",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 5,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 41069,
+        "hqId": 91084,
+        "title": "AH Wokgroente Chinees",
+        "salesUnitSize": "400 g",
+        "unitPriceDescription": "normale prijs per kg €6.23",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333035?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333035?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333035?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333035?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Wokgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Panklare basis met witte kool, sperziebonen, paprika, prei en\n\t\ttaug&#x00E9; voor een Oosters (roerbak-)gerecht.</p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714158,
+        "bonusSegmentDescription": "Alle AH Wokgroenten 400 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>   <ul>   <li>Bewaren: Gekoeld bewaren (max. 7 &#x00B0;C). </li>   <li>Meer informatie: De inhoud van dit product is voor u   zorgvuldig geselecteerd en gewassen, om direct verder te bereiden.</li>   </ul></p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 7,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 519034,
+        "hqId": 886057,
+        "title": "Lipton Ice tea green zero sugar",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €2.46",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839323933?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839323933?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839323933?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839323933?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 3.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ice tea zero",
+        "brand": "Lipton",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lipton ice tea green zero sugar is een perfecte keuze voor iedereen die op zoek is naar een heerlijke verfrissing zonder suiker.</p><p><ul><li>Lipton ice tea green zero sugar: lekker verfrissend en laag in calorieen</li><li>Lipton ice tea green zero sugar, 100% smaak</li><li>Deze ijsthee is het lekkerst om ijskoud en samen met vrienden te drinken</li><li>Alle thee van Lipton is 100% rainforest alliance gecertificeerd</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714190,
+        "bonusSegmentDescription": "Alle Lipton 0.5 en 1.5 literflessen*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 222510,
+        "hqId": 816813,
+        "title": "Amstel Radler citroen 0.0% 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €3.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Amstel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag.</p><p><ul><li>Categorie: radler</li><li>Smaak: met een perfecte, frisse smaak</li><li>Alcoholpercentage: 0.0%</li><li>Fles (6x300ml: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Amstel radler. De favoriete alcoholvrije Radler van Nederland.amstel Radler is de natuurlijke mix van Amstel bier en citroenwater. Dubbel verfrissend en met maar 2% of 0% alcohol. Lekker voor na het sporten of een andere inspanning. Amstel radler. Maak het onvergetelijk verfrissend.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 238802,
+        "hqId": 828378,
+        "title": "Grolsch Radler citroen alcoholvrij 0.0 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €2.77",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 4.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Grolsch",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Echt gebrouwen, echt vruchtensap, echt fris! Dat is Grolsch 0.0% Radler citroen. Geniet ieder moment van de dag van dit alcoholvrije drankje met een frisse en licht-zoete smaak van citroen.</p><p><ul><li>Radler alcoholvrij bier</li><li>Smaak: fruitig, zoet  en  fris</li><li>Lekker bij pasta salade, vlees, gefrituurde hapjes en een kaasplankje</li><li>Alcoholpercentage: 0.0%</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Grolsch is een merk dat weinig introductie behoeft. Je Kent ons van de beugel, vakmanschap is meesterschap en de vele speciaalbieren. En natuurlijk van onze uitgesproken smaak want we brouwen al meer dan 400 jaar met zorgvuldig geselecteerde ingredienten en twee soorten hop. Hierdoor zijn onze bieren vol van smaak en hebben ze een rijke afdronk. Grolsch wil mensen gelukkig maken. Het staat voor tijd voor elkaar en mensen om je heen. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 198386,
+        "hqId": 800277,
+        "title": "AH Tomatensoep",
+        "salesUnitSize": "6 pers | 30 min",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313139363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313139363935?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313139363935?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313139363935?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313139363935?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 4.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Soeppakketten",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Met dit verspakket staat in een handomdraai een zelfgemaakte tomatensoep op de eettafel. En het mooie is: het pakket bevat precies de juiste hoeveelheden. No waste, dus.</p><p><ul><li>Voor 4-6 personen</li><li>Geef de soep een Italiaans tintje door een beetje pesto door de soep te roeren</li><li>Zelf toevoegen: 1 el (olijf)olie, 750 ml water, peper</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714170,
+        "bonusSegmentDescription": "AH Verspakketten",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 5,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 211783,
+        "hqId": 779455,
+        "title": "Lipton Ice tea sparkling zero sugar",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €2.46",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 3.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ice tea zero",
+        "brand": "Lipton",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lipton ice tea sparkling zero sugar is een heerlijk verfrissende ijsthee met 100% taste, zonder suiker en laag in calorieen.</p><p><ul><li>Lipton ice tea sparkling zero sugar: 100% taste, 0% sugar</li><li>Heerlijk bruisende ijsthee zonder suiker en laag in calorieen</li><li>Deze frisdrank is het lekkerst om ijskoud en samen met vrienden te drinken</li><li>Alle thee van Lipton is 100% rainforest alliance gecertificeerd</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714190,
+        "bonusSegmentDescription": "Alle Lipton 0.5 en 1.5 literflessen*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 569883,
+        "hqId": 8626,
+        "title": "CoolBest Fruit drink mango",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.29",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353638?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353638?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353638?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353638?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Multivruchtensap (vers)",
+        "brand": "CoolBest",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De perfecte mix van sappige Mango's, verfrissende appels en een vleugje zuivel, voor een volronde smaak.</p><p><ul><li>Lekker doordrinkbaar</li><li>Perfect voor ieder moment van de dag</li><li>Zonder toegevoegde suikers</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716051,
+        "bonusSegmentDescription": "Alle Coolbest FruitDrink en FruitOntbijt",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Coolbest staat voor de beste kwaliteit en de lekkerste smaakcombinaties. We persen het speciaal geselecteerde fruit en vanaf dat moment blijft het gekoeld tot in de winkel. Zo blijven smaak en voedingsstoffen optimaal behouden. Dat is wel zo lekker!we keep it cool, you get the best!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 196034,
+        "hqId": 757801,
+        "title": "Taksi Tropisch fruit geen suiker toegevoegd 10",
+        "salesUnitSize": "10 x 0,2 l",
+        "unitPriceDescription": "normale prijs per liter €1.50",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Fruitdrank drinkpakjes",
+        "brand": "Taksi",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Drank met de heerlijke smaak van Tropisch Fruit, geen suiker toegevoegd! Voor als je echt van de tropen wilt genieten!</p><p><ul><li>Gemaakt op basis van vruchtensap en zuivel</li><li>Geen suiker toegevoegd!</li><li>68% minder calorie&#235;n dan Taksi Tropisch Fruit regulier</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714199,
+        "bonusSegmentDescription": "Alle DubbelFrisss en Taksi drinkpakjes",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 16,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 155587,
+        "hqId": 596581,
+        "title": "AH Luxe wok Chinees sugersnaps paksoi",
+        "salesUnitSize": "400 g",
+        "unitPriceDescription": "normale prijs per kg €8.23",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313839363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313839363432?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313839363432?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313839363432?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313839363432?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 3.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Wokgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Grofgesneden paksoi, rode ui, Chinese kool, sugar snaps en tauge.</p><p><ul><li><strong>Weetje: </strong>Een lekker verse groentemix perfect voor de Oosterse maaltijd.</li><li><strong>Tip: </strong>Bijzonder lekker met Indonesische sate!</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714158,
+        "bonusSegmentDescription": "Alle AH Wokgroenten 400 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 7,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 67663,
+        "hqId": 502942,
+        "title": "AH Wokgroente Thais",
+        "salesUnitSize": "400 g",
+        "unitPriceDescription": "normale prijs per kg €6.23",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333034?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333034?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333034?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383933333034?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Wokgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Fijngesneden witte kool, prei, paprika, rode ui en rode peper</p><p><ul><li><strong>Weetje: </strong>Lekker pittige basis voor de Thaise maaltijd.</li><li><strong>Tip: </strong>Ook lekker in de Thaise Kha Kai soep.</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714158,
+        "bonusSegmentDescription": "Alle AH Wokgroenten 400 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 7,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 434655,
+        "hqId": 698965,
+        "title": "AH Mexicaanse burritos verspakket",
+        "salesUnitSize": "4 pers | 25 min",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534393934?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534393934?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534393934?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534393934?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Midden en Zuid Amerikaanse maaltijdpakketten (vers)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Wat handig! Met dit pakket maak je in een handomdraai lekkere Mexicaanse burritos, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd paraat, met lekkere ingredienten en veel groente. En het mooie is: het pakket bevat precies de juiste hoeveelheden. No waste, dus.</p><p><ul><li>Voor 4 personen</li><li>Zelf toevoegen: 2 el (olijf)olie, 300 g rundergehakt, tortilla wraps, 50 g geraspte belegen kaas</li><li>Tip: besmeer de wraps voor het vullen met zure room en garneer met fijngesneden koriander</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714170,
+        "bonusSegmentDescription": "AH Verspakketten",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 5,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 516627,
+        "hqId": 46619,
+        "title": "Corona Cero 0.0 alcoholvrij bier 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €4.54",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 8.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij pils",
+        "brand": "Corona",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Corona cero is een verfrissend alcoholvrij bier dat gedronken wordt met een partje limoen in de hals. Corona cero wordt gebrouwen met 100% natuurlijke ingredienten en is laag in suikers en calorieen.</p><p><ul><li>Geniet van een ijskoude Corona cero met een partje limoen in de hals</li><li>Gebrouwen met 100% natuurlijke ingredienten</li><li>Alcoholpercentage: 0,0%</li><li>Een heerlijk fris alcoholvrij bier</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Corona is als merk geboren in Mexico en is sindsdien uitgegroeid tot een van de populairste biermerken ter wereld. Corona staat voor het buitenleven en de natuur, omdat je hier samen met vrienden het beste los kan komen van de dagelijkse routine. Corona cero wordt gebrouwen met 100% natuurlijke ingredienten en bevat daardoor slechts 2,3 gram suiker en 56 kcal per fles. Voor de beste ervaring wordt Corona cero ijskoud gedronken met een partje limoen in de hals.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 185768,
+        "hqId": 781312,
+        "title": "AH Luxe wok Japans champignons peultjes",
+        "salesUnitSize": "400 g",
+        "unitPriceDescription": "normale prijs per kg €7.48",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836313031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836313031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836313031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313836313031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Wokgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Grofgesneden paksoi, gele wortel, kastanje champignon, rode ui, prei en peulen.</p><p><ul><li><strong>Weetje: </strong>Een lekker verse groentemix perfect voor de Japanse maaltijd.</li><li><strong>Tip: </strong>Zet lekker snel een Japanse teriyaki op tafel</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714158,
+        "bonusSegmentDescription": "Alle AH Wokgroenten 400 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 7,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 460649,
+        "hqId": 675079,
+        "title": "Leffe Blond 0.0% 6-pack",
+        "salesUnitSize": "6 x 0.30 l",
+        "unitPriceDescription": "normale prijs per liter €3.69",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 6.65,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij blond, dubbel, tripel",
+        "brand": "Leffe",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Het eerste alcoholvrije speciaalbier met de herkenbare smaak van Leffe blond. Licht bitter en fruitig , gebalanceerd met fijne toetsen van vanille en kruidnagel.</p><p><ul><li>Fruitigesmaak en een bittere toets</li><li>Zelfde gist als andere Leffe bieren</li><li>Het brouwproces is exact hetzelfde als bij Leffe blond</li><li>Alcoholpercentage: 0%</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>De Leffe Blond 0.0% is een nieuwe Leffe variant die een fruitige smaak combineert met een bittere toets en tegelijkertijd de karakteristieke smaak van kruidnagel, vanille en gerookt behoudt. Een heerlijk speciaalbier zonder alcohol, speciaal voor ieder moment.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 195024,
+        "hqId": 798462,
+        "title": "Starbucks Caramel macchiato",
+        "salesUnitSize": "220 ml",
+        "unitPriceDescription": "normale prijs per liter €9.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373731?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373731?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373731?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373731?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Koffie, thee",
+        "subCategory": "IJskoffie",
+        "brand": "Starbucks",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ijskoffie geinspireerd op de originele Starbucks caramel macchiato. Een combinatie van krachtige Starbucks espresso, romige melk en caramel, vormen samen een heerlijke caramel macchiato ijskoffie.</p><p><ul><li>Ijskofie geinsprieerd op de originele Starbucks caramel macchiato</li><li>Met 100% Starbucks arabica koffie</li><li>In een handige beker om onderweg of thuis van te genieten</li><li>Een verfrissende ijskoffie van Starbucks voor elk moment van de dag</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714150,
+        "bonusSegmentDescription": "Alle Starbucks ijskoffie 220-330 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Starbucks caramel macchiato is een gekoelde mix van krachtige espresso, melk en caramel. Een ijskoffie die overal gedronken kan worden, zonder in te leveren op smaak. Je geniet het best van de Starbucks caramel macchiato ijskoffie door 'm gekoeld te drinken en zachtjes te schudden voor gebruik. Probeer ook eens een van onze andere heerlijke ijskoffies, zoals de hazelnut macchiato of skinny latte.starbucks heeft een passie voor koffie en doet er alles aan om de beste smaak in elke cup te krijgen en een heerlijke koffiesmaak te bieden. Starbucks koffies worden gemaakt met 100% arabica koffiebonen en onze inzet voor ethische koffiewinning blijft een prioriteit vanuit ons coffee and farmer equity (c.a.f.e) practices programma. C.a.f.e. Practices is een verificatieprogramma dat landbouwbedrijven toetst aan economische-, sociale- en milieucriteria, allemaal bedoeld om transparante, winstgevende en duurzame koffieteeltmethodes te bevorderen en tegelijkertijd het welzijn van koffieboeren en -arbeiders, hun gezinnen en hun gemeenschappen te beschermen.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 471354,
+        "hqId": 723681,
+        "title": "Hertog Jan 0.0 Alcoholvrij bier 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €2.66",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 4.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij pils",
+        "brand": "Hertog Jan",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een 0.0 gebrouwen uit liefde voor bier.</p><p><ul><li>Categorie: alcoholvrij pils</li><li>Soort, smaak: vol van smaak, verfrissend met een bittertje</li><li>Perfect in balans met een fruitig hoparoma en een verfrissend bittertje</li><li>Alcoholpercentage: 0%</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Onze liefde voor bier gaat ver en we nemen alleen met het beste genoegen. Daarom hebben we een nieuwe Hertog Jan 0.0 gebrouwen: de revisie. De nieuwe Hertog Jan 0.0% is gebrouwen met dezelfde ingredienten als onze pilsener. Uitgebalanceerd in smaak en met een licht bittertje. Fruitig en heerlijk verfrissend. Een 0.0 gebrouwen uit liefde voor bier.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 436775,
+        "hqId": 61107,
+        "title": "AH BBQ worst smokey",
+        "salesUnitSize": "350 g",
+        "unitPriceDescription": "normale prijs per kg €12.86",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d5037383636303233?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d5037383636303233?revLabel=5&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d5037383636303233?revLabel=5&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d5037383636303233?revLabel=5&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d5037383636303233?revLabel=5&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-26",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 4.5,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Worst (varken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een heerlijk malse worst voor op de BBQ! Gekruid met lekkere en verfijnde kruiden en bovendien voorgegaard en daardoor extra snel te bereiden. Na het kruiden wordt de worst gerookt voor een lekkere, subtiele rooksmaak. Ideaal dus om de zomerse barbecue mee te beginnen!</p><p><ul><li>Beter Leven Varkensvlees 1 ster</li><li>Tip: prik niet in de worst want dan blijft hij lekker sappig</li><li>Al voorgegaard dus gemakkelijk en snel te bereiden</li><li>Een topper voor op de barbecue</li></ul></p>",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 724339,
+        "bonusSegmentDescription": "Alle AH BBQ worsten",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Geen BBQ weer? Deze sappige worst kan ook prima in de pan  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 17,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 409165,
+        "hqId": 853880,
+        "title": "Heineken Premium pilsener 0.0 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €3.31",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 6.55,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij pils",
+        "brand": "Heineken",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heineken 0.0%, een verfrissend alcoholvrij biertje, door de karakteristieke fruittonen en licht bittere afdronk. Heineken 0.0, 100% heerlijk, 0% alcohol.</p><p><ul><li>Categorie: alcoholvrij bier</li><li>Smaak: verfrissende smaak dankzij fruittonen en licht bittere afdronk</li><li>Alcoholpercentage: 0.0%</li><li>Blik (6x33cl: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 232361,
+        "hqId": 825027,
+        "title": "Edet Ultra soft 4-laags toiletpapier",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373238?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373238?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373238?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373238?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 6.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Toiletpapier - 4 en 5 laags",
+        "brand": "Edet",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Edet ultra soft 4-laags toiletpapier is nu met stro gemaakt. Door het gebruik van een deel stro is het grondstof besparend. Vertrouw de hoge kwaliteit: voelt extra zacht aan en is natuurlijk sterk!</p><p><ul><li>Extra zacht en natuurlijk sterk</li><li>4-laags toiletpapier met pefc keurmerk</li><li>Nu grondstof besparend door gebruik van een deel stro</li><li>Recyclebare verpakking</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714314,
+        "bonusSegmentDescription": "Alle Edet",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>edet ultra soft 4-laags toiletpapier is nu met stro gemaakt. Door het gebruik van stro is Edet ultra soft grondstof besparend. Het toiletpapier voelt extra zacht aan: het is 4 lagen dik en natuurlijk sterk in het gebruik. Nu met 150 velletjes per rol: dat is 11% meer dan voorheen. De verpakking is recyclebaar en bestaat voor een deel uit gerecycled plastic. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 17,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 233499,
+        "hqId": 825029,
+        "title": "Edet Ultra soft toiletpapier stro voordeelpak",
+        "salesUnitSize": "16 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373330?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373330?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373330?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037373330?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 16.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Toiletpapier - 4 en 5 laags",
+        "brand": "Edet",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Edet ultra soft 4-laags toiletpapier is nu met stro gemaakt. Door het gebruik van een deel stro is het grondstof besparend. Vertrouw de hoge kwaliteit: voelt extra zacht aan en is natuurlijk sterk!</p><p><ul><li>Extra zacht en natuurlijk sterk</li><li>4-laags toiletpapier met pefc keurmerk</li><li>Nu grondstof besparend door gebruik van een deel stro</li><li>Recyclebare verpakking</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714314,
+        "bonusSegmentDescription": "Alle Edet",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>edet ultra soft 4-laags toiletpapier is nu met stro gemaakt. Door het gebruik van stro is Edet ultra soft grondstof besparend. Het toiletpapier voelt extra zacht aan: het is 4 lagen dik en natuurlijk sterk in het gebruik. Nu met 150 velletjes per rol: dat is 11% meer dan voorheen. De verpakking is recyclebaar en bestaat voor een deel uit gerecycled plastic.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 17,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 531874,
+        "hqId": 803196,
+        "title": "AH Scharrel kipchipolata gekruid",
+        "salesUnitSize": "300 g",
+        "unitPriceDescription": "normale prijs per kg €15.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639313331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639313331?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639313331?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639313331?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313639313331?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-26",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 4.5,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Worst (kip)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 724339,
+        "bonusSegmentDescription": "Alle AH BBQ worsten",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 17,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 365872,
+        "hqId": 832883,
+        "title": "Starbucks Cappuccino",
+        "salesUnitSize": "220 ml",
+        "unitPriceDescription": "normale prijs per liter €9.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Koffie, thee",
+        "subCategory": "IJskoffie",
+        "brand": "Starbucks",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ijskoffie geinspireerd op de originele Starbucks cappuccino. Geniet van een cappuccino ijskoffie met de perfecte balans van Starbucks espresso en romige melk.</p><p><ul><li>Ijskoffie geinsprieerd op de originele Starbucks cappuccino</li><li>Met 100% Starbucks arabica koffie</li><li>In een handige beker om onderweg of thuis van te genieten</li><li>Een verfrissende ijskoffie van Starbucks voor elk moment van de dag</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714150,
+        "bonusSegmentDescription": "Alle Starbucks ijskoffie 220-330 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Starbucks cappuccino is een delicate en gekoelde mix van Starbucks espresso met melk en een vleugje cacao. Een ijskoffie die overal gedronken kan worden, zonder in te leveren op smaak. Je geniet het best van de Starbucks cappuccino ijskoffie door 'm gekoeld te drinken en zachtjes te schudden voor gebruik. Probeer ook eens een van onze andere heerlijke ijskoffies, zoals de caramel macchiato of skinny latte.starbucks heeft een passie voor koffie en doet er alles aan om de beste smaak in elke cup te krijgen en een heerlijke koffiesmaak te bieden. Starbucks koffies worden gemaakt met 100% arabica koffiebonen en onze inzet voor ethische koffiewinning blijft een prioriteit vanuit ons coffee and farmer equity (c.a.f.e) practices programma. C.a.f.e. Practices is een verificatieprogramma dat landbouwbedrijven toetst aan economische-, sociale- en milieucriteria, allemaal bedoeld om transparante, winstgevende en duurzame koffieteeltmethodes te bevorderen en tegelijkertijd het welzijn van koffieboeren en -arbeiders, hun gezinnen en hun gemeenschappen te beschermen.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 164101,
+        "hqId": 752147,
+        "title": "Knorr Maaltijdmix macaroni",
+        "salesUnitSize": "61 g",
+        "unitPriceDescription": "normale prijs per kg €27.70",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373931363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373931363935?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373931363935?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373931363935?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373931363935?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 1.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Pasta, rijst, wereldkeuken",
+        "subCategory": "Italiaanse maaltijdpakketten, mixen",
+        "brand": "Knorr",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Met Knorr macaroni maaltijdmix zet je snel een heerlijke maaltijd met lekker veel groente op tafel zonder smaakversterkers, kunstmatige kleurstoffen en conserveermiddelen.</p><p><ul><li>Knorr macaroni maaltijdmix is makkelijk en snel te bereiden</li><li>Zet een heerlijk gerecht op tafel, met lekker veel groente</li><li>Mix zonder conserveermiddelen, kunstmatige kleurstoffen of smaakversterkers</li><li>Met deze maaltijdmix maak je een gerecht voor 3 tot 4 personen</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714221,
+        "bonusSegmentDescription": "Alle Knorr wereldgerechten, maaltijdmixen en pasta's",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 64,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 520758,
+        "hqId": 716421,
+        "title": "DubbelFrisss Appel & perzik 6-pack",
+        "salesUnitSize": "6 x 0,2 l",
+        "unitPriceDescription": "normale prijs per liter €2.49",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383639323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383639323932?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383639323932?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383639323932?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383639323932?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Fruitdrank drinkpakjes",
+        "brand": "DubbelFrisss",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Laat je verrassen door de verfrissende combinatie van appel en perzik! DubbelFrisss appel perzik is een vruchtenfrisdrank met ten minste 15% heerlijk vruchtensap.</p><p><ul><li>Vol van smaak, slechts 1kcal per 100ml</li><li>Vrij van conserveermiddelen</li><li>Verfrissende dubbele smaken</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714199,
+        "bonusSegmentDescription": "Alle DubbelFrisss en Taksi drinkpakjes",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Iedereen, dubbelfrisss! Al sinds 1996 hebben we een simpele missie: extreem verfrissende en verrassende smaakcombinaties maken. We geven je the best of both worlds: een mix tussen sap en frisdrank. Zo maken we van DubbelFrisss voor iedereen een feestje. Giet dat glas lekker vol, en geniet!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 16,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 569884,
+        "hqId": 8627,
+        "title": "CoolBest Fruit drink strawberry",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.29",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Multivruchtensap (vers)",
+        "brand": "CoolBest",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De perfecte mix van volzoete aardbeien, verfrissende appels en een vleugje zuivel, voor een volronde smaak.</p><p><ul><li>Lekker doordrinkbaar</li><li>Perfect voor ieder moment van de dag</li><li>Zonder toegevoegde suikers</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716051,
+        "bonusSegmentDescription": "Alle Coolbest FruitDrink en FruitOntbijt",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Coolbest staat voor de beste kwaliteit en de lekkerste smaakcombinaties. We persen het speciaal geselecteerde fruit en vanaf dat moment blijft het gekoeld tot in de winkel. Zo blijven smaak en voedingsstoffen optimaal behouden. Dat is wel zo lekker!we keep it cool, you get the best!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 571813,
+        "hqId": 14095,
+        "title": "Texels Skuumkoppe 0.0 speciaalbier 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €4.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 8.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Texels",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Texels skuumkoppe is een bovengistend donker tarwebier, gebrouwen van natuurlijke ingredienten, dat bij ieder seizoen past. Een bier puur, robuust en recht door zee, net als texel zelf.</p><p><ul><li>Categorie: donker tarwebier</li><li>Smaak: volle en romige smaak, met hints van karamel en abrikoos</li><li>Alcoholpercentage: 0.0%</li><li>Gebrouwen met natuurlijke ingredienten, nu ook alcoholvrij</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Brouwerij: de Texelse bierbrouwerij. Onder de waddenlucht, midden tussen de uitgestrekte groene weiden aan de rand van natuurgebied de hoge berg staat de voormalige zuivelfabriek van Oudeschild. Waar vroeger kaas werd gemaakt, glanzen nu de koperen brouwketels. Het hart van een brouwerij waar bijzonder Texels bier zijn oorsprong vindt. De Texelse bierbrouwerij brouwt unieke speciaalbieren van uitsluitend natuurlijke grondstoffen. Dat echte, dat authentieke, dat maakt dat mensen zeggen: ja, dit is Texels. overheerlijke speciaalbieren, geroemd om hun volle, romige smaak en geprezen om hun zacht frisse afdronk. Speciaalbier zo puur als het eiland zelf!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 415225,
+        "hqId": 686757,
+        "title": "Lipton Ice tea peach",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €2.46",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 3.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ice tea peach",
+        "brand": "Lipton",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lipton ice tea peach is lekker verfrissend en laag in calorieen.</p><p><ul><li>Lipton ice tea peach is lekker verfrissend en laag in calorieen</li><li>Een koolzuurvrije ijsthee met een vleugje perziksap voor een fruitige smaak</li><li>Deze frisdrank is het lekkerst om ijskoud en samen met vrienden te drinken</li><li>Alle thee van Lipton is 100% rainforest alliance gecertificeerd</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714190,
+        "bonusSegmentDescription": "Alle Lipton 0.5 en 1.5 literflessen*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 566588,
+        "hqId": 4706,
+        "title": "Vandestreek Playground non alcoholic IPA",
+        "salesUnitSize": "330 ml",
+        "unitPriceDescription": "normale prijs per liter €6.33",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij IPA",
+        "brand": "Vandestreek",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De meest bekroonde non alcoholic IPA ter wereld! Playground wordt gebrouwen net als ieder ander bier en krijgt ruim de tijd in de tank om op smaak te komen.</p><p><ul><li>Echt bier, toch nuchter</li><li>Knalvol hop zoals een echte IPA</li><li>Fris en gebalanceerd</li><li>Ambachtelijk Nederlands Brouwwerk</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Playground is een non alcoholic waar niets uit wordt gehaald tijdens het brouwproces. Mede daarom is het meest gedronken non alcoholic bier van Nederland. Playground is op natuurlijke wijze gebrouwen, vrij van dierlijke producten en dus helemaal vegan.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 498545,
+        "hqId": 810121,
+        "title": "AH Japanse teriyaki verspakket",
+        "salesUnitSize": "4 pers | 20 min",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338393032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338393032?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338393032?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338393032?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338393032?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Aziatische maaltijdpakketten (vers)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Met dit verspakket heb je de basis voor een heerlijke Japanse teriyaki.</p><p><ul><li>Voor 4 personen</li><li>Zelf toevoegen: 300g (basmati)rijst, 300g kip(dij)filet, 2el zonnebloemolie</li><li>Vegetarische tip: vervang de kip voor blokjes tempeh</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714170,
+        "bonusSegmentDescription": "AH Verspakketten",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 5,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 409164,
+        "hqId": 853867,
+        "title": "Heineken Premium pilsener 0.0 draaidop 6-pack",
+        "salesUnitSize": "6 x 0,25 l",
+        "unitPriceDescription": "normale prijs per liter €4.33",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 6.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij pils",
+        "brand": "Heineken",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Proost op 150 jaar gezelligheid met heineken! Heineken 0.0%, een verfrissend alcoholvrij biertje, door de karakteristieke fruittonen en licht bittere afdronk. Heineken 0.0, 100% heerlijk, 0% alcohol.</p><p><ul><li>Categorie: alcoholvrij bier</li><li>Smaak: verfrissende smaak dankzij fruittonen en licht bittere afdronk</li><li>Alcoholpercentage: 0.0%</li><li>Draaidop fles (6x25cl: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Al meer dan 150 jaar maakt een onverzettelijke toewijding aan puurheid en kwaliteit Heineken het meest iconische biermerk ter wereld. Als je de rode ster op dat groene flesje ziet, weet je al dat elke ijskoude slok je die heerlijke smaak met subtiele fruittonen brengt. Een traditie van smaak die al meer dan anderhalve eeuw voortleeft dankzij eenvoud en de kwaliteit van de ingredienten, en natuurlijk de zorgvuldige aandacht voor het brouwproces. Heineken is gebrouwen met 100% groene energie en is gekoeld op een tempratuur tussen de 2 - 5 graden het allerlekkerst.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 569888,
+        "hqId": 8628,
+        "title": "CoolBest Fruit drink orange",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353538?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353538?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353538?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353538?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Sinaasappelsap en jus d'orange (vers)",
+        "brand": "CoolBest",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De perfecte mix van de beste sinaasappels, verfrissende appels en een vleugje zuivel, voor een volronde smaak.</p><p><ul><li>Lekker doordrinkbaar</li><li>Perfect voor ieder moment van de dag</li><li>Zonder toegevoegde suikers</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716051,
+        "bonusSegmentDescription": "Alle Coolbest FruitDrink en FruitOntbijt",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Coolbest staat voor de beste kwaliteit en de lekkerste smaakcombinaties. We persen het speciaal geselecteerde fruit en vanaf dat moment blijft het gekoeld tot in de winkel. Zo blijven smaak en voedingsstoffen optimaal behouden. Dat is wel zo lekker!we keep it cool, you get the best!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 378687,
+        "hqId": 839782,
+        "title": "AH Luxe wok Japans sojabonen wortel",
+        "salesUnitSize": "400 g",
+        "unitPriceDescription": "normale prijs per kg €7.73",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935333230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935333230?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935333230?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935333230?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313935333230?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 3.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Wokgroente",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De ideale basis voor een Aziatisch gerecht! Roerbakken gaat snel en eenvoudig met deze wokgroenten.</p><p><ul><li>Met paksoi, witte kool, sojabonen en gele wortel.</li><li>Verhit vloeibare margarine of (olijf)olie en wok de groente in 5-6 min</li><li>Combineer met vis, vlees of kip.</li><li>Lekker met een met bijvoorbeeld een zoetzuur of oestersausje.</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714158,
+        "bonusSegmentDescription": "Alle AH Wokgroenten 400 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 7,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    }
+]

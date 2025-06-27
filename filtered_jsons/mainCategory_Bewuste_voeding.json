@@ -1,0 +1,2504 @@
+[
+    {
+        "webshopId": 412158,
+        "hqId": 855694,
+        "title": "Oatly! Haver barista edition",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €2.89",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343538?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343538?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343538?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343538?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Oatly!",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Het is vooral ontzettend lekker. En jij kunt schitteren met hartjes en blaadjes in het schuim. Net als anders. Je vervangt gewoon de gewone melk door eenzelfde hoeveelheid Haverdrank Barista Edition.</p><p><ul><li>Haverdrank Barista Edition</li><li>Een haverdrank die je kunt laten schuimen en die fantastisch smaakt in de koffie</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 569537,
+        "hqId": 0,
+        "title": "Oatly! barista 1 liter 6-pack",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 15.61,
+        "priceBeforeBonus": 17.34,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Oatly!",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Oatly Barista 1 liter nu bij aankoop van 6-stuks 10% korting</p><p><ul><li>Oatly Hafer/Haver Barista Edition 1,0 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 412158,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 587254,
+        "hqId": 0,
+        "title": "Oatly! Barista Edition 1L 4-pack",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 10.98,
+        "priceBeforeBonus": 11.56,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Oatly!",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Oatly Haverdrank Barista Edition: een plantaardige Haverdrank voor in de koffie. Hartstikke geschikt voor professionele barista¿s, veganisten, niet-veganisten, en alles daartussen. Nu ook in een voordeelpakket van 4 pakken.</p><p><ul><li>Oatly! Haver barista edition 4x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 412158,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 565765,
+        "hqId": 4557,
+        "title": "AH Terra Plantaardige sojadrink ongezoet",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €0.89",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832393437?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832393437?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832393437?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313832393437?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Sojadrink",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 565766,
+        "hqId": 4558,
+        "title": "AH Terra Amandeldrink ongezoet gekoeld",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €1.69",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393633?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393633?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393633?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393633?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Amandel, cashewdrink",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 462463,
+        "hqId": 714670,
+        "title": "AH Terra Plantaardige haverdrink ongezoet",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €1.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393239?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393239?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393239?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393536393239?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een 100% plantaardig en van nature lactosevrij alternatief voor zuivel. Zonder toegevoegde suikers en laag in verzadigde vetten. Je proeft enkel de zachte zoetheid afkomstig van de haver.</p><p><ul><li>100% veganistisch</li><li>Lactosevrij</li><li>Zonder toegevoegde suikers</li><li>Rijk aan vitamine b2, b12, d en calcium</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>  Uitstekend in combinatie met muesli, als basis voor een smoothie of voor iedereen die kiest voor een gezonde leefstijl. </p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 448314,
+        "hqId": 708857,
+        "title": "AH Lactosevrije houdbare halfvolle melk",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €1.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363734?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363734?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363734?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363734?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Lactosevrije melk",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>AH houdbare halfvolle melk lactosevrij. Zowel warm als koud hartstikke lekker!</p><p><ul><li>Vrij van lactose</li><li>Bron van calcium en eiwit</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>  Geschikt voor mensen met een lactose-intolerantie. Deze melk bevat een lactose aandeel kleiner dan 0,1 gram per 100ml. </p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 438670,
+        "hqId": 702102,
+        "title": "AH Lactosevrije magere kwark",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "prijs per kg €3.98",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933373639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933373639?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933373639?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933373639?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933373639?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Lactosevrije yoghurt en kwark",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze lactose vrije* magere kwark is voor iedereen met\n\t\t\t\t  lactose-intolerantie. Een heerlijk milde kwark om zo te eten, met ontbijtgranen\n\t\t\t\t  of in je favoriete recepten.</p><p><ul><li>Bron van calcium en eiwitten</li><li>Met milde smaak</li><li>Vrij van Lactose</li><li>*Lactose-aandeel: 0,1 g / 100 g</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p> De vrij van lactose-producten van Albert Heijn zijn zorgvuldig    ontwikkeld voor mensen met een lactose intolerantie, bevatten een lactose    aandeel van &lt;0,1 gram per 100 gram en zijn bovendien heerlijk van smaak.    </p><p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 461862,
+        "hqId": 714665,
+        "title": "Alpro Barista haver",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.49",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.87,
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro barista haver past perfect in koffie van vrijwel elke boon, melange of manier van branden. Geef je lievelingskoffie een ware barista ervaring met de perfecte schuimlaag.</p><p><ul><li>Plantaardig met de zachte, subtiel zoete smaak van in europa geoogste haver</li><li>Speciaal ontwikkeld om op te schuimen, zowel warm als koud</li><li>Bron van vezels en vitamine b2, b12 en d</li><li>Van nature lactosevrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714239,
+        "bonusSegmentDescription": "Alle Alpro houdbare drinks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met deze drink kun je eindeloos in je koffie combineren. Schuim de melk op voor een lekkere plantaardige cappuccino, latte macchiato, koffie verkeerd of voeg toe aan je ijskoffie. Gezien onze haverdrank plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 28,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 555350,
+        "hqId": 0,
+        "title": "Alpro Barista haver 4-pack",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393830383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393830383038?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393830383038?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393830383038?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393830383038?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 7.47,
+        "priceBeforeBonus": 9.96,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Geniet elke dag van je favoriete koffie met Alpro Barista Haver. Deze 100% plantaardige haverdrink is ideaal om op te schuimen. De zachte haversmaak maakt je cappuccino extra lekker! Nu ook in een pakket van 4 pakken.\n</p><p><ul><li>Alpro Barista haver 4x</li><li>Ideaal om op te schuimen</li><li>100% plantaardig</li><li>Bron van vezels</li><li>Van nature arm aan vet</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 461862,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 469664,
+        "hqId": 721424,
+        "title": "AH Lactosevrij verse halfvolle melkdrank",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €1.59",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331303835?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331303835?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331303835?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383331303835?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Lactosevrije melk",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Verse halfvolle melkdrank zonder lactose, dus makkelijker te verteren. Voor iedereen met een lactose-intolerantie.</p><p><ul><li>Lactosevrije halfvolle melkdrank</li><li>Van nature een bron van calcium en eiwit</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 188227,
+        "hqId": 789013,
+        "title": "Alpro Sojadrink original",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.49,
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Sojadrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro sojadrink original is een drink waar je altijd op kunt rekenen! Dankzij de milde smaak is deze plantaardige kanjer enorm veelzijdig en te gebruiken in al jouw favoriete gerechten.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Rijk aan plantaardige eiwitten en laag in suikers en verzadigd vet</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714239,
+        "bonusSegmentDescription": "Alle Alpro houdbare drinks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro sojadrank kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, in overnight oats/ smoothie of zo uit het glas. Gezien onze drink plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 28,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 562392,
+        "hqId": 0,
+        "title": "Alpro Sojadrink original 4-pack",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313034333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313034333632?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313034333632?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313034333632?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313034333632?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 5.97,
+        "priceBeforeBonus": 7.96,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Sojadrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro sojadrink original is een drink waar je altijd op kunt rekenen! Dankzij de milde smaak is deze plantaardige kanjer enorm veelzijdig en te gebruiken in al jouw favoriete gerechten. Nu ook in een voordeelpakket van 4 pakken.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Rijk aan plantaardige eiwitten en laag in suikers en verzadigd vet</li><li>Van nature lactosevrij, glutenvrij en vegan</li><li>Alpro Sojadrink original 4x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 188227,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 570853,
+        "hqId": 11080,
+        "title": "Oatly! Bio barista haver",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €2.89",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031303837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031303837?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031303837?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031303837?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313031303837?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Oatly!",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een biologische, opschuimbare haverdrank die een fijne plantaardige upgrade voor je koffie is. Voor professionele barista's en voor wie thuis graag geniet van een perfecte latte.</p><p><ul><li>Opschuimbare haverdrank die geweldig Smaakt in de koffie</li><li>Biologisch, zonder zuivel en zonder soja</li><li>Alleen natuurlijke suikers uit de haver</li><li>Ongeopend lang houdbaar op kamertemperatuur</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "biologisch"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 590336,
+        "hqId": 0,
+        "title": "Oatly! Bio barista haver 6-pack",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 15.61,
+        "priceBeforeBonus": 17.34,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Oatly!",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Oatly! Bio barista haver 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 570853,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 212525,
+        "hqId": 807628,
+        "title": "Arla Lactofree halfvolle yoghurt",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353435?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353435?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353435?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353435?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Lactosevrije yoghurt en kwark",
+        "brand": "Arla",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De zachte en milde smaak van halfvolle yoghurt, maar dan zonder lactose. Dat is wel zo fijn voor de buik.</p><p><ul><li>Lactosevrije halfvolle yoghurt</li><li>Gemaakt van koemelk</li><li>100% natuurlijk</li><li>Van nature rijk aan eiwitten, calcium en vitamines</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>  Wat is Arla lactofree? je wilt kunnen doen waar je je goed bij voelt. Ook als je lactose niet (goed) kunt verdragen. Want dankzij de natuurlijke stof lactase is Arla lactofree vrij van lactose. En dat is wel zo fijn voor de buik. 100% natuurlijk Arla houdt van puur natuurlijke zuivel. Daar hoeven we niets aan toe te voegen. Alle voedingsstoffen zitten er al in. Arla lactofree is daarom rijk aan eiwitten, calcium en vitamine b12. - eiwitten zorgen voor sterkere spieren en dragen bij tot de instandhouding van sterke botten. - calcium activeert de natuurlijke energie in je lichaam. - vitamine b12 heeft een positieve invloed op het immuunsysteem. En dat voelt goed! Omdat de natuur goed voor ons zorgt, zorgen wij ook graag goed voor de natuur. Kijk op arla.nl lactosegehalte 0,01 g/100 ml. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 389544,
+        "hqId": 846380,
+        "title": "Raak Vruchtensiroop frambozen zero sugar",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "prijs per liter €4.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833303837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833303837?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833303837?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833303837?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833303837?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Limonadesiroop (suikerbewust en suikervrij)",
+        "brand": "Raak",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Van Raak framboos zero sugar siroop, wordt iedereen blij. Uit een fles haal je makkelijk 30 glazen. Zin in prik? gebruik bruisend water en je hebt frambozen limonade zonder suiker, maar met bubbels.</p><p><ul><li>Bevat geen suiker en calorieen</li><li>Uit een fles vruchtensiroop haal je maar liefst 30 glazen lekkere limonade</li><li>Een brede keuze aan vertrouwde smaken</li><li>Vegan en glutenvrij</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Het oer-hollandse siropenmerk Raak bestaat sinds 1957. Toen werd het eerste limonadeflesje geintroduceerd met de merknaam raak, voorzien van een kleurig ingebrand rebusje: Raak = sinaasappel + flesje. Inmiddels is Raak niet alleen de siroop die je drinkt bij je opa en oma, maar een limonade favoriet in vele huishoudens. Nieuwsgierig naar alle smaken?",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 209828,
+        "hqId": 805380,
+        "title": "Arla Lactofree halfvolle melk",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931343031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931343031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931343031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313931343031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Lactosevrije melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heerlijke halfvolle melk, maar dan zonder lactose. Dat is wel zo fijn voor de buik.</p><p><ul><li>Lactosevrije halfvolle melk</li><li>Gemaakt van koemelk</li><li>100% natuurlijk</li><li>Van nature rijk aan eiwitten, vitamines en calcium</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>  Wat is Arla lactofree? je wilt kunnen doen waar je je goed bij voelt. Ook als je lactose niet (goed) kunt verdragen. Want Arla lactofree is vrij van lactose, met behulp van lactase en een speciale filtertechniek. En dat is wel zo fijn voor de buik. 100% natuurlijk Arla houdt van puur natuurlijke zuivel. Daar hoeven we niets aan toe te voegen. Alle voedingsstoffen zitten er al in. Arla lactofree is daarom rijk aan eiwitten, vitamine b12 en calcium. - eiwitten zorgen voor sterkere spieren en dragen bij tot de instandhouding van sterke botten. - vitamine b12 heeft een positieve invloed op het immuunsysteem. - calcium activeert de natuurlijke energie in je lichaam. En dat voelt goed! Omdat de natuur goed voor ons zorgt, zorgen wij ook graag goed voor de natuur. Kijk op arla.nl lactosegehalte 0,01 g/100 ml. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 369371,
+        "hqId": 834972,
+        "title": "Raak Vruchtensiroop multivruchten zero sugar",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "prijs per liter €4.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313834383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313834383439?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313834383439?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313834383439?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313834383439?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Limonadesiroop (suikerbewust en suikervrij)",
+        "brand": "Raak",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Wil je de smaak van appel, sinaasappel, passievrucht, peer en ananas in een glas, maar dan zonder suiker? probeer de Raak multivruchten zero sugar siroop. Uit een fles haal je makkelijk 30 glazen.</p><p><ul><li>Bevat geen suiker en calorieen</li><li>Uit een fles vruchtensiroop haal je maar liefst 30 glazen lekkere limonade</li><li>Een brede keuze aan vertrouwde smaken</li><li>Vegan en glutenvrij</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Het oer-hollandse siropenmerk Raak bestaat sinds 1957. Toen werd het eerste limonadeflesje geintroduceerd met de merknaam raak, voorzien van een kleurig ingebrand rebusje: Raak = sinaasappel + flesje. Inmiddels is Raak niet alleen de siroop die je drinkt bij je opa en oma, maar een limonade favoriet in vele huishoudens. Nieuwsgierig naar alle smaken?",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 448315,
+        "hqId": 708858,
+        "title": "AH Lactosevrije houdbare volle melk",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €1.49",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363639?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363639?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363639?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393931363639?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Lactosevrije melk",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Volle lactosevrije melk, net zo lekker als gewone melk maar dan lactosevrij.</p><p><ul><li>Bron van calcium en eiwit</li><li>Voor mensen met een lactose-intolerantie</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 560850,
+        "hqId": 35192,
+        "title": "AH Protein bar white choco pinda karamel",
+        "salesUnitSize": "55 g",
+        "unitPriceDescription": "prijs per kg €27.09",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343638?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343638?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343638?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343638?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Proteïnerepen",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 565763,
+        "hqId": 4555,
+        "title": "AH Terra Plantaardige sojadrink",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €0.89",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932303237?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932303237?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932303237?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932303237?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 0.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Sojadrink",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 580564,
+        "hqId": 0,
+        "title": "AH Protein Bar White Choco 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323238?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323238?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323238?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323238?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 4.47,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Proteïnerepen",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze protein bar witte chocolade pinda karamel is een heerlijk eiwitrijk tussendoortje.</p><p><ul><li>AH Protein bar white choco pinda karamel 3x</li><li>Bevat 18 gram eiwitten</li><li>Eiwitreep</li><li>met 24% witte chocolade, 11% geroosterde pinda's en karamelsmaak</li><li>met zoetstoffen</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 560850,
+                "quantity": 3
+            }
+        ],
+        "labelType": "NO_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakket"
+            }
+        ]
+    },
+    {
+        "webshopId": 389513,
+        "hqId": 846376,
+        "title": "Raak Vruchtensiroop aardbeien zero sugar",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "prijs per liter €4.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353438?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353438?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353438?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353438?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Limonadesiroop (suikerbewust en suikervrij)",
+        "brand": "Raak",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De volle zoete smaak van aardbeien, maar dan zonder suiker. Met een fles maak je 30 volle glazen van 200 ml. Dat is genieten van in totaal 6 liter aardbeien limonade. Daar word je toch blij van!</p><p><ul><li>Bevat geen suiker en calorieen</li><li>Uit een fles vruchtensiroop haal je maar liefst 30 glazen lekkere limonade</li><li>Een brede keuze aan vertrouwde smaken</li><li>Vegan en glutenvrij</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Het oer-hollandse siropenmerk Raak bestaat sinds 1957. Toen werd het eerste limonadeflesje geintroduceerd met de merknaam raak, voorzien van een kleurig ingebrand rebusje: Raak = sinaasappel + flesje. Inmiddels is Raak niet alleen de siroop die je drinkt bij je opa en oma, maar een limonade favoriet in vele huishoudens. Nieuwsgierig naar alle smaken?",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 515787,
+        "hqId": 735934,
+        "title": "Arla Lactofree halfvolle melk",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "prijs per liter €1.93",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383436333431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383436333431?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383436333431?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383436333431?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383436333431?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Lactosevrije melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heerlijke halfvolle melk, maar dan zonder lactose. Dat voelt goed voor iedereen. Halfvolle melk van Arla lactofree is gemaakt van koemelk en daardoor van nature rijk aan eiwit, vitamines en mineralen.</p><p><ul><li>Lactosevrije halfvolle melk</li><li>Nu in handige grootverpakking</li><li>Van nature rijk aan eiwit, calcium, vitamines en mineralen</li><li>Melk die goed voelt</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Wat is Arla lactofree? je wilt kunnen doen waar je je goed bij voelt. Ook als je lactose niet (goed) kunt verdragen. Want dankzij de natuurlijke stof lactase  en  een speciale filtertechniek is Arla lactofree vrij van lactose. Dat voelt goed voor iedereen. Arla houdt van puur natuurlijke zuivel. Daar hoeven we niets aan toe te voegen. Alle voedingsstoffen zitten er al in. En dat voelt goed! Lactosegehalte  0,01 g/100 ml.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 500277,
+        "hqId": 811201,
+        "title": "Slimpie Framboos siroop 0% suiker",
+        "salesUnitSize": "0,65 l",
+        "unitPriceDescription": "prijs per liter €5.37",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235333535?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235333535?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235333535?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303235333535?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Limonadesiroop (suikerbewust en suikervrij)",
+        "brand": "Slimpie",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Slimpie siroop framboos 650ml, 0% suiker en calorieen, vegan en glutenvrij. Door de unieke mengverhouding van 1+11 krijg je uit een fles siroop bijna 8 liter limo = 39 glazen!</p><p><ul><li>0% suiker en calorieen</li><li>Vegan en glutenvrij</li><li>Fles van 100% gerecycled plastic (rpet)</li><li>Mengverhouding 1+11 = wel 39 glazen uit een fles</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "De heerlijke smaak van framboos het hele jaar door! Een fruitige siroop met 0% suiker en calorieen, vrij van gluten en vegan! En je haalt uit een fles siroop wel 39 glazen limo. Pssst. Ook lekker met bubbeltjeswater!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 114698,
+        "hqId": 535295,
+        "title": "Alpro Sojadrink zonder suikers",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.49,
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Sojadrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro sojadrink zonder suikers is de basis voor jouw favoriete gerechtjes. Lekker in ontbijtgranen, overnight oats, smoothies, pannenkoeken of gewoon uit een glas!</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Zonder suikers, rijk aan plantaardige eiwitten en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714239,
+        "bonusSegmentDescription": "Alle Alpro houdbare drinks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro sojadrank kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, in overnight oats/ smoothie of zo uit het glas. Gezien onze drink plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 28,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 560851,
+        "hqId": 596429,
+        "title": "AH Protein bar melk choco pinda karamel",
+        "salesUnitSize": "55 g",
+        "unitPriceDescription": "prijs per kg €27.09",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393434343934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393434343934?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393434343934?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393434343934?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393434343934?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Proteïnerepen",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 570848,
+        "hqId": 11083,
+        "title": "Alpro Barista kokos",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €3.59",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303630323334?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.02,
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Kokosdrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro barista kokosnoot past perfect in koffie van vrijwel elke boon, melange of manier van branden. Geef je lievelingskoffie een ware barista ervaring met de perfecte schuimlaag.</p><p><ul><li>Plantaardig met een tropische smaak van duurzaam geteelde kokosnoten</li><li>Speciaal ontwikkeld om op te schuimen, zowel warm als koud</li><li>Rijk aan plantaardige eiwitten, laag in vet en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714239,
+        "bonusSegmentDescription": "Alle Alpro houdbare drinks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met deze drink kun je eindeloos in je koffie combineren. Schuim de drink op voor een lekkere plantaardige cappuccino, latte macchiato, koffie verkeerd of voeg toe aan je ijskoffie. Gezien onze kokosdrank plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 28,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 572133,
+        "hqId": 0,
+        "title": "Alpro Barista kokosnoot 4-pack",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303636393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303636393939?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303636393939?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303636393939?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303636393939?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 8.07,
+        "priceBeforeBonus": 10.76,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Kokosdrink",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro Barista Kokosnoot past perfect in koffie van vrijwel elke boon, melange of manier van branden. Geef je lievelingskoffie een ware barista-ervaring met de perfecte schuimlaag. Zowel warm (in je cappuccino) als koud (in een ijskoffie) lekker, en nu ook in een voordeelpakket van 4 pakken!</p><p><ul><li>Alpro Soja kokosdrink 4x</li><li>Plantaardig met een tropische smaak van duurzaam geteelde kokosnoten</li><li>Speciaal ontwikkeld om op te schuimen, zowel warm als koud</li><li>Rijk aan plantaardige eiwitten, laag in vet en bron van Calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 570848,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 580565,
+        "hqId": 0,
+        "title": "AH Protein Bar Melk Choco 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323239?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323239?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323239?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036323239?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 4.47,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Proteïnerepen",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze protein bar melkchocolade pinda karamel is een heerlijk eiwitrijk tussendoortje.</p><p><ul><li>AH Protein bar melk choco pinda karamel 3x</li><li>Bevat 18 gram eiwitten\t</li><li>Eiwitreep</li><li>met 25% melkchocolade met zoetstof, 13% geroosterde pinda's en karamelsmaak</li><li><3 g suiker per reep</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 560851,
+                "quantity": 3
+            }
+        ],
+        "labelType": "NO_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakket"
+            }
+        ]
+    },
+    {
+        "webshopId": 436195,
+        "hqId": 56588,
+        "title": "AH Siroop aardbei 0% suiker toegevoegd",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "prijs per liter €3.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393438353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393438353236?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393438353236?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393438353236?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393438353236?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Limonadesiroop (suikerbewust en suikervrij)",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De lekkerste limonade maak je zelf met deze vruchtenlimonadesiroop met aardbeiensmaak 0% toegevoegd suiker. Extra verfrissend met ijsblokjes.</p><p><ul><li>0% suiker toegevoegd</li><li>Probeer ook met koolzuurhoudend water</li><li>Onverdund is de siroop heerlijk in sorbets, cocktails, vla en yoghurt</li><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 595700,
+        "hqId": 0,
+        "title": "AH Protein white choco pinda karamel 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323035393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323035393532?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323035393532?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323035393532?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323035393532?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 4.25,
+        "priceBeforeBonus": 4.47,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Proteïnerepen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>AH Protein bar white choco pinda karamel 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 560850,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 570842,
+        "hqId": 11074,
+        "title": "AH Terra Plantaardige barista haver",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €1.69",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323039333133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323039333133?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323039333133?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323039333133?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323039333133?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 401934,
+        "hqId": 850503,
+        "title": "Oatly! Haverdrank bio",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €2.85",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343333?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343333?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343333?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313036343333?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.85,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Oatly!",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze haverdrank is gemaakt van 100% biologische zweedse haver die wordt verbouwd in schone grond en sterk wordt door zon en regen. Haver die bekendstaat om zn vezels en Allerhande nuttige voedingsstoffen, zoals beta-glucanen, die bijzonder goed zijn voor het hart.</p><p><ul><li>Deze drank is gemaakt van 100% biologische zweedse haver</li><li>Als je van bakken houdt, zul je zien dat brood en gebak door de havervezels extra sappig worden</li><li>Product is ongeopend erg langhoudbaar. Alleen kort voor het serveren even koelen. Na openen, gekoeld bewaren (max. 5 dagen)</li><li>Haver die bekendstaat om zn vezels en Allerhande nuttige voedingsstoffen, zoals beta-glucanen, die bijzonder goed zijn voor het hart</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "biologisch"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "Met andere woorden: al het goede van oatly. Bovendien zo slim verpakt dat je het gewoon op kamertemperatuur kunt bewaren. Alleen kort voor het serveren even koelen, verder kan het pak in de kast staan. Maar hoe gebruik je het? nou, net als gewone melk. Als dorstlesser tussen de maaltijden door of gecombineerd met ontbijtgranen. Vervang melk in elk recept eenvoudig door haverdrank en je zult merken dat dat superlekker is.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 569541,
+        "hqId": 0,
+        "title": "Oatly! Bio 6-pack",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 15.39,
+        "priceBeforeBonus": 17.1,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Haverdrink",
+        "brand": "Oatly!",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Oatly Bio nu bij aankoop van 6-stuks 10% korting</p><p><ul><li>Oatly Haver BIO 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 401934,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 530992,
+        "hqId": 580573,
+        "title": "Karvan Cévitam Zero aardbei siroop",
+        "salesUnitSize": "0,6 l",
+        "unitPriceDescription": "normale prijs per liter €6.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Limonadesiroop (suikerbewust en suikervrij)",
+        "brand": "Karvan Cévitam",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Maak meer van je water met de Karvan Cevitam zero siropen. Onze dynamische combinaties van fruit helpen jou om je water een heerlijke smaak te geven. Verras jezelf!</p><p><ul><li>Limonadesiroop met 0% suiker, 0% calorieen en 100% smaak</li><li>Geen kleur-, en kunstmatige smaakstoffen</li><li>Fles van 100% recyclebaar staal</li><li>30 glazen limonade per fles</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714258,
+        "bonusSegmentDescription": "Alle Karvan Cévitam",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Met de zero aardbei limonadesiroop van Karvan Cevitam maak je in een handomdraai een lekkere dorstlesser. Deze siroop bevat 0% suiker en 0 calorieen waardoor je lekker en verantwoord kunt genieten van heerlijk fruitig water met de vertrouwde Karvan Cevitam smaak van aardbei. Meng hiervoor 1 deel siroop op 9 delen water. Laat je fantasie de vrije loop door deze siroop te mengen met bruiswater voor je eigen limo met een twist of voeg een klein scheutje siroop toe aan je favoriete mocktail, lekker voor bij de zomerse bbq! Karvan ce?vitam bevat geen kleurstoffen-, en kunstmatige smaakstoffen. Bovendien is het een bron van vitamine c. Nu met 100% natuurlijke smaak! 1 fles maakt tot wel 6 liter limonade (30 glazen).",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "webshopId": 474966,
+        "hqId": 727544,
+        "title": "Arla Lactofree volle melk",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "prijs per liter €2.09",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343838?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343838?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343838?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534343838?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Lactosevrije melk",
+        "brand": "Arla",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heerlijke volle melk, maar dan zonder lactose. Dat is wel zo fijn voor de buik. Volle melk van Arla lactofree is gemaakt van koemelk en is daardoor van nature rijk aan eiwit, vitamines en mineralen.</p><p><ul><li>Lactosevrije volle melk</li><li>Van nature rijk aan eiwit, calcium, vitamines en mineralen</li><li>100% natuurlijk</li><li>Gemaakt van koemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "<p>  Wat is Arla lactofree? je wilt kunnen doen waar je je goed bij voelt. Ook als je lactose niet (goed) kunt verdragen. Want dankzij de natuurlijke stof lactase is Arla lactofree vrij van lactose. En dat is wel zo fijn voor de buik. 100% natuurlijk Arla houdt van puur natuurlijke zuivel. Daar hoeven we niets aan toe te voegen. Alle voedingsstoffen zitten er al in. Arla lactofree is daarom rijk aan eiwit en een bron van calcium. - eiwitten zorgen voor sterkere spieren en dragen bij tot de instandhouding van sterke botten. - calcium activeert de natuurlijke energie in je lichaam. en dat voelt goed! omdat de natuur goed voor ons zorgt, zorgen wij ook graag goed voor de natuur. Kijk op arla.nl lactosegehalte 0,01 g/100 ml. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    }
+]

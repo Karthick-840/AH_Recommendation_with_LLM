@@ -1,0 +1,236 @@
+[
+    {
+        "webshopId": 107685,
+        "hqId": 534133,
+        "title": "AH Romaatjes",
+        "salesUnitSize": "250 g",
+        "unitPriceDescription": "normale prijs per kg €7.96",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 2.99",
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Tomaten",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Romaatjes hebben een volzoete en aromatische smaak en een stevige bite. Lekker als makkelijke en gezonde snack of in een salade.</p><p><ul><li>Smaak: romaatje heeft een volzoete en aromtische smaak.</li><li>Bewaren: buiten de koelkast.</li><li>Gezondheid: van nature bron van vitamine C. Vitamine C verhoogt de ijzeropname</li></ul></p>",
+        "propertyIcons": [
+            "lokaal"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 724572,
+        "bonusSegmentDescription": "AH Romaatjes 250 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 2.99",
+                "count": 2,
+                "price": 2.99
+            }
+        ]
+    },
+    {
+        "webshopId": 3472,
+        "hqId": 9008,
+        "title": "Honig Basis voor macaroni en spaghetti",
+        "salesUnitSize": "41 g",
+        "unitPriceDescription": "normale prijs per kg €48.54",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539353331?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539353331?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539353331?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539353331?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 2.99",
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Pasta, rijst, wereldkeuken",
+        "subCategory": "Italiaanse maaltijdpakketten, mixen",
+        "brand": "Honig",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Met de Honig basis voor macaroni en spaghetti als veelzijdige basis maak je snel een heerlijke pasta voor 3 a 4 personen.</p><p><ul><li>Bereidingstijd: 20 minuten</li><li>Zelf toevoegen: Honig macaroni of spaghetti, gehakt en een groentepakket</li><li>Eenvoudig en snel in gebruik</li><li>Vertrouwde kwaliteit van honig</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. voordeelverpakkingen"
+        ],
+        "bonusSegmentId": 714863,
+        "bonusSegmentDescription": "Alle Honig droge mixen*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Met de Honig mix voor macaroni en spaghetti als veelzijdige basis maak je makkelijk en snel een heerlijke pastasaus voor 3 a 4 personen. In slechts 20 minuten zet je een snelle, lekkere en vullende maaltijd op tafel voor het hele gezin. Voeg zelf verse ingredienten naar wens toe in combinatie met deze maaltijdmix en creeer zo eenvoudig jouw favoriete Italiaanse klassiekers. Vol met natuurlijke ingredienten en vol van smaak. Wat eten we vandaag? Honig pasta!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 46,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 2.99",
+                "count": 2,
+                "price": 2.99
+            }
+        ]
+    },
+    {
+        "webshopId": 104064,
+        "hqId": 81345,
+        "title": "Bonduelle Crispy maïs",
+        "salesUnitSize": "300 g",
+        "unitPriceDescription": "normale prijs per kg €7.33",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303438313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303438313634?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303438313634?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303438313634?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303438313634?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 2.99",
+        "priceBeforeBonus": 2.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Mais conserven",
+        "brand": "Bonduelle",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een gouden medaille, voor een goudgele korrel. Onze Bonduelle Crispy mais is niet meer weg te denken uit de Nederlandse voorraadkast. Dan is het aan jou om er een heerlijk gerecht van te maken.</p><p><ul><li>Gestoomd voor een heerlijke crrrrrispy bite</li><li>Vrij van restanten van bestrijdingsmiddelen</li><li>Van nature zoete smaak! Lekker in salades en (mexicaanse) gerechten</li><li>Gerijpt onder de europese zon</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714272,
+        "bonusSegmentDescription": "Alle Bonduelle conserven 250-400 gram en diepvries",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Hi. Wij zijn bonduelle. De verrassende groente van vandaag, met onze blik op morgen. Want volgens ons ziet morgen er elke dag weer beter uit. Door alle kleine beetjes die we vandaag doen. Die stappen beginnen klein. Gewoon vanaf de keukentafel. Met ons dinerbord. Wij maken namelijk samen het verschil, simpelweg door lekker en beter te eten. Want, als we met zn allen meer plantaardig eten, dan zorgen we niet alleen beter voor onszelf, maar ook voor de wereld. Op ons bord valt dus een wereld te winnen. Letterlijk!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 36,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 2.99",
+                "count": 2,
+                "price": 2.99
+            }
+        ]
+    }
+]
