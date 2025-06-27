@@ -60,9 +60,14 @@ def get_all_bonus_items():
 
     return all_products
 
+def filter_bonus_products(products):
+    # Keeps only products where isBonus == True
+    return [p for p in products if p.get("isBonus")]
+
 def main():
     all_items = get_all_bonus_items()
-    save_as_json(all_items)
+    bonus_items = filter_bonus_products(all_items)
+    save_as_json(bonus_items)
 
 if __name__ == "__main__":
     main()

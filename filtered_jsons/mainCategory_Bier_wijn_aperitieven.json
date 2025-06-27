@@ -862,64 +862,6 @@
         ]
     },
     {
-        "webshopId": 163546,
-        "hqId": 626435,
-        "title": "Settesoli Pinot grigio",
-        "salesUnitSize": "0,75 l",
-        "unitPriceDescription": "prijs per liter €7.99",
-        "images": [
-            {
-                "width": 800,
-                "height": 800,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
-            },
-            {
-                "width": 400,
-                "height": 400,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835373233?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 200,
-                "height": 200,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835373233?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 48,
-                "height": 48,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835373233?revLabel=1&rendition=48x48_GIF&fileType=binary"
-            },
-            {
-                "width": 80,
-                "height": 80,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130313835373233?revLabel=1&rendition=80x80_JPG&fileType=binary"
-            }
-        ],
-        "priceBeforeBonus": 5.99,
-        "orderAvailabilityStatus": "IN_ASSORTMENT",
-        "mainCategory": "Bier, wijn, aperitieven",
-        "subCategory": "Pinot Grigio (Fris en droog)",
-        "brand": "Settesoli",
-        "shopType": "AH",
-        "availableOnline": true,
-        "isPreviouslyBought": false,
-        "descriptionHighlights": "<p>Opwekkende wijn om mee te borrelen. Met of zonder hapjes. Hij komt uit Sicilië en daar drinken ze hem bij bruschetta met tomaat en lichte salades.</p><p><ul><li><strong>Kleur, smaak: </strong>wit, fris en droog</li><li><strong>Druivenras: </strong>pinot grigio</li><li><strong>Land, streek: </strong>Italië, Sicilië</li><li><strong>Lekker bij: </strong>Salade, Vis</li><li><strong>Bekroond: </strong>De Grote Hamersma 8</li></ul></p>",
-        "propertyIcons": [
-            "vegan",
-            "prijswinnaar"
-        ],
-        "nix18": true,
-        "isStapelBonus": false,
-        "extraDescriptions": [],
-        "isBonus": false,
-        "descriptionFull": "Settesoli betekent letterlijk zeven zonnen en dat slaat op de zeven maanden zon die de druiven in Menfi krijgen. Daar, in het zuidwesten van Sicilië, is de coöperatie Settesoli gevestigd. 23 wijnbouwers brengen hier hun druiven naar toe. Het leuke van Sicilië is dat ze zo veel lokale druivenrassen hebben zoals bijvoorbeeld grillo, catarratto en nero d'avola waarvan lekkere, fruitige wijnen met een kruidige touch worden gemaakt. Op Sicilië zelf drinken ze hun wijn altijd bij het eten, maar je kunt ze ook gerust solo drinken.",
-        "isOrderable": true,
-        "isInfiniteBonus": false,
-        "isSample": false,
-        "isSponsored": false,
-        "isVirtualBundle": false,
-        "discountLabels": []
-    },
-    {
         "webshopId": 584728,
         "hqId": 0,
         "title": "Settesoli Pinot grigio 6 flessen",
@@ -1708,64 +1650,6 @@
         ]
     },
     {
-        "webshopId": 160809,
-        "hqId": 627616,
-        "title": "Lindeman's South africa sauvignon blanc chardonnay",
-        "salesUnitSize": "0,75 l",
-        "unitPriceDescription": "prijs per liter €7.05",
-        "images": [
-            {
-                "width": 800,
-                "height": 800,
-                "url": "https://static.ah.nl/dam/product/AHI_434d50303330333437?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary"
-            },
-            {
-                "width": 400,
-                "height": 400,
-                "url": "https://static.ah.nl/dam/product/AHI_434d50303330333437?revLabel=6&rendition=400x400_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 200,
-                "height": 200,
-                "url": "https://static.ah.nl/dam/product/AHI_434d50303330333437?revLabel=6&rendition=200x200_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 48,
-                "height": 48,
-                "url": "https://static.ah.nl/dam/product/AHI_434d50303330333437?revLabel=6&rendition=48x48_GIF&fileType=binary"
-            },
-            {
-                "width": 80,
-                "height": 80,
-                "url": "https://static.ah.nl/dam/product/AHI_434d50303330333437?revLabel=6&rendition=80x80_JPG&fileType=binary"
-            }
-        ],
-        "priceBeforeBonus": 5.29,
-        "orderAvailabilityStatus": "IN_ASSORTMENT",
-        "mainCategory": "Bier, wijn, aperitieven",
-        "subCategory": "Sauvignon Blanc (Fris en droog)",
-        "brand": "Lindeman's",
-        "shopType": "AH",
-        "availableOnline": true,
-        "isPreviouslyBought": false,
-        "descriptionHighlights": "<p>Altijd-goed-wijn gemaakt van twee druivensoorten. Sauvignon zorgt voor het frisse fruit en de chardonnay maakt hem zacht. Voor zo en aan tafel.</p><p><ul><li><strong>Kleur, smaak: </strong>wit, fris en droog</li><li><strong>Druivenras: </strong>sauvignon blanc, chardonnay</li><li><strong>Land, streek: </strong>Zuid-Afrika, Westkaap</li><li><strong>Lekker bij: </strong>Salade, Vis</li><li><strong>Bekroond: </strong>De Grote Hamersma 7,5</li></ul></p>",
-        "propertyIcons": [
-            "vega",
-            "prijswinnaar"
-        ],
-        "nix18": true,
-        "isStapelBonus": false,
-        "extraDescriptions": [],
-        "isBonus": false,
-        "descriptionFull": "Achter het wijnmerk Lindeman's zit een mooi verhaal. De oprichter was een arts, Dr Henry J. Lindeman. Net na zijn afstuderen verliet hij het Londense St. Bartholomew s Hospital om door Europa te reizen. Het mediterrane leven met olijfolie en lekkere wijnen beviel hem goed en hij vond dat bewoners rondom de Middellandse zee er een stuk gezonder uitzagen dan zijn bleke landgenoten in Londen. In 1843 verhuisde de avontuurlijke arts met zijn vrouw Eliza naar Australië. In zijn plattelandspraktijk schrok hij van de slechte gezondheid van de kolonisten. Wijn, dacht hij, zou helend kunnen werken. Daarom plantte hij in 1843 zijn eerste druiven in Cawarra in Hunter Valley, maakte er wijn van en schreef die voor aan zijn patiënten. Wat ooit was bedoeld als geneesmiddel is nu een 'middel' om lekker van te genieten.",
-        "isOrderable": true,
-        "isInfiniteBonus": false,
-        "isSample": false,
-        "isSponsored": false,
-        "isVirtualBundle": false,
-        "discountLabels": []
-    },
-    {
         "webshopId": 584746,
         "hqId": 0,
         "title": "Lindeman's South africa chardonnay 6 flessen",
@@ -1844,64 +1728,6 @@
                 "precisePercentage": 10
             }
         ]
-    },
-    {
-        "webshopId": 458921,
-        "hqId": 668941,
-        "title": "AH Biologisch Pinot grigio",
-        "salesUnitSize": "0,75 l",
-        "unitPriceDescription": "prijs per liter €6.65",
-        "images": [
-            {
-                "width": 800,
-                "height": 800,
-                "url": "https://static.ah.nl/dam/product/AHI_43545239353632353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
-            },
-            {
-                "width": 400,
-                "height": 400,
-                "url": "https://static.ah.nl/dam/product/AHI_43545239353632353733?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 200,
-                "height": 200,
-                "url": "https://static.ah.nl/dam/product/AHI_43545239353632353733?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 48,
-                "height": 48,
-                "url": "https://static.ah.nl/dam/product/AHI_43545239353632353733?revLabel=1&rendition=48x48_GIF&fileType=binary"
-            },
-            {
-                "width": 80,
-                "height": 80,
-                "url": "https://static.ah.nl/dam/product/AHI_43545239353632353733?revLabel=1&rendition=80x80_JPG&fileType=binary"
-            }
-        ],
-        "priceBeforeBonus": 4.99,
-        "orderAvailabilityStatus": "IN_ASSORTMENT",
-        "mainCategory": "Bier, wijn, aperitieven",
-        "subCategory": "Pinot Grigio (Fris en droog)",
-        "brand": "AH Biologisch",
-        "shopType": "AH",
-        "availableOnline": true,
-        "isPreviouslyBought": false,
-        "descriptionHighlights": "<p>Dit is een heerlijke, frisse wijn om mee te borrelen. Hij heeft de fruitige smaak van peer en meloen. Gemaakt van biologisch verbouwde druiven.</p><p><ul><li><strong>Kleur, smaak: </strong>wit, fris en droog</li><li><strong>Druivenras: </strong>pinot grigio</li><li><strong>Land, streek: </strong>Italië</li><li><strong>Lekker bij: </strong>Salade, Vis</li><li><strong>Bekroond: </strong>De Grote Hamersma 7,5</li></ul></p>",
-        "propertyIcons": [
-            "biologisch",
-            "prijswinnaar"
-        ],
-        "nix18": true,
-        "isStapelBonus": false,
-        "extraDescriptions": [],
-        "isBonus": false,
-        "descriptionFull": "De druiven voor deze fruitige pinot grigio zijn biologisch verbouwd. In een biologische wijngaard worden geen kunstmest en pesticiden gebruikt waardoor er op natuurlijke wijze een gezonde balans heerst. Dat maakt de wijnstokken sterker en die geven op hun beurt een druivenoogst in topconditie. Verder zijn er strengere regels voor onder andere het gebruik van sulfiet",
-        "isOrderable": true,
-        "isInfiniteBonus": false,
-        "isSample": false,
-        "isSponsored": false,
-        "isVirtualBundle": false,
-        "discountLabels": []
     },
     {
         "webshopId": 586066,
@@ -2142,64 +1968,6 @@
                 "freeCount": 1
             }
         ]
-    },
-    {
-        "webshopId": 139508,
-        "hqId": 610610,
-        "title": "Sol y Nieve Rueda verdejo-viura",
-        "salesUnitSize": "0,75 l",
-        "unitPriceDescription": "prijs per liter €7.05",
-        "images": [
-            {
-                "width": 800,
-                "height": 800,
-                "url": "https://static.ah.nl/dam/product/AHI_434d5031393436383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
-            },
-            {
-                "width": 400,
-                "height": 400,
-                "url": "https://static.ah.nl/dam/product/AHI_434d5031393436383335?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 200,
-                "height": 200,
-                "url": "https://static.ah.nl/dam/product/AHI_434d5031393436383335?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 48,
-                "height": 48,
-                "url": "https://static.ah.nl/dam/product/AHI_434d5031393436383335?revLabel=1&rendition=48x48_GIF&fileType=binary"
-            },
-            {
-                "width": 80,
-                "height": 80,
-                "url": "https://static.ah.nl/dam/product/AHI_434d5031393436383335?revLabel=1&rendition=80x80_JPG&fileType=binary"
-            }
-        ],
-        "priceBeforeBonus": 5.29,
-        "orderAvailabilityStatus": "IN_ASSORTMENT",
-        "mainCategory": "Bier, wijn, aperitieven",
-        "subCategory": "Verdejo (Fris en droog)",
-        "brand": "Sol y Nieve",
-        "shopType": "AH",
-        "availableOnline": true,
-        "isPreviouslyBought": false,
-        "descriptionHighlights": "<p>Pittige wijn die, vooral als het warm is, rechtstreeks vanuit de koelkast heerlijk smaakt. Fruitig en een beetje kruidig. Om zo van te genieten en bij salades.</p><p><ul><li><strong>Kleur, smaak: </strong>wit, fris en droog</li><li><strong>Druivenras: </strong>verdejo, viura</li><li><strong>Land, streek: </strong>Spanje, Rueda</li><li><strong>Lekker bij: </strong>Salade, Vis</li><li><strong>Bekroond: </strong>De Grote Hamersma 8+</li></ul></p>",
-        "propertyIcons": [
-            "vegan",
-            "prijswinnaar"
-        ],
-        "nix18": true,
-        "isStapelBonus": false,
-        "extraDescriptions": [],
-        "isBonus": false,
-        "descriptionFull": "Als je van de frisse, geurige smaak van een sauvignon blanc houdt, kun je deze wijn ook eens proberen. Hij komt uit Spanje en wordt van verdejo en viura gemaakt. Die geven de wijn de opwekkende smaak van appel, perzik en citrusfruit en voegen daar iets kruidigs aan toe. Daardoor kun je hem goed met pittig eten combineren. Bijvoorbeeld geroosterde groene asperges en kruidige vis als kibbeling. Sol y Nieve betekent: 'Zon en sneeuw'. Het is de naam van deze wijn die verwijst naar het grillige klimaat van Rueda, de streek in Noord-Spanje waar hij vandaan komt.",
-        "isOrderable": true,
-        "isInfiniteBonus": false,
-        "isSample": false,
-        "isSponsored": false,
-        "isVirtualBundle": false,
-        "discountLabels": []
     },
     {
         "webshopId": 584613,
@@ -2671,64 +2439,6 @@
                 "precisePercentage": 5
             }
         ]
-    },
-    {
-        "webshopId": 440882,
-        "hqId": 80931,
-        "title": "Mastri Vernacoli Pinot grigio",
-        "salesUnitSize": "0,75 l",
-        "unitPriceDescription": "prijs per liter €9.99",
-        "images": [
-            {
-                "width": 800,
-                "height": 800,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
-            },
-            {
-                "width": 400,
-                "height": 400,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323234?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 200,
-                "height": 200,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323234?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
-            },
-            {
-                "width": 48,
-                "height": 48,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323234?revLabel=1&rendition=48x48_GIF&fileType=binary"
-            },
-            {
-                "width": 80,
-                "height": 80,
-                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323234?revLabel=1&rendition=80x80_JPG&fileType=binary"
-            }
-        ],
-        "priceBeforeBonus": 7.49,
-        "orderAvailabilityStatus": "IN_ASSORTMENT",
-        "mainCategory": "Bier, wijn, aperitieven",
-        "subCategory": "Pinot Grigio (Vol en droog)",
-        "brand": "Mastri Vernacoli",
-        "shopType": "AH",
-        "availableOnline": true,
-        "isPreviouslyBought": false,
-        "descriptionHighlights": "<p>Pinot Grigio is al jaren één van de populairste wijnen. Deze uit Trentino is fris, fruitig en een beetje kruidig. Voor bij salades en om met elkaar van te genieten.</p><p><ul><li><strong>Kleur, smaak: </strong>wit, vol en droog</li><li><strong>Druivenras: </strong>pinot grigio, chardonnay</li><li><strong>Land, streek: </strong>Italië, Trentino</li><li><strong>Lekker bij: </strong>Vis, Kip</li><li><strong>Bekroond: </strong>De Grote Hamersma 8,5</li></ul></p>",
-        "propertyIcons": [
-            "vegan",
-            "prijswinnaar"
-        ],
-        "nix18": true,
-        "isStapelBonus": false,
-        "extraDescriptions": [],
-        "isBonus": false,
-        "descriptionFull": "",
-        "isOrderable": true,
-        "isInfiniteBonus": false,
-        "isSample": false,
-        "isSponsored": false,
-        "isVirtualBundle": false,
-        "discountLabels": []
     },
     {
         "webshopId": 585742,
