@@ -1,0 +1,47 @@
+# config.yml
+# This file holds configuration settings for the AH_Recommendation_with_LLM_Public project.
+# Sensitive information (like API keys) should be stored in environment variables,
+# and accessed via os.environ.get() in your Python code.
+
+# SendPulse API Configuration (used by send_email.py)
+sendpulse:
+  api_id_env_var: "SENDPULSE_API_ID" # Name of the environment variable for SendPulse API ID
+  api_secret_env_var: "SENDPULSE_API_SECRET" # Name of the environment variable for SendPulse API Secret
+
+# Email Details (used by send_email.py)
+email:
+  sender_email_env_var: "EMAIL_SENDER_EMAIL" # Name of the environment variable for sender email
+  sender_name: "Albert Heijn Offers" # Display name for the sender
+  receiver_email_env_var: "EMAIL_RECEIVER_EMAIL" # Name of the environment variable for receiver email
+  subject_prefix: "[AH Offers]" # Prefix for email subject lines
+  html_output_file: "generated_email.html" # Name of the HTML file generated for email content
+
+# Data Ingestion Paths
+data_ingestion:
+  # Path to your local bonus items JSON file
+  # Example: "output/bonus_items.json" if you're using the filtering script output
+  local_json_path: "path/to/your/bonus_items.json"
+  # GCP bucket details (if using GCP for data ingestion)
+  # Uncomment and fill if applicable
+  # gcp_bucket_name: "your-gcp-bucket-name"
+  # gcp_file_path: "path/to/bonus_items_in_bucket.json"
+
+# LLM Configuration
+llm_config:
+  # Placeholder for GitHub-hosted LLM details
+  # For GitHub-hosted LLMs, you would typically use an API endpoint and a model name.
+  # These might be accessed via environment variables for security.
+  llm_api_endpoint_env_var: "GITHUB_LLM_API_ENDPOINT"
+  llm_model_name_env_var: "GITHUB_LLM_MODEL_NAME"
+  
+# LangGraph specific settings
+langgraph_config:
+  # This might be used for 'temperature' or other generation parameters
+  # The specific variable name (e.g., 'LLM_GENERATION_TEMPERATURE') would depend on your LLM integration
+  temperature: 0.7 # Example value, adjust as needed
+
+# Other application-specific settings
+# For example, thresholds for discounts, health criteria for recipes, etc.
+recommendation_settings:
+  min_discount_percentage: 20
+  health_criteria_keywords: ["low fat", "high fiber", "protein rich", "fresh vegetables"]

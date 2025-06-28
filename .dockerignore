@@ -1,0 +1,42 @@
+# .dockerignore
+# This file specifies intentionally untracked files that Docker should ignore
+# when building images. Similar to .gitignore.
+
+# Python specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+.env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.pytest_cache/
+htmlcov/
+.ipynb_checkpoints/
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
+.git/
+.gitignore
+
+# Generated files
+generated_email.html
+site/ # MkDocs output directory
+
+# Data directories that might contain large or local-specific data
+# You might want to copy specific data files, but usually not entire input/output folders
+data/
+output/
+
+# Logs
+*.log

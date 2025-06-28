@@ -1,0 +1,47 @@
+{
+    "name": "AH Recommendation LLM Project",
+    "image": "mcr.microsoft.com/devcontainers/python:3.10",
+    "features": {
+        "ghcr.io/devcontainers/features/common-utils:2": {},
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {
+            "version": "latest",
+            "moby": true
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-toolsai.jupyter",
+                "redhat.vscode-yaml",
+                "streetsidesoftware.code-spell-checker"
+            ],
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python",
+                "python.formatting.provider": "none",
+                "editor.formatOnSave": true,
+                "editor.codeActionsOnSave": {
+                    "source.fixAll": "explicit",
+                    "source.organizeImports": "explicit"
+                },
+                "editor.tabSize": 4,
+                "files.insertFinalNewline": true
+            }
+        }
+    },
+    "postCreateCommand": "chmod +x project_setup.sh && ./project_setup.sh",
+    "forwardPorts": [],
+    "portsAttributes": {},
+    "remoteUser": "vscode",
+    "containerEnv": {
+        "SENDPULSE_API_ID": "${localEnv:SENDPULSE_API_ID}",
+        "SENDPULSE_API_SECRET": "${localEnv:SENDPULSE_API_SECRET}",
+        "EMAIL_SENDER_EMAIL": "${localEnv:EMAIL_SENDER_EMAIL}",
+        "EMAIL_RECEIVER_EMAIL": "${localEnv:EMAIL_RECEIVER_EMAIL}",
+        "GITHUB_LLM_API_ENDPOINT": "${localEnv:GITHUB_LLM_API_ENDPOINT}",
+        "GITHUB_LLM_MODEL_NAME": "${localEnv:GITHUB_LLM_MODEL_NAME}"
+    },
+    "mounts": [],
+    "runArgs": []
+}

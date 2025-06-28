@@ -1,0 +1,51 @@
+# mkdocs.yml
+# Configuration for your project's documentation using MkDocs
+
+site_name: AH Recommendation with LLM Public Documentation
+site_url: https://karthick-840.github.io/AH_Recommendation_with_LLM_Public/
+site_description: Documentation for an LLM-powered recommendation system for Albert Heijn products.
+repo_url: https://github.com/Karthick-840/AH_Recommendation_with_LLM_Public/
+repo_name: Karthick-840/AH_Recommendation_with_LLM_Public
+
+# Theme configuration
+theme:
+  name: material
+  palette:
+    scheme: default # or "slate" for dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - toc.integrate
+
+# Navigation - Define your documentation structure here
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Framework Overview: data/docs/Medium.md
+  - Operations Overview: data/docs/Operations.md
+  - Installation:
+    - Setup: installation.md
+    # Removed: - Ollama Installation Guide: data/docs/ollama_install.md
+  - Usage: usage.md
+  - Project Structure: project_structure.md
+  # Removed: - LangGraph Understanding: data/img/reponse.png
+  # Removed: - Chat Functionality: data/img/conversation.png
+
+# Markdown extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+
+# Plugins (if any, e.g., for search)
+plugins:
+  - search
+
+# Customization - Link to extra CSS or JavaScript
+# extra_css:
+#   - css/extra.css
+# extra_javascript:
+#   - js/extra.js

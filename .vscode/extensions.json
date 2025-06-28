@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-python.python", // Python extension
+        "ms-python.vscode-pylance", // Pylance language server for Python
+        "ms-toolsai.jupyter", // Jupyter Notebook support
+        "redhat.vscode-yaml", // YAML support
+        "streetsidesoftware.code-spell-checker" // Spell checker
+    ]
+}

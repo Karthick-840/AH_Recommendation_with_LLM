@@ -1,44 +1,75 @@
-# Wikipedia Airline Crash Scraper & Kaggle Publisher
+# Albert Heijn Recommendation with LLM
 
-## Project Goal
+A recommendation system that leverages LLMs to identify Albert Heijn products on discount and formulate healthy recipe recommendations. It automates sending these recommendations via email on odd weekdays (Monday, Wednesday, Friday) to align with shopping routines, operating within GitHub Codespaces and automated via GitHub Actions.
 
-This project was undertaken primarily as an exercise to learn and practice web scraping techniques using Python. The goal was **not** to create a definitive or highly accurate dataset, but rather to go through the process of:
+![Workflow](data/img/knowledge-graph_sample.png)
 
-1.  Identifying and extracting structured data (tables) from a web page (Wikipedia).
-2.  Fetching supplementary data from other online sources.
-3.  Cleaning and merging data from different sources.
-4.  Publishing the resulting dataset to a platform like Kaggle.
+## Features
 
-## Description
+* **Data Ingestion:**
+    * Processes Albert Heijn bonus items from structured JSON data.
+    * Supports flexible data input methods for bonus item acquisition. [Framework Overview](data/docs/Medium.md)
+* **LLM-Powered Recommendation:**
+    * Uses **GitHub-hosted LLMs** (e.g., models available through the [GitHub platform](https://github.com/explore/topics/machine-learning) or integrated via GitHub Codespaces) for natural language understanding and generation.
+    * Identifies optimal discount opportunities.
+    * Generates diverse and healthy recipe recommendations based on available discounted products.
 
-This repository contains Python scripts that:
+    ![Prompt](data/img/knowledge-graph-prompt.png)
+        ![Suggestions](data/img/knowledge-graph-prompt.png)
+    ![Items](data/img/knowledge-graph-prompt.png)
 
-1.  Scrape data about airline accidents and incidents from a specific Wikipedia page (e.g., "List of accidents and incidents involving commercial aircraft").
-2.  Gather related information from other unspecified web data sources.
-3.  Merge and perform basic cleaning on the collected data using libraries like Pandas.
-4.  Output the final dataset, intended for publication on Kaggle.
+* **Embedding and Vector Database:**
+    * Leverages **GitHub-compatible embedding models** (e.g., available via [GitHub's machine learning resources](https://github.com/explore/topics/machine-learning)) for generating vector embeddings.
+    * Enables efficient similarity searches and retrieval-augmented generation (RAG) to connect products with recipe ingredients and nutritional data.
 
-## Data Sources
+* **Email Generation & Automation:**
+    * Generates well-structured HTML emails, displaying recommended products and recipes in an engaging format.
+    * Automated daily execution via GitHub Actions, specifically scheduled for odd weekdays (Mon, Wed, Fri) to deliver timely recommendations before shopping.
+* **Visualization:** (Potentially for internal insights or future external features)
+![Items](data/html/generated_email.html)
 
-* **Primary:** Wikipedia article listing commercial aircraft accidents.
-* **Secondary:** Various other web pages (details not specified in this project scope).
+## Project Structure:
 
-## Output
+Designed with scalability and modularity in mind, allowing for easy extension and customization for data sourcing and recommendation logic. Detail graph is accessed here @ [AH_Recommendation_with_LLM_Public](https://Karthick-840.github.io/AH_Recommendation_with_LLM_Public)
 
-* A consolidated dataset (e.g., CSV file) containing merged information about airline crashes.
-* This dataset is intended to be uploaded to Kaggle. (You can add a link here if you've published it).
-    * **Kaggle Dataset Link:** [Link to your Kaggle dataset - if available]
+![Project Structure](data/img/project_strucutre.png)
 
-## Tech Stack (Example)
+## Installation
 
-* Python 3.x
-* `requests` (for fetching web pages)
-* `beautifulsoup4` (for parsing HTML)
-* `pandas` (for data manipulation and cleaning)
-* (Add `kaggle` API library if used for direct publishing)
+1.  **Clone the repository:**
+    ```bash
+    git clone <repository_url>
+    cd AH_Recommendation_with_LLM
+    ```
+2.  **Create & Activate the virtual environment (recommended):**
+    ```bash
+    chmod +x project_setup.sh
+    ./project_setup.sh
+    ```
+3.  **Configure environment variables:**
+    * Create a `config.yml` file in the root directory.
+    * Update the credentials, SendPulse API keys, and any specific data paths as per the need.
 
-## Disclaimer
+## Usage
 
-* The data scraped from Wikipedia and other web sources may contain inaccuracies, omissions, or biases.
-* This project and its output are for educational and demonstration purposes only.
-* **Do not** rely on this data for serious analysis or decision-making without verifying it against official aviation safety reports and databases.
+1.  Run the main script (typically within GitHub Codespaces or via GitHub Actions)
+    ```bash
+    python main.py
+    ```
+2.  Update Temperature setting for LangGraph as per need in `extract_image_information.py`, compatible with the **GitHub-hosted LLMs**.
+
+    ![HTML Output](data/img/reponse.png)
+3.  **Automated Email Delivery:** The system is set up to run periodically via GitHub Actions, sending emails on odd weekdays. For testing and deployment, ensure GitHub Secrets are configured for SendPulse API.
+
+    ![Functionality](data/img/conversation.png)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+[Karthick Jayaraman](https://www.linkedin.com/in/karthick840) 
