@@ -1,0 +1,390 @@
+[
+    {
+        "webshopId": 490856,
+        "hqId": 745375,
+        "title": "AH Liefde & Passie Spelt gesneden",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383738?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383738?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383738?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383738?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383738?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 2.49",
+        "currentPrice": 2.49,
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bakkerij",
+        "subCategory": "Speltbrood",
+        "brand": "AH Liefde & Passie",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Liefde&Passie brood is rustiek brood, gebakken op de stenen ovenvloer en bereid met desem. Liefde&Passie Spelt is een witbrood gemaakt van 100% speltbloem.</p><p><ul><li>Wit speltbrood met zonnebloempitten, gepofte spelt, specerijen en lijnzaad. Bereid met speltdesem.</li><li>Smaakvolle decoratie van zonnebloempitten.</li><li>Gemaakt met de lekkerste, natuurlijke ingrediënten.</li><li>Bron van vezels.</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714908,
+        "bonusSegmentDescription": "Alle AH Spelt broden heel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 2.49",
+                "price": 2.49
+            }
+        ]
+    },
+    {
+        "webshopId": 490859,
+        "hqId": 745378,
+        "title": "AH Liefde & Passie Spelt volkoren gesneden",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383831?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383831?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383831?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373136383831?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 2.49",
+        "currentPrice": 2.49,
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bakkerij",
+        "subCategory": "Speltbrood",
+        "brand": "AH Liefde & Passie",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Liefde&Passie brood is rustiek brood, gebakken op de stenen ovenvloer en bereid met desem. Liefde&Passie Spelt volkoren is een volkorenbrood gemaakt met 100% spelt.</p><p><ul><li>Volkoren speltbrood met zonnebloempitten, gepofte spelt en specerijen. Bereid met speltdesem.</li><li>Decoratie van lijnzaad.</li><li>Gemaakt met de lekkerste, natuurlijke ingrediënten.</li><li>Rijk aan vezels</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714908,
+        "bonusSegmentDescription": "Alle AH Spelt broden heel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 2.49",
+                "price": 2.49
+            }
+        ]
+    },
+    {
+        "webshopId": 2390,
+        "hqId": 502589,
+        "title": "Bonne Maman Aardbeien confiture",
+        "salesUnitSize": "370 g",
+        "unitPriceDescription": "normale prijs per kg €7.81",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 2.49",
+        "currentPrice": 2.49,
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Ontbijtgranen, beleg",
+        "subCategory": "Aardbeienjam",
+        "brand": "Bonne Maman",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Bonne Maman Confiture is een extra jam welke is gemaakt van de allerhoogste kwaliteit fruit. Door de speciale bereidingsmethode ontstaat er een pure fruitsmaak.</p><p><ul><li>Traditionele confiture, geproduceerd  in Frankrijk</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714238,
+        "bonusSegmentDescription": "Alle Bonne Maman 335-370 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 23,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 2.49",
+                "price": 2.49
+            }
+        ]
+    },
+    {
+        "webshopId": 565909,
+        "hqId": 4736,
+        "title": "AH Grapefruits rood",
+        "salesUnitSize": "1 kg",
+        "unitPriceDescription": "normale prijs per kg €3.19",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030353531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030353531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030353531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313030353531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 2.49",
+        "currentPrice": 2.49,
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Grapefruit, minneola",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 723258,
+        "bonusSegmentDescription": "AH Grapefruits rood 1 kilo",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 2.49",
+                "price": 2.49
+            }
+        ]
+    },
+    {
+        "webshopId": 516669,
+        "hqId": 816272,
+        "title": "Heinz Tomaten ketchup",
+        "salesUnitSize": "0,57 l",
+        "unitPriceDescription": "normale prijs per liter €4.72",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323338?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 2.49",
+        "currentPrice": 2.49,
+        "priceBeforeBonus": 2.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Ketchup",
+        "brand": "Heinz",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Geen andere ketchup Smaakt zoals heinz. De onmiskenbare geliefde Heinz smaak komt van onze zongerijpte kwaliteit tomaten, samen met onze passie en kennis, die ons recept zijn unieke smaak geven.</p><p><ul><li>De authentieke en onmiskenbare smaak van Heinz tomaten ketchup</li><li>Geen kunstmatige kleurstoffen, conserveermiddelen of verdikkingsmiddelen</li><li>Jouw perfecte match bij een hamburger, hotdog, patat of tosti</li><li>Verkrijgbaar in verschillende formaten</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714884,
+        "bonusSegmentDescription": "Alle Heinz 570 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Geen andere tomaten ketchup Smaakt zoals de ketchup van heinz. De onmiskenbare geliefde Heinz smaak komt van onze zongerijpte tomaten, samen met onze passie en kennis, die het recept van deze ketchup zijn unieke smaak geven. Onze tomaten ketchup is grown not made, en past daardoor overal perfect bij. Deze natuurlijke tomaten saus is te gebruiken voor zowel alledaagse gerechten als voor BBQ en grill gerechten. Zonder ook maar enige kunstmatige kleur- en smaakstoffen of conserveermiddelen krijgt Heinz zijn rijke volle smaak, en dat proef je!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 2.49",
+                "price": 2.49
+            }
+        ]
+    }
+]

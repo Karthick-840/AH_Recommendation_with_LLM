@@ -1,0 +1,4374 @@
+[
+    {
+        "webshopId": 130191,
+        "hqId": 590209,
+        "title": "AH Gerookte zalm",
+        "salesUnitSize": "100 g",
+        "unitPriceDescription": "normale prijs per kg €45.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 euro korting",
+        "currentPrice": 3.59,
+        "priceBeforeBonus": 4.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze smakelijk gerookte zalmfilet is lekker op de boterham met verse dille en ideaal voor fijne hapjes, op toastjes of blini's met wat zure room.</p><p><ul><li>Ideaal als lunch- of voorgerecht</li><li>Heerlijk bij of door een frisse salade</li><li>Rol eens gerookte zalm in croissantdeeg voor een heerlijk warm broodje!</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714281,
+        "bonusSegmentDescription": "Alle AH Gerookte zalm 100-200 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 14,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_AMOUNT",
+                "defaultDescription": "€1.00 euro korting",
+                "amount": 1.0
+            }
+        ]
+    },
+    {
+        "webshopId": 375004,
+        "hqId": 837504,
+        "title": "Lipton Ice tea green",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303839303938?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ice tea green",
+        "brand": "Lipton",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lipton ice tea green original, lekker verfrissend en laag in calorieen.</p><p><ul><li>Lipton ice tea green original: lekker verfrissend en laag in calorieen</li><li>Koolzuurvrije ijsthee en laag in suiker</li><li>Deze frisdrank is het lekkerst om ijskoud en samen met vrienden te drinken</li><li>Alle Lipton ice tea is 100% rainforest alliance gecertificeerd</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714190,
+        "bonusSegmentDescription": "Alle Lipton 0.5 en 1.5 literflessen*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 188709,
+        "hqId": 591109,
+        "title": "AH Yorkham",
+        "salesUnitSize": "ca. 110 g",
+        "unitPriceDescription": "normale prijs per kg €30.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353331?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353331?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353331?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353331?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% KORTING",
+        "currentPrice": 2.54,
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Ham (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een icoon bij Albert Heijn. Deze yorkham is zacht en mild van smaak. Lekker op een pistoletje met plakjes komkommer en honing-mosterd dressing. Bij asperges, witlof of gewoon uit het vuistje.</p><p><ul><li>Heerlijk zachte en malse bite</li><li>Nederland, varken Beter Leven Keurmerk 1 ster</li><li>Het zacht garen in eigen bouillon maakt deze ham bijzonder mals</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714881,
+        "bonusSegmentDescription": "AH Yorkham van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 2600,
+        "hqId": 66797,
+        "title": "AH Goudse jong 48+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €15.53",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393333?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 2.95,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jonge kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekker smeuige goudse jonge kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: zacht</li><li>Herkomst: Nederland</li><li>Gemaakt van: koemelk</li><li>Rijping: minimaal 4 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 462712,
+        "hqId": 715707,
+        "title": "AH Scharrel roasted kipfilet",
+        "salesUnitSize": "ca. 110 g",
+        "unitPriceDescription": "normale prijs per kg €30.85",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638383636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.54,
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Kipfilet en kalkoenfilet (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Roasted kip is een smaakvol product en tevens bijzonder mager (max 3% vet).</p><p><ul><li>Afgebakken in traditionele bakovens wat zorgt voor een mooie grillrand</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714233,
+        "bonusSegmentDescription": "Alle AH Roasted vleeswaren van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 2601,
+        "hqId": 66794,
+        "title": "AH Goudse jong belegen 48+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €16.26",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 3.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jong belegen kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekker smeuige goudse jonge kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: mild</li><li>Herkomst: Nederland</li><li>Gemaakt van: koemelk</li><li>Rijping: minimaal 7 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 440333,
+        "hqId": 72577,
+        "title": "AH Gegrilde beenham",
+        "salesUnitSize": "ca. 110 g",
+        "unitPriceDescription": "normale prijs per kg €30.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353334?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "100 GRAM VOOR 2.19",
+        "currentPrice": 2.41,
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Ham (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze gegrilde beenham heeft een boterzachte structuur en lekkere grillsmaak doordat het aan het bot gegrild is.</p><p><ul><li>Lekker op een pistolet met honing mosterd saus</li><li>Een broodje beenham is simpel, maar juist daarom zo lekker</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714249,
+        "bonusSegmentDescription": "AH Gegrilde beenham van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_WEIGHT",
+                "defaultDescription": "per 100 GRAM voor €2.19",
+                "count": 100,
+                "price": 2.19,
+                "unit": "GRAM"
+            }
+        ]
+    },
+    {
+        "webshopId": 104394,
+        "hqId": 536393,
+        "title": "AH Zaanlander Jong belegen 48+ plakken",
+        "salesUnitSize": "ca. 210 g",
+        "unitPriceDescription": "normale prijs per kg €20.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343536?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343536?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343536?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343536?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% KORTING",
+        "currentPrice": 3.14,
+        "priceBeforeBonus": 4.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jong belegen kaas (plakken)",
+        "brand": "AH Zaanlander",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Volle en romige Hollandse kaas gemaakt van weidemelk. Vakkundig gemaakt volgens eigen receptuur en in alle rust gerijpt onder optimale condities.</p><p><ul><li>Smaak: Romig en volzacht</li><li>Herkomst: Nederland</li><li>Gemaakt van: Koemelk</li><li>Altijd goed met een schijfje komkommer, tomaat en ei op een stokbroodje</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714810,
+        "bonusSegmentDescription": "Alle AH Zaanlander",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Gemaakt van 100% weidemelk: Melk van koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 36,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 177570,
+        "hqId": 779454,
+        "title": "Lipton Ice tea sparkling original",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €1.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393139?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ice tea regular",
+        "brand": "Lipton",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lipton ice tea sparkling original is lekker verfrissend en laag in calorieen.</p><p><ul><li>Lipton ice tea sparkling original: lekker verfrissend en laag in calorieen</li><li>Deze ijsthee bevat de ideale hoeveelheid bubbels</li><li>Deze frisdrank is het lekkerst om ijskoud en samen met vrienden te drinken</li><li>Lipton ice tea is al meer dan 25 jaar de perfecte verfrissing onder de zon</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714190,
+        "bonusSegmentDescription": "Alle Lipton 0.5 en 1.5 literflessen*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 2594,
+        "hqId": 66796,
+        "title": "AH Goudse belegen 48+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €17.84",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Belegen kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekkere gerijpte Goudse belegen kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: Licht pittig</li><li>Herkomst: Nederland</li><li>Gemaakt van: Koemelk</li><li>Rijping: minimaal 16 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Gemaakt van 100% weidemelk: Melk van koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen  </p>\n  <p>De kaas ligt altijd met de juiste smaak, die bij de leeftijd hoort, in de winkels.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 370447,
+        "hqId": 835448,
+        "title": "AH Filet americain",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €21.27",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313433323539?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 2.69",
+        "currentPrice": 2.69,
+        "priceBeforeBonus": 3.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Filet americain (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Smeu&#x00EF;ge filet americain van mals rundvlees. Heerlijk als broodbeleg op een meergranen pistoletje, maar ook lekker bij de borrel op stokbrood of toast.</p><p><ul><li>Zacht, kruidig en romig van smaak</li><li>Gouden match met o.a. Worcestersaus, mosterd, paprika, nootmuskaat en kruidnagel</li><li>Tip: smeer een wrap in met filet americain, voeg wat rucola toe en rol de wrap op. Snij deze daarna in stukjes, prikkertje erin en je hebt een leuk borrelhapje.</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714917,
+        "bonusSegmentDescription": "AH Filet americain naturel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 2.69",
+                "price": 2.69
+            }
+        ]
+    },
+    {
+        "webshopId": 232017,
+        "hqId": 810832,
+        "title": "AH Mozzarella geraspt",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Extra smeu&#239;ge rasp van mozzarella, lekker romig en zacht van smaak. Ideaal om zelfgemaakte pizza's of crackers mee te bestrooien.</p><p><ul><li>Romig en zacht</li><li>Koemelk. Geschikt voor vegetari&#235;rs.</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Smelt snel en gelijkmatig op warme gerechten  </p>\n  <p>Lekker en eindeloos combineren! Ideaal voor gebruik in lasagne, pasta, pizza en salades.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 162601,
+        "hqId": 603012,
+        "title": "AH Pasta geraspte kaas",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Speciaal voor Pasta, een melange van maasdammer en Goudse jong belegen kaas.</p><p><ul><li><strong>Smaak: </strong>Extra smeu&#239;g</li><li><strong>Gemaakt van: </strong>Koemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p><strong>Ahaatje</strong><br />Lekker &amp; eindeloos combineren. altijd handig om in huis te hebben!</p>\n",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 104392,
+        "hqId": 536391,
+        "title": "AH Zaanlander Jong 48+ plakken",
+        "salesUnitSize": "ca. 210 g",
+        "unitPriceDescription": "normale prijs per kg €18.29",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393137363838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393137363838?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393137363838?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393137363838?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393137363838?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% KORTING",
+        "currentPrice": 2.87,
+        "priceBeforeBonus": 3.82,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jonge kaas (plakken)",
+        "brand": "AH Zaanlander",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Volle en romige Hollandse kaas gemaakt van weidemelk. Vakkundig gemaakt volgens eigen receptuur en in alle rust gerijpt onder optimale condities.</p><p><ul><li>Smaak: Romig en zacht</li><li>Herkomst: Nederland</li><li>Gemaakt van: Koemelk</li><li>Zo op de boterham!</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714810,
+        "bonusSegmentDescription": "Alle AH Zaanlander",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Gemaakt van 100% weidemelk: Melk van koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 36,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 454161,
+        "hqId": 600439,
+        "title": "AH Cheddar geraspte kaas",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €19.93",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Cheddar kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze geraspte cheddar is heerlijk om te gebruiken in tex-mex of ovenschotel gerechten, zoals nacho's.</p><p><ul><li>Smaak: licht pittig</li><li>Geschikt voor vegetariers</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 197177,
+        "hqId": 628303,
+        "title": "AH Flinterdunne gegrilde beenham",
+        "salesUnitSize": "ca. 100 g",
+        "unitPriceDescription": "normale prijs per kg €30.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393331333336?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "100 GRAM VOOR 2.19",
+        "currentPrice": 2.19,
+        "priceBeforeBonus": 3.08,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Ham (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze beenham is flinterdun gesneden en heeft daardoor een heerlijk zachte en verfijnde bite. Met deze flinterdunne gekrulde plakjes kun je iedere boterham verrijken.</p><p><ul><li>Boterzachte structuur, lekkere grillsmaak</li><li>Nederland, varken Beter Leven Keurmerk 1 ster</li><li>Ideaal voor verschillende gerechten</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714249,
+        "bonusSegmentDescription": "AH Gegrilde beenham van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_WEIGHT",
+                "defaultDescription": "per 100 GRAM voor €2.19",
+                "count": 100,
+                "price": 2.19,
+                "unit": "GRAM"
+            }
+        ]
+    },
+    {
+        "webshopId": 197145,
+        "hqId": 587826,
+        "title": "AH Gegrilde yorkham",
+        "salesUnitSize": "ca. 110 g",
+        "unitPriceDescription": "normale prijs per kg €30.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353330?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353330?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353330?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353330?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% KORTING",
+        "currentPrice": 2.54,
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Ham (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heerlijk zachte en malse bite.</p><p><ul><li>Het zacht garen in eigen bouillon maakt deze ham bijzonder mals</li><li>Deze yorkham heeft een lekkere grillsmaak</li><li>Lekker op een pistoletje met plakjes komkommer en honing-mosterd dressing</li><li>Ook lekker in combinatie met asperges en witlof</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714881,
+        "bonusSegmentDescription": "AH Yorkham van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 197154,
+        "hqId": 603010,
+        "title": "AH Geraspte kaas speciaal voor pizza",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Speciaal voor Pizza, gemaakt van mozzarella, goudse jong belegen en regato kaas.</p><p><ul><li>Smaak: Mild & extra smeuïg</li><li>Gemaakt van: Koemelk</li><li>Ideaal om over pizza's te strooien!</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 440336,
+        "hqId": 73997,
+        "title": "AH Roasted ham",
+        "salesUnitSize": "ca. 110 g",
+        "unitPriceDescription": "normale prijs per kg €30.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393233353337?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 2.54,
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vleeswaren",
+        "subCategory": "Ham (versafdeling)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze ham is langzaam gegaard en vervolgens geroosterd waardoor het vlees lekker mals blijft en tegelijk een mooi en knapperige grillgrand krijgt.</p><p><ul><li>Fijne structuur en perfecte malsheid</li><li>Heerlijk op een pistoletje</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714233,
+        "bonusSegmentDescription": "Alle AH Roasted vleeswaren van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 171022,
+        "hqId": 632640,
+        "title": "Taksi Tropisch fruit geen suiker toegevoegd",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €1.26",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Frisse fruitdranken",
+        "brand": "Taksi",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Drank met de heerlijke smaak van Tropisch Fruit, geen suiker toegevoegd! Voor als je echt van de tropen wilt genieten!</p><p><ul><li>68% minder calorie&#x00EB;n dan Taksi Tropisch Fruit regulier</li><li>Gemaakt op basis van vruchtensap en zuivel</li><li>Geen suiker toegevoegd!</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714832,
+        "bonusSegmentDescription": "Alle DubbelFrisss Boost en Taksi 1.5 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> De heerlijke smaak van tropisch Fruit bestaat nu ook in Geen Suiker Toegevoegd variant! Deze nieuwe taksi drank smaakt naar tropische vruchten, zit vol met zuivel en vitamine C, maar bevat geen toegevoegde suikers. Daarom bevat deze drank 75% minder calorieen dan Taksi Tropisch Fruit regulier.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 12,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 478021,
+        "hqId": 731521,
+        "title": "AH Franse roombrie 60+",
+        "salesUnitSize": "155 g",
+        "unitPriceDescription": "normale prijs per kg €17.74",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383738?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383738?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383738?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383738?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 6.00",
+        "priceBeforeBonus": 2.75,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Witte korst kaas, brie",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze roombrie, de meest bekende franse kaassoort, is heerlijk zacht en toegankelijk van smaak. Een gegarandeerd succes op de kaasplank.</p><p><ul><li>Smaak: zacht en romig</li><li>Herkomst: frankrijk</li><li>Gemaakt van: koemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714828,
+        "bonusSegmentDescription": "Alle AH Borrelkaasjes van de versafdeling met Kies & Mix-sticker",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 17,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 6.00",
+                "count": 3,
+                "price": 6.0
+            }
+        ]
+    },
+    {
+        "webshopId": 136084,
+        "hqId": 603028,
+        "title": "AH Goudse jong belegen 30+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €17.11",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 3.25,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jong belegen kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekkere kort gerijpte Goudse jong belegen kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: Mild en minder vet</li><li>Herkomst: Nederland</li><li>Gemaakt van: Koemelk</li><li>Rijping: minimaal 8 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Gemaakt van 100% weidemelk: Melk van koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen  </p>\n  <p>De kaas ligt altijd met de juiste smaak, die bij de leeftijd hoort, in de winkels.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 229807,
+        "hqId": 823390,
+        "title": "Lay's Bugles nacho cheese",
+        "salesUnitSize": "125 g",
+        "unitPriceDescription": "normale prijs per kg €17.52",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Vormpjes chips",
+        "brand": "Lay's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een lekker knapperig hoorntje, gemaakt van mais, met een volle kaassmaak.</p><p><ul><li>Bereid met zonnebloemolie</li><li>Heerlijk om te vullen met bijvoorbeeld roomkaas, pesto of guacamole</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714874,
+        "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Maiszoutje met kaassmaak. </p>\n  <p>  Verpakt onder beschermende atmosfeer.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 217288,
+        "hqId": 807578,
+        "title": "AH Eiersalade met bieslook",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €15.27",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383338?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383338?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383338?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933383338?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Eiersalades (beleg)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Mooie romige salade gemaakt van scharreleieren, een speciale kruidenmix en bieslook, wat zorgt voor de frisse nasmaak.</p><p><ul><li>Smaak: Romig en zacht</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714897,
+        "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Tip: Heerlijk op de boterham bij de lunch of op een toastje bij de borrel met een mooi glas wijn.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 470617,
+        "hqId": 721966,
+        "title": "AH Gerookte zalm",
+        "salesUnitSize": "200 g",
+        "unitPriceDescription": "normale prijs per kg €39.95",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 euro korting",
+        "currentPrice": 6.99,
+        "priceBeforeBonus": 7.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Gerookte noorse zalm 200g.</p><p><ul><li>Gerookt op een mix van eiken- en beukenhout</li><li>Te gebruiken voor bijna alle eetmomenten</li><li>Gekweekt in de koude wateren in fjorden van noorwegen. Asc gecertificeerd</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714281,
+        "bonusSegmentDescription": "Alle AH Gerookte zalm 100-200 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 14,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_AMOUNT",
+                "defaultDescription": "€1.00 euro korting",
+                "amount": 1.0
+            }
+        ]
+    },
+    {
+        "webshopId": 531852,
+        "hqId": 804325,
+        "title": "AH Scharrel kipbraadworst 4 stuks",
+        "salesUnitSize": "300 g",
+        "unitPriceDescription": "normale prijs per kg €13.30",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373830?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373830?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373830?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937373830?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 6.99",
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vlees",
+        "subCategory": "Worst (kip)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Prijsfavorieten: topkwaliteit en altijd laaggeprijsd</li></ul></p>",
+        "propertyIcons": [
+            "goedkoopje",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714267,
+        "bonusSegmentDescription": "AH Scharrelkipgehakt",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Dit product is een Prijsfavoriet. Dat zijn onze eigen-merkproducten van topkwaliteit en ze zijn altijd voordelig. Je herkent ze aan het blauwe duimpje.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 4,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 6.99",
+                "count": 2,
+                "price": 6.99
+            }
+        ]
+    },
+    {
+        "webshopId": 124420,
+        "hqId": 579137,
+        "title": "Taksi Tropisch fruit",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €1.26",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e gratis",
+        "priceBeforeBonus": 1.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Frisse fruitdranken",
+        "brand": "Taksi",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Drank met de heerlijke smaak van Tropisch Fruit. Voor als je echt van de tropen wilt genieten!</p><p><ul><li>Geen zoetstoffen!</li><li>Rijk aan vitamine C</li><li>Gemaakt op basis van vruchtensap en zuivel</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714832,
+        "bonusSegmentDescription": "Alle DubbelFrisss Boost en Taksi 1.5 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Drank op basis van vruchtensap en zuivel.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 12,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_FREE",
+                "defaultDescription": "2e gratis",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 445351,
+        "hqId": 95825,
+        "title": "AH Excellent Warm gerookte forelsalade",
+        "salesUnitSize": "125 g",
+        "unitPriceDescription": "normale prijs per kg €27.12",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 3.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Vissalades (beleg)",
+        "brand": "AH Excellent",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Luxe salade van warm gerookte forel, witvis en foreleitjes. Met recht het neusje van de zalm! Heerlijk op een luxe broodje of op een toastje bij de borrel met een mooi glas wijn.</p><p><ul><li>Gegarneerd met foreleitjes</li><li>Salade met 24% asc gerookte forel en 22% msc witvis</li><li>Rijkelijk gevuld</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714897,
+        "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 480505,
+        "hqId": 734853,
+        "title": "AH Borreltoast zeezout",
+        "salesUnitSize": "125 g",
+        "unitPriceDescription": "normale prijs per kg €19.12",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383236333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383236333434?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383236333434?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383236333434?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383236333434?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.00",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Luxe toast",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Borreltoast met zeezout</p><p><ul><li>Onmisbaar op een borrelplank</li><li>Lekker bij kaas, salades of om te dippen.</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714290,
+        "bonusSegmentDescription": "AH Scrocchi, Picos en Borreltoast",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.00",
+                "count": 2,
+                "price": 4.0
+            }
+        ]
+    },
+    {
+        "webshopId": 486703,
+        "hqId": 741551,
+        "title": "AH Goudse jong belegen 48+ stuk",
+        "salesUnitSize": "ca. 535 g",
+        "unitPriceDescription": "normale prijs per kg €13.45",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343536?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343536?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343536?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343536?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% KORTING",
+        "currentPrice": 5.52,
+        "priceBeforeBonus": 7.18,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jong belegen kaas (stuk)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekkere kort gerijpte goudse jong belegen kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: mild</li><li>Herkomst: Nederland</li><li>Gemaakt van: koemelk</li><li>Rijping: minimaal 7 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. voordeelverpakkingen"
+        ],
+        "bonusSegmentId": 723047,
+        "bonusSegmentDescription": "Alle AH Goudse kaas in stukken van de zelfbedieningsafdeling*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 442596,
+        "hqId": 26753,
+        "title": "Lay's Bugles nacho cheese",
+        "salesUnitSize": "160 g",
+        "unitPriceDescription": "normale prijs per kg €16.56",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336373332?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336373332?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336373332?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393336373332?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 2.65,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Vormpjes chips",
+        "brand": "Lay's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Perfect als knapperig bijgerecht bij je favoriete hamburger, of als snack die doet denken aan de klassieke fish and chips</p><p><ul><li>Bereid met zonnebloemolie</li><li>Heerlijk om te vullen met bijvoorbeeld roomkaas, pesto of guacamole</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 718833,
+        "bonusSegmentDescription": "Alle Lay's en Doritos value- en partypacks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 12,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 477910,
+        "hqId": 731530,
+        "title": "AH Clemont rouge 60+",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €19.93",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353432?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353432?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353432?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313133353432?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "3 voor 6.00",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Rode korst kaas, port salut",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De clemont rouge is een toegankelijke roodkorst kaas. De kaas heeft een karakteristieke, romige smaak.</p><p><ul><li>Smaak: mild en romig</li><li>Gemaakt van koemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714828,
+        "bonusSegmentDescription": "Alle AH Borrelkaasjes van de versafdeling met Kies & Mix-sticker",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 17,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "3 voor 6.00",
+                "count": 3,
+                "price": 6.0
+            }
+        ]
+    },
+    {
+        "webshopId": 196034,
+        "hqId": 757801,
+        "title": "Taksi Tropisch fruit geen suiker toegevoegd 10",
+        "salesUnitSize": "10 x 0,2 l",
+        "unitPriceDescription": "normale prijs per liter €1.50",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Fruitdrank drinkpakjes",
+        "brand": "Taksi",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Drank met de heerlijke smaak van Tropisch Fruit, geen suiker toegevoegd! Voor als je echt van de tropen wilt genieten!</p><p><ul><li>Gemaakt op basis van vruchtensap en zuivel</li><li>Geen suiker toegevoegd!</li><li>68% minder calorie&#235;n dan Taksi Tropisch Fruit regulier</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714199,
+        "bonusSegmentDescription": "Alle DubbelFrisss en Taksi drinkpakjes",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 16,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 2597,
+        "hqId": 66798,
+        "title": "AH Goudse jong komijn 48+ plakken",
+        "salesUnitSize": "190 g",
+        "unitPriceDescription": "normale prijs per kg €16.58",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.50",
+        "priceBeforeBonus": 3.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Gekruide kaas (plakken)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekker smeu&#x00EF;ge Goudse jonge kaas met komijn. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en een fris schijfje komkommer.</p><p><ul><li>Smaak: Zacht en gekruid</li><li>Herkomst: Nederland</li><li>Gemaakt van: Koemelk</li><li>Rijping: minimaal 4 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714189,
+        "bonusSegmentDescription": "AH Goudse plakken",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Gemaakt van 100% weidemelk: Melk van koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen  </p>\n  <p>De kaas ligt altijd met de juiste smaak, die bij de leeftijd hoort, in de winkels.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.50",
+                "count": 2,
+                "price": 5.5
+            }
+        ]
+    },
+    {
+        "webshopId": 561718,
+        "hqId": 672539,
+        "title": "AH Ginger passion gember passievrucht",
+        "salesUnitSize": "125 ml",
+        "unitPriceDescription": "normale prijs per liter €8.72",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "5 + 1 gratis",
+        "priceBeforeBonus": 1.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Fruit en groenteshots",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 719885,
+        "bonusSegmentDescription": "AH Groenteshots",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "5+1 gratis",
+                "count": 5,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 474625,
+        "hqId": 727636,
+        "title": "Almhof Choco met echte slagroom original",
+        "salesUnitSize": "180 g",
+        "unitPriceDescription": "normale prijs per kg €8.83",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.19,
+        "priceBeforeBonus": 1.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Chocolademousse, pudding",
+        "brand": "Almhof",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Almhof choco met slagroom is een heerlijk romig chocolade dessert, gemaakt met echte Belgische chocolade en een toef echte slagroom bovenop.</p><p><ul><li>Met gesmolten Belgische chocolade</li><li>Met een toef echte slagroom</li><li>De volle romige smaak van almhof</li><li>Rainforest alliance gecertificeerde cacao</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714905,
+        "bonusSegmentDescription": "Alle Almhof 140-190 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Almhof koopt rainforest alliance gecertificeerde cacao. Zo dragen wij zorg voor mens en natuur. Dat maakt onze choco met slagroom nog lekkerder!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 230456,
+        "hqId": 806500,
+        "title": "AH Scrocchi zeezout",
+        "salesUnitSize": "200 g",
+        "unitPriceDescription": "normale prijs per kg €10.95",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 4.00",
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Luxe toast",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Knapperige, ovengebakken italiaanse vierkante toast met zeezout.</p><p><ul><li>Zonder kunstmatige kleur-, geur- en zoetstoffen</li><li>Heerlijk als snack, met een hartige dip of als voorgerecht met tapenade</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714290,
+        "bonusSegmentDescription": "AH Scrocchi, Picos en Borreltoast",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 4.00",
+                "count": 2,
+                "price": 4.0
+            }
+        ]
+    },
+    {
+        "webshopId": 202090,
+        "hqId": 796238,
+        "title": "AH Ovengratin geraspte kaas",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Speciaal voor ovengratin, een melange van mozzarella, emmentaler en Goudse jonge kaas.</p><p><ul><li><strong>Smaak: </strong>Extra smeu&#239;g</li><li><strong>Gemaakt van: </strong>Koemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p><strong>Ahaatje</strong><br />Lekker &amp; eindeloos combineren. altijd handig om in huis te hebben!</p>\n",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 2390,
+        "hqId": 502589,
+        "title": "Bonne Maman Aardbeien confiture",
+        "salesUnitSize": "370 g",
+        "unitPriceDescription": "normale prijs per kg €7.81",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393637333039?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 2.49",
+        "currentPrice": 2.49,
+        "priceBeforeBonus": 2.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Ontbijtgranen, beleg",
+        "subCategory": "Aardbeienjam",
+        "brand": "Bonne Maman",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Bonne Maman Confiture is een extra jam welke is gemaakt van de allerhoogste kwaliteit fruit. Door de speciale bereidingsmethode ontstaat er een pure fruitsmaak.</p><p><ul><li>Traditionele confiture, geproduceerd  in Frankrijk</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714238,
+        "bonusSegmentDescription": "Alle Bonne Maman 335-370 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 23,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 2.49",
+                "price": 2.49
+            }
+        ]
+    },
+    {
+        "webshopId": 167780,
+        "hqId": 644612,
+        "title": "Conimex Cassave kroepoek",
+        "salesUnitSize": "75 g",
+        "unitPriceDescription": "normale prijs per kg €24.67",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839363035?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839363035?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839363035?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393839363035?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 2.49",
+        "priceBeforeBonus": 1.85,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Pasta, rijst, wereldkeuken",
+        "subCategory": "Kroepoek",
+        "brand": "Conimex",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Conimex cassave kroepoek is heerlijk mild gekruid en gemaakt van cassave uit indonesie.</p><p><ul><li>Conimex cassave kroepoek is een authentieke indonesische kroepoek</li><li>De cassave-kroepoek is vegan en heeft een heerlijk knapperige bite</li><li>Deze cassave kroepoek is lekker bij de Aziatische maaltijd of als snack</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714904,
+        "bonusSegmentDescription": "Alle Conimex kroepoek",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 2.49",
+                "count": 2,
+                "price": 2.49
+            }
+        ]
+    },
+    {
+        "webshopId": 104395,
+        "hqId": 536394,
+        "title": "AH Zaanlander Belegen 48+ plakken",
+        "salesUnitSize": "ca. 225 g",
+        "unitPriceDescription": "normale prijs per kg €21.97",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313231343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313231343336?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313231343336?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313231343336?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313231343336?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% KORTING",
+        "currentPrice": 3.74,
+        "priceBeforeBonus": 4.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Belegen kaas (plakken)",
+        "brand": "AH Zaanlander",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Volle en romige Hollandse kaas gemaakt van weidemelk. Vakkundig gemaakt volgens eigen receptuur en in alle rust gerijpt onder optimale condities.</p><p><ul><li>Smaak: Romig en pittig</li><li>Herkomst: Nederland</li><li>Gemaakt van: Koemelk</li><li>Lekker uit de oven op een ciabatta met groene pesto, champignon en knoflook</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "lokaal"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714810,
+        "bonusSegmentDescription": "Alle AH Zaanlander",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Gemaakt van 100% weidemelk: Melk van koeien die minimaal 120 dagen per jaar, 6 uur per dag in de wei lopen.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 36,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 514010,
+        "hqId": 9480,
+        "title": "Dr. Oetker Casa di mama pizza salami",
+        "salesUnitSize": "390 g",
+        "unitPriceDescription": "normale prijs per kg €11.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 4.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Casa di mama salame is een authentieke Italiaanse pizza die thuis in de oven rijst! De luchtige dikke rand en een krokante dunne bodem is rijkelijk belegd met salami en mozzarella. Proeven?</p><p><ul><li>Krokante dunne bodem met luchtige dikke rand</li><li>Unieke gistbodem: rijst thuis in de oven</li><li>Houd je van salami, dan is dit jouw nieuwe favoriete pizza</li><li>Verwarm oven voor: 250 graden celsius elektrisch/ca. 230 graden celsius hetelucht en bak 12-15 min</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714305,
+        "bonusSegmentDescription": "Alle Dr. Oetker Casa di Mama",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Mmm, pizza. Wie houdt er niet van? Casa di Mama salami is een echte klassieker en is de perfecte pizza keuze voor liefhebbers van vlees. De kruidige salami geeft een intens verrukkelijke smaak en de romige mozzarella en Edammer kaas maken deze diepvries pizza compleet. Stuk voor stuk heerlijke hoogwaardige ingredienten als topping. \n\nmaar het geheim zit m in de bodem! Een krokante dunne bodem en een luchtige dikke rand, die thuis in de oven rijst. Voor het beste resultaat verwarm je de oven voor op de aangegeven temperatuur (250 graden celsius elektrisch/ca. 230 graden celsius hetelucht), voordat je de pizza in de oven stopt. Verwijder het folie en het karton, laat het bakpapier onder de pizza zitten tijdens het bakken en bak de bevroren pizza op een bakplaat onderin de oven. Kijk je goed, dan zie je de pizza rijzen en nog meer rijzen voor je ware Italiaanse pizzabelevenis.\n\nde pizza's van Casa di Mama zijn er in meer verschillende varianten en worden allemaal gemaakt van de beste ingredienten. Altijd handig om in de diepvries te hebben liggen voor een uitgebreid italiaans dinner met verschillende hapjes of om te serveren tijdens drukke avonden als makkelijke maaltijd. Geniet van iedere hap van deze authentieke Italiaanse pizza.\n\ncasa di mama, je pizza die rijst in de oven!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "webshopId": 130275,
+        "hqId": 591486,
+        "title": "AH Vers geperste smoothie aardbei banaan",
+        "salesUnitSize": "500 ml",
+        "unitPriceDescription": "normale prijs per liter €5.18",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638393235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638393235?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638393235?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638393235?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303638393235?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.75",
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Fruit en groente smoothies",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingredi&#x00EB;nten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Vandaag geperst, morgen in jouw koelkast. Zonder toevoegingen, verser &amp; gemakkelijker kan niet.</p><p><ul><li>Met vitamine C en foliumzuur</li><li>Geniet van een verse &amp; koudgeperste smoothie op ieder moment van de dag</li><li>Voor ontbijt, lunch of tussendoor</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714230,
+        "bonusSegmentDescription": "Alle AH Verse sappen en smoothies 500 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 16,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.75",
+                "count": 2,
+                "price": 3.75
+            }
+        ]
+    },
+    {
+        "webshopId": 486696,
+        "hqId": 741544,
+        "title": "AH Goudse Jong 48+ pondstuk var",
+        "salesUnitSize": "ca. 545 g",
+        "unitPriceDescription": "normale prijs per kg €12.79",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343534?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343534?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343534?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313032343534?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% KORTING",
+        "currentPrice": 5.23,
+        "priceBeforeBonus": 6.97,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Jonge kaas (stuk)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekker smeuige goudse jonge kaas. De AHgoudse wordt gemaakt van 100% weidemelk. Tip! Beleg ook eens een warm croissantje uit de oven met een plakje van deze kaas.</p><p><ul><li>Smaak: zacht</li><li>Herkomst: Nederland</li><li>Gemaakt van: koemelk</li><li>Rijping: minimaal 4 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. voordeelverpakkingen"
+        ],
+        "bonusSegmentId": 723047,
+        "bonusSegmentDescription": "Alle AH Goudse kaas in stukken van de zelfbedieningsafdeling*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 140124,
+        "hqId": 611315,
+        "title": "Royal Club Tonic",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Tonic",
+        "brand": "Royal Club",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal Club Tonic, een heerlijke verfrissing met een lekkere bittere smaak voor de liefhebber. Het is een volwassen frisse drank met een rijke geschiedenis, die perfect de dorst lest.</p><p><ul><li>Uitgesproken volwassen fris met een herkenbare bite</li><li>Net iets spannender dan gewoon fris</li><li>Mix met Royal Club je eigen Mocktail</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> You are what you choose. Don't be a boring drink.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 476734,
+        "hqId": 729953,
+        "title": "Fanta Orange 8-pack",
+        "salesUnitSize": "8 x 0,25 l",
+        "unitPriceDescription": "normale prijs per liter €3.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "VOOR 4.99",
+        "currentPrice": 4.99,
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Sinas",
+        "brand": "Fanta",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Proef de fruitige sinassmaak van fanta. Fanta orange is een combinatie van sprankelend water en echt sinaasappelsap.</p><p><ul><li>Frisdrank met fruitsmaak</li><li>Met natuurlijke aroma's</li><li>Geen toegevoegde kleurstoffen</li><li>Het multipack 8 x 250ml is ideaal om mee naar thuis te nemen en samen van te genieten</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714907,
+        "bonusSegmentDescription": "Alle Coca-Cola en Fanta 8-packs 250 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_FIXED_PRICE",
+                "defaultDescription": "voor 4.99",
+                "price": 4.99
+            }
+        ]
+    },
+    {
+        "webshopId": 211064,
+        "hqId": 807063,
+        "title": "AH Biologisch Gerookte zalm",
+        "salesUnitSize": "100 g",
+        "unitPriceDescription": "normale prijs per kg €49.90",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 euro korting",
+        "currentPrice": 3.99,
+        "priceBeforeBonus": 4.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vis",
+        "subCategory": "Gerookte zalm",
+        "brand": "AH Biologisch",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Gerookt</li></ul></p>",
+        "propertyIcons": [
+            "biologisch"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714281,
+        "bonusSegmentDescription": "Alle AH Gerookte zalm 100-200 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Neem het ervan en geniet van het lekkerste dat de natuur te bieden heeft. Van onze biologische producten kun je met een goed gevoel genieten dankzij de aandacht en inspanning van de boeren en producenten die ze voor ons maken. Natuurlijk worden al onze biologische producten onafhankelijk gecontroleerd en daarom verdienen ze het Europese keurmerk. Biologisch van Albert Heijn: dat smaak naar meer!  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 14,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_AMOUNT",
+                "defaultDescription": "€1.00 euro korting",
+                "amount": 1.0
+            }
+        ]
+    },
+    {
+        "webshopId": 478232,
+        "hqId": 731985,
+        "title": "AH Tex-mex geraspte kaas",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.00",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Geraspte kaas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Speciaal voor mexicaanse gerechten. Deze tex-mex rasp is licht pittig van smaak. Lekker bij nachos, burritos, tacos, quesadillas en wraps.</p><p><ul><li>Smaak: licht pittig</li><li>Gemaakt van koemelk</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714139,
+        "bonusSegmentDescription": "AH Specialiteitenrasp",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.00",
+                "count": 2,
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "webshopId": 167779,
+        "hqId": 644610,
+        "title": "Conimex Kroepoek Bali",
+        "salesUnitSize": "75 g",
+        "unitPriceDescription": "normale prijs per kg €24.67",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333634?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333634?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333634?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393835333634?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 2.49",
+        "priceBeforeBonus": 1.85,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Pasta, rijst, wereldkeuken",
+        "subCategory": "Kroepoek",
+        "brand": "Conimex",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Conimex bali kroepoek is heerlijk mild gekruid en op ambachtelijke wijze gekneed in indonesie.</p><p><ul><li>Conimex bali kroepoek is mild gekruid en heeft een heerlijk knapperige bite</li><li>Gemaakt van tapiocabloem en garnalen uit indonesie</li><li>Deze kroepoek is lekker bij de Aziatische maaltijd of als snack</li><li>Conimex bali kroepoek is authentieke indonesische kroepoek</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714904,
+        "bonusSegmentDescription": "Alle Conimex kroepoek",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 2.49",
+                "count": 2,
+                "price": 2.49
+            }
+        ]
+    },
+    {
+        "webshopId": 517004,
+        "hqId": 885835,
+        "title": "Cheetos Nibb-it sticks",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €18.60",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383530343134?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383530343134?revLabel=4&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383530343134?revLabel=4&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383530343134?revLabel=4&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383530343134?revLabel=4&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Vormpjes chips",
+        "brand": "Cheetos",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekkere en krokante knabbels in speelse en kleurige vormpjes.</p><p><ul><li>Bereid met zonnebloemolie</li><li>Bevatten geen kunstmatige kleurstoffen</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 718833,
+        "bonusSegmentDescription": "Alle Lay's en Doritos value- en partypacks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Cheetos zijn heerlijke chipjes in verschillende unieke smaken, kleuren en vormen. Ze smelten in je mond en zijn perfect om te delen. En, nog belangrijker: ze toveren een glimlach op het gezicht. Bij iedereen. Want wie is er niet te porren voor wat speels kattenkwaad? met Cheetos beleeft jong  en  oud spontaan plezier, het werkt aanstekelijk!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 12,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 217289,
+        "hqId": 807579,
+        "title": "AH Kip kerrie salade",
+        "salesUnitSize": "150 g",
+        "unitPriceDescription": "normale prijs per kg €15.93",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Kipsalades (beleg)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze kip kerriesalade smaakt heerlijk en is gemaakt van extra mals vlees, doordat de kippen genoeg ruimte en beweging hebben gehad.</p><p><ul><li>Smaak: Friszoet</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714897,
+        "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Tip: Heerlijk op de boterham bij de lunch of op een toastje bij de borrel met een mooi glas wijn.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 365872,
+        "hqId": 832883,
+        "title": "Starbucks Cappuccino",
+        "salesUnitSize": "220 ml",
+        "unitPriceDescription": "normale prijs per liter €9.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Koffie, thee",
+        "subCategory": "IJskoffie",
+        "brand": "Starbucks",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ijskoffie geinspireerd op de originele Starbucks cappuccino. Geniet van een cappuccino ijskoffie met de perfecte balans van Starbucks espresso en romige melk.</p><p><ul><li>Ijskoffie geinsprieerd op de originele Starbucks cappuccino</li><li>Met 100% Starbucks arabica koffie</li><li>In een handige beker om onderweg of thuis van te genieten</li><li>Een verfrissende ijskoffie van Starbucks voor elk moment van de dag</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714150,
+        "bonusSegmentDescription": "Alle Starbucks ijskoffie 220-330 ml",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Starbucks cappuccino is een delicate en gekoelde mix van Starbucks espresso met melk en een vleugje cacao. Een ijskoffie die overal gedronken kan worden, zonder in te leveren op smaak. Je geniet het best van de Starbucks cappuccino ijskoffie door 'm gekoeld te drinken en zachtjes te schudden voor gebruik. Probeer ook eens een van onze andere heerlijke ijskoffies, zoals de caramel macchiato of skinny latte.starbucks heeft een passie voor koffie en doet er alles aan om de beste smaak in elke cup te krijgen en een heerlijke koffiesmaak te bieden. Starbucks koffies worden gemaakt met 100% arabica koffiebonen en onze inzet voor ethische koffiewinning blijft een prioriteit vanuit ons coffee and farmer equity (c.a.f.e) practices programma. C.a.f.e. Practices is een verificatieprogramma dat landbouwbedrijven toetst aan economische-, sociale- en milieucriteria, allemaal bedoeld om transparante, winstgevende en duurzame koffieteeltmethodes te bevorderen en tegelijkertijd het welzijn van koffieboeren en -arbeiders, hun gezinnen en hun gemeenschappen te beschermen.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 569884,
+        "hqId": 8627,
+        "title": "CoolBest Fruit drink strawberry",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.29",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313537353636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Multivruchtensap (vers)",
+        "brand": "CoolBest",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De perfecte mix van volzoete aardbeien, verfrissende appels en een vleugje zuivel, voor een volronde smaak.</p><p><ul><li>Lekker doordrinkbaar</li><li>Perfect voor ieder moment van de dag</li><li>Zonder toegevoegde suikers</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716051,
+        "bonusSegmentDescription": "Alle Coolbest FruitDrink en FruitOntbijt",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Coolbest staat voor de beste kwaliteit en de lekkerste smaakcombinaties. We persen het speciaal geselecteerde fruit en vanaf dat moment blijft het gekoeld tot in de winkel. Zo blijven smaak en voedingsstoffen optimaal behouden. Dat is wel zo lekker!we keep it cool, you get the best!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 13,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 415225,
+        "hqId": 686757,
+        "title": "Lipton Ice tea peach",
+        "salesUnitSize": "1,5 l",
+        "unitPriceDescription": "normale prijs per liter €2.46",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303838393530?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 3.69,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ice tea peach",
+        "brand": "Lipton",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lipton ice tea peach is lekker verfrissend en laag in calorieen.</p><p><ul><li>Lipton ice tea peach is lekker verfrissend en laag in calorieen</li><li>Een koolzuurvrije ijsthee met een vleugje perziksap voor een fruitige smaak</li><li>Deze frisdrank is het lekkerst om ijskoud en samen met vrienden te drinken</li><li>Alle thee van Lipton is 100% rainforest alliance gecertificeerd</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714190,
+        "bonusSegmentDescription": "Alle Lipton 0.5 en 1.5 literflessen*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 474626,
+        "hqId": 727685,
+        "title": "Almhof Choco met echte slagroom wit-vanille",
+        "salesUnitSize": "180 g",
+        "unitPriceDescription": "normale prijs per kg €8.83",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 1.19,
+        "priceBeforeBonus": 1.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Chocolademousse, pudding",
+        "brand": "Almhof",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Almhof choco met slagroom is een heerlijk romig chocolade dessert, gemaakt met echte Belgische chocolade en een toef echte slagroom bovenop.</p><p><ul><li>Met Belgische witte chocolade</li><li>Met een toef echte slagroom</li><li>De volle romige smaak van almhof</li><li>Rainforest alliance gecertificeerde cacao</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714905,
+        "bonusSegmentDescription": "Alle Almhof 140-190 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Almhof koopt rainforest alliance gecertificeerde cacao. Zo dragen wij zorg voor mens en natuur. Dat maakt onze choco met slagroom nog lekkerder!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 486697,
+        "hqId": 741545,
+        "title": "AH Goudse Belegen 48+ pondstuk var",
+        "salesUnitSize": "ca. 550 g",
+        "unitPriceDescription": "normale prijs per kg €14.79",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838313137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838313137?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838313137?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838313137?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313838313137?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% KORTING",
+        "currentPrice": 6.11,
+        "priceBeforeBonus": 8.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Kaas",
+        "subCategory": "Belegen kaas (stuk)",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Lekkere gerijpte goudse belegen kaas gemaakt van 100% weidemelk. Natuurlijk lekker op de boterham of gewoon uit het vuistje. Tip! Beleg ook eens stokbroodje met een plakje van deze kaas en maak af met een fris schijfje komkommer.</p><p><ul><li>Smaak: licht pittig</li><li>Herkomst: Nederland</li><li>Gemaakt van: koemelk</li><li>Rijping: minimaal 16 weken</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. voordeelverpakkingen"
+        ],
+        "bonusSegmentId": 723047,
+        "bonusSegmentDescription": "Alle AH Goudse kaas in stukken van de zelfbedieningsafdeling*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 8,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+# .github/workflows/send-email.yml
+name: Send HTML Email
+
+on:
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+  push:
+    branches:
+      - AH_Angebot # Trigger on pushes to the 'AH_Angebot' branch
+  schedule:
+    - cron: '0 8 * * *' # Runs daily at 8:00 AM UTC
+
+jobs:
+  send_email_job:
+    runs-on: ubuntu-latest # The type of runner that the job will execute on
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4 # Action to check out your repository code
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x' # Specify the Python version you need
+
+    - name: Install Python dependencies
+      run: |
+        pip install requests # Install the requests library for API calls
+        # If you have other dependencies, list them in a requirements.txt file and install:
+        # pip install -r requirements.txt
+
+    - name: Run Python script to send email via SendPulse
+      env:
+        # SendPulse API credentials (MUST be GitHub Secrets)
+        SENDPULSE_API_ID: ${{ secrets.SENDPULSE_API_ID }}
+        SENDPULSE_API_SECRET: ${{ secrets.SENDPULSE_API_SECRET }}
+        
+        # Email content details
+        SENDER_EMAIL: ${{ secrets.EMAIL_SENDER_EMAIL }}
+        SENDER_NAME: "AH Offers" # Or make this a secret: ${{ secrets.EMAIL_SENDER_NAME }}
+        RECEIVER_EMAIL: ${{ secrets.EMAIL_RECEIVER_EMAIL }}
+        EMAIL_SUBJECT: "Your Latest AH Offers from GitHub Actions!" 
+        HTML_FILE_PATH: "generated_email.html" # Path relative to your repo root
+
+      run: |
+        # Assuming your Python script is named send_email.py and generated_email.html is in the root
+        python3 send_email.py

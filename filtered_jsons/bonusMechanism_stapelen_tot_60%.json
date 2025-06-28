@@ -1,0 +1,99 @@
+[
+    {
+        "webshopId": 169797,
+        "hqId": 597702,
+        "title": "AH Avocado",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303835?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303835?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303835?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031303835?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "stapelen tot 60%",
+        "priceBeforeBonus": 1.35,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Avocado",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Avocado is een zachte en romige vrucht. Lekker in een salade of op brood. Avocado is het hoofdingredient voor het maken van verse guacamole.</p><p><ul><li>Smaak: De avocado heeft een zacht en romige smaak.</li><li>Bewaren: Buiten de koelkast.</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "1 stuk 30% korting",
+            "2 stuks 45% korting",
+            "3 stuks 60% korting"
+        ],
+        "bonusSegmentId": 723251,
+        "bonusSegmentDescription": "AH Avocado",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "3 stuks 60%",
+                "count": 3,
+                "percentage": 60,
+                "unit": "PIECE",
+                "precisePercentage": 60
+            },
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "2 stuks 45%",
+                "count": 2,
+                "percentage": 45,
+                "unit": "PIECE",
+                "precisePercentage": 45
+            },
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "1 stuk 30%",
+                "count": 1,
+                "percentage": 30,
+                "unit": "PIECE",
+                "precisePercentage": 30
+            }
+        ]
+    }
+]

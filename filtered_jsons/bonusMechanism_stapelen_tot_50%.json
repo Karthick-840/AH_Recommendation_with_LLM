@@ -1,0 +1,364 @@
+[
+    {
+        "webshopId": 177754,
+        "hqId": 587596,
+        "title": "AH Blauwe bessen",
+        "salesUnitSize": "300 g",
+        "unitPriceDescription": "normale prijs per kg €14.97",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "stapelen tot 50%",
+        "priceBeforeBonus": 4.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Blauwe bessen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Blauwe besssen hebben een fris zoete smaak en knappige bite. Blauwe bessen kunnen uit de hand gegeten worden als gezonde snack. Maar ze zijn ook heerlijk door de yogurt of in een smoothie.</p><p><ul><li>Smaak: Blauwe bessen hebben een fris zoete smaak en knapperige bite.</li><li>Bewaren: In de koelkast.</li><li>Gezondheid: Rijk aan vezels, bron van vitamine K</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "1 stuk 25% korting",
+            "2 stuks 50% korting"
+        ],
+        "bonusSegmentId": 723255,
+        "bonusSegmentDescription": "AH Blauwe bessen 300 en 500 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "2 stuks 50%",
+                "count": 2,
+                "percentage": 50,
+                "unit": "PIECE",
+                "precisePercentage": 50
+            },
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "1 stuk 25%",
+                "count": 1,
+                "percentage": 25,
+                "unit": "PIECE",
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 221526,
+        "hqId": 817687,
+        "title": "AH Mini watermeloen",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033323235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033323235?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033323235?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033323235?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033323235?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "stapelen tot 50%",
+        "priceBeforeBonus": 3.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Meloenen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De mini watermeloen is de kleine variant van de gewone watermeloen, maar is door zijn formaat een stuk handzamer en heeft een dunnere schil. Op een paar zachte zaden na, is hij vrijwel pitloos.</p><p><ul><li>Een sappige, zoete smaak</li><li>Bereiden: snij in stukken en eet uit de hand. Ook lekker in salades</li><li>Bewaren: buiten de koelkast</li><li>Parten watermeloen in plastic huishoudfolie wikkelen en wel in de koelkast bewaren</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "1 stuk 30% korting",
+            "2 stuks 50% korting"
+        ],
+        "bonusSegmentId": 724574,
+        "bonusSegmentDescription": "Alle AH Meloenen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Watermeloen is een echte dorstlesser. Je kan watermeloen buiten de koelkast bewaren, maar wil je de watermeloen lekker koud eten, bewaar hem dan in de koelkast. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "2 stuks 50%",
+                "count": 2,
+                "percentage": 50,
+                "unit": "PIECE",
+                "precisePercentage": 50
+            },
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "1 stuk 30%",
+                "count": 1,
+                "percentage": 30,
+                "unit": "PIECE",
+                "precisePercentage": 30
+            }
+        ]
+    },
+    {
+        "webshopId": 495931,
+        "hqId": 790002,
+        "title": "AH Blauwe bessen",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €12.98",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "stapelen tot 50%",
+        "priceBeforeBonus": 6.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Blauwe bessen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De blauwe bessen maken een feest van elke maaltijd. Heerlijk door de yoghurt, een smoothie of als gezonde snack tussendoor. Met deze bak heeft u zeker genoeg voor het hele gezin.</p><p><ul><li>Smaak: blauwe bessen hebben een friszoete smaak en knapperige bite</li><li>Bewaren: in de koelkast</li><li>Gezondheid: bron van vitamine K</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "1 stuk 25% korting",
+            "2 stuks 50% korting"
+        ],
+        "bonusSegmentId": 723255,
+        "bonusSegmentDescription": "AH Blauwe bessen 300 en 500 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "2 stuks 50%",
+                "count": 2,
+                "percentage": 50,
+                "unit": "PIECE",
+                "precisePercentage": 50
+            },
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "1 stuk 25%",
+                "count": 1,
+                "percentage": 25,
+                "unit": "PIECE",
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 128579,
+        "hqId": 73895,
+        "title": "AH Watermeloen",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383338333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383338333838?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383338333838?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383338333838?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383338333838?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "stapelen tot 50%",
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Meloenen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Watermeloen met een sappige, zoete smaak. Watermeloen is een echte dorstlesser. Snij in stukken en eet uit de hand of serveer in een salade.</p><p><ul><li>Lekker voor bij de picknick of als fruitig dessert</li><li>Parten watermeloen in plastic huishoudfolie wikkelen en wel in de koelkast bewaren</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "1 stuk 30% korting",
+            "2 stuks 50% korting"
+        ],
+        "bonusSegmentId": 724574,
+        "bonusSegmentDescription": "Alle AH Meloenen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Je kan watermeloen buiten de koelkast bewaren, maar wil je de watermeloen lekker koud eten, bewaar hem dan in de koelkast. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 9,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "2 stuks 50%",
+                "count": 2,
+                "percentage": 50,
+                "unit": "PIECE",
+                "precisePercentage": 50
+            },
+            {
+                "code": "DISCOUNT_TIERED_PERCENT",
+                "defaultDescription": "1 stuk 30%",
+                "count": 1,
+                "percentage": 30,
+                "unit": "PIECE",
+                "precisePercentage": 30
+            }
+        ]
+    }
+]

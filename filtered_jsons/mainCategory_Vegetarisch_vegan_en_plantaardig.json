@@ -1,0 +1,706 @@
+[
+    {
+        "webshopId": 518423,
+        "hqId": 87619,
+        "title": "Alpro Mild & creamy zonder suikers",
+        "salesUnitSize": "755 g",
+        "unitPriceDescription": "normale prijs per kg €3.96",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Plantaardige yoghurt naturel",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro mild  en  creamy zonder suikers is een echte verwennerij voor je smaakpapillen. Deze plantaardige variatie op yoghurt past overal bij! Schenk hem over fruit en ontbijtgranen of eet hem gewoon zo.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Zonder suikers, rijk aan plantaardige eiwitten en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714909,
+        "bonusSegmentDescription": "Alle A-merk plantaardig eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro mild  en  creamy kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, fruit of gewoon zo. Gezien onze mild  en  creamy plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 32,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+1 gratis",
+                "count": 2,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 217309,
+        "hqId": 807602,
+        "title": "AH Terra Plantaardige hummus naturel",
+        "salesUnitSize": "175 g",
+        "unitPriceDescription": "normale prijs per kg €12.51",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134383731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134383731?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134383731?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134383731?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313134383731?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Hummus naturel",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hummus is een spread gemaakt van kikkererwten met daar aan toegevoegd een fijne kruidenmelange.</p><p><ul><li>Smaak: zacht</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714897,
+        "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 234523,
+        "hqId": 820584,
+        "title": "AH Terra Plantaardige hummus zongedroogde tomaat",
+        "salesUnitSize": "175 g",
+        "unitPriceDescription": "normale prijs per kg €13.66",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343530?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343530?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343530?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343530?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Hummus met smaakje",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hummus is een spread op basis van kikkererwten en zongedroogde tomaten.</p><p><ul><li>Smaak: romig met tomatensmaak</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714897,
+        "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 196169,
+        "hqId": 794356,
+        "title": "Alpro Mild & creamy vanille smaak",
+        "salesUnitSize": "750 g",
+        "unitPriceDescription": "normale prijs per kg €3.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Plantaardige yoghurt met smaak",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro mild  en  creamy vanille is een echte verwennerij voor je smaakpapillen. Deze plantaardige variatie op yoghurt past overal bij! Schenk hem over fruit en ontbijtgranen of eet hem gewoon zo.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja en vanille</li><li>Gemaakt van regenwoudvrije soja</li><li>Rijk aan plantaardige eiwitten, laag in vet en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714909,
+        "bonusSegmentDescription": "Alle A-merk plantaardig eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro mild  en  creamy kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, fruit of gewoon zo. Gezien onze mild  en  creamy plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 32,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+1 gratis",
+                "count": 2,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 217310,
+        "hqId": 807603,
+        "title": "AH Terra Plantaardige hummus pikant versafdeling",
+        "salesUnitSize": "175 g",
+        "unitPriceDescription": "normale prijs per kg €13.66",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Hummus met smaakje",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze heerlijke hummus is de pikante variant van de naturel hummus en wordt gedecoreerd met kikkererwten en stukjes zoete peper.</p><p><ul><li>Smaak: Zacht en pittig.</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714897,
+        "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 486626,
+        "hqId": 742126,
+        "title": "Alpro Variatie op kwark zonder suikers",
+        "salesUnitSize": "400 g",
+        "unitPriceDescription": "normale prijs per kg €6.23",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 1 gratis",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Plantaardige kwark, vla",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro plantaardige variatie op kwark zonder suikers is ideaal als basis voor je ontbijt of als tussendoortje. Lekker zo, of in combinatie met fruit en ontbijtgranen.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Zonder suikers, rijk aan plantaardige eiwitten en arm aan verzadigd vet</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714909,
+        "bonusSegmentDescription": "Alle A-merk plantaardig eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro plantaardige variatie op kwark kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, fruit of gewoon zo. Gezien onze variatie plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 32,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+1 gratis",
+                "count": 2,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 593710,
+        "hqId": 0,
+        "title": "Alpro Variatie op kwark zonder suikers 2-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736303036?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736303036?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736303036?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313736303036?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 4.73,
+        "priceBeforeBonus": 4.98,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Plantaardige kwark, vla",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro plantaardige variatie op kwark zonder suikers is ideaal als basis voor je ontbijt of als tussendoortje. Lekker zo, of in combinatie met fruit en ontbijtgranen. Nu in een voordeelpakket van 2 verpakkingen!</p><p><ul><li>Alpro Variatie op kwark zonder suikers 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 486626,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 415739,
+        "hqId": 687213,
+        "title": "AH Terra Plantaardige hummus gegrilde groente",
+        "salesUnitSize": "175 g",
+        "unitPriceDescription": "normale prijs per kg €14.80",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739333334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739333334?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739333334?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739333334?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739333334?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.99",
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Hummus met smaakje",
+        "brand": "AH Terra",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hummus gemaakt met gegrilde gele en rode paprika en gegrilde ui. Rijkelijk getopt met stukjes paprika en zwarte sesamzaadjes. Altijd een succes bij de borrel met stokbrood, op een toastje of met groenten om mee te dippen.</p><p><ul><li>Smaak: romig en licht zoet</li><li>Natuurlijk ook erg lekker als broodbeleg bij je lunch</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714897,
+        "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.99",
+                "count": 2,
+                "price": 3.99
+            }
+        ]
+    },
+    {
+        "webshopId": 518443,
+        "hqId": 699387,
+        "title": "Alpro Mild & creamy naturel",
+        "salesUnitSize": "755 g",
+        "unitPriceDescription": "normale prijs per kg €3.70",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 1 gratis",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Plantaardige yoghurt naturel",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro mild  en  creamy naturel is een echte verwennerij voor je smaakpapillen. Deze plantaardige variatie op yoghurt past overal bij! Schenk hem over fruit en ontbijtgranen of eet hem gewoon zo.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Rijk aan plantaardige eiwitten, laag in suikers en vet en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714909,
+        "bonusSegmentDescription": "Alle A-merk plantaardig eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro mild  en  creamy kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, fruit of gewoon zo. Gezien onze mild  en  creamy plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 32,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+1 gratis",
+                "count": 2,
+                "freeCount": 1
+            }
+        ]
+    }
+]

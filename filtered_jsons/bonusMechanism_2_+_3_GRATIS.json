@@ -1,0 +1,867 @@
+[
+    {
+        "webshopId": 140130,
+        "hqId": 611356,
+        "title": "Rivella Original",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303034393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303034393635?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303034393635?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303034393635?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303034393635?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Rivella",
+        "brand": "Rivella",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Rivella is een licht sprankelende, lekker verfrissende frisdrank met natuurlijke ingredi&#x00EB;nten.</p><p><ul><li>Met natuurlijke ingredi&#x00EB;nten</li><li>Licht sprankelend, lekker verfrissend</li><li>Bevat slechts 5 Kcal per 100 ml</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 140123,
+        "hqId": 611314,
+        "title": "Royal Club Tonic classic 0% suiker",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373639?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373639?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373639?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373639?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373639?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Tonic",
+        "brand": "Royal Club",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal club tonic 0% suiker, een heerlijke verfrissing met een lekkere bittere smaak voor de liefhebber. Het is een volwassen frisse drank met een rijke geschiedenis, die perfect de dorst lest.</p><p><ul><li>Bevat 0% suiker</li><li>Uitgesproken volwassen fris met een herkenbare bite</li><li>Net iets spannender dan gewoon fris</li><li>Mix met Royal Club je eigen mocktail</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Frisdrank met vruchtenextracten, met zoetstoffen, bevat kinine. </p>\n  <p>  You are what you choose. Don't be a boring drink.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 457839,
+        "hqId": 621424,
+        "title": "Royal Club Ginger ale 0% suiker",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036313030?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036313030?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036313030?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036313030?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ginger ale, ginger beer",
+        "brand": "Royal Club",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal club ginger ale, de ultieme verfrissing voor elk moment van de dag. Het is de perfecte balans tussen zoet en bitter. Het heeft een heerlijke en toegankelijke smaak.</p><p><ul><li>Uitgesproken volwassen fris met een herkenbare bite</li><li>Net iets spannender dan gewoon fris</li><li>Mix met Royal Club je eigen mocktail</li><li>0% suiker</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Frisdrank met plantenextracten. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 496904,
+        "hqId": 800596,
+        "title": "Royal Club Ginger beer 0% suiker",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373334353432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373334353432?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373334353432?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373334353432?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373334353432?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ginger ale, ginger beer",
+        "brand": "Royal Club",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal club ginger beer, de ultieme verfrissing met een uitgesproken gember smaak.</p><p><ul><li>0% suiker</li><li>Uitgesproken volwassen fris met een herkenbare bite</li><li>Non-alcoholisch, lekker voor in de mix</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 163236,
+        "hqId": 750055,
+        "title": "Royal Club Ginger ale",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303930?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303930?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303930?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303930?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Ginger ale, ginger beer",
+        "brand": "Royal Club",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal Club Ginger Ale, d&#x00E9; ultieme verfrissing voor elk moment van de dag. Het is de perfecte balans tussen zoet en bitter. Het heeft een heerlijke en toegankelijke smaak.</p><p><ul><li>Uitgesproken volwassen fris met een herkenbare bite</li><li>Net iets spannender dan gewoon fris</li><li>Mix met Royal Club je eigen Mocktail</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> You are what you choose. Don't be a boring drink.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 140127,
+        "hqId": 611318,
+        "title": "Royal Club Bitter lemon 0% suiker",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303937?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303937?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303937?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303937?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Bitter lemon",
+        "brand": "Royal Club",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal club bitter lemon 0% suiker is al jaren een populaire dorstlesser. Het heeft een verfrissende citroensmaak met een vleugje kinine, voor een lekkere bittere nasmaak.</p><p><ul><li>Bevat 0% suiker</li><li>Uitgesproken volwassen fris met een herkenbare bite</li><li>Net iets spannender dan gewoon fris</li><li>Mix met Royal Club je eigen mocktail</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Bittere citroenfrisdrank, met zoetstoffen, bevat kinine. </p>\n  <p>  You are what you choose. Don't be a boring drink.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 233288,
+        "hqId": 826110,
+        "title": "Proper Sweet & salty popcorn",
+        "salesUnitSize": "90 g",
+        "unitPriceDescription": "normale prijs per kg €26.56",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313236393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313236393739?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313236393739?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313236393739?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313236393739?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Popcorn",
+        "brand": "Proper",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Overheerlijke handmade popcorn in een combinatie van zoet en zout.</p><p><ul><li>Alleen natuurlijke ingredi&#235;nten</li><li>Handmade volgens traditioneel recept</li><li>Ultieme kwaliteit</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. kleinverpakkingen"
+        ],
+        "bonusSegmentId": 714244,
+        "bonusSegmentDescription": "Alle A-merk popcorn*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> Popcorn zoals het bedoelt is: lekker en geen onnodige toevoegingen. Ideaal voor bij een film of als snack tussendoor.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 14,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 140124,
+        "hqId": 611315,
+        "title": "Royal Club Tonic",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373330373732?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Tonic",
+        "brand": "Royal Club",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal Club Tonic, een heerlijke verfrissing met een lekkere bittere smaak voor de liefhebber. Het is een volwassen frisse drank met een rijke geschiedenis, die perfect de dorst lest.</p><p><ul><li>Uitgesproken volwassen fris met een herkenbare bite</li><li>Net iets spannender dan gewoon fris</li><li>Mix met Royal Club je eigen Mocktail</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> You are what you choose. Don't be a boring drink.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 518871,
+        "hqId": 557746,
+        "title": "Royal Club Rose lemonade 0% suiker",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373637?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373637?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373637?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230373637?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Craft en speciaal fris",
+        "brand": "Royal Club",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal club rose lemonade, de ultieme verfrissing met een verrassende bite op basis van rozen extract en zonder suiker.</p><p><ul><li>0% suiker</li><li>Net iets spannender dan gewoon fris</li><li>Het subtiele vleugje rozen extract zorgt voor een verrassende bite</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 140126,
+        "hqId": 611317,
+        "title": "Royal Club Bitter lemon",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303934?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303934?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303934?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303036303934?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Bitter lemon",
+        "brand": "Royal Club",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Royal Club Bitter Lemon is al jaren een populaire dorstlesser. Het heeft een verfrissende citroensmaak met een vleugje kinine, voor een lekkere bittere nasmaak.</p><p><ul><li>Uitgesproken volwassen fris met een herkenbare bite</li><li>Net iets spannender dan gewoon fris</li><li>Mix met Royal Club je eigen Mocktail!</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714229,
+        "bonusSegmentDescription": "Alle Royal Club en Rivella literflessen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p> You are what you choose. Don't be a boring drink.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    },
+    {
+        "webshopId": 571450,
+        "hqId": 12755,
+        "title": "Dreft Platinum plus deep clean vaatwascapsules",
+        "salesUnitSize": "19 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434343231?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434343231?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434343231?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313434343231?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 3 GRATIS",
+        "priceBeforeBonus": 13.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Huishouden",
+        "subCategory": "Vaatwastabletten",
+        "brand": "Dreft",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Dreft platinum plus all in One deep clean vaatwastabletten bieden je een uitzonderlijk schone vaat in slechts korte tijd.</p><p><ul><li>De beste tabletten van Dreft voor het reinigen van moeilijke etensresten</li><li>Verwijdert 99% van de zichtbare en onzichtbare voedselresten</li><li>Doeltreffend, zelfs in korte cycli</li><li>Stap over op korte cycli in plaats van normale cycli</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714255,
+        "bonusSegmentDescription": "Alle Sun en Dreft Platinum Plus vaatwascapsules",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dreft platinum plus geeft je een uitmuntende reiniging en verwijdert hardnekkige voedselvlekken, zelfs in de testconditie van een korte cyclus. Dus als je weinig tijd hebt, dan is dat geen enkel probleem. Stap over op kort. Dreft combineert vloeistof en poeder in een krachtige tablet. Het ultra-oplosbare zakje lost snel op en werkt goed in korte cycli omdat het snel begint te reinigen om de klus klaar te krijgen. En ze zijn gemakkelijk te gebruiken. Plaats ze gewoon in het doseerbakje van je vaatwasser, met verpakking. Schakel over op de korte cyclus en bespaar tijd, energie en water in vergelijking met een gewone, standaard cyclus.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 23,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+3 gratis",
+                "count": 2,
+                "freeCount": 3
+            }
+        ]
+    }
+]

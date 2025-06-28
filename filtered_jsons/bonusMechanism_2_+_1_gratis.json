@@ -1,0 +1,390 @@
+[
+    {
+        "webshopId": 518423,
+        "hqId": 87619,
+        "title": "Alpro Mild & creamy zonder suikers",
+        "salesUnitSize": "755 g",
+        "unitPriceDescription": "normale prijs per kg €3.96",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Plantaardige yoghurt naturel",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro mild  en  creamy zonder suikers is een echte verwennerij voor je smaakpapillen. Deze plantaardige variatie op yoghurt past overal bij! Schenk hem over fruit en ontbijtgranen of eet hem gewoon zo.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Zonder suikers, rijk aan plantaardige eiwitten en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714909,
+        "bonusSegmentDescription": "Alle A-merk plantaardig eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro mild  en  creamy kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, fruit of gewoon zo. Gezien onze mild  en  creamy plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 32,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+1 gratis",
+                "count": 2,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 196169,
+        "hqId": 794356,
+        "title": "Alpro Mild & creamy vanille smaak",
+        "salesUnitSize": "750 g",
+        "unitPriceDescription": "normale prijs per kg €3.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373334?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 1 gratis",
+        "priceBeforeBonus": 2.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Plantaardige yoghurt met smaak",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro mild  en  creamy vanille is een echte verwennerij voor je smaakpapillen. Deze plantaardige variatie op yoghurt past overal bij! Schenk hem over fruit en ontbijtgranen of eet hem gewoon zo.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja en vanille</li><li>Gemaakt van regenwoudvrije soja</li><li>Rijk aan plantaardige eiwitten, laag in vet en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714909,
+        "bonusSegmentDescription": "Alle A-merk plantaardig eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro mild  en  creamy kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, fruit of gewoon zo. Gezien onze mild  en  creamy plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 32,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+1 gratis",
+                "count": 2,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 133397,
+        "hqId": 622080,
+        "title": "Mars Minimix repen uitdeelzak",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €11.98",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836393038?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836393038?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836393038?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303836393038?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 1 gratis",
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Koek, snoep, chocolade",
+        "subCategory": "Candybars minis",
+        "brand": "Mars",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Minimix: een heerlijke mix van kleine snickers, mars, bounty, Twix en Milky Way chocoladerepen, ideaal om uit te delen. Verpakt in 25 losse stuks, om anderen mee te laten genieten.</p><p><ul><li>25 los verpakte mini chocoladereepjes in een handige uitdeelzak</li><li>Perfect om uit te delen</li><li>Makkelijk voor onderweg</li><li>100% verantwoorde cacao</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714198,
+        "bonusSegmentDescription": "Alle Snickers en Twix mini's en multipacks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Bij Mars zijn we toegewijd aan het creeren van een modernere, inclusieve en duurzame cacaoketen voor toekomstige generaties. Vanaf 2023 is 100% van de cacao die we inkopen voor onze Mars wrigley-fabrieken in Europa geverifieerd als verantwoord ingekochte cacao. Dit betekent dat de hoeveelheid verantwoorde cacao die we inkopen gelijk is aan de hoeveelheid cacao die wordt gebruikt in onze europese productie. Via ons responsible cocoa-programma streven we ernaar om echte, blijvende positieve veranderingen door te voeren in onze cacaoketen. We richten ons op systemische oplossingen in drie gebieden: het bevorderen van respect voor mensenrechten, het behoud van het milieu en het verbeteren van levensonderhoud.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 14,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+1 gratis",
+                "count": 2,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 486626,
+        "hqId": 742126,
+        "title": "Alpro Variatie op kwark zonder suikers",
+        "salesUnitSize": "400 g",
+        "unitPriceDescription": "normale prijs per kg €6.23",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038323035?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 1 gratis",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Plantaardige kwark, vla",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro plantaardige variatie op kwark zonder suikers is ideaal als basis voor je ontbijt of als tussendoortje. Lekker zo, of in combinatie met fruit en ontbijtgranen.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Zonder suikers, rijk aan plantaardige eiwitten en arm aan verzadigd vet</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714909,
+        "bonusSegmentDescription": "Alle A-merk plantaardig eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro plantaardige variatie op kwark kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, fruit of gewoon zo. Gezien onze variatie plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 32,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+1 gratis",
+                "count": 2,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 518443,
+        "hqId": 699387,
+        "title": "Alpro Mild & creamy naturel",
+        "salesUnitSize": "755 g",
+        "unitPriceDescription": "normale prijs per kg €3.70",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313633373533?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 + 1 gratis",
+        "priceBeforeBonus": 2.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Vegetarisch, vegan en plantaardig",
+        "subCategory": "Plantaardige yoghurt naturel",
+        "brand": "Alpro",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Alpro mild  en  creamy naturel is een echte verwennerij voor je smaakpapillen. Deze plantaardige variatie op yoghurt past overal bij! Schenk hem over fruit en ontbijtgranen of eet hem gewoon zo.</p><p><ul><li>Plantaardig met de milde en zijdezachte smaak van soja</li><li>Gemaakt van regenwoudvrije soja</li><li>Rijk aan plantaardige eiwitten, laag in suikers en vet en bron van calcium</li><li>Van nature lactosevrij, glutenvrij en vegan</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714909,
+        "bonusSegmentDescription": "Alle A-merk plantaardig eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Eenmaal geproefd dan weet je het, je bent verkocht! Met de Alpro mild  en  creamy kun je eindeloos combineren. Heerlijk in combinatie met ontbijtgranen, fruit of gewoon zo. Gezien onze mild  en  creamy plantaardig en van nature lactosevrij is, past hij perfect in een plant based, zuivelvrij, veganistisch of vegetarisch dieet/ recept. Alpro wil jou en andere mensen op deze fantastische planeet inspireren om vaker voor plantaardige voeding te kiezen. Omdat het moeilijk is om gezond te leven en oude gewoontes af te zweren, helpen we mensen die willen veranderen een handje met onze producten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 32,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "2+1 gratis",
+                "count": 2,
+                "freeCount": 1
+            }
+        ]
+    }
+]

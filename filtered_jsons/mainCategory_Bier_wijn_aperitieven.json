@@ -1,0 +1,2523 @@
+[
+    {
+        "webshopId": 222563,
+        "hqId": 816815,
+        "title": "Amstel Radler citroen 0.0 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €2.97",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 5.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Amstel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag.</p><p><ul><li>Categorie: radler</li><li>Smaak: met een perfecte, frisse smaak</li><li>Alcoholpercentage: 0.0%</li><li>Blik (6x330ml: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Amstel radler. De favoriete alcoholvrije Radler van Nederland.amstel Radler is de natuurlijke mix van Amstel bier en citroenwater. Dubbel verfrissend en met maar 2% of 0% alcohol. Lekker voor na het sporten of een andere inspanning. Amstel radler. Maak het onvergetelijk verfrissend.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 563435,
+        "hqId": 0,
+        "title": "Amstel Radler 0.0 citroen 4x6-pack pakket",
+        "salesUnitSize": "4 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393634323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393634323735?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393634323735?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393634323735?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393634323735?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 11.78,
+        "priceBeforeBonus": 23.56,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Amstel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Nu voordelig vier 6-packs Amstel Radler citroen 0.0 in één pakket! Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag.</p><p><ul><li>Amstel Radler 0.0 citroen 6-pack 4x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 222563,
+                "quantity": 4
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 222510,
+        "hqId": 816813,
+        "title": "Amstel Radler citroen 0.0% 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €3.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Amstel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag.</p><p><ul><li>Categorie: radler</li><li>Smaak: met een perfecte, frisse smaak</li><li>Alcoholpercentage: 0.0%</li><li>Fles (6x300ml: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Amstel radler. De favoriete alcoholvrije Radler van Nederland.amstel Radler is de natuurlijke mix van Amstel bier en citroenwater. Dubbel verfrissend en met maar 2% of 0% alcohol. Lekker voor na het sporten of een andere inspanning. Amstel radler. Maak het onvergetelijk verfrissend.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 238802,
+        "hqId": 828378,
+        "title": "Grolsch Radler citroen alcoholvrij 0.0 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €2.77",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 4.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Grolsch",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Echt gebrouwen, echt vruchtensap, echt fris! Dat is Grolsch 0.0% Radler citroen. Geniet ieder moment van de dag van dit alcoholvrije drankje met een frisse en licht-zoete smaak van citroen.</p><p><ul><li>Radler alcoholvrij bier</li><li>Smaak: fruitig, zoet  en  fris</li><li>Lekker bij pasta salade, vlees, gefrituurde hapjes en een kaasplankje</li><li>Alcoholpercentage: 0.0%</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Grolsch is een merk dat weinig introductie behoeft. Je Kent ons van de beugel, vakmanschap is meesterschap en de vele speciaalbieren. En natuurlijk van onze uitgesproken smaak want we brouwen al meer dan 400 jaar met zorgvuldig geselecteerde ingredienten en twee soorten hop. Hierdoor zijn onze bieren vol van smaak en hebben ze een rijke afdronk. Grolsch wil mensen gelukkig maken. Het staat voor tijd voor elkaar en mensen om je heen. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 573462,
+        "hqId": 0,
+        "title": "Grolsch Radler 0.0 bier 3-pack",
+        "salesUnitSize": "3 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313830313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313830313034?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313830313034?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313830313034?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313830313034?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 9.98,
+        "priceBeforeBonus": 14.97,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Grolsch",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Profiteer van dit Radler 0.0 voordeelpakket. Echt gebrouwen, echt vruchtensap, echt fris! Dat is Grolsch 0.0% Radler citroen. Geniet ieder moment van de dag van dit alcoholvrije drankje met een frisse en licht-zoete smaak van citroen.</p><p><ul><li>Grolsch Radler citroen 0.0% 6-pack 3x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 238802,
+                "quantity": 3
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 479064,
+        "hqId": 732434,
+        "title": "Domaine Tapie Rosé Bio-dynamisch",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €8.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 6.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Droge rosé",
+        "brand": "Domaine Tapie",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Door zijn opwekkende, frisse smaak vol van bes en framboos is dit een heerlijke, vrolijke rosé om mee te borrelen. Hij past bij allerlei hapjes. Ook lekker bij salades en lichte kipgerechten.</p><p><ul><li><strong>Kleur, smaak: </strong>rosé, droog</li><li><strong>Druivenras: </strong>cinsault, grenache, syrah</li><li><strong>Land, streek: </strong>Frankrijk, Pays d'Oc</li><li><strong>Lekker bij: </strong>Salade, Kip</li><li><strong>Bekroond: </strong>De Grote Hamersma 9-</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "biologisch"
+        ],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714950,
+        "bonusSegmentDescription": "Alle rosé wijnen 0.75 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Georges Ortola werkt al sinds 1983 biologisch en heeft inmiddels al jaren alle bio-certificaten op zak. Samen met zijn vrouw en kinderen verbouwt hij druiven en maakt wijnen op twee châteaus. Het familie-avontuur begon op Château Tapie waar deze sappige rosé vandaan komt. Hij bestaat uit grenache, cinsault en syrah. Meteen na de oogst worden de druiven geperst. Daarbij komt een klein beetje rode kleurstof vanuit de schil in het sap terecht",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 79,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 594888,
+        "hqId": 0,
+        "title": "Domaine Tapie Rosé Bio-dynamisch",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739373933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739373933?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739373933?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739373933?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313739373933?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "currentPrice": 29.2,
+        "priceBeforeBonus": 38.94,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Droge rosé",
+        "brand": "Domaine Tapie",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Domaine Tapie RosÃ© Bio-dynamisch 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 479064,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE",
+                "defaultDescription": "pakketkorting"
+            }
+        ]
+    },
+    {
+        "webshopId": 228280,
+        "hqId": 820730,
+        "title": "Saint Louis De provence rosé",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €9.32",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 6.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Droge rosé",
+        "brand": "Saint Louis",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De Provence is beroemd om haar bijzondere rosé. Licht van kleur en vol van smaak. Deze is fruitig en zacht. Lekker als borrelwijn en bij allerlei (mediterrane) gerechten.</p><p><ul><li><strong>Kleur, smaak: </strong>rosé, droog</li><li><strong>Druivenras: </strong>grenache, cinsault</li><li><strong>Land, streek: </strong>Frankrijk, Provence</li><li><strong>Lekker bij: </strong>Salade, Kip</li><li><strong>Bekroond: </strong>De Grote Hamersma 8</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "prijswinnaar"
+        ],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714950,
+        "bonusSegmentDescription": "Alle rosé wijnen 0.75 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Deze Coteaux Varois en Provence rosé bestaat uit grenache, cinsault en syrah. Dat zijn alle drie blauwe druivenrassen waarvan ook donkerrode wijnen gemaakt kunnen worden. Deze rosé is juist heel licht van kleur, typerend voor een Provençaalse rosé. Dat komt door de manier waarop ze in de Provence rosé produceren. Ze doen dat volgens het zogenaamde pression-directe-systeem waarbij de blauwe druiven direct na de oogst zacht, met weinig druk, worden geperst. Doordat de persdruk heel licht is, komt er maar een klein beetje kleurstof uit de druivenschil vrij. Precies genoeg om het blanke sap lichtroze te kleuren. Daarna gaat de wijnbereiding verder zonder schillen, zoals ook bij witte wijn gebeurt.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 79,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 584742,
+        "hqId": 0,
+        "title": "Saint Louis De provence rose 6 flessen",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383630?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383630?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383630?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383630?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 37.75,
+        "priceBeforeBonus": 41.94,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Droge rosé",
+        "brand": "Saint Louis",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Saint Louis De provence rose 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 228280,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 225279,
+        "hqId": 818528,
+        "title": "Mesta Verdejo organic wine",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €7.32",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323332?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323332?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323332?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303936323332?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 euro korting",
+        "currentPrice": 4.49,
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Verdejo (Fris en droog)",
+        "brand": "Mesta",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Behalve fris en fruitig smaakt deze Spaanse wijn ook vol en kruidig. Daardoor past hij bij pittige tapas, paella en een Hollands lekkers. Gemaakt van de verdejodruif.</p><p><ul><li><strong>Kleur, smaak: </strong>wit, fris en droog</li><li><strong>Druivenras: </strong>verdejo</li><li><strong>Land, streek: </strong>Spanje, La Mancha</li><li><strong>Lekker bij: </strong>Salade, Vis</li><li><strong>Bekroond: </strong>De Grote Hamersma 8</li></ul></p>",
+        "propertyIcons": [
+            "biologisch",
+            "prijswinnaar"
+        ],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 721787,
+        "bonusSegmentDescription": "Mesta Verdejo organic wine",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit is een moderne Spaanse witte wijn van de verdejo druif. Lekker fris, om zomaar van te genieten. Verdejo zorgt voor geurige, fruitige en bloemige aroma's en een kruidige smaak. Door die kruidigheid kun je er ook gerust van alles bij eten. Bijvoorbeeld paella of een pittig kaasje. Hij komt uit Uclés, ten zuidoosten van Madrid. In deze streek hebben ze veel schapen en die zie je op het etiket. Daarop wordt ook uitgelegd dat Mesta verwijst naar een groep herders die er in elk geval vroeger voor zorgde dat de schapen volgens een bepaalde route konden grazen. Ook door het etiket een leuke wijn om cadeau te doen.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_AMOUNT",
+                "defaultDescription": "€1.00 euro korting",
+                "amount": 1.0
+            }
+        ]
+    },
+    {
+        "webshopId": 584608,
+        "hqId": 0,
+        "title": "Mesta Verdejo organic wine 6 flessen",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383434?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383434?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383434?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383434?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 29.65,
+        "priceBeforeBonus": 32.94,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Verdejo (Fris en droog)",
+        "brand": "Mesta",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Mesta Verdejo organic wine 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 225279,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 584728,
+        "hqId": 0,
+        "title": "Settesoli Pinot grigio 6 flessen",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 32.35,
+        "priceBeforeBonus": 35.94,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Pinot Grigio (Fris en droog)",
+        "brand": "Settesoli",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Opwekkende wijn om mee te borrelen. Met of zonder hapjes. Hij komt uit Sicilië en daar drinken ze hem bij bruschetta met tomaat en lichte salades.</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 163546,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 80101,
+        "hqId": 779716,
+        "title": "Heineken Premium pilsener 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €3.36",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303134?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 4.99,
+        "priceBeforeBonus": 6.65,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Pils blik",
+        "brand": "Heineken",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heineken pilsener, het meest verfrissende pilsener sinds 1873. Dankzij de combinatie van een licht fruitige smaak die perfect in balans is met de bitterheid van de hop.</p><p><ul><li>Categorie: pilsener</li><li>Smaak: verfrissende smaak dankzij het unieke Heineken a-gist heineken</li><li>Alcoholpercentage: 5.0%</li><li>Blik (6x33cl: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld en 0.0"
+        ],
+        "bonusSegmentId": 714823,
+        "bonusSegmentDescription": "Alle Heineken, Amstel of Grolsch multipacks of kratten*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Al meer dan 150 jaar maakt een onverzettelijke toewijding aan puurheid en kwaliteit Heineken het meest iconische biermerk ter wereld. Als je de rode ster op dat groene flesje ziet, weet je al dat elke ijskoude slok je die heerlijke smaak met subtiele fruittonen brengt. Een traditie van smaak die al meer dan anderhalve eeuw voortleeft dankzij eenvoud en de kwaliteit van de ingredienten, en natuurlijk de zorgvuldige aandacht voor het brouwproces. Heineken is gebrouwen met 100% groene energie en is gekoeld op een tempratuur tussen de 2 - 5 graden het allerlekkerst.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 84,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 96577,
+        "hqId": 543391,
+        "title": "Hertog Jan Natuurzuiver bier 6-pack",
+        "salesUnitSize": "6 x 33 cl",
+        "unitPriceDescription": "normale prijs per liter €3.53",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 5.24,
+        "priceBeforeBonus": 6.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Pils blik",
+        "brand": "Hertog Jan",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier.</p><p><ul><li>Categorie: pils</li><li>Soort, smaak: vol, met een aangenaam bittere afdronk</li><li>Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland</li><li>Alcoholpercentage: 5.1%</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. 0.0 en gekoeld"
+        ],
+        "bonusSegmentId": 714243,
+        "bonusSegmentDescription": "Alle Hertog Jan, Jupiler of Brand multipacks of kratten*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Ons pilsener is het visitekaartje van Hertog Jan binnen de reeks bieren. Vanzelfsprekend selecteren we alle ingredienten die we voor het brouwen gebruiken met de allergrootste zorg. Alleen de rijkste mout, de mooiste hop en kristalhelder natuurzuiver water uit de eifel zijn goed genoeg voor ons bier. Dankzij deze ingredienten en natuurlijk de kunde van onze Brouwers krijgt het bier die prachtige gouden kleur en vormt het een mooie, volle schuimkraag. Ons pils is een bier om trots op te zijn.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 52,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 516627,
+        "hqId": 46619,
+        "title": "Corona Cero 0.0 alcoholvrij bier 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €4.54",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313035313835?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 8.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij pils",
+        "brand": "Corona",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Corona cero is een verfrissend alcoholvrij bier dat gedronken wordt met een partje limoen in de hals. Corona cero wordt gebrouwen met 100% natuurlijke ingredienten en is laag in suikers en calorieen.</p><p><ul><li>Geniet van een ijskoude Corona cero met een partje limoen in de hals</li><li>Gebrouwen met 100% natuurlijke ingredienten</li><li>Alcoholpercentage: 0,0%</li><li>Een heerlijk fris alcoholvrij bier</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Corona is als merk geboren in Mexico en is sindsdien uitgegroeid tot een van de populairste biermerken ter wereld. Corona staat voor het buitenleven en de natuur, omdat je hier samen met vrienden het beste los kan komen van de dagelijkse routine. Corona cero wordt gebrouwen met 100% natuurlijke ingredienten en bevat daardoor slechts 2,3 gram suiker en 56 kcal per fles. Voor de beste ervaring wordt Corona cero ijskoud gedronken met een partje limoen in de hals.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 63581,
+        "hqId": 780500,
+        "title": "Heineken Premium pilsener 24-pack",
+        "salesUnitSize": "24 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €2.84",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 16.87,
+        "priceBeforeBonus": 22.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Pils blik",
+        "brand": "Heineken",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heineken pilsener, het meest verfrissende pilsener sinds 1873. Dankzij de combinatie van een licht fruitige smaak die perfect in balans is met de bitterheid van de hop.</p><p><ul><li>Categorie: pilsener</li><li>Smaak: verfrissende smaak dankzij het unieke Heineken a-gist heineken</li><li>Alcoholpercentage: 5.0%</li><li>Blik (24x33cl: tray)</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld en 0.0"
+        ],
+        "bonusSegmentId": 714823,
+        "bonusSegmentDescription": "Alle Heineken, Amstel of Grolsch multipacks of kratten*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Gebrouwen met 100% groene energie.gekoeld tussen de 2 - 5 graden het allerlekkerst.al meer dan 150 jaar maakt een onverzettelijke toewijding aan puurheid en kwaliteit Heineken het meest iconische biermerk ter wereld. Als je de rode ster op dat groene flesje ziet, weet je al dat elke ijskoude slok je die heerlijke smaak met subtiele fruittonen brengt. Een traditie van smaak die al meer dan anderhalve eeuw voortleeft dankzij eenvoud en de kwaliteit van de ingredienten, en natuurlijk de zorgvuldige aandacht voor het brouwproces.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 84,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 460649,
+        "hqId": 675079,
+        "title": "Leffe Blond 0.0% 6-pack",
+        "salesUnitSize": "6 x 0.30 l",
+        "unitPriceDescription": "normale prijs per liter €3.69",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313733383131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 6.65,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij blond, dubbel, tripel",
+        "brand": "Leffe",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Het eerste alcoholvrije speciaalbier met de herkenbare smaak van Leffe blond. Licht bitter en fruitig , gebalanceerd met fijne toetsen van vanille en kruidnagel.</p><p><ul><li>Fruitigesmaak en een bittere toets</li><li>Zelfde gist als andere Leffe bieren</li><li>Het brouwproces is exact hetzelfde als bij Leffe blond</li><li>Alcoholpercentage: 0%</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>De Leffe Blond 0.0% is een nieuwe Leffe variant die een fruitige smaak combineert met een bittere toets en tegelijkertijd de karakteristieke smaak van kruidnagel, vanille en gerookt behoudt. Een heerlijk speciaalbier zonder alcohol, speciaal voor ieder moment.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 471354,
+        "hqId": 723681,
+        "title": "Hertog Jan 0.0 Alcoholvrij bier 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €2.66",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 4.79,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij pils",
+        "brand": "Hertog Jan",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een 0.0 gebrouwen uit liefde voor bier.</p><p><ul><li>Categorie: alcoholvrij pils</li><li>Soort, smaak: vol van smaak, verfrissend met een bittertje</li><li>Perfect in balans met een fruitig hoparoma en een verfrissend bittertje</li><li>Alcoholpercentage: 0%</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>Onze liefde voor bier gaat ver en we nemen alleen met het beste genoegen. Daarom hebben we een nieuwe Hertog Jan 0.0 gebrouwen: de revisie. De nieuwe Hertog Jan 0.0% is gebrouwen met dezelfde ingredienten als onze pilsener. Uitgebalanceerd in smaak en met een licht bittertje. Fruitig en heerlijk verfrissend. Een 0.0 gebrouwen uit liefde voor bier.</p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 396207,
+        "hqId": 847557,
+        "title": "Settesoli Pinot grigio blush rosé",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €7.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Droge rosé",
+        "brand": "Settesoli",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Pinot grigio is een witte druif met net genoeg kleur in z'n schil voor een lichte rosé. Zo fris als witte wijn met de fruitige smaak van rosé</p><p><ul><li><strong>Kleur, smaak: </strong>rosé, droog</li><li><strong>Druivenras: </strong>pinot grigio</li><li><strong>Land, streek: </strong>Italië, Sicilië</li><li><strong>Lekker bij: </strong>Salade, Pasta</li><li><strong>Bekroond: </strong>De Grote Hamersma 8-</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "prijswinnaar"
+        ],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714950,
+        "bonusSegmentDescription": "Alle rosé wijnen 0.75 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Bij Settesoli werken ze graag met hun eigen Siciliaanse druiven als nero d'avola en grillo, maar ze maken ook wijn van bijvoorbeeld de pinot grigio. Die ken je misschien vooral vanuit Noord-Italië. Meestal wordt er van de pinot grigio een witte wijn gemaakt, maar rosé kan ook. Dat komt doordat de schil van deze druif niet wit of lichtgroen is, maar rozerood. Als de wijnmaker de schillen in het sap laat zitten, komt er wat kleurstof uit en krijg je een lichtroze wijn als deze. 'Blush wine', noemen ze dat ook wel, een wijn met roze koontjes. Hij heeft het frisse van een witte pinot grigio en de fruitige aroma's van framboos en aardbei, zoals in veel rosés. De zachte nasmaak is kenmerkend voor Sicilië. Heerlijk om mee te borrelen en probeer 'm ook eens bij een kruidig Marokkaans gerecht.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 79,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 586377,
+        "hqId": 0,
+        "title": "Settesoli Pinot grigio blush rosé 6 flessen",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313930?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313930?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313930?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313930?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 32.35,
+        "priceBeforeBonus": 35.94,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Droge rosé",
+        "brand": "Settesoli",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Settesoli Pinot grigio blush rosé 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 396207,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 409165,
+        "hqId": 853880,
+        "title": "Heineken Premium pilsener 0.0 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €3.31",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313332303038?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 6.55,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij pils",
+        "brand": "Heineken",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heineken 0.0%, een verfrissend alcoholvrij biertje, door de karakteristieke fruittonen en licht bittere afdronk. Heineken 0.0, 100% heerlijk, 0% alcohol.</p><p><ul><li>Categorie: alcoholvrij bier</li><li>Smaak: verfrissende smaak dankzij fruittonen en licht bittere afdronk</li><li>Alcoholpercentage: 0.0%</li><li>Blik (6x33cl: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 584746,
+        "hqId": 0,
+        "title": "Lindeman's South africa chardonnay 6 flessen",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383634?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383634?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383634?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383634?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 28.57,
+        "priceBeforeBonus": 31.74,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Sauvignon Blanc (Fris en droog)",
+        "brand": "Lindeman's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Lindeman's South africa sauvignon blanc chardonnay 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 160809,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 586066,
+        "hqId": 0,
+        "title": "AH Biologisch Pinot grigio 6 flessen",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313836?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313836?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313836?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313335313836?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 26.95,
+        "priceBeforeBonus": 29.94,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Pinot Grigio (Fris en droog)",
+        "brand": "AH Biologisch",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>AH Biologisch Pinot grigio 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 458921,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 571813,
+        "hqId": 14095,
+        "title": "Texels Skuumkoppe 0.0 speciaalbier 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €4.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 8.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij wit, weizen, radler",
+        "brand": "Texels",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Texels skuumkoppe is een bovengistend donker tarwebier, gebrouwen van natuurlijke ingredienten, dat bij ieder seizoen past. Een bier puur, robuust en recht door zee, net als texel zelf.</p><p><ul><li>Categorie: donker tarwebier</li><li>Smaak: volle en romige smaak, met hints van karamel en abrikoos</li><li>Alcoholpercentage: 0.0%</li><li>Gebrouwen met natuurlijke ingredienten, nu ook alcoholvrij</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Brouwerij: de Texelse bierbrouwerij. Onder de waddenlucht, midden tussen de uitgestrekte groene weiden aan de rand van natuurgebied de hoge berg staat de voormalige zuivelfabriek van Oudeschild. Waar vroeger kaas werd gemaakt, glanzen nu de koperen brouwketels. Het hart van een brouwerij waar bijzonder Texels bier zijn oorsprong vindt. De Texelse bierbrouwerij brouwt unieke speciaalbieren van uitsluitend natuurlijke grondstoffen. Dat echte, dat authentieke, dat maakt dat mensen zeggen: ja, dit is Texels. overheerlijke speciaalbieren, geroemd om hun volle, romige smaak en geprezen om hun zacht frisse afdronk. Speciaalbier zo puur als het eiland zelf!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 566588,
+        "hqId": 4706,
+        "title": "Vandestreek Playground non alcoholic IPA",
+        "salesUnitSize": "330 ml",
+        "unitPriceDescription": "normale prijs per liter €6.33",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313837343734?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 2.09,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij IPA",
+        "brand": "Vandestreek",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De meest bekroonde non alcoholic IPA ter wereld! Playground wordt gebrouwen net als ieder ander bier en krijgt ruim de tijd in de tank om op smaak te komen.</p><p><ul><li>Echt bier, toch nuchter</li><li>Knalvol hop zoals een echte IPA</li><li>Fris en gebalanceerd</li><li>Ambachtelijk Nederlands Brouwwerk</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Playground is een non alcoholic waar niets uit wordt gehaald tijdens het brouwproces. Mede daarom is het meest gedronken non alcoholic bier van Nederland. Playground is op natuurlijke wijze gebrouwen, vrij van dierlijke producten en dus helemaal vegan.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 584613,
+        "hqId": 0,
+        "title": "Sol y Nieve Rueda verdejo-viura 6 flessen",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383433?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383433?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383433?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313234383433?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 28.57,
+        "priceBeforeBonus": 31.74,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Verdejo (Fris en droog)",
+        "brand": "Sol",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Sol y Nieve Rueda verdejo-viura 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 139508,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    },
+    {
+        "webshopId": 386562,
+        "hqId": 844100,
+        "title": "Desperados Original beer 6-pack",
+        "salesUnitSize": "6 x 0,33 l",
+        "unitPriceDescription": "normale prijs per liter €5.05",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033363634?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 7.49,
+        "priceBeforeBonus": 9.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Mexicaans bier",
+        "brand": "Desperados",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Met Desperados maak je van ieder moment een partymoment! Ideaal voor ieder proostmoment thuis met vrienden of familie, maar ook voor een next level party in de club of op een festival! Go desperados!</p><p><ul><li>Let op: je favoriete bier nu met statiegeld, wel even terugbrengen he</li><li>Categorie: bier</li><li>Smaak: het zoete van agave spirit gecombineerd met het bittere van bier</li><li>Alcoholpercentage: 5.9%</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714801,
+        "bonusSegmentDescription": "Alle Desperados multipacks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Go desperados! Desperados is bier met een kick van latin spirits! Het werd geboren uit een experiment in Frankrijk in 1995: daar herschreven we de regels door bier te brouwen met agave spirit.het resultaat? een unieke smaaksensatie doordat het de bitterheid van bier en het zoete van agave spirit combineert. Het is bier van topkwaliteit dat lekker doordrinkbaar is.met dit ultieme partybier haal je met je vrienden het feest in huis en voeg je aan ieder proostmoment energie en party vibes toe.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 27,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 591858,
+        "hqId": 0,
+        "title": "Desperados Original bier 12-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735353339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735353339?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735353339?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735353339?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735353339?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 18.98,
+        "priceBeforeBonus": 19.98,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Mexicaans bier",
+        "brand": "Desperados",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Met dit pakket Desperados (2x6-pack) maak je van ieder moment een partymoment! Ideaal voor ieder proostmoment thuis met vrienden of familie, maar ook voor een next level party in de club of op een festival! Go desperados!</p><p><ul><li>Desperados Original bier 6-pack 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 386562,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 409164,
+        "hqId": 853867,
+        "title": "Heineken Premium pilsener 0.0 draaidop 6-pack",
+        "salesUnitSize": "6 x 0,25 l",
+        "unitPriceDescription": "normale prijs per liter €4.33",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313334303630?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "1 + 1 gratis",
+        "priceBeforeBonus": 6.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Alcoholvrij pils",
+        "brand": "Heineken",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Proost op 150 jaar gezelligheid met heineken! Heineken 0.0%, een verfrissend alcoholvrij biertje, door de karakteristieke fruittonen en licht bittere afdronk. Heineken 0.0, 100% heerlijk, 0% alcohol.</p><p><ul><li>Categorie: alcoholvrij bier</li><li>Smaak: verfrissende smaak dankzij fruittonen en licht bittere afdronk</li><li>Alcoholpercentage: 0.0%</li><li>Draaidop fles (6x25cl: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "*M.u.v. gekoeld"
+        ],
+        "bonusSegmentId": 714276,
+        "bonusSegmentDescription": "Alle alcoholvrije bieren*",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Al meer dan 150 jaar maakt een onverzettelijke toewijding aan puurheid en kwaliteit Heineken het meest iconische biermerk ter wereld. Als je de rode ster op dat groene flesje ziet, weet je al dat elke ijskoude slok je die heerlijke smaak met subtiele fruittonen brengt. Een traditie van smaak die al meer dan anderhalve eeuw voortleeft dankzij eenvoud en de kwaliteit van de ingredienten, en natuurlijk de zorgvuldige aandacht voor het brouwproces. Heineken is gebrouwen met 100% groene energie en is gekoeld op een tempratuur tussen de 2 - 5 graden het allerlekkerst.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 139,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_PLUS_Y_FREE",
+                "defaultDescription": "1+1 gratis",
+                "count": 1,
+                "freeCount": 1
+            }
+        ]
+    },
+    {
+        "webshopId": 548572,
+        "hqId": 60388,
+        "title": "Texels Skuumkoppe speciaalbier 6-pack",
+        "salesUnitSize": "6 x 0,3 l",
+        "unitPriceDescription": "normale prijs per liter €5.22",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "25% korting",
+        "currentPrice": 7.04,
+        "priceBeforeBonus": 9.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Wit en weizen",
+        "brand": "Texels",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Texels skuumkoppe is een bovengistend donker tarwebier, gebrouwen van natuurlijke ingredienten, dat bij ieder seizoen past. Een bier puur, robuust en recht door zee, net als texel zelf.</p><p><ul><li>Categorie: tarwebier</li><li>Smaak: volle en romige smaak, met hints van karamel en abrikoos</li><li>Alcoholpercentage: 6.0%</li><li>Fles (6x300ml: 6-pack)</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714814,
+        "bonusSegmentDescription": "Alle Affligem of Texels multipacks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Onder de waddenlucht, midden tussen de uitgestrekte groene weiden aan de rand van natuurgebied de hoge berg staat de voormalige zuivelfabriek van oudeschild. Waar vroeger kaas werd gemaakt, glanzen nu de koperen brouwketels. Het hart van een brouwerij waar bijzonder Texels bier zijn oorsprong vindt.de texelse bierbrouwerij brouwt unieke speciaalbieren van uitsluitend natuurlijke grondstoffen. Dat echte, dat authentieke, dat maakt dat mensen zeggen: ja, dit is texels. overheerlijke speciaalbieren, geroemd om hun volle, romige smaak en geprezen om hun zacht frisse afdronk. Speciaalbier zo puur als het eiland zelf! brouwerij: de texelse bierbrouwerij",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 34,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "25% korting",
+                "percentage": 25,
+                "precisePercentage": 25
+            }
+        ]
+    },
+    {
+        "webshopId": 574108,
+        "hqId": 0,
+        "title": "Texels Skuumkoppe speciaalbier 12-pack",
+        "salesUnitSize": "2 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313939393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313939393730?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313939393730?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313939393730?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313939393730?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "5% volume voordeel",
+        "currentPrice": 17.84,
+        "priceBeforeBonus": 18.78,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Wit en weizen",
+        "brand": "Texels",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Texels Skuumkoppe is een bovengistend donker tarwebier, gebrouwen van natuurlijke ingrediënten. Dit speciaalbier dat zijn naam ontleent aan de witte koppen op de golven van de zee, is vol van smaak met hints van karamel en abrikoos en heeft een romige, licht zoete afdronk. Texels Skuumkoppe is een bier dat bij ieder seizoen past. Een bier puur, robuust en recht door zee, net als Texel zelf. Nu voordelig twee 6-packs in 1 pakket, proef nu!</p><p><ul><li>Texels Skuumkoppe 6-pack fles 2x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 548572,
+                "quantity": 2
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "5% volume voordeel",
+                "percentage": 5,
+                "precisePercentage": 5
+            }
+        ]
+    },
+    {
+        "webshopId": 585742,
+        "hqId": 0,
+        "title": "Mastri Vernacoli Pinot grigio 6 flessen",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393036?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393036?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393036?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393036?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-27",
+        "bonusEndDate": "2999-12-31",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "10% volume voordeel",
+        "currentPrice": 40.45,
+        "priceBeforeBonus": 44.94,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Pinot Grigio (Vol en droog)",
+        "brand": "Mastri Vernacoli",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><ul><li>Mastri Vernacoli Pinot grigio 6x</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentDescription": "",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": true,
+        "virtualBundleItems": [
+            {
+                "productId": 440882,
+                "quantity": 6
+            }
+        ],
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_BUNDLE_BULK",
+                "defaultDescription": "10% volume voordeel",
+                "percentage": 10,
+                "precisePercentage": 10
+            }
+        ]
+    }
+]

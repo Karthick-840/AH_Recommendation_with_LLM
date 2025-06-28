@@ -1,0 +1,162 @@
+[
+    {
+        "webshopId": 500479,
+        "hqId": 812490,
+        "title": "Heinz Tomato blokjes biologisch",
+        "salesUnitSize": "390 g",
+        "unitPriceDescription": "normale prijs per kg €5.10",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323837?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323837?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323837?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338323837?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "35% Op=Op korting",
+        "currentPrice": 1.29,
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Groente, aardappelen",
+        "subCategory": "Tomatenblokjes",
+        "brand": "Heinz",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Heinz tomatenblokjes Bio is gemaakt van 100% biologische tomaten met vers gesneden knoflook en ui voor een onweerstaanbare, rijke smaak.een heerlijke basis voor vele tomatengerechten.</p><p><ul><li>Uitsluitend gemaakt van tomaten geteeld in de open lucht</li><li>Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij</li><li>Lekker in een pasta, lasagne, curry of op een pizza</li><li>De beste kwaliteit zongerijpte tomaten</li></ul></p>",
+        "propertyIcons": [
+            "biologisch"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": -20017,
+        "bonusSegmentDescription": "OP=OP",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Heinz tomatenblokjes naturel Bio is gemaakt van de beste kwaliteit zongerijpte 100% biologische tomaten voor een onweerstaanbare, volle smaak. De sappige tomaten zijn gemaakt volgens de regels van de biologische landbouw en worden binnen 48 uur na de oogst verpakt om de rijke verse smaak te garanderen. Een rijke tomatenbasis vol sappigheid in een verpakking. Lekker in een romige soep, in een couscous of in wokgerechten. De variatiemogelijkheden zijn eindeloos!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 49,
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_OP_IS_OP",
+                "defaultDescription": "35% korting",
+                "percentage": 35,
+                "precisePercentage": 35
+            }
+        ]
+    },
+    {
+        "webshopId": 398516,
+        "hqId": 848664,
+        "title": "Maggi Saus voor asperges",
+        "salesUnitSize": "35 g",
+        "unitPriceDescription": "normale prijs per kg €41.43",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313932353230?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AHOO",
+        "segmentType": "AHOO",
+        "promotionType": "AHONLINE",
+        "bonusMechanism": "35% Op=Op korting",
+        "currentPrice": 0.94,
+        "priceBeforeBonus": 1.45,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Soepen, sauzen, kruiden, olie",
+        "subCategory": "Aspergesaus",
+        "brand": "Maggi",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De MAGGI Saus voor Asperges hoeft alleen maar even aangelengd te worden met wat water, om vervolgens even opgewarmd te worden in een pannetje. Lekker bij witte asperges, ham en gekookte aardappelen.</p><p><ul><li>Verpakt in mono-materiaal, waardoor het zakje bij het plasticafval mag.</li><li>Zakjes nu 1 cm kleiner dan voorheen, dit scheelt tonnen plastic per jaar!</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": -20017,
+        "bonusSegmentDescription": "OP=OP",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 49,
+        "multipleItemPromotion": false,
+        "labelType": "ONLINE",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_OP_IS_OP",
+                "defaultDescription": "35% korting",
+                "percentage": 35,
+                "precisePercentage": 35
+            }
+        ]
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "webshopId": 191239,
+        "hqId": 793043,
+        "title": "AH Paracetamol 500mg tabletten",
+        "salesUnitSize": "50 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383039353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383039353834?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383039353834?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383039353834?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383039353834?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Gezondheid en sport",
+        "subCategory": "Paracetamol",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 353155,
+        "hqId": 793045,
+        "title": "AH Ibuprofen 400mg omhulde tabletten",
+        "salesUnitSize": "20 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363437353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363437353437?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363437353437?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363437353437?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363437353437?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Gezondheid en sport",
+        "subCategory": "Ibuprofen, nurofen",
+        "brand": "AH",
+        "shopType": "AH",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    },
+    {
+        "webshopId": 90857,
+        "hqId": 110358273,
+        "title": "Etos Neusspray volwassenen",
+        "salesUnitSize": "10 ml",
+        "unitPriceDescription": "prijs per liter €389.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038393033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038393033?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038393033?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038393033?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323038393033?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "priceBeforeBonus": 3.89,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Gezondheid en sport",
+        "subCategory": "Neusspray",
+        "brand": "Etos",
+        "shopType": "ETOS",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>U gebruikt Etos Neusspray Xylometazoline HCl 1,0 mg/ml wanneer u last heeft van een verstopte neus. Vermindert de zwelling van het neusslijmvlies. Bestemd voor volwassenen en kinderen vanaf 12 jaar.</p><p><ul><li>Meer info? Bekijk hieronder de productinformatie</li><li>Persoonlijk advies nodig? Bel gratis: 0800-4040017. Wij zijn bereikbaar van maandag t/m vrijdag van 09.00 - 17.00 uur. Of kijk op http://www.thuisarts.nl/</li><li>Wij adviseren u alleen tot aanschaf en gebruik van een zelfzorgmedicijn over te gaan indien u goed geinformeerd bent. De informatie op ah.nl vervangt niet het individueel advies van een arts, apotheker of drogist. Voor de volledige consumenten-informatie van een zelfzorgmedicijn, verwijzen wij u naar de bijsluiter van de fabrikant, zoals goedgekeurd door het College ter Beoordeling van Geneesmiddelen. AH biedt deze verwijzingen, zoals het CBG, als service aan. AH is niet verantwoordelijk voor de juistheid van de aldaar aangeboden informatie.</li><li>Er geldt voor dit product een maximum van 3 stuks per bestelling.</li></ul></p>",
+        "propertyIcons": [],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "isBonus": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "discountLabels": []
+    }
+]

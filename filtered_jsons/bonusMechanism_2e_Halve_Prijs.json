@@ -1,0 +1,1005 @@
+[
+    {
+        "webshopId": 209562,
+        "hqId": 803962,
+        "title": "Ola Raket",
+        "salesUnitSize": "12 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303530393335?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 3.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Waterijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ola raket waterijs is de enige echte raket sinds 1962, een heerlijk fris en fruitig waterijsje met slechts 42 kilocalorieen, zonder kunstmatige kleur- en smaakstoffen.</p><p><ul><li>Ola raket waterijs, de enige echte raket sinds 1962, is lekker fruitig</li><li>Een fruitig tussendoortje met slechts 42 kilocalorieen per ijsje</li><li>Een heerlijk fris waterijsje met ananas-, frambozen- en sinaasappelsmaak</li><li>Heerlijk waterijs zonder kunstmatige kleur- en smaakstoffen</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over Ola raket waterijs: Ola raket waterijs is een heerlijk fruitig waterijsje met verschillende smaken. Een frisse combinatie van ananas-, frambozen- en sinaasappelsmaak. Het begint met een topje frambozenijs en het eindigt met een groot stuk ananasijs. Middenin vind je een laag sinaasappelijs. Heerlijk verfrissend en fruitig. Perfect als tussendoortje, maar ook bij warme temperaturen, op een vakantie, in je eigen tuin, onderweg, als toetje of voor bij een leuke film. Houd het ijsje lekker voor jezelf, of deel een Ola raket met je lief, vrienden of familie. Daarnaast is de raket een ijsje met maar 40 kilocalorieen per stuk. Kortom, een lekker koude traktatie om lang van te genieten. De enige echte raket sinds 1962. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is onderdeel van 'the heartbrand', het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 479064,
+        "hqId": 732434,
+        "title": "Domaine Tapie Rosé Bio-dynamisch",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €8.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 6.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Droge rosé",
+        "brand": "Domaine Tapie",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Door zijn opwekkende, frisse smaak vol van bes en framboos is dit een heerlijke, vrolijke rosé om mee te borrelen. Hij past bij allerlei hapjes. Ook lekker bij salades en lichte kipgerechten.</p><p><ul><li><strong>Kleur, smaak: </strong>rosé, droog</li><li><strong>Druivenras: </strong>cinsault, grenache, syrah</li><li><strong>Land, streek: </strong>Frankrijk, Pays d'Oc</li><li><strong>Lekker bij: </strong>Salade, Kip</li><li><strong>Bekroond: </strong>De Grote Hamersma 9-</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "biologisch"
+        ],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714950,
+        "bonusSegmentDescription": "Alle rosé wijnen 0.75 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Georges Ortola werkt al sinds 1983 biologisch en heeft inmiddels al jaren alle bio-certificaten op zak. Samen met zijn vrouw en kinderen verbouwt hij druiven en maakt wijnen op twee châteaus. Het familie-avontuur begon op Château Tapie waar deze sappige rosé vandaan komt. Hij bestaat uit grenache, cinsault en syrah. Meteen na de oogst worden de druiven geperst. Daarbij komt een klein beetje rode kleurstof vanuit de schil in het sap terecht",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 79,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 171156,
+        "hqId": 761777,
+        "title": "Perla Huisblends Aroma snelfiltermaling 2-pack voordeel",
+        "salesUnitSize": "2 x 500 g",
+        "unitPriceDescription": "normale prijs per kg €14.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363339353235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363339353235?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363339353235?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363339353235?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239363339353235?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 14.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Koffie, thee",
+        "subCategory": "Snelfilterkoffie (regular)",
+        "brand": "Perla Huisblends",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Koffieliefhebbers kunnen hun hart ophalen met perla aroma koffie grover gemaald. Mooi uitgebalanceerd, vol en rond van smaak en geurig. Voor het perfecte kopje koffie.</p><p><ul><li>Smaaksegment: soepel  en  gebalanceerd</li><li>Medium gebrand</li><li>Een perfecte blend van arabica en robusta bonen</li><li>Smaakintensiteit #06</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714837,
+        "bonusSegmentDescription": "Alle Perla Huisblends snelfiltermaling",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 18,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 228280,
+        "hqId": 820730,
+        "title": "Saint Louis De provence rosé",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €9.32",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313930323630?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 6.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Droge rosé",
+        "brand": "Saint Louis",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De Provence is beroemd om haar bijzondere rosé. Licht van kleur en vol van smaak. Deze is fruitig en zacht. Lekker als borrelwijn en bij allerlei (mediterrane) gerechten.</p><p><ul><li><strong>Kleur, smaak: </strong>rosé, droog</li><li><strong>Druivenras: </strong>grenache, cinsault</li><li><strong>Land, streek: </strong>Frankrijk, Provence</li><li><strong>Lekker bij: </strong>Salade, Kip</li><li><strong>Bekroond: </strong>De Grote Hamersma 8</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "prijswinnaar"
+        ],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714950,
+        "bonusSegmentDescription": "Alle rosé wijnen 0.75 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Deze Coteaux Varois en Provence rosé bestaat uit grenache, cinsault en syrah. Dat zijn alle drie blauwe druivenrassen waarvan ook donkerrode wijnen gemaakt kunnen worden. Deze rosé is juist heel licht van kleur, typerend voor een Provençaalse rosé. Dat komt door de manier waarop ze in de Provence rosé produceren. Ze doen dat volgens het zogenaamde pression-directe-systeem waarbij de blauwe druiven direct na de oogst zacht, met weinig druk, worden geperst. Doordat de persdruk heel licht is, komt er maar een klein beetje kleurstof uit de druivenschil vrij. Precies genoeg om het blanke sap lichtroze te kleuren. Daarna gaat de wijnbereiding verder zonder schillen, zoals ook bij witte wijn gebeurt.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 79,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 62060,
+        "hqId": 538520,
+        "title": "Magnum Mini classic almond white",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "Magnum",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Al jouw favoriete Magnum ijs in mini-formaat: classic, almond en white chocolate, de perfecte balans tussen fluweelzacht vanille-ijs, omhuld met een laag krakende Magnum chocolade.</p><p><ul><li>Magnum mini classic, almond en white chocolate ijs, perfect om uit te delen</li><li>Heerlijk vanille-ijs overgoten met een krakende laag Magnum chocolade</li><li>Met de klassieke Magnum mini ijs kan je maximaal genieten in klein formaat</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 209567,
+        "hqId": 803997,
+        "title": "Ola Cornetto classico",
+        "salesUnitSize": " 6 x 90 ml",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 4.15,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs bekertjes",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De enige echte originele Ola Cornetto classico is liefde op het eerste gezicht.</p><p><ul><li>De enige echte Ola Cornetto classico is liefde op het eerste gezicht</li><li>Een knapperig wafelhoorntje gevuld met heerlijk vanille roomijs</li><li>Met krokante chocolade en nog meer nootjes dan voorheen</li><li>Cornetto's met het welbekende chocoladepuntje</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "De Ola Cornetto classico is terug van weggeweest en smaak door zijn verbeterde receptuur nu nog beter dan ooit. Het extra knapperige wafelhoorntje is gevuld met heerlijk roomijs, de knapperige chocolade is vol van smaak en de bovenkant van het ijsje is rijkelijk gevuld met nootjes. In deze handige uitdeelverpakking zitten 8 ijsjes, die je perfect met elkaar kan delen. Wij bij Cornetto perfectioneren al drie generaties lang ons speciale recept, zodat het eten van Cornetto ijs een van de kleine genietmomenten van het leven is. Iedere Cornetto is namelijk echt een traktatie. Van de verrassende toplaag, via het heerlijk zachte ijs naar het knapperige wafelhoorntje en het geliefde chocoladepuntje. Bij Cornetto is iedere hap een genot, omdat we vinden dat onze ingredienten goed van smaak en kwaliteit moeten zijn. De extra knapperige chocolade en het feit dat de bovenkant nu nog rijkelijker met stukjes hazelnoot is bedekt maken die eerste happen nog onvergetelijker. Toch is de Cornetto classico verder vooral hetzelfde gebleven. Waarom zou je veel veranderen aan iets wat al zo goed is? de Ola Cornetto classico heeft dan ook nog steeds zijn geliefde smaak en vertrouwde charme. Bovendien zijn de individuele verpakkingen van Cornetto ook nog eens ideaal voor feestjes of voor een dag op het strand. Zelfs in de zon blijven ze makkelijk om uit te delen en om te eten. Zo maak je er voor iedereen een onvergetelijke zomer van. Bewaar de ijsjes koel en donker bij -18  graden celsius.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 226519,
+        "hqId": 815621,
+        "title": "Ola Cornetto classico mini",
+        "salesUnitSize": "6 x 60 ml",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 3.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Roomijs bekertjes",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Cornetto Ola mini classico ijs: de kleinere versie van de vertrouwde Cornetto classico, een echte traktatie!</p><p><ul><li>Cornetto Ola mini classico ijs is liefde op het eerste gezicht</li><li>Een knapperig wafelhoorntje gevuld met heerlijk vanille-roomijs</li><li>Met krokante chocolade en knapperige nootjes</li><li>Cornetto mini in het vertrouwde hoorntje met het welbekende chocoladepuntje</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over Cornetto Ola mini classico ijs: Cornetto Ola mini classico ijs: een extra knapperig wafelhoorntje gevuld met heerlijk roomijs, de knapperige chocolade is vol van smaak en de bovenkant van het ijsje is rijkelijk gevuld met nootjes. In deze handige uitdeelverpakking zitten 6 mini-ijsjes, die je perfect met elkaar kan delen. Wij bij Cornetto perfectioneren al drie generaties lang ons speciale recept, zodat het eten van Cornetto ijs een van de kleine genietmomenten van het leven is. Iedere Cornetto is namelijk echt een traktatie. Van de verrassende toplaag, via het heerlijk zachte ijs naar het knapperige wafelhoorntje en het geliefde chocoladepuntje. Bovendien zijn de individuele verpakkingen van Cornetto ook nog eens ideaal voor feestjes of voor een dag op het strand. Zelfs in de zon blijven ze makkelijk om uit te delen en om te eten. Zo maak je er voor iedereen een onvergetelijke zomer van. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is onderdeel van 'the heartbrand', het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 3704,
+        "hqId": 48211,
+        "title": "Pickwick Original earl grey 1 kop",
+        "salesUnitSize": "20 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393439?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393439?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393439?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313239393439?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 1.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Koffie, thee",
+        "subCategory": "Zwarte thee",
+        "brand": "Pickwick",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een heerlijk lichte en frisse theemelange. De geliefde, karakteristieke smaak van earl grey komt van bergamot, een citrusvrucht.</p><p><ul><li>Theesoort: zwarte thee</li><li>Licht en fris van smaak</li><li>Met de karakteristieke smaak van bergamot</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714277,
+        "bonusSegmentDescription": "Alle Pickwick 1-kopsthee 15-20 stuks",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 53,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 396207,
+        "hqId": 847557,
+        "title": "Settesoli Pinot grigio blush rosé",
+        "salesUnitSize": "0,75 l",
+        "unitPriceDescription": "normale prijs per liter €7.99",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313933323630?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 5.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bier, wijn, aperitieven",
+        "subCategory": "Droge rosé",
+        "brand": "Settesoli",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Pinot grigio is een witte druif met net genoeg kleur in z'n schil voor een lichte rosé. Zo fris als witte wijn met de fruitige smaak van rosé</p><p><ul><li><strong>Kleur, smaak: </strong>rosé, droog</li><li><strong>Druivenras: </strong>pinot grigio</li><li><strong>Land, streek: </strong>Italië, Sicilië</li><li><strong>Lekker bij: </strong>Salade, Pasta</li><li><strong>Bekroond: </strong>De Grote Hamersma 8-</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "prijswinnaar"
+        ],
+        "nix18": true,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714950,
+        "bonusSegmentDescription": "Alle rosé wijnen 0.75 liter",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Bij Settesoli werken ze graag met hun eigen Siciliaanse druiven als nero d'avola en grillo, maar ze maken ook wijn van bijvoorbeeld de pinot grigio. Die ken je misschien vooral vanuit Noord-Italië. Meestal wordt er van de pinot grigio een witte wijn gemaakt, maar rosé kan ook. Dat komt doordat de schil van deze druif niet wit of lichtgroen is, maar rozerood. Als de wijnmaker de schillen in het sap laat zitten, komt er wat kleurstof uit en krijg je een lichtroze wijn als deze. 'Blush wine', noemen ze dat ook wel, een wijn met roze koontjes. Hij heeft het frisse van een witte pinot grigio en de fruitige aroma's van framboos en aardbei, zoals in veel rosés. De zachte nasmaak is kenmerkend voor Sicilië. Heerlijk om mee te borrelen en probeer 'm ook eens bij een kruidig Marokkaans gerecht.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 79,
+        "multipleItemPromotion": true,
+        "labelType": "SPOTLIGHT",
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 112579,
+        "hqId": 564435,
+        "title": "Ola Festini peer",
+        "salesUnitSize": "12 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313638323734?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 4.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Waterijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Ola festini peer waterijs is een heerlijk fruitijsje met echte peren.</p><p><ul><li>Ola festini peer waterijs is een heerlijk fruitig ijsje</li><li>Een fruitig tussendoortje met slechts 50 kilocalorieen per waterijsje</li><li>De waterijsjes bevatten vitamine c en echte peren</li><li>De perenijsjes bevatten geen kunstmatige kleur- en smaakstoffen</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over Ola festini peer waterijs: Ola festini peer waterijs is een heerlijk ijsje met de fruitige smaak van peer. Dat is simpel genieten. De festini peer is al jaren een absolute favoriet onder ijsliefhebbers en dat is ook niet zo gek. De festini fruitijsjes, zonder kunstmatige kleur- en smaakstoffen, bevatten 23% van de aanbevolen dagelijkse hoeveelheid vitamine c. Met maar 50 calorieen per stuk is het een heel puur en fruitig ijsje. Perfect voor bij warme temperaturen, op een vakantie, in je eigen tuin, als nagerecht, tussendoortje, toetje, onderweg of voor bij een leuke film. Daarnaast is de festini ook verkrijgbaar in de smaak aardbei. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is onderdeel van 'the heartbrand', het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten. Share happiness en geniet van een Ola festini waterijsje met echte peren!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 173078,
+        "hqId": 767810,
+        "title": "Ola Calippo supermix",
+        "salesUnitSize": "5 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303731323430?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 4.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Waterijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De Ola calippo supermix is een uitdeeldoos met een gevarieerd assortiment calippo-ijsjes, voor een zomers gevoel het hele jaar door.</p><p><ul><li>Ola calippo supermix waterijs: uitdeeldoos met vier verschillende smaken</li><li>Verfrissende traktatie in de smaken sinaasappel, cola, aardbei en citroen</li><li>Calippo is heerlijk waterijs gemaakt met natuurlijke aroma's</li><li>Een lekker waterijsje om alleen of met anderen van te genieten</li></ul></p>",
+        "propertyIcons": [
+            "vegan",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over calippo supermix waterijs: de Ola calippo supermix waterijs is een uitdeeldoos met waterijsjes in verschillende smaken. In deze verpakking zitten de heerlijke calippo-ijsjes in vier verschillende smaken: sinaasappel-, cola-, aardbei- en citroen-waterijs. De calippo-waterijsjes zijn gemaakt met natuurlijke aroma's. Deze waterijsjes zijn een perfecte verfrissing voor op een warme zomerse dag en bij warme temperaturen bijvoorbeeld op vakantie, in je eigen tuin, onderweg of voor bij een leuke film. En door de handige verpakking van calippo geniet je zonder plakkerige handen. Houd het ijsje lekker voor jezelf, of deel een Ola calippo-waterijsje met je lief, vrienden of familie. Kortom, een lekkere koude traktatie in een uitdeeldoos om lang van te genieten. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is onderdeel van 'the heartbrand', het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 162681,
+        "hqId": 631745,
+        "title": "Magnum Mini almond",
+        "salesUnitSize": "6 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 5.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "Magnum",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Magnum mini almond ijs is de perfecte balans tussen fluweelzacht vanille-ijs, omhuld met een laag krakende melkchocolade met knapperige stukjes amandel.</p><p><ul><li>Ontdek Magnum mini almond ijs met knapperige stukjes amandel</li><li>Heerlijk vanille-ijs overgoten met een krakende laag Magnum melkchocolade</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "webshopId": 163522,
+        "hqId": 633220,
+        "title": "Ola Split",
+        "salesUnitSize": "9 stuks",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313635383338?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2e Halve Prijs",
+        "priceBeforeBonus": 5.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Room handijs",
+        "brand": "Ola",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Het welbekende Ola split ijs is altijd lekker als verfrissend tussendoortje.</p><p><ul><li>Ola split ijs is de enige echte split sinds 1965</li><li>Een verfrissend tussendoortje met slechts 65 kilocalorieen per ijsje</li><li>Heerlijk vanille-ijs met een frisse laag sinaasappel-waterijs</li><li>Ola split ijs bevat geen kunstmatige kleur- en smaakstoffen</li></ul></p>",
+        "propertyIcons": [
+            "vega",
+            "diepvries"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714319,
+        "bonusSegmentDescription": "Alle Ola of Magnum handijs",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Over Ola split ijs: Ola split ijs is een heerlijk fruitig ijsje met een kern van zacht vanille-ijs, bedekt met een frisse laag sinaasappel-waterijs. Heerlijk verfrissend en zoet. Het is dan ook niet zo gek dat het split-ijsje bijna net zo'n klassieker is als het raketje. Perfect voor bij warme temperaturen, als tussendoortje, op een vakantie, in je eigen tuin, onderweg of voor bij een leuke film. Houd het ijsje lekker voor jezelf, of deel een Ola split met je lief, vrienden of familie. Daarnaast is de split een ijsje zonder kunstmatige kleur- en smaakstoffen en telt het ijsje slechts 65 kilocalorieen per stuk. Kortom, een verfrissende traktatie om lekker lang van te genieten. Bewaaradvies: bewaar de ijsjes koel en donker bij -18 graden celsius. Over ola: Ola wil graag bijdragen aan de leuke dingen van het leven. Het leven gaat namelijk steeds sneller, waardoor mensen meer behoefte hebben aan rust en leuke dingen. En hoe kan dat beter door samen te genieten en plezier te hebben, met een lekker ijsje van Ola in je hand? een ola-ijsje is een product waar je af en toe heerlijk van kunt smullen, alleen of met anderen overal ter wereld. Ola is namelijk onderdeel van heartbrand, het bekendste ijslogo ter wereld. Het logo is bekend in meer dan 50 landen wereldwijd en elk land heeft zijn eigen ijsnaam. Zo heb je walls in het Verenigd Koninkrijk, streets in australie, kibon in brazilie, Langnese in Duitsland en Ola in Nederland. Kortom, een koude en verfrissende traktatie om lekker lang van te genieten. Share happiness en geniet van Ola split ijs!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 44,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_ONE_HALF_PRICE",
+                "defaultDescription": "2e halve prijs",
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "webshopId": 132561,
+        "hqId": 595301,
+        "title": "AH Maaltijdsalade kip caesar",
+        "salesUnitSize": "450 g",
+        "unitPriceDescription": "normale prijs per kg €11.76",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343539?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343539?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343539?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313432343539?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 VOOR 8.75",
+        "priceBeforeBonus": 5.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Maaltijden, salades",
+        "subCategory": "Maaltijdsalade",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p><p class=\"extension-description\"> Maaltijdsalade met gegrilde kipfiletreepjes, ijsbergsla,\n\t\t\t\t\t romanasla, kaasschilfers, ei, aardappel, knoflookcroutons en caesardressing</p><p><ul><li>Lekker als lunch of avondmaaltijd</li><li>Dressing is vrij van kunstmatige geur- en \t\t\t\t\t\t  smaakstoffen</li></ul></p>",
+        "propertyIcons": [],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714862,
+        "bonusSegmentDescription": "AH Maaltijdsalade kip caesar en grote garnalen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p class=\"extra-description\">We garanderen dat bij aflevering van dit product nog minimaal    2 dagen (incl. leveringsdag) houdbaarheid op het product zit. </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 17,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 8.75",
+                "count": 2,
+                "price": 8.75
+            }
+        ]
+    }
+]

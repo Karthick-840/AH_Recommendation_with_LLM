@@ -1,0 +1,1013 @@
+[
+    {
+        "webshopId": 103004,
+        "hqId": 543258,
+        "title": "Optimel Magere kwark aardbei",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €5.18",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373039?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373039?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373039?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373039?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Kwark met smaak",
+        "brand": "Optimel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Optimel magere kwark in de smaak aardbei is heerlijk fris en vol van smaak. Optimel Smaakt lekker, voelt goed!</p><p><ul><li>0% vet en geen toegevoegde suikers</li><li>Van nature een bron van calcium en proteine</li><li>Magere yoghurt met magere kwark</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716003,
+        "bonusSegmentDescription": "Alle Optimel eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Als je voor Optimel kiest, kies je voor iets lekkers en iets goeds. Want alles van Optimel is vol van smaak en van nature rijk aan calcium en proteine. Ook bevat Optimel 0% vet en geen toegevoegde suikers. Dus kies je voor optimel, dan kies je voor balans. En dat voelt goed! Maak je ontbijt of lunch nog lekkerder met Optimel drinkyoghurt, yoghurt of kwark.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 15,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 57521,
+        "hqId": 752272,
+        "title": "Doritos Nacho cheese",
+        "salesUnitSize": "170 g",
+        "unitPriceDescription": "normale prijs per kg €11.71",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 1.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Tortilla chips",
+        "brand": "Doritos",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Perfect als knapperig bijgerecht bij je favoriete hamburger, of als snack die doet denken aan de klassieke fish and chips</p><p><ul><li>Maïschips met de smaak van Nacho Cheese</li><li>Verpakt onder beschermende atmosfeer</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714874,
+        "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 437125,
+        "hqId": 65508,
+        "title": "Optimel Magere kwark vanille",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €5.18",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373232?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373232?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373232?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373232?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Kwark met smaak",
+        "brand": "Optimel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Optimel magere kwark in de smaak vanille is heerlijk fris en vol van smaak. Optimel Smaakt lekker, voelt goed!</p><p><ul><li>0% vet en geen toegevoegde suikers</li><li>Van nature een bron van calcium en proteine</li><li>Magere yoghurt met magere kwark</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716003,
+        "bonusSegmentDescription": "Alle Optimel eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Als je voor Optimel kiest, kies je voor iets lekkers en iets goeds. Want alles van Optimel is vol van smaak en van nature rijk aan calcium en proteine. Ook bevat Optimel 0% vet en geen toegevoegde suikers. Dus kies je voor optimel, dan kies je voor balans. En dat voelt goed! Maak je ontbijt of lunch nog lekkerder met Optimel drinkyoghurt, yoghurt of kwark.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 15,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 229807,
+        "hqId": 823390,
+        "title": "Lay's Bugles nacho cheese",
+        "salesUnitSize": "125 g",
+        "unitPriceDescription": "normale prijs per kg €17.52",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239373936313338?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.19,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Vormpjes chips",
+        "brand": "Lay's",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Een lekker knapperig hoorntje, gemaakt van mais, met een volle kaassmaak.</p><p><ul><li>Bereid met zonnebloemolie</li><li>Heerlijk om te vullen met bijvoorbeeld roomkaas, pesto of guacamole</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714874,
+        "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>  Maiszoutje met kaassmaak. </p>\n  <p>  Verpakt onder beschermende atmosfeer.  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 124409,
+        "hqId": 752273,
+        "title": "Doritos Sweet chilli pepper",
+        "salesUnitSize": "170 g",
+        "unitPriceDescription": "normale prijs per kg €13.47",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Tortilla chips",
+        "brand": "Doritos",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Superkrokante tortillachips met een zoete en pittige Chillipeper smaak</p><p><ul><li>Gemaakt van vers geroosterde maïs</li><li>Lekker met Duyvis dipsaus</li><li>Verpakt onder beschermende atmosfeer</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714874,
+        "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 498202,
+        "hqId": 805007,
+        "title": "Optimel Magere kwark stracciatella",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €5.18",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363230?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363230?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363230?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363230?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Kwark met smaak",
+        "brand": "Optimel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Optimel magere kwark in de smaak stracciatella smaak is heerlijk fris en vol van smaak. Optimel Smaakt lekker, voelt goed!</p><p><ul><li>0% vet en geen toegevoegde suikers</li><li>Van nature een bron van calcium en proteine</li><li>Magere yoghurt met magere kwark</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716003,
+        "bonusSegmentDescription": "Alle Optimel eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Als je voor Optimel kiest, kies je voor iets lekkers en iets goeds. Want alles van Optimel is vol van smaak en van nature rijk aan calcium en proteine. Ook bevat Optimel 0% vet en geen toegevoegde suikers. Dus kies je voor optimel, dan kies je voor balans. En dat voelt goed! Maak je ontbijt of lunch nog lekkerder met Optimel drinkyoghurt, yoghurt of kwark.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 15,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 575536,
+        "hqId": 16931,
+        "title": "Optimel Proteïne yoghurt perzik passievrucht",
+        "salesUnitSize": "450 g",
+        "unitPriceDescription": "normale prijs per kg €5.53",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539303537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539303537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539303537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539303537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313539303537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "High protein yoghurt",
+        "brand": "Optimel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Optimel proteine drink yoghurt perzik passievrucht is van nature rijk aan eiwit en een bron van calcium. Optimel Smaakt lekker, voelt goed!</p><p><ul><li>Een bron van proteine voor het behoud van spieren en sterke botten</li><li>Bevat 38 gram proteine per pot</li><li>0% vet en geen toegevoegde suikers</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716003,
+        "bonusSegmentDescription": "Alle Optimel eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Als je voor Optimel kiest, kies je voor iets lekkers en iets goeds. Want alles van Optimel is vol van smaak en van nature rijk aan calcium en proteine. Ook bevat Optimel 0% vet en geen toegevoegde suikers. Dus kies je voor optimel, dan kies je voor balans. En dat voelt goed! Maak je ontbijt of lunch nog lekkerder met Optimel drinkyoghurt, yoghurt of kwark.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 15,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 112217,
+        "hqId": 564193,
+        "title": "Optimel Magere vla vanille",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.39",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363637?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363637?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363637?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338363637?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Vanillevla",
+        "brand": "Optimel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Optimel magere vla is in combinatie met de vanillesmaak heerlijk vol en rijk van smaak. Smaakt lekker, voelt goed!</p><p><ul><li>0% vet en geen toegevoegde suikers</li><li>Van nature een bron van calcium en proteine</li><li>Vol van smaak</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716003,
+        "bonusSegmentDescription": "Alle Optimel eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Als je voor Optimel kiest, kies je voor iets lekkers en iets goeds. Want alles van Optimel is vol van smaak en van nature rijk aan calcium en proteine. Ook bevat Optimel 0% vet en geen toegevoegde suikers. Dus kies je voor optimel, dan kies je voor balans. En dat voelt goed! Maak je ontbijt of lunch nog lekkerder met Optimel drinkyoghurt, yoghurt of kwark.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 15,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 114816,
+        "hqId": 567482,
+        "title": "Optimel Yoghurt bosvruchten",
+        "salesUnitSize": "1 l",
+        "unitPriceDescription": "normale prijs per liter €2.49",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Vruchten yoghurt",
+        "brand": "Optimel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Optimel yoghurt in de smaak bosvruchten is heerlijk fris en vol van smaak. Optimel Smaakt lekker, voelt goed!</p><p><ul><li>0% vet en geen toegevoegde suikers</li><li>Van nature een bron van calcium en proteine</li><li>Magere yoghurt met bosvruchten</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716003,
+        "bonusSegmentDescription": "Alle Optimel eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Als je voor Optimel kiest, kies je voor iets lekkers en iets goeds. Want alles van Optimel is vol van smaak en van nature rijk aan calcium en proteine. Ook bevat Optimel 0% vet en geen toegevoegde suikers. Dus kies je voor optimel, dan kies je voor balans. En dat voelt goed! Maak je ontbijt of lunch nog lekkerder met Optimel drinkyoghurt, yoghurt of kwark.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 15,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 166359,
+        "hqId": 628692,
+        "title": "Optimel Magere kwark appel kaneel",
+        "salesUnitSize": "500 g",
+        "unitPriceDescription": "normale prijs per kg €5.18",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373037?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373037?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373037?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313338373037?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.59,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "Kwark met smaak",
+        "brand": "Optimel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Optimel magere kwark in de smaak appel kaneel is heerlijk fris en vol van smaak. Optimel Smaakt lekker, voelt goed!</p><p><ul><li>0% vet en geen toegevoegde suikers</li><li>Van nature een bron van calcium en proteine</li><li>Magere yoghurt met magere kwark</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716003,
+        "bonusSegmentDescription": "Alle Optimel eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Als je voor Optimel kiest, kies je voor iets lekkers en iets goeds. Want alles van Optimel is vol van smaak en van nature rijk aan calcium en proteine. Ook bevat Optimel 0% vet en geen toegevoegde suikers. Dus kies je voor optimel, dan kies je voor balans. En dat voelt goed! Maak je ontbijt of lunch nog lekkerder met Optimel drinkyoghurt, yoghurt of kwark.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 15,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 516972,
+        "hqId": 44783,
+        "title": "Doritos Cool American",
+        "salesUnitSize": "170 g",
+        "unitPriceDescription": "normale prijs per kg €13.47",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Tortilla chips",
+        "brand": "Doritos",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Doritos is een superkrokante tortillachip gemaakt van versgeroosterde maïs, in de smaak cool american.</p><p><ul><li>Maïschips met zure roomsmaak</li><li>Verpakt onder beschermende atmosfeer</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714874,
+        "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 575487,
+        "hqId": 16932,
+        "title": "Optimel Proteïne yoghurt bosbes vanillesmaak",
+        "salesUnitSize": "450 g",
+        "unitPriceDescription": "normale prijs per kg €5.53",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534383431?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534383431?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534383431?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313534383431?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Zuivel, eieren",
+        "subCategory": "High protein yoghurt",
+        "brand": "Optimel",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Optimel proteine yoghurt bosbes vanille is van nature rijk aan eiwit en een bron van calcium. Optimel Smaakt lekker, voelt goed!</p><p><ul><li>Een bron van proteine voor het behoud van spieren en sterke botten</li><li>Bevat 39 gram proteine per pot</li><li>0% vet en geen toegevoegde suikers</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li></ul></p>",
+        "propertyIcons": [
+            "vega"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 716003,
+        "bonusSegmentDescription": "Alle Optimel eetzuivel",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Als je voor Optimel kiest, kies je voor iets lekkers en iets goeds. Want alles van Optimel is vol van smaak en van nature rijk aan calcium en proteine. Ook bevat Optimel 0% vet en geen toegevoegde suikers. Dus kies je voor optimel, dan kies je voor balans. En dat voelt goed! Maak je ontbijt of lunch nog lekkerder met Optimel drinkyoghurt, yoghurt of kwark.",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 15,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    },
+    {
+        "webshopId": 516973,
+        "hqId": 44793,
+        "title": "Doritos Pure paprika",
+        "salesUnitSize": "170 g",
+        "unitPriceDescription": "normale prijs per kg €13.47",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-30",
+        "bonusEndDate": "2025-07-06",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 3.49",
+        "priceBeforeBonus": 2.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Borrel, chips, snacks",
+        "subCategory": "Tortilla chips",
+        "brand": "Doritos",
+        "shopType": "AH",
+        "bonusPeriodDescription": "vanaf maandag",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Doritos is een superkrokante tortillachip gemaakt van versgeroosterde maïs, in de smaak pure paprika.</p><p><ul><li>Maïschips met paprika smaak</li><li>Verpakt onder beschermende atmosfeer</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "B",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714874,
+        "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 11,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 3.49",
+                "count": 2,
+                "price": 3.49
+            }
+        ]
+    }
+]

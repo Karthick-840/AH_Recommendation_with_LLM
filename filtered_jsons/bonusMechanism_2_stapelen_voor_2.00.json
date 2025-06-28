@@ -1,0 +1,178 @@
+[
+    {
+        "webshopId": 141,
+        "hqId": 20842,
+        "title": "AH Galia meloen",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303133303437?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303133303437?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303133303437?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303133303437?revLabel=3&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_434d50303133303437?revLabel=3&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 stapelen voor 2.00",
+        "priceBeforeBonus": 2.49,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Meloenen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>De Galiameloen is een sappige en zoete meloen. Lekker in een fruitsalade of in combinatie met parmaham.</p><p><ul><li>Smaak: Galiameloen heeft een sappige, zeer zoete smaak.</li><li>Bewaren: Buiten de koelkast.</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "1 stuk voor 1.50",
+            "2 stuks voor 2.00"
+        ],
+        "bonusSegmentId": 723259,
+        "bonusSegmentDescription": "AH Galia en cantaloupe meloen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_TIERED_PRICE",
+                "defaultDescription": "2 stuks 2.00",
+                "count": 2,
+                "price": 2.0,
+                "unit": "PIECE"
+            },
+            {
+                "code": "DISCOUNT_TIERED_PRICE",
+                "defaultDescription": "1 stuk 1.50",
+                "count": 1,
+                "price": 1.5,
+                "unit": "PIECE"
+            }
+        ]
+    },
+    {
+        "webshopId": 107671,
+        "hqId": 81582,
+        "title": "AH Cantaloupe meloen",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333135?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333135?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333135?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333135?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 stapelen voor 2.00",
+        "priceBeforeBonus": 2.75,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Meloenen",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Meloen met een onregelmatige lichtgroene tot goudgele\n\t\t\t\tschil. Deze zomermeloen is vernoemd naar de Italiaanse stad Catalupa bij Rome.</p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [
+            "1 stuk voor 1.50",
+            "2 stuks voor 2.00"
+        ],
+        "bonusSegmentId": 723259,
+        "bonusSegmentDescription": "AH Galia en cantaloupe meloen",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "<p>\n   <ul>\n   <li><strong>Smaak:</strong> Cantaloupe-meloen heeft\n    een frisse, achte zoete smaak. </li>\n   <li><strong>Gebruik:</strong> Cantaloupe meloen kun\n    je zo eten, in partjes, blokjes of uit de schil. Lekker in fruitsalades en als\n    voorgerecht met ham zoals Parmaham. </li>\n   <li><strong>Bewaren:</strong> Buiten de koelkast.\n    </li>\n   </ul>\n  </p>",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 2,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_TIERED_PRICE",
+                "defaultDescription": "2 stuks 2.00",
+                "count": 2,
+                "price": 2.0,
+                "unit": "PIECE"
+            },
+            {
+                "code": "DISCOUNT_TIERED_PRICE",
+                "defaultDescription": "1 stuk 1.50",
+                "count": 1,
+                "price": 1.5,
+                "unit": "PIECE"
+            }
+        ]
+    }
+]

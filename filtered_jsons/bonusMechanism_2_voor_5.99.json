@@ -1,0 +1,548 @@
+[
+    {
+        "webshopId": 531001,
+        "hqId": 614157,
+        "title": "Karvan Cévitam Original aardbei siroop",
+        "salesUnitSize": "0,6 l",
+        "unitPriceDescription": "normale prijs per liter €6.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303734?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303734?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303734?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303734?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303734?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Limonadesiroop",
+        "brand": "Karvan Cévitam",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Maak meer van je water met de Karvan Cevitam siropen. Onze dynamische combinaties van fruit helpen jou om je water een heerlijke smaak te geven. Verras jezelf!</p><p><ul><li>100% natuurlijke smaak</li><li>Bron van vitamine c met 75% fruit</li><li>Geen kleur-, en kunstmatige smaakstoffen</li><li>30 glazen limonade per fles</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714258,
+        "bonusSegmentDescription": "Alle Karvan Cévitam",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Met de aardbei limonadesiroop van Karvan Cevitam maak je in een handomdraai een lekkere limonade met wel 75% fruit! Voor heerlijk fruitig water met de smaak van aardbei meng je 1 deel siroop op 9 delen water. Laat je fantasie de vrije loop door deze siroop te mengen met bruiswater voor je eigen limo met een twist of voeg een klein scheutje siroop toe aan je favoriete mocktail, lekker voor bij de zomerse bbq! Karvan Cevitam bevat geen kleurstoffen-, en kunstmatige smaakstoffen. Bovendien is het een bron van vitamine c. Nu met 100% natuurlijke smaak! 1 fles maakt tot wel 6 liter limonade. Dit zijn 30 glazen verfrissende limo!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "webshopId": 531003,
+        "hqId": 525946,
+        "title": "Karvan Cévitam Original grenadine siroop",
+        "salesUnitSize": "0,6 l",
+        "unitPriceDescription": "normale prijs per liter €6.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383830343136?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383830343136?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383830343136?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383830343136?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383830343136?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Limonadesiroop",
+        "brand": "Karvan Cévitam",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Maak meer van je water met de Karvan Cevitam siropen. Onze dynamische combinaties van fruit helpen jou om je water een heerlijke smaak te geven. Verras jezelf!</p><p><ul><li>100% natuurlijke smaak</li><li>Bron van vitamine c met 75% fruit</li><li>Geen kleur-, en kunstmatige smaakstoffen</li><li>30 glazen limonade per fles</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714258,
+        "bonusSegmentDescription": "Alle Karvan Cévitam",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Met de grenadine limonadesiroop van Karvan Cevitam maak je in een handomdraai een lekkere limonade met wel 75% fruit! Voor heerlijk fruitig water met de smaak van appel, vlierbes en rozenbottel meng je 1 deel siroop op 9 delen water. Laat je fantasie de vrije loop door deze siroop te mengen met bruiswater voor je eigen limo met een twist of voeg een klein scheutje siroop toe aan je favoriete mocktail, lekker voor bij de zomerse bbq! Karvan Cevitam bevat geen kleurstoffen-, en kunstmatige smaakstoffen. Bovendien is het een bron van vitamine c. Nu met 100% natuurlijke smaak! 1 fles maakt tot wel 6 liter limonade. Dit zijn 30 glazen verfrissende limo!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "webshopId": 531004,
+        "hqId": 31244,
+        "title": "Karvan Cévitam Original framboos siroop",
+        "salesUnitSize": "0,6 l",
+        "unitPriceDescription": "normale prijs per liter €6.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343434?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343434?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343434?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343434?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Limonadesiroop",
+        "brand": "Karvan Cévitam",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Maak meer van je water met de Karvan Cevitam siropen. Onze dynamische combinaties van fruit helpen jou om je water een heerlijke smaak te geven. Verras jezelf!</p><p><ul><li>100% natuurlijke smaak</li><li>Bron van vitamine c met 75% fruit</li><li>Geen kleur-, en kunstmatige smaakstoffen</li><li>30 glazen limonade per fles</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714258,
+        "bonusSegmentDescription": "Alle Karvan Cévitam",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Met de framboos limonadesiroop van Karvan Cevitam maak je in een handomdraai een lekkere limonade met wel 75% fruit! Voor heerlijk fruitig water met de smaak van framboos meng je 1 deel siroop op 9 delen water. Laat je fantasie de vrije loop door deze siroop te mengen met bruiswater voor je eigen limo met een twist of voeg een klein scheutje siroop toe aan je favoriete mocktail, lekker voor bij de zomerse bbq! Karvan Cevitam bevat geen kleurstoffen-, en kunstmatige smaakstoffen. Bovendien is het een bron van vitamine c. Nu met 100% natuurlijke smaak! 1 fles maakt tot wel 6 liter limonade. Dit zijn 30 glazen verfrissende limo!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "webshopId": 514010,
+        "hqId": 9480,
+        "title": "Dr. Oetker Casa di mama pizza salami",
+        "salesUnitSize": "390 g",
+        "unitPriceDescription": "normale prijs per kg €11.00",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313735303432?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 4.29,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Diepvries",
+        "subCategory": "Pizza (dunne bodem)",
+        "brand": "Dr. Oetker",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Casa di mama salame is een authentieke Italiaanse pizza die thuis in de oven rijst! De luchtige dikke rand en een krokante dunne bodem is rijkelijk belegd met salami en mozzarella. Proeven?</p><p><ul><li>Krokante dunne bodem met luchtige dikke rand</li><li>Unieke gistbodem: rijst thuis in de oven</li><li>Houd je van salami, dan is dit jouw nieuwe favoriete pizza</li><li>Verwarm oven voor: 250 graden celsius elektrisch/ca. 230 graden celsius hetelucht en bak 12-15 min</li></ul></p>",
+        "propertyIcons": [
+            "diepvries"
+        ],
+        "nutriscore": "D",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714305,
+        "bonusSegmentDescription": "Alle Dr. Oetker Casa di Mama",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Mmm, pizza. Wie houdt er niet van? Casa di Mama salami is een echte klassieker en is de perfecte pizza keuze voor liefhebbers van vlees. De kruidige salami geeft een intens verrukkelijke smaak en de romige mozzarella en Edammer kaas maken deze diepvries pizza compleet. Stuk voor stuk heerlijke hoogwaardige ingredienten als topping. \n\nmaar het geheim zit m in de bodem! Een krokante dunne bodem en een luchtige dikke rand, die thuis in de oven rijst. Voor het beste resultaat verwarm je de oven voor op de aangegeven temperatuur (250 graden celsius elektrisch/ca. 230 graden celsius hetelucht), voordat je de pizza in de oven stopt. Verwijder het folie en het karton, laat het bakpapier onder de pizza zitten tijdens het bakken en bak de bevroren pizza op een bakplaat onderin de oven. Kijk je goed, dan zie je de pizza rijzen en nog meer rijzen voor je ware Italiaanse pizzabelevenis.\n\nde pizza's van Casa di Mama zijn er in meer verschillende varianten en worden allemaal gemaakt van de beste ingredienten. Altijd handig om in de diepvries te hebben liggen voor een uitgebreid italiaans dinner met verschillende hapjes of om te serveren tijdens drukke avonden als makkelijke maaltijd. Geniet van iedere hap van deze authentieke Italiaanse pizza.\n\ncasa di mama, je pizza die rijst in de oven!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 6,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "webshopId": 531002,
+        "hqId": 78657,
+        "title": "Karvan Cévitam Original cassis siroop",
+        "salesUnitSize": "0,6 l",
+        "unitPriceDescription": "normale prijs per liter €6.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343532?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343532?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343532?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130313033343532?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Limonadesiroop",
+        "brand": "Karvan Cévitam",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Maak meer van je water met de Karvan Cevitam siropen. Onze dynamische combinaties van fruit helpen jou om je water een heerlijke smaak te geven. Verras jezelf!</p><p><ul><li>100% natuurlijke smaak</li><li>Bron van vitamine c met 75% fruit</li><li>Geen kleur-, en kunstmatige smaakstoffen</li><li>30 glazen limonade per fles</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714258,
+        "bonusSegmentDescription": "Alle Karvan Cévitam",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Met de cassis limonadesiroop van Karvan Cevitam maak je in een handomdraai een lekkere limonade met wel 75% fruit! Voor heerlijk fruitig water met de smaak van zwarte bes meng je 1 deel siroop op 9 delen water. Laat je fantasie de vrije loop door deze siroop te mengen met bruiswater voor je eigen limo met een twist of voeg een klein scheutje siroop toe aan je favoriete mocktail, lekker voor bij de zomerse bbq! Karvan Cevitam bevat geen kleurstoffen-, en kunstmatige smaakstoffen. Bovendien is het een bron van vitamine c. Nu met 100% natuurlijke smaak! 1 fles maakt tot wel 6 liter limonade. Dit zijn 30 glazen verfrissende limo!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "webshopId": 530991,
+        "hqId": 590933,
+        "title": "Karvan Cévitam Original tropical siroop",
+        "salesUnitSize": "0,6 l",
+        "unitPriceDescription": "normale prijs per liter €6.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303738?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303738?revLabel=2&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303738?revLabel=2&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303738?revLabel=2&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239383739303738?revLabel=2&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Frisdrank, sappen, water",
+        "subCategory": "Limonadesiroop",
+        "brand": "Karvan Cévitam",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Maak meer van je water met de Karvan Cevitam siropen. Onze dynamische combinaties van fruit helpen jou om je water een heerlijke smaak te geven. Verras jezelf!</p><p><ul><li>100% natuurlijke smaak</li><li>Bron van vitamine c met 75% fruit</li><li>Geen kleur-, en kunstmatige smaakstoffen</li><li>30 glazen limonade per fles</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "E",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714258,
+        "bonusSegmentDescription": "Alle Karvan Cévitam",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Met de Tropical limonadesiroop van Karvan Cevitam maak je in een handomdraai een lekkere limonade met wel 75% fruit! Voor heerlijk fruitig water met de smaak van appel, Mandarijn, ananas, Mango en passievrucht meng je 1 deel siroop op 9 delen water. Laat je fantasie de vrije loop door deze siroop te mengen met bruiswater voor je eigen limo met een twist of voeg een klein scheutje siroop toe aan je favoriete mocktail, lekker voor bij de zomerse bbq! Karvan Cevitam bevat geen kleurstoffen-, en kunstmatige smaakstoffen. Bovendien is het een bron van vitamine c. Nu met 100% natuurlijke smaak! 1 fles maakt tot wel 6 liter limonade. Dit zijn 30 glazen verfrissende limo!",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "webshopId": 530992,
+        "hqId": 580573,
+        "title": "Karvan Cévitam Zero aardbei siroop",
+        "salesUnitSize": "0,6 l",
+        "unitPriceDescription": "normale prijs per liter €6.65",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_43545239393535383733?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "2 voor 5.99",
+        "priceBeforeBonus": 3.99,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Bewuste voeding",
+        "subCategory": "Limonadesiroop (suikerbewust en suikervrij)",
+        "brand": "Karvan Cévitam",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Maak meer van je water met de Karvan Cevitam zero siropen. Onze dynamische combinaties van fruit helpen jou om je water een heerlijke smaak te geven. Verras jezelf!</p><p><ul><li>Limonadesiroop met 0% suiker, 0% calorieen en 100% smaak</li><li>Geen kleur-, en kunstmatige smaakstoffen</li><li>Fles van 100% recyclebaar staal</li><li>30 glazen limonade per fles</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "C",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 714258,
+        "bonusSegmentDescription": "Alle Karvan Cévitam",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Met de zero aardbei limonadesiroop van Karvan Cevitam maak je in een handomdraai een lekkere dorstlesser. Deze siroop bevat 0% suiker en 0 calorieen waardoor je lekker en verantwoord kunt genieten van heerlijk fruitig water met de vertrouwde Karvan Cevitam smaak van aardbei. Meng hiervoor 1 deel siroop op 9 delen water. Laat je fantasie de vrije loop door deze siroop te mengen met bruiswater voor je eigen limo met een twist of voeg een klein scheutje siroop toe aan je favoriete mocktail, lekker voor bij de zomerse bbq! Karvan ce?vitam bevat geen kleurstoffen-, en kunstmatige smaakstoffen. Bovendien is het een bron van vitamine c. Nu met 100% natuurlijke smaak! 1 fles maakt tot wel 6 liter limonade (30 glazen).",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": false,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 19,
+        "multipleItemPromotion": true,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_X_FOR_Y",
+                "defaultDescription": "2 voor 5.99",
+                "count": 2,
+                "price": 5.99
+            }
+        ]
+    }
+]

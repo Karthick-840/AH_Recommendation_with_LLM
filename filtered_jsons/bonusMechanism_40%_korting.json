@@ -1,0 +1,80 @@
+[
+    {
+        "webshopId": 571711,
+        "hqId": 13967,
+        "title": "AH Ananas zonder kroon",
+        "salesUnitSize": "per stuk",
+        "images": [
+            {
+                "width": 800,
+                "height": 800,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031363130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+            },
+            {
+                "width": 400,
+                "height": 400,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031363130?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 200,
+                "height": 200,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031363130?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+            },
+            {
+                "width": 48,
+                "height": 48,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031363130?revLabel=1&rendition=48x48_GIF&fileType=binary"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "url": "https://static.ah.nl/dam/product/AHI_4354523130323031363130?revLabel=1&rendition=80x80_JPG&fileType=binary"
+            }
+        ],
+        "bonusStartDate": "2025-06-23",
+        "bonusEndDate": "2025-06-29",
+        "discountType": "AH",
+        "segmentType": "AH",
+        "promotionType": "NATIONAL",
+        "bonusMechanism": "40% korting",
+        "currentPrice": 1.43,
+        "priceBeforeBonus": 2.39,
+        "orderAvailabilityStatus": "IN_ASSORTMENT",
+        "mainCategory": "Fruit, verse sappen",
+        "subCategory": "Ananas",
+        "brand": "AH",
+        "shopType": "AH",
+        "bonusPeriodDescription": "",
+        "availableOnline": true,
+        "isPreviouslyBought": false,
+        "descriptionHighlights": "<p>Deze ananas is fantastisch in een fruitsalade, een frisse smoothie en zelfs in warme maaltijden.</p><p><ul><li>Met een extra zoete en sappige smaak</li><li>Bewaar buiten de koelkast</li><li>Voor zowel warme als koude gerechten.</li><li>Rijp: Al onze ananassen zijn ready to eat.</li></ul></p>",
+        "propertyIcons": [
+            "vegan"
+        ],
+        "nutriscore": "A",
+        "nix18": false,
+        "isStapelBonus": false,
+        "extraDescriptions": [],
+        "bonusSegmentId": 723256,
+        "bonusSegmentDescription": "AH Ananas zonder kroon",
+        "isBonus": true,
+        "hasListPrice": false,
+        "descriptionFull": "Bereiden: Snij de boven- en onderkant eraf en zet de ananas rechtop. Snij de schil er met een ruime marge van boven naar beneden in één keer af en volg de ronding van de ananas. Verwijder de achtergebleven zwarte puntjes. Snij de ananas tot slot in parten of stukken en verwijder de harde kern.\n",
+        "isOrderable": true,
+        "isInfiniteBonus": false,
+        "isSample": false,
+        "isBonusPrice": true,
+        "isSponsored": false,
+        "isVirtualBundle": false,
+        "productCount": 1,
+        "multipleItemPromotion": false,
+        "discountLabels": [
+            {
+                "code": "DISCOUNT_PERCENTAGE",
+                "defaultDescription": "40% korting",
+                "percentage": 40,
+                "precisePercentage": 40
+            }
+        ]
+    }
+]
