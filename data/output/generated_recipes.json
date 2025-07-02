@@ -1,0 +1,81 @@
+{
+  "recipes": [
+    {
+      "name": "Indian-Spiced Tomato and Yogurt Curry with Blueberries",
+      "description": "A light, fiber-rich vegetarian curry with a unique twist of blueberries for a sweet-tart flavor, perfect for breaking an intermittent fast with a nutrient-packed lunch.",
+      "ingredients": [
+        {
+          "name": "AH Snoepgroente tomaat - 250g",
+          "webshopId": "490796"
+        },
+        {
+          "name": "AH Romaatjes - 250g",
+          "webshopId": "107685"
+        },
+        {
+          "name": "Campina Halfvolle yoghurt - 500ml",
+          "webshopId": "48785"
+        },
+        {
+          "name": "AH Blauwe bessen - 150g",
+          "webshopId": "177754"
+        }
+      ],
+      "instructions": [
+        "1. Wash and roughly chop the AH Snoepgroente tomaat and AH Romaatjes. Set aside.",
+        "2. In a pan, heat a teaspoon of oil (or use a non-stick pan) and saut\u00e9 the chopped tomatoes until they form a soft paste, about 5-7 minutes.",
+        "3. Add Indian spices like turmeric, cumin, and coriander (use pantry staples if available) to the tomato paste, and cook for 2 more minutes.",
+        "4. Stir in 200ml of Campina Halfvolle yoghurt gradually, mixing well to avoid curdling. Simmer on low heat for 5 minutes.",
+        "5. Add 50g of AH Blauwe bessen for a unique sweet-tart flavor, and cook for another 2 minutes.",
+        "6. Serve warm as a side or with a chapati or rice if available from your pantry. Use any leftover tomatoes or blueberries in a salad to avoid waste."
+      ]
+    },
+    {
+      "name": "Yogurt and Tomato Raita Salad",
+      "description": "A refreshing, high-fiber raita salad combining tomatoes and yogurt, ideal for a light post-fasting lunch with cooling properties and Indian flavors.",
+      "ingredients": [
+        {
+          "name": "AH Snoepgroente tomaat - 200g",
+          "webshopId": "490796"
+        },
+        {
+          "name": "Campina Volle yoghurt - 400ml",
+          "webshopId": "221096"
+        },
+        {
+          "name": "AH Romaatjes - 200g",
+          "webshopId": "107685"
+        }
+      ],
+      "instructions": [
+        "1. Finely chop the AH Snoepgroente tomaat and AH Romaatjes.",
+        "2. In a bowl, mix 400ml of Campina Volle yoghurt with the chopped tomatoes.",
+        "3. Add a pinch of cumin powder, salt, and chopped cilantro (if available in your pantry) for an Indian touch.",
+        "4. Chill for 10 minutes in the refrigerator if desired, or serve immediately as a side dish or light meal.",
+        "5. Use any leftover tomatoes for a quick salsa or soup base to minimize waste."
+      ]
+    },
+    {
+      "name": "Blueberry and Yogurt Power Bowl",
+      "description": "A sweet and savory yogurt bowl with blueberries, perfect for a quick, fiber-rich post-fasting lunch with a hint of Indian-inspired sweetness.",
+      "ingredients": [
+        {
+          "name": "AH Blauwe bessen - 200g",
+          "webshopId": "495931"
+        },
+        {
+          "name": "Campina Halfvolle yoghurt - 500ml",
+          "webshopId": "48785"
+        }
+      ],
+      "instructions": [
+        "1. Take 200g of AH Blauwe bessen and rinse them well under cold water.",
+        "2. In a bowl, add 250ml of Campina Halfvolle yoghurt as the base.",
+        "3. Top the yogurt with the blueberries for a fiber and antioxidant boost.",
+        "4. Sprinkle a pinch of cardamom or cinnamon (if available in your pantry) for an Indian flavor twist.",
+        "5. Serve immediately as a light meal. Use any leftover yogurt for a smoothie or raita, and extra blueberries can be frozen for future use."
+      ],
+      "imageUrl": "data/img/receipe_img/Blueberry and Yogurt Power Bowl.jpg"
+    }
+  ]
+}

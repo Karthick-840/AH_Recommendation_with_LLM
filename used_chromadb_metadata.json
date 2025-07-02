@@ -1,0 +1,3940 @@
+[
+  {
+    "webshopId": 107685,
+    "hqId": 534133,
+    "title": "AH Romaatjes",
+    "salesUnitSize": "250 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac7.96",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 2.99",
+    "priceBeforeBonus": 1.99,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Groente, aardappelen",
+    "subCategory": "Tomaten",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "vanaf maandag",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Romaatjes hebben een volzoete en aromatische smaak en een stevige bite. Lekker als makkelijke en gezonde snack of in een salade.</p><p><ul><li>Smaak: romaatje heeft een volzoete en aromtische smaak.</li><li>Bewaren: buiten de koelkast.</li><li>Gezondheid: van nature bron van vitamine C. Vitamine C verhoogt de ijzeropname</li></ul></p>",
+    "propertyIcons": [
+      "lokaal"
+    ],
+    "nutriscore": "A",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 724572,
+    "bonusSegmentDescription": "AH Romaatjes 250 gram",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 1,
+    "multipleItemPromotion": false,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 2.99",
+        "count": 2,
+        "price": 2.99
+      }
+    ]
+  },
+  {
+    "webshopId": 569537,
+    "hqId": 0,
+    "title": "Oatly! barista 1 liter 6-pack",
+    "salesUnitSize": "6 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333532?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 15.61,
+    "priceBeforeBonus": 17.34,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Bewuste voeding",
+    "subCategory": "Haverdrink",
+    "brand": "Oatly!",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Oatly Barista 1 liter nu bij aankoop van 6-stuks 10% korting</p><p><ul><li>Oatly Hafer/Haver Barista Edition 1,0 6x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 412158,
+        "quantity": 6
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 587254,
+    "hqId": 0,
+    "title": "Oatly! Barista Edition 1L 4-pack",
+    "salesUnitSize": "4 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431323131?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "5% volume voordeel",
+    "currentPrice": 10.98,
+    "priceBeforeBonus": 11.56,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Bewuste voeding",
+    "subCategory": "Haverdrink",
+    "brand": "Oatly!",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Oatly Haverdrank Barista Edition: een plantaardige Haverdrank voor in de koffie. Hartstikke geschikt voor professionele barista\u00bfs, veganisten, niet-veganisten, en alles daartussen. Nu ook in een voordeelpakket van 4 pakken.</p><p><ul><li>Oatly! Haver barista edition 4x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 412158,
+        "quantity": 4
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "5% volume voordeel",
+        "percentage": 5,
+        "precisePercentage": 5
+      }
+    ]
+  },
+  {
+    "webshopId": 575744,
+    "hqId": 0,
+    "title": "Optimel drinkyoghurt mango passievrucht 1L 3pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303638383531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "5% volume voordeel",
+    "currentPrice": 5.67,
+    "priceBeforeBonus": 5.97,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Drinkyoghurt, ontbijtdranken",
+    "brand": "Optimel",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>De producten van Optimel bevatten 0% vet en geen toegevoegde suikers. Profiteer nu van voordeel bij aankoop van 3 stuks Optimel drinkyoghurt mango passievrucht 1L. De combinatie van milde magere yoghurt en een beetje fruitsap zorgen voor een heerlijk frisse drinkyoghurt.</p><p><ul><li>Optimel drinkyoghurt mango passievrucht 1L 3x\t</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 129244,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "5% volume voordeel",
+        "percentage": 5,
+        "precisePercentage": 5
+      }
+    ]
+  },
+  {
+    "webshopId": 526385,
+    "hqId": 30920,
+    "title": "Lay's Naturel value pack",
+    "salesUnitSize": "300 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac8.30",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313937313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313937313930?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313937313930?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313937313930?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313937313930?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.99",
+    "priceBeforeBonus": 2.49,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Naturel chips",
+    "brand": "Lay's",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>De enige echte Lay's chips. Knapperig gebakken met een beetje zout voor de smaak.</p><p><ul><li>Zonder kunstmatige kleurstoffen en conserveringsmiddelen</li><li>Zonder toegevoegde smaakversterkers</li><li>Verpakt onder beschermende atmosfeer</li><li>Bevat 10 porties</li></ul></p>",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "C",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 718833,
+    "bonusSegmentDescription": "Alle Lay's en Doritos value- en partypacks",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 12,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.99",
+        "count": 2,
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "webshopId": 57521,
+    "hqId": 752272,
+    "title": "Doritos Nacho cheese",
+    "salesUnitSize": "170 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac11.71",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323033333834?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.49",
+    "priceBeforeBonus": 1.99,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Tortilla chips",
+    "brand": "Doritos",
+    "shopType": "AH",
+    "bonusPeriodDescription": "vanaf maandag",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Perfect als knapperig bijgerecht bij je favoriete hamburger, of als snack die doet denken aan de klassieke fish and chips</p><p><ul><li>Ma\u00efschips met de smaak van Nacho Cheese</li><li>Verpakt onder beschermende atmosfeer</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "C",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714874,
+    "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 11,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.49",
+        "count": 2,
+        "price": 3.49
+      }
+    ]
+  },
+  {
+    "webshopId": 590371,
+    "hqId": 0,
+    "title": "Arla Skyr naturel yoghurt 0% fat XL 2-pack",
+    "salesUnitSize": "2 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 6.82,
+    "priceBeforeBonus": 7.58,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Skyr naturel",
+    "brand": "Arla",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>Arla Skyr naturel yoghurt 0% fat XL 2x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 457983,
+        "quantity": 2
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 454161,
+    "hqId": 600439,
+    "title": "AH Cheddar geraspte kaas",
+    "salesUnitSize": "150 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac19.93",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_43545236393638333132?revLabel=3&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 5.00",
+    "priceBeforeBonus": 2.99,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Kaas",
+    "subCategory": "Cheddar kaas",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Deze geraspte cheddar is heerlijk om te gebruiken in tex-mex of ovenschotel gerechten, zoals nacho's.</p><p><ul><li>Smaak: licht pittig</li><li>Geschikt voor vegetariers</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "D",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714139,
+    "bonusSegmentDescription": "AH Specialiteitenrasp",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 9,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 5.00",
+        "count": 2,
+        "price": 5.0
+      }
+    ]
+  },
+  {
+    "webshopId": 574349,
+    "hqId": 15316,
+    "title": "Lay's Max naturel",
+    "salesUnitSize": "275 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac10.87",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536373838?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536373838?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536373838?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536373838?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.99",
+    "priceBeforeBonus": 2.99,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Naturel chips",
+    "brand": "Lay's",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Perfect als knapperig bijgerecht bij je favoriete hamburger, of als snack die doet denken aan de klassieke fish and chips</p><p><ul><li>Geschikt voor vegetariers</li><li>Zonder conserveringsmiddelen</li><li>Geen kunstmatige kleurstoffen</li><li>Geen toegevoegde smaakversterkers</li></ul></p>",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "C",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 718833,
+    "bonusSegmentDescription": "Alle Lay's en Doritos value- en partypacks",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 12,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.99",
+        "count": 2,
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "webshopId": 197154,
+    "hqId": 603010,
+    "title": "AH Geraspte kaas speciaal voor pizza",
+    "salesUnitSize": "150 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac18.60",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 5.00",
+    "priceBeforeBonus": 2.79,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Kaas",
+    "subCategory": "Geraspte kaas",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Speciaal voor Pizza, gemaakt van mozzarella, goudse jong belegen en regato kaas.</p><p><ul><li>Smaak: Mild & extra smeu\u00efg</li><li>Gemaakt van: Koemelk</li><li>Ideaal om over pizza's te strooien!</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "D",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714139,
+    "bonusSegmentDescription": "AH Specialiteitenrasp",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 9,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 5.00",
+        "count": 2,
+        "price": 5.0
+      }
+    ]
+  },
+  {
+    "webshopId": 171022,
+    "hqId": 632640,
+    "title": "Taksi Tropisch fruit geen suiker toegevoegd",
+    "salesUnitSize": "1,5 l",
+    "unitPriceDescription": "normale prijs per liter \u20ac1.26",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2e gratis",
+    "priceBeforeBonus": 1.89,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Frisdrank, sappen, water",
+    "subCategory": "Frisse fruitdranken",
+    "brand": "Taksi",
+    "shopType": "AH",
+    "bonusPeriodDescription": "vanaf maandag",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Drank met de heerlijke smaak van Tropisch Fruit, geen suiker toegevoegd! Voor als je echt van de tropen wilt genieten!</p><p><ul><li>68% minder calorie&#x00EB;n dan Taksi Tropisch Fruit regulier</li><li>Gemaakt op basis van vruchtensap en zuivel</li><li>Geen suiker toegevoegd!</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "D",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714832,
+    "bonusSegmentDescription": "Alle DubbelFrisss Boost en Taksi 1.5 liter",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "<p> De heerlijke smaak van tropisch Fruit bestaat nu ook in Geen Suiker Toegevoegd variant! Deze nieuwe taksi drank smaakt naar tropische vruchten, zit vol met zuivel en vitamine C, maar bevat geen toegevoegde suikers. Daarom bevat deze drank 75% minder calorieen dan Taksi Tropisch Fruit regulier.  </p>",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 12,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_ONE_FREE",
+        "defaultDescription": "2e gratis",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "webshopId": 594418,
+    "hqId": 0,
+    "title": "Taksi GST Tropisch Fruit 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383139?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383139?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383139?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383139?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "20% volume voordeel",
+    "currentPrice": 4.54,
+    "priceBeforeBonus": 5.67,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Frisdrank, sappen, water",
+    "subCategory": "Frisse fruitdranken",
+    "brand": "Taksi",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>De heerlijke smaak van Tropisch Fruit bestaat in Geen Suiker Toegevoegd variant! Deze nieuwe taksi drank smaakt naar tropische vruchten, zit vol met zuivel en vitamine C, maar bevat geen toegevoegde suikers. Daarom bevat deze drank 75% minder calorieen dan Taksi Tropisch Fruit regulier.</p><p><ul><li>Taksi Tropisch Fruit GST 1,5L 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 171022,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "20% volume voordeel",
+        "percentage": 20,
+        "precisePercentage": 20
+      }
+    ]
+  },
+  {
+    "webshopId": 578513,
+    "hqId": 0,
+    "title": "Heinz Frito 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313731383030?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "15% volume voordeel",
+    "currentPrice": 3.54,
+    "priceBeforeBonus": 4.17,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Groente, aardappelen",
+    "subCategory": "Tomatenpuree",
+    "brand": "Heinz",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Als iets het succes van je gerecht bepaalt, dan is dat een goede basis. Onze Heinz tomato frito is gemaakt van kwaliteit zongerijpte tomaten voor een onweerstaanbare volle smaak. Geef meer smaak aan jouw favoriete gerechten in een handomdraai. It has to be Heinz!</p><p><ul><li>HNZ Tomato Frito (15) 350gm 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 378632,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "15% volume voordeel",
+        "percentage": 15,
+        "precisePercentage": 15
+      }
+    ]
+  },
+  {
+    "webshopId": 587372,
+    "hqId": 0,
+    "title": "Campina Magere yoghurt 1L 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313932?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313932?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313932?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313431313932?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "5% volume voordeel",
+    "currentPrice": 4.82,
+    "priceBeforeBonus": 5.07,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Magere yoghurt",
+    "brand": "Campina",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Deze yoghurt is mild van smaak en bevat van nature voedingstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat. Profiteer nu van extra voordeel bij aankoop van 3 stuks!</p><p><ul><li>Campina Magere yoghurt 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 221095,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "5% volume voordeel",
+        "percentage": 5,
+        "precisePercentage": 5
+      }
+    ]
+  },
+  {
+    "webshopId": 559302,
+    "hqId": 687629,
+    "title": "AH Macadamiamix gezouten",
+    "salesUnitSize": "100 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac26.90",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939353933?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939353933?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939353933?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939353933?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "3 voor 6.00",
+    "priceBeforeBonus": 2.69,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Macadamianoten",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "C",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714274,
+    "bonusSegmentDescription": "AH Markthal noten",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 42,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "3 voor 6.00",
+        "count": 3,
+        "price": 6.0
+      }
+    ]
+  },
+  {
+    "webshopId": 590336,
+    "hqId": 0,
+    "title": "Oatly! Bio barista haver 6-pack",
+    "salesUnitSize": "6 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 15.61,
+    "priceBeforeBonus": 17.34,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Bewuste voeding",
+    "subCategory": "Haverdrink",
+    "brand": "Oatly!",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>Oatly! Bio barista haver 6x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 570853,
+        "quantity": 6
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 594655,
+    "hqId": 0,
+    "title": "Arla Biologisch kefir naturel 2-pack",
+    "salesUnitSize": "2 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373638?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "15% volume voordeel",
+    "currentPrice": 3.89,
+    "priceBeforeBonus": 4.58,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Probiotica, kefir, gut health drinks",
+    "brand": "Arla",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Kefir van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch kefir naturel 2x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 440366,
+        "quantity": 2
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "15% volume voordeel",
+        "percentage": 15,
+        "precisePercentage": 15
+      }
+    ]
+  },
+  {
+    "webshopId": 594656,
+    "hqId": 0,
+    "title": "Arla Biologisch kefir naturel 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373531?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "15% volume voordeel",
+    "currentPrice": 5.84,
+    "priceBeforeBonus": 6.87,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Probiotica, kefir, gut health drinks",
+    "brand": "Arla",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Kefir van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch kefir naturel 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 440366,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "15% volume voordeel",
+        "percentage": 15,
+        "precisePercentage": 15
+      }
+    ]
+  },
+  {
+    "webshopId": 590377,
+    "hqId": 0,
+    "title": "Arla Skyr naturel yoghurt 0% fat 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343532?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343532?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343532?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343532?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 5.37,
+    "priceBeforeBonus": 5.97,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Skyr naturel",
+    "brand": "Arla",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>Arla Skyr naturel yoghurt 0% fat 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 370580,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 196034,
+    "hqId": 757801,
+    "title": "Taksi Tropisch fruit geen suiker toegevoegd 10",
+    "salesUnitSize": "10 x 0,2 l",
+    "unitPriceDescription": "normale prijs per liter \u20ac1.50",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "1 + 1 gratis",
+    "priceBeforeBonus": 2.99,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Frisdrank, sappen, water",
+    "subCategory": "Fruitdrank drinkpakjes",
+    "brand": "Taksi",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Drank met de heerlijke smaak van Tropisch Fruit, geen suiker toegevoegd! Voor als je echt van de tropen wilt genieten!</p><p><ul><li>Gemaakt op basis van vruchtensap en zuivel</li><li>Geen suiker toegevoegd!</li><li>68% minder calorie&#235;n dan Taksi Tropisch Fruit regulier</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "D",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714199,
+    "bonusSegmentDescription": "Alle DubbelFrisss en Taksi drinkpakjes",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 16,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_PLUS_Y_FREE",
+        "defaultDescription": "1+1 gratis",
+        "count": 1,
+        "freeCount": 1
+      }
+    ]
+  },
+  {
+    "webshopId": 594419,
+    "hqId": 0,
+    "title": "Taksi Tropisch Fruit GST 3 x 10-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383138?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383138?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383138?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383138?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "currentPrice": 5.98,
+    "priceBeforeBonus": 8.97,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Frisdrank, sappen, water",
+    "subCategory": "Fruitdrank drinkpakjes",
+    "brand": "Taksi",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Taksi GST drinkpakjes</p><p><ul><li>Taksi Tropisch Fruit GST 10-pack 3x</li><li>Drank op Basis van Vruchtensap en Zuivel met Toegevoegde Vitamine C. Geen Suiker Toegevoegd. Gezoet met Zoetstof. Kort Verhit.</li><li>Rijk aan vitamine C</li><li>Bevat van nature aanwezige suikers</li><li>Geen suiker toegevoegd</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 196034,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE",
+        "defaultDescription": "pakketkorting"
+      }
+    ]
+  },
+  {
+    "webshopId": 230456,
+    "hqId": 806500,
+    "title": "AH Scrocchi zeezout",
+    "salesUnitSize": "200 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac10.95",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313730333636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 4.00",
+    "priceBeforeBonus": 2.19,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Luxe toast",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Knapperige, ovengebakken italiaanse vierkante toast met zeezout.</p><p><ul><li>Zonder kunstmatige kleur-, geur- en zoetstoffen</li><li>Heerlijk als snack, met een hartige dip of als voorgerecht met tapenade</li></ul></p>",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "D",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714290,
+    "bonusSegmentDescription": "AH Scrocchi, Picos en Borreltoast",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 9,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 4.00",
+        "count": 2,
+        "price": 4.0
+      }
+    ]
+  },
+  {
+    "webshopId": 120877,
+    "hqId": 563913,
+    "title": "AH Salade erbij caesar mix",
+    "salesUnitSize": "285 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac15.05",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343230?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343230?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343230?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343230?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 7.00",
+    "priceBeforeBonus": 4.29,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Maaltijden, salades",
+    "subCategory": "Groene salade",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Ga voor groen met deze smaakvolle gemengde salade met romaine sla, croutons, scharrelei, regato kaas en caesardressing.</p><p><ul><li>Klaar om je vork in te prikken</li><li>Ook handig om mee te nemen</li></ul></p>",
+    "propertyIcons": [],
+    "nutriscore": "C",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714269,
+    "bonusSegmentDescription": "AH Salade erbij",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 13,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 7.00",
+        "count": 2,
+        "price": 7.0
+      }
+    ]
+  },
+  {
+    "webshopId": 124409,
+    "hqId": 752273,
+    "title": "Doritos Sweet chilli pepper",
+    "salesUnitSize": "170 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac13.47",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323036333734?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.49",
+    "priceBeforeBonus": 2.29,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Tortilla chips",
+    "brand": "Doritos",
+    "shopType": "AH",
+    "bonusPeriodDescription": "vanaf maandag",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Superkrokante tortillachips met een zoete en pittige Chillipeper smaak</p><p><ul><li>Gemaakt van vers geroosterde ma\u00efs</li><li>Lekker met Duyvis dipsaus</li><li>Verpakt onder beschermende atmosfeer</li></ul></p>",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "C",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714874,
+    "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 11,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.49",
+        "count": 2,
+        "price": 3.49
+      }
+    ]
+  },
+  {
+    "webshopId": 594654,
+    "hqId": 0,
+    "title": "Arla Biologisch halfvolle yoghurt 2-pack",
+    "salesUnitSize": "2 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373431?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "15% volume voordeel",
+    "currentPrice": 3.38,
+    "priceBeforeBonus": 3.98,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Halfvolle yoghurt",
+    "brand": "Arla",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Yoghurt van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch halfvolle yoghurt 2x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 212539,
+        "quantity": 2
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "15% volume voordeel",
+        "percentage": 15,
+        "precisePercentage": 15
+      }
+    ]
+  },
+  {
+    "webshopId": 436453,
+    "hqId": 58647,
+    "title": "Doritos Nacho cheese",
+    "salesUnitSize": "272 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac10.99",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313437383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313437383835?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313437383835?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313437383835?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313437383835?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.99",
+    "priceBeforeBonus": 2.99,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Tortilla chips",
+    "brand": "Doritos",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Perfect als knapperig bijgerecht bij je favoriete hamburger, of als snack die doet denken aan de klassieke fish and chips</p><p><ul><li>Elke chip zorgt keer op keer voor een explosie van smaak met maximale crunch</li><li>Deze partypack is perfect voor een feestje of een avond met vrienden!</li><li>Doritos, For the Bold!</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "B",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 718833,
+    "bonusSegmentDescription": "Alle Lay's en Doritos value- en partypacks",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 12,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.99",
+        "count": 2,
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "webshopId": 574978,
+    "hqId": 0,
+    "title": "Arla Biologisch halfvolle yoghurt 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303636373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303636373239?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303636373239?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303636373239?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303636373239?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 5.37,
+    "priceBeforeBonus": 5.97,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Halfvolle yoghurt",
+    "brand": "Arla",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Yoghurt van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch halfvolle yoghurt 3x</li></ul></p>",
+    "propertyIcons": [
+      "biologisch"
+    ],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 212539,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 130276,
+    "hqId": 591487,
+    "title": "AH Vers geperste smoothie mango maracuja",
+    "salesUnitSize": "500 ml",
+    "unitPriceDescription": "normale prijs per liter \u20ac5.18",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383731393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383731393839?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383731393839?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383731393839?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383731393839?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.75",
+    "priceBeforeBonus": 2.59,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Fruit, verse sappen",
+    "subCategory": "Fruit en groente smoothies",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingredi&#x00EB;nten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Vandaag geperst, morgen in jouw koelkast. Zonder toevoegingen, verser &amp; gemakkelijker kan niet.</p><p><ul><li>Met vitamine C en foliumzuur</li><li>Geniet van een verse &amp; koudgeperste smoothie op ieder moment van de dag</li><li>Voor ontbijt, lunch of tussendoor</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "C",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714230,
+    "bonusSegmentDescription": "Alle AH Verse sappen en smoothies 500 ml",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 16,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.75",
+        "count": 2,
+        "price": 3.75
+      }
+    ]
+  },
+  {
+    "webshopId": 559301,
+    "hqId": 67723,
+    "title": "AH Ongezouten macadamiamix",
+    "salesUnitSize": "100 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac26.90",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939363032?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939363032?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939363032?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303939363032?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "3 voor 6.00",
+    "priceBeforeBonus": 2.69,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Macadamianoten",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "A",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714274,
+    "bonusSegmentDescription": "AH Markthal noten",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 42,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "3 voor 6.00",
+        "count": 3,
+        "price": 6.0
+      }
+    ]
+  },
+  {
+    "webshopId": 575713,
+    "hqId": 0,
+    "title": "Fristi 1L voordeelpakket 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383330?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383330?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383330?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303732383330?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "5% volume voordeel",
+    "currentPrice": 6.24,
+    "priceBeforeBonus": 6.57,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Drinkyoghurt, ontbijtdranken",
+    "brand": "Fristi",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Fristi rood fruit drinkyoghurt smaakt naar heerlijk zoete aardbeien, frambozen en kersen. Profiteer nu van extra voordeel bij aankoop van 3 stuks.</p><p><ul><li>Fristi Rood fruit 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 3017,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "5% volume voordeel",
+        "percentage": 5,
+        "precisePercentage": 5
+      }
+    ]
+  },
+  {
+    "webshopId": 593116,
+    "hqId": 0,
+    "title": "Campina  Griekse yoghurt 1,5% 1kg 2-pack",
+    "salesUnitSize": "2 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313938?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313938?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313938?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313938?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "5% volume voordeel",
+    "currentPrice": 7.01,
+    "priceBeforeBonus": 7.38,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Griekse yoghurt",
+    "brand": "Campina",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>Campina High protein Greek yoghurt 1,5% fat 2x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 585849,
+        "quantity": 2
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "5% volume voordeel",
+        "percentage": 5,
+        "precisePercentage": 5
+      }
+    ]
+  },
+  {
+    "webshopId": 217310,
+    "hqId": 807603,
+    "title": "AH Terra Plantaardige hummus pikant versafdeling",
+    "salesUnitSize": "175 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac13.66",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313137343339?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.99",
+    "priceBeforeBonus": 2.39,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Vegetarisch, vegan en plantaardig",
+    "subCategory": "Hummus met smaakje",
+    "brand": "AH Terra",
+    "shopType": "AH",
+    "bonusPeriodDescription": "vanaf maandag",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Deze heerlijke hummus is de pikante variant van de naturel hummus en wordt gedecoreerd met kikkererwten en stukjes zoete peper.</p><p><ul><li>Smaak: Zacht en pittig.</li></ul></p>",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "A",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714897,
+    "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 18,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.99",
+        "count": 2,
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "webshopId": 594659,
+    "hqId": 0,
+    "title": "Arla Bio vanille yoghurt halfvol 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313936373439?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "15% volume voordeel",
+    "currentPrice": 6.09,
+    "priceBeforeBonus": 7.17,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Vanille yoghurt",
+    "brand": "Arla",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Yoghurt van Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen.</p><p><ul><li>Arla Biologisch vanille yoghurt halfvol 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 167913,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "15% volume voordeel",
+        "percentage": 15,
+        "precisePercentage": 15
+      }
+    ]
+  },
+  {
+    "webshopId": 592364,
+    "hqId": 0,
+    "title": "Optimel Probiotica drinkyoghurt framboos 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313832?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313832?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313832?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313832?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 6.18,
+    "priceBeforeBonus": 6.87,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Probiotica, kefir, gut health drinks",
+    "brand": "Optimel",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>Optimel Probiotica drinkyoghurt framboos 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 585883,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 586003,
+    "hqId": 0,
+    "title": "Chio Pom-b\u00e4r original 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323031373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323031373630?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323031373630?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323031373630?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323031373630?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 4.83,
+    "priceBeforeBonus": 5.37,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Naturel chips",
+    "brand": "Chio",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Online voordeel bundel POM-B\u00c4R original 90g</p><p><ul><li>POM-B\u00c4R original 90g 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 193683,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 568021,
+    "hqId": 0,
+    "title": "AH Taco seasoning mix 4-pack",
+    "salesUnitSize": "4 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303234333139?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "5% volume voordeel",
+    "currentPrice": 2.62,
+    "priceBeforeBonus": 2.76,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Soepen, sauzen, kruiden, olie",
+    "subCategory": "Maaltijd Kruidenmixen",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>AH Taco seasoning mix 4x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 140615,
+        "quantity": 4
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "5% volume voordeel",
+        "percentage": 5,
+        "precisePercentage": 5
+      }
+    ]
+  },
+  {
+    "webshopId": 478232,
+    "hqId": 731985,
+    "title": "AH Tex-mex geraspte kaas",
+    "salesUnitSize": "150 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac18.60",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313833333435?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 5.00",
+    "priceBeforeBonus": 2.79,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Kaas",
+    "subCategory": "Geraspte kaas",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Speciaal voor mexicaanse gerechten. Deze tex-mex rasp is licht pittig van smaak. Lekker bij nachos, burritos, tacos, quesadillas en wraps.</p><p><ul><li>Smaak: licht pittig</li><li>Gemaakt van koemelk</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "D",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714139,
+    "bonusSegmentDescription": "AH Specialiteitenrasp",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 9,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 5.00",
+        "count": 2,
+        "price": 5.0
+      }
+    ]
+  },
+  {
+    "webshopId": 498162,
+    "hqId": 807833,
+    "title": "AH Excellent Prosciutto crudo",
+    "salesUnitSize": "50 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac43.80",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239373737313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239373737313837?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239373737313837?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239373737313837?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239373737313837?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "3 voor 6.00",
+    "priceBeforeBonus": 2.19,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Vleeswaren",
+    "subCategory": "Spaanse en Italiaanse vleeswaren (versafdeling)",
+    "brand": "AH Excellent",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "",
+    "propertyIcons": [],
+    "nutriscore": "E",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 716053,
+    "bonusSegmentDescription": "AH Excellent vleeswaren",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 8,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "3 voor 6.00",
+        "count": 3,
+        "price": 6.0
+      }
+    ]
+  },
+  {
+    "webshopId": 591837,
+    "hqId": 0,
+    "title": "Santa Maria Kruidenmix taco 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313837?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313837?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313837?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735313837?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 2.67,
+    "priceBeforeBonus": 2.97,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Pasta, rijst, wereldkeuken",
+    "subCategory": "Mexicaanse kruidenmix",
+    "brand": "Santa Maria",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>De taco kruidenmix is de ideale mexicaanse kruidenmix voor taco's. Taco's zijn knapperige glutenvrije gefrituurde maistortilla's gevuld met gehakt, kip of vis en groenten gekruid met taco kruidenmix.\n\nMet de taco kruidenmix geef gehakt meer smaak\nIdeaal voor in taco's of tortilla wraps</p><p><ul><li>Santa Maria Kruidenmix taco 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 417551,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 590391,
+    "hqId": 0,
+    "title": "AH Ei salade 4-pack",
+    "salesUnitSize": "4 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343033?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343033?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343033?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538343033?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 9.32,
+    "priceBeforeBonus": 10.36,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Eiersalades (beleg)",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>AH Ei salade 4x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 376545,
+        "quantity": 4
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 217289,
+    "hqId": 807579,
+    "title": "AH Kip kerrie salade",
+    "salesUnitSize": "150 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac15.93",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303536323738?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.99",
+    "priceBeforeBonus": 2.39,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Kipsalades (beleg)",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "vanaf maandag",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Deze kip kerriesalade smaakt heerlijk en is gemaakt van extra mals vlees, doordat de kippen genoeg ruimte en beweging hebben gehad.</p><p><ul><li>Smaak: Friszoet</li></ul></p>",
+    "propertyIcons": [],
+    "nutriscore": "D",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714897,
+    "bonusSegmentDescription": "Alle AH Hummus en salades 125-175 gram van de versafdeling",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "<p> Tip: Heerlijk op de boterham bij de lunch of op een toastje bij de borrel met een mooi glas wijn.  </p>",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 18,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.99",
+        "count": 2,
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "webshopId": 569541,
+    "hqId": 0,
+    "title": "Oatly! Bio 6-pack",
+    "salesUnitSize": "6 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313538333538?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "10% volume voordeel",
+    "currentPrice": 15.39,
+    "priceBeforeBonus": 17.1,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Bewuste voeding",
+    "subCategory": "Haverdrink",
+    "brand": "Oatly!",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Oatly Bio nu bij aankoop van 6-stuks 10% korting</p><p><ul><li>Oatly Haver BIO 6x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 401934,
+        "quantity": 6
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "10% volume voordeel",
+        "percentage": 10,
+        "precisePercentage": 10
+      }
+    ]
+  },
+  {
+    "webshopId": 128130,
+    "hqId": 583567,
+    "title": "AH Salade erbij italiaanse mix",
+    "salesUnitSize": "250 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac15.96",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343139?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343139?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343139?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313038343139?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 7.00",
+    "priceBeforeBonus": 3.99,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Maaltijden, salades",
+    "subCategory": "Groene salade",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Ga voor groen met deze smaakvolle gemengde salade met rode en groene eikenbladsla, rucola, Regato kaas en pestodressing.</p><p><ul><li>Klaar om je vork in te prikken</li><li>Ook handig om mee te nemen</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "B",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714269,
+    "bonusSegmentDescription": "AH Salade erbij",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 13,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 7.00",
+        "count": 2,
+        "price": 7.0
+      }
+    ]
+  },
+  {
+    "webshopId": 593117,
+    "hqId": 0,
+    "title": "Campina Griekse yoghurt 5% 1kg 2-pack",
+    "salesUnitSize": "2 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735323030?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735323030?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735323030?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313735323030?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "5% volume voordeel",
+    "currentPrice": 7.2,
+    "priceBeforeBonus": 7.58,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Griekse yoghurt",
+    "brand": "Campina",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>Campina High protein Greek yoghurt 5% fat 2x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 585851,
+        "quantity": 2
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "5% volume voordeel",
+        "percentage": 5,
+        "precisePercentage": 5
+      }
+    ]
+  },
+  {
+    "webshopId": 516972,
+    "hqId": 44783,
+    "title": "Doritos Cool American",
+    "salesUnitSize": "170 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac13.47",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130323037333331?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.49",
+    "priceBeforeBonus": 2.29,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Tortilla chips",
+    "brand": "Doritos",
+    "shopType": "AH",
+    "bonusPeriodDescription": "vanaf maandag",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Doritos is een superkrokante tortillachip gemaakt van versgeroosterde ma\u00efs, in de smaak cool american.</p><p><ul><li>Ma\u00efschips met zure roomsmaak</li><li>Verpakt onder beschermende atmosfeer</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "B",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714874,
+    "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 11,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.49",
+        "count": 2,
+        "price": 3.49
+      }
+    ]
+  },
+  {
+    "webshopId": 578642,
+    "hqId": 0,
+    "title": "AH Gordita wrap 3-pack",
+    "salesUnitSize": "3 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303936343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303936343237?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303936343237?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303936343237?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303936343237?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2999-12-31",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "bonusMechanism": "5% volume voordeel",
+    "currentPrice": 3.39,
+    "priceBeforeBonus": 3.57,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Pasta, rijst, wereldkeuken",
+    "subCategory": "Pastasaus in pot",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>AH Gordita wrap 3x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 164955,
+        "quantity": 3
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "ONLINE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE_BULK",
+        "defaultDescription": "5% volume voordeel",
+        "percentage": 5,
+        "precisePercentage": 5
+      }
+    ]
+  },
+  {
+    "webshopId": 594411,
+    "hqId": 0,
+    "title": "Knorr Maaltijdmix macaroni 2-pack",
+    "salesUnitSize": "2 stuks",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383239?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383239?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383239?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313739383239?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-27",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AHOO",
+    "segmentType": "AHOO",
+    "promotionType": "AHONLINE",
+    "currentPrice": 1.69,
+    "priceBeforeBonus": 3.38,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Pasta, rijst, wereldkeuken",
+    "subCategory": "Italiaanse maaltijdpakketten, mixen",
+    "brand": "Knorr",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p><ul><li>Knorr Maaltijdmix macaroni 2x</li></ul></p>",
+    "propertyIcons": [],
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentDescription": "",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Dit pakket wordt als losse artikelen geleverd.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": true,
+    "virtualBundleItems": [
+      {
+        "productId": 164101,
+        "quantity": 2
+      }
+    ],
+    "multipleItemPromotion": false,
+    "labelType": "PRODUCT_DISCOUNT_BUNDLE",
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_BUNDLE",
+        "defaultDescription": "pakketkorting"
+      }
+    ]
+  },
+  {
+    "webshopId": 505579,
+    "hqId": 846371,
+    "title": "AH Cranberrypate",
+    "salesUnitSize": "80 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac19.88",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393038353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393038353734?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393038353734?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393038353734?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393038353734?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-23",
+    "bonusEndDate": "2025-06-29",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 2.50",
+    "priceBeforeBonus": 1.59,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Vleeswaren",
+    "subCategory": "Pate (versafdeling)",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "",
+    "propertyIcons": [],
+    "nutriscore": "E",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 715983,
+    "bonusSegmentDescription": "AH Pat\u00e9 kleinverpakking",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 4,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 2.50",
+        "count": 2,
+        "price": 2.5
+      }
+    ]
+  },
+  {
+    "webshopId": 562279,
+    "hqId": 174,
+    "title": "AH Excellent Spianata romana",
+    "salesUnitSize": "100 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac29.90",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130303035353139?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "25% korting",
+    "currentPrice": 2.24,
+    "priceBeforeBonus": 2.99,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Vleeswaren",
+    "subCategory": "Spaanse en Italiaanse vleeswaren (versafdeling)",
+    "brand": "AH Excellent",
+    "shopType": "AH",
+    "bonusPeriodDescription": "vanaf maandag",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "",
+    "propertyIcons": [],
+    "nutriscore": "E",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714901,
+    "bonusSegmentDescription": "Alle AH Excellent vleeswaren 65-230 gram of droge worst",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 43,
+    "multipleItemPromotion": false,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_PERCENTAGE",
+        "defaultDescription": "25% korting",
+        "percentage": 25,
+        "precisePercentage": 25
+      }
+    ]
+  },
+  {
+    "webshopId": 516973,
+    "hqId": 44793,
+    "title": "Doritos Pure paprika",
+    "salesUnitSize": "170 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac13.47",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313531343330?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 3.49",
+    "priceBeforeBonus": 2.29,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Borrel, chips, snacks",
+    "subCategory": "Tortilla chips",
+    "brand": "Doritos",
+    "shopType": "AH",
+    "bonusPeriodDescription": "vanaf maandag",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Doritos is een superkrokante tortillachip gemaakt van versgeroosterde ma\u00efs, in de smaak pure paprika.</p><p><ul><li>Ma\u00efschips met paprika smaak</li><li>Verpakt onder beschermende atmosfeer</li></ul></p>",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "B",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714874,
+    "bonusSegmentDescription": "Alle Doritos 160-185 gram en Lay's Bugles 125 gram",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 11,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 3.49",
+        "count": 2,
+        "price": 3.49
+      }
+    ]
+  }
+]

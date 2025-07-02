@@ -1,0 +1,116 @@
+{
+  "recipes": [
+    {
+      "name": "Tomato & Oatly Veggie Rice Bowl",
+      "description": "A quick, high-fiber dinner featuring zilvervliesrijst (brown rice) paired with saut\u00e9ed Romaatjes (baby tomatoes) and a creamy Oatly barista sauce for a nutritious and comforting meal.",
+      "ingredients": [
+        {
+          "name": "AH Romaatjes - 1 pack (about 250g)",
+          "webshopId": "107685"
+        },
+        {
+          "name": "AH Zilvervliesrijst - 1 pack (about 200g)",
+          "webshopId": "578608"
+        },
+        {
+          "name": "Oatly! Barista Edition 1L - 1 cup (250ml)",
+          "webshopId": "587254"
+        }
+      ],
+      "instructions": [
+        "1. Cook the AH Zilvervliesrijst according to package instructions (usually 20-25 minutes in boiling water). Drain and set aside.",
+        "2. While the rice cooks, halve the AH Romaatjes and saut\u00e9 them in a non-stick pan with a splash of water or a tiny bit of oil for 5-7 minutes until softened.",
+        "3. Add 1 cup of Oatly! Barista Edition to the tomatoes, stirring on low heat for 2-3 minutes to create a light, creamy sauce. Season with salt, pepper, or dried herbs if available.",
+        "4. Serve the cooked rice in a bowl, topped with the tomato and Oatly sauce. Enjoy as a simple, fiber-rich meal."
+      ],
+      "imageUrl": "data/img/receipe_img/Tomato  Oatly Veggie Rice Bowl.jpg"
+    },
+    {
+      "name": "Tex-Mex Veggie Wraps",
+      "description": "A high-fiber, flavorful dinner using AH Gordita wraps stuffed with seasoned Romaatjes, brown rice, and a sprinkle of Tex-Mex cheese for a satisfying and quick meal.",
+      "ingredients": [
+        {
+          "name": "AH Romaatjes - 1 pack (about 250g)",
+          "webshopId": "107685"
+        },
+        {
+          "name": "AH Zilvervliesrijst - 1 pack (about 200g)",
+          "webshopId": "578608"
+        },
+        {
+          "name": "AH Gordita wrap - 1 pack (2-3 wraps)",
+          "webshopId": "578642"
+        },
+        {
+          "name": "AH Tex-Mex geraspte kaas - 1 handful (about 50g)",
+          "webshopId": "478232"
+        },
+        {
+          "name": "AH Taco seasoning mix - 1 packet",
+          "webshopId": "568021"
+        }
+      ],
+      "instructions": [
+        "1. Cook the AH Zilvervliesrijst as per package instructions (about 20-25 minutes). Drain excess water.",
+        "2. Halve the AH Romaatjes and cook them in a pan with a splash of water for 5-7 minutes until soft. Mix in the taco seasoning for flavor.",
+        "3. Warm the AH Gordita wraps in a dry pan or microwave for 30 seconds.",
+        "4. Assemble the wraps by layering cooked rice, seasoned tomatoes, and a sprinkle of AH Tex-Mex geraspte kaas. Roll up and serve immediately."
+      ],
+      "imageUrl": "data/img/receipe_img/Tex-Mex Veggie Wraps.jpg"
+    },
+    {
+      "name": "Italian Rice & Tomato Salad with Yoghurt Dressing",
+      "description": "A refreshing, fiber-packed cold salad with brown rice, Romaatjes, and a tangy Skyr yoghurt dressing, perfect for a quick and healthy dinner.",
+      "ingredients": [
+        {
+          "name": "AH Romaatjes - 1 pack (about 250g)",
+          "webshopId": "107685"
+        },
+        {
+          "name": "AH Zilvervliesrijst - 1 pack (about 200g)",
+          "webshopId": "578608"
+        },
+        {
+          "name": "Arla Skyr naturel yoghurt 0% fat - 1 small tub (about 150g)",
+          "webshopId": "590371"
+        },
+        {
+          "name": "AH Salade erbij italiaanse mix - 1 pack (about 100g)",
+          "webshopId": "128130"
+        }
+      ],
+      "instructions": [
+        "1. Cook the AH Zilvervliesrijst according to package instructions (20-25 minutes). Let it cool slightly after draining.",
+        "2. Halve the AH Romaatjes and toss them with the cooled rice and AH Salade erbij italiaanse mix in a large bowl.",
+        "3. In a small bowl, mix Arla Skyr naturel yoghurt with a pinch of salt, pepper, and a squeeze of lemon if available to make a light dressing.",
+        "4. Drizzle the yoghurt dressing over the salad, toss gently, and serve as a fresh, high-fiber dinner."
+      ],
+      "imageUrl": "data/img/receipe_img/Italian Rice  Tomato Salad with Yoghurt Dressing.jpg"
+    },
+    {
+      "name": "Groente Macaroni Fiber Feast",
+      "description": "A simple, high-fiber pasta dish using vegetable macaroni, Romaatjes, and a touch of Oatly barista for creaminess, ideal for a quick and wholesome dinner.",
+      "ingredients": [
+        {
+          "name": "AH Macaroni spaghetti groente klein - 1 pack (about 200g)",
+          "webshopId": "494449"
+        },
+        {
+          "name": "AH Romaatjes - 1 pack (about 250g)",
+          "webshopId": "107685"
+        },
+        {
+          "name": "Oatly! Barista Edition 1L - 1 cup (250ml)",
+          "webshopId": "587254"
+        }
+      ],
+      "instructions": [
+        "1. Boil the AH Macaroni spaghetti groente klein according to package instructions (usually 8-10 minutes). Drain and set aside.",
+        "2. Halve the AH Romaatjes and saut\u00e9 them in a non-stick pan with a splash of water for 5-7 minutes until soft.",
+        "3. Stir in 1 cup of Oatly! Barista Edition to the tomatoes, simmering on low heat for 2-3 minutes to create a creamy sauce. Season with salt and pepper.",
+        "4. Mix the cooked macaroni with the tomato-Oatly sauce and serve hot for a fiber-rich, comforting meal."
+      ],
+      "imageUrl": "data/img/receipe_img/Groente Macaroni Fiber Feast.jpg"
+    }
+  ]
+}

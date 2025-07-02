@@ -34,14 +34,14 @@
     "forwardPorts": [],
     "portsAttributes": {},
     "remoteUser": "vscode",
-    "containerEnv": {
-        "SENDPULSE_API_ID": "${localEnv:SENDPULSE_API_ID}",
-        "SENDPULSE_API_SECRET": "${localEnv:SENDPULSE_API_SECRET}",
-        "EMAIL_SENDER_EMAIL": "${localEnv:EMAIL_SENDER_EMAIL}",
-        "EMAIL_RECEIVER_EMAIL": "${localEnv:EMAIL_RECEIVER_EMAIL}",
-        "GITHUB_LLM_API_ENDPOINT": "${localEnv:GITHUB_LLM_API_ENDPOINT}",
-        "GITHUB_LLM_MODEL_NAME": "${localEnv:GITHUB_LLM_MODEL_NAME}"
-    },
+    // "containerEnv": {
+    //     "SENDPULSE_API_ID": "${localEnv:SENDPULSE_API_ID}",
+    //     "SENDPULSE_API_SECRET": "${localEnv:SENDPULSE_API_SECRET}",
+    //     "EMAIL_SENDER_EMAIL": "${localEnv:EMAIL_SENDER_EMAIL}",
+    //     "EMAIL_RECEIVER_EMAIL": "${localEnv:EMAIL_RECEIVER_EMAIL}",
+    //     "GITHUB_LLM_API_ENDPOINT": "${localEnv:GITHUB_LLM_API_ENDPOINT}",
+    //     "GITHUB_LLM_MODEL_NAME": "${localEnv:GITHUB_LLM_MODEL_NAME}"
+    // },
     "mounts": [],
     "runArgs": []
 }

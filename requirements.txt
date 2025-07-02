@@ -1,1 +1,6 @@
 requests==2.32.3
+pyaml==25.5.0
+PyYAML==6.0.2
+sentence-transformers==5.0.0
+chromadb==1.0.13
+azure-ai-inference==1.0.0b9

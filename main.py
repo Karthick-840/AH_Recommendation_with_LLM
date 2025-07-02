@@ -8,16 +8,18 @@ from datetime import datetime
 from src.get_bonus import get_daily_bonus_items
 from src.check_products import filter_products_for_recommendation
 from src.llm_process import process_with_llm_and_generate_json
-from src.json_to_html import generate_product_email_html as json_to_html_generator
+from src.get_template_html import generate_product_email_html as json_to_html_generator
 from src.send_email import send_html_email_sendpulse
 
 # Ensure data/outputs directory exists
 OUTPUT_JSON_DIR = "data/outputs"
 os.makedirs(OUTPUT_JSON_DIR, exist_ok=True)
 
+
 def main():
     # Configure logging
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    logging.basicConfig(level=logging.INFO,
+                        format='%(asctime)s - %(levelname)s - %(message)s')
     logging.info("Starting AH Recommendation System Pipeline...")
 
     # Load configuration
@@ -26,7 +28,8 @@ def main():
             config = yaml.safe_load(f)
         logging.info("Configuration loaded successfully.")
     except FileNotFoundError:
-        logging.error("Error: config.yml not found. Please create it as per the README.")
+        logging.error(
+            "Error: config.yml not found. Please create it as per the README.")
         return
     except Exception as e:
         logging.error(f"Error loading config.yml: {e}")
@@ -45,10 +48,12 @@ def main():
         return
 
     # --- Step 2: Filter Products and Process with LLM for Recipes ---
-    logging.info("Step 2: Filtering products and processing with LLM for recipes...")
+    logging.info(
+        "Step 2: Filtering products and processing with LLM for recipes...")
     try:
         # Filter products first
-        filtered_products = filter_products_for_recommendation(raw_bonus_items, config)
+        filtered_products = filter_products_for_recommendation(
+            raw_bonus_items, config, output_directory=OUTPUT_JSON_DIR)
         if not filtered_products:
             logging.warning("No products passed the filtering stage. Exiting.")
             return
@@ -56,26 +61,30 @@ def main():
 
         # Process filtered products with LLM to get recipes and structured JSON
         current_date_str = datetime.now().strftime('%Y%m%d')
-        output_json_filename = config['output_paths']['generated_recommendations_json'].format(date=current_date_str)
+        output_json_filename = config['output_paths']['generated_recommendations_json'].format(
+            date=current_date_str)
         output_json_path = os.path.join(OUTPUT_JSON_DIR, output_json_filename)
 
         final_recommendation_data = process_with_llm_and_generate_json(
-            filtered_products, 
-            config, 
+            filtered_products,
+            config,
             output_json_path
         )
-        
+
         if not final_recommendation_data:
-            logging.warning("LLM processing did not yield any recommendations or recipes. Exiting.")
+            logging.warning(
+                "LLM processing did not yield any recommendations or recipes. Exiting.")
             return
-        logging.info(f"LLM processing complete. Recommendations saved to {output_json_path}")
+        logging.info(
+            f"LLM processing complete. Recommendations saved to {output_json_path}")
 
     except Exception as e:
         logging.error(f"Error in LLM processing or product filtering: {e}")
         return
 
     # --- Step 3: Generate HTML Email ---
-    logging.info("Step 3: Generating HTML email content from processed JSON...")
+    logging.info(
+        "Step 3: Generating HTML email content from processed JSON...")
     try:
         # json_to_html_generator takes the path to the JSON file to read from
         html_output_path = config['email']['html_output_file']
@@ -90,7 +99,8 @@ def main():
     try:
         sender_email = os.environ.get(config['email']['sender_email_env_var'])
         sender_name = config['email']['sender_name']
-        receiver_email = os.environ.get(config['email']['receiver_email_env_var'])
+        receiver_email = os.environ.get(
+            config['email']['receiver_email_env_var'])
         subject = f"{config['email']['subject_prefix']} Daily Recommendations - {datetime.now().strftime('%Y-%m-%d')}"
 
         api_id = os.environ.get(config['sendpulse']['api_id_env_var'])
@@ -111,6 +121,7 @@ def main():
         return
 
     logging.info("AH Recommendation System Pipeline finished successfully.")
+
 
 if __name__ == "__main__":
     main()

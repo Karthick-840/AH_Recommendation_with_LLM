@@ -1,0 +1,470 @@
+[
+  {
+    "webshopId": 177754,
+    "hqId": 587596,
+    "title": "AH Blauwe bessen",
+    "salesUnitSize": "300 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac14.97",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239383832393636?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "30% korting",
+    "currentPrice": 3.14,
+    "priceBeforeBonus": 4.49,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Fruit, verse sappen",
+    "subCategory": "Blauwe bessen",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Blauwe besssen hebben een fris zoete smaak en knappige bite. Blauwe bessen kunnen uit de hand gegeten worden als gezonde snack. Maar ze zijn ook heerlijk door de yogurt of in een smoothie.</p><p><ul><li>Smaak: Blauwe bessen hebben een fris zoete smaak en knapperige bite.</li><li>Bewaren: In de koelkast.</li><li>Gezondheid: Rijk aan vezels, bron van vitamine K</li></ul></p>",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "A",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 724562,
+    "bonusSegmentDescription": "AH Blauwe bessen 300 of 500 gram",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 2,
+    "multipleItemPromotion": false,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_PERCENTAGE",
+        "defaultDescription": "30% korting",
+        "percentage": 30,
+        "precisePercentage": 30
+      }
+    ]
+  },
+  {
+    "webshopId": 490796,
+    "hqId": 745269,
+    "title": "AH Snoepgroente tomaat",
+    "salesUnitSize": "250 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac8.76",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "3 voor 5.00",
+    "priceBeforeBonus": 2.19,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Groente, aardappelen",
+    "subCategory": "Snoepgroente",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Snoeptomaatjes zijn volzoet en sappig van smaak. Deze tomaatjes zijn ideaal als gezonde snack in de lunchtrommel of als extra bite bij de borrel.</p><p><ul><li>Snoeptomaatjes zijn volzoet en sappig van smaak</li><li>Buiten de koelkast bewaren</li><li>Van nature een bron van vitamine c. Vitamine c is goed voor de vorming van collageen, voor de normale werking van de huid</li></ul></p>",
+    "propertyIcons": [
+      "lokaal"
+    ],
+    "nutriscore": "A",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 721696,
+    "bonusSegmentDescription": "AH Snoepgroente 175-250 gram",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 6,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "3 voor 5.00",
+        "count": 3,
+        "price": 5.0
+      }
+    ]
+  },
+  {
+    "webshopId": 107685,
+    "hqId": 534133,
+    "title": "AH Romaatjes",
+    "salesUnitSize": "250 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac7.96",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313637333437?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2 voor 2.99",
+    "priceBeforeBonus": 1.99,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Groente, aardappelen",
+    "subCategory": "Tomaten",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Romaatjes hebben een volzoete en aromatische smaak en een stevige bite. Lekker als makkelijke en gezonde snack of in een salade.</p><p><ul><li>Smaak: romaatje heeft een volzoete en aromtische smaak.</li><li>Bewaren: buiten de koelkast.</li><li>Gezondheid: van nature bron van vitamine C. Vitamine C verhoogt de ijzeropname</li></ul></p>",
+    "propertyIcons": [
+      "lokaal"
+    ],
+    "nutriscore": "A",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 724572,
+    "bonusSegmentDescription": "AH Romaatjes 250 gram",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 1,
+    "multipleItemPromotion": false,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_X_FOR_Y",
+        "defaultDescription": "2 voor 2.99",
+        "count": 2,
+        "price": 2.99
+      }
+    ]
+  },
+  {
+    "webshopId": 495931,
+    "hqId": 790002,
+    "title": "AH Blauwe bessen",
+    "salesUnitSize": "500 g",
+    "unitPriceDescription": "normale prijs per kg \u20ac12.98",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313239333537?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "30% korting",
+    "currentPrice": 4.54,
+    "priceBeforeBonus": 6.49,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Fruit, verse sappen",
+    "subCategory": "Blauwe bessen",
+    "brand": "AH",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>De blauwe bessen maken een feest van elke maaltijd. Heerlijk door de yoghurt, een smoothie of als gezonde snack tussendoor. Met deze bak heeft u zeker genoeg voor het hele gezin.</p><p><ul><li>Smaak: blauwe bessen hebben een friszoete smaak en knapperige bite</li><li>Bewaren: in de koelkast</li><li>Gezondheid: bron van vitamine K</li></ul></p>",
+    "propertyIcons": [
+      "vegan"
+    ],
+    "nutriscore": "A",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 724562,
+    "bonusSegmentDescription": "AH Blauwe bessen 300 of 500 gram",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": true,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 2,
+    "multipleItemPromotion": false,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_PERCENTAGE",
+        "defaultDescription": "30% korting",
+        "percentage": 30,
+        "precisePercentage": 30
+      }
+    ]
+  },
+  {
+    "webshopId": 48785,
+    "hqId": 831576,
+    "title": "Campina Halfvolle yoghurt",
+    "salesUnitSize": "1 l",
+    "unitPriceDescription": "normale prijs per liter \u20ac1.89",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333830?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2e gratis",
+    "priceBeforeBonus": 1.89,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Halfvolle yoghurt",
+    "brand": "Campina",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Deze yoghurt is mild van smaak en bevat van nature voedingstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat.</p><p><ul><li>Zacht en mild van smaak</li><li>Van nature rijk aan calcium, proteine en vitamine b5</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li><li>Gemaakt van Nederlandse weidemelk</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "A",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714896,
+    "bonusSegmentDescription": "Alle Campina kwark 500 gram en yoghurt 1 liter",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Door de jarenlange ervaring van de Campina boeren maakt Campina heerlijke producten. Al 150 jaar. Ze halen de eerlijke en pure kracht uit de natuur. En dat proef je.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 11,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_ONE_FREE",
+        "defaultDescription": "2e gratis",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "webshopId": 221096,
+    "hqId": 815635,
+    "title": "Campina Volle yoghurt",
+    "salesUnitSize": "1 l",
+    "unitPriceDescription": "normale prijs per liter \u20ac1.95",
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+      },
+      {
+        "width": 400,
+        "height": 400,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 200,
+        "height": 200,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary"
+      },
+      {
+        "width": 48,
+        "height": 48,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=48x48_GIF&fileType=binary"
+      },
+      {
+        "width": 80,
+        "height": 80,
+        "url": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=80x80_JPG&fileType=binary"
+      }
+    ],
+    "bonusStartDate": "2025-06-30",
+    "bonusEndDate": "2025-07-06",
+    "discountType": "AH",
+    "segmentType": "AH",
+    "promotionType": "NATIONAL",
+    "bonusMechanism": "2e gratis",
+    "priceBeforeBonus": 1.95,
+    "orderAvailabilityStatus": "IN_ASSORTMENT",
+    "mainCategory": "Zuivel, eieren",
+    "subCategory": "Volle yoghurt",
+    "brand": "Campina",
+    "shopType": "AH",
+    "bonusPeriodDescription": "",
+    "availableOnline": true,
+    "isPreviouslyBought": false,
+    "descriptionHighlights": "<p>Deze yoghurt is mild van smaak en bevat van nature voedingstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat.</p><p><ul><li>Zacht en mild van smaak</li><li>Van nature rijk aan calcium, proteine en vitamine b3</li><li>Planetproof gecertificeerd en daarmee duurzamer geproduceerd</li><li>Gemaakt van Nederlandse weidemelk</li></ul></p>",
+    "propertyIcons": [
+      "vega"
+    ],
+    "nutriscore": "B",
+    "nix18": false,
+    "isStapelBonus": false,
+    "extraDescriptions": [],
+    "bonusSegmentId": 714896,
+    "bonusSegmentDescription": "Alle Campina kwark 500 gram en yoghurt 1 liter",
+    "isBonus": true,
+    "hasListPrice": false,
+    "descriptionFull": "Door de jarenlange ervaring van de Campina boeren maakt Campina heerlijke producten. Al 150 jaar. Ze halen de eerlijke en pure kracht uit de natuur. En dat proef je.",
+    "isOrderable": true,
+    "isInfiniteBonus": false,
+    "isSample": false,
+    "isBonusPrice": false,
+    "isSponsored": false,
+    "isVirtualBundle": false,
+    "productCount": 11,
+    "multipleItemPromotion": true,
+    "discountLabels": [
+      {
+        "code": "DISCOUNT_ONE_FREE",
+        "defaultDescription": "2e gratis",
+        "count": 2
+      }
+    ]
+  }
+]
