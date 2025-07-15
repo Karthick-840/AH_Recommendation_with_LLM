@@ -1,6 +1,11 @@
 import requests
+import argparse
 import json
 import os
+import logging
+
+module_logger = logging.getLogger(__name__)
+module_logger.setLevel(logging.DEBUG)
 
 
 def get_token():
@@ -40,42 +45,46 @@ def fetch_bonus_items(token, page=0, size=100):
     return data.get("products", [])
 
 
-def save_as_json(data, filename):
-    os.makedirs("output", exist_ok=True)
-    with open(os.path.join("data/output", filename), "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"✅ Saved {len(data)} items to output/{filename}")
+def get_all_bonus_items(config=None):
 
+    current_logger = module_logger
 
-def get_all_bonus_items():
+    if not config:
+        json_save_path = os.path.join("data/output", "bonus_items.json")
+        current_logger.info("No Configuration received")
+
+    else:
+        json_save_path = config['file_paths']['bonus_items_save_path']
+
     token = get_token()
-    all_products = []
+    all_bonus_products = []
     page = 0
     size = 100  # max items per request
     max_pages = 20  # limit pagination
 
     while page < max_pages:
-        print(f"Fetching page {page}...")
+        current_logger.info(f"Fetching page {page}...")
         products = fetch_bonus_items(token, page=page, size=size)
         if not products:
             break
-        all_products.extend(products)
+        filter_bonus = [p for p in products if p.get("isBonus")]
+        # all_products.extend(products)
+        all_bonus_products.extend(filter_bonus)
         page += 1
 
-    return all_products
+    with open(json_save_path, "w", encoding="utf-8") as f:
+        json.dump(all_bonus_products, f, ensure_ascii=False, indent=2)
+    current_logger.info(
+        f"✅ Saved {len(all_bonus_products)} items to {json_save_path}")
+
+    return all_bonus_products
 
 
-def filter_bonus_products(products):
-    # Keeps only products where isBonus == True
-    return [p for p in products if p.get("isBonus")]
-
-
-def get_daily_bonus_items(config=None):
-    all_items = get_all_bonus_items()
-    bonus_items = filter_bonus_products(all_items)
-    save_as_json(bonus_items, "bonus_items.json")
-
-
-# --- Script Execution ---
+    # --- Script Execution ---
 if __name__ == "__main__":
-    get_daily_bonus_items()
+    logging.basicConfig(
+        level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+
+    # module_logger = logging.getLogger("get_bonus.py")
+    module_logger.info("Running get_bonus.py directly.")
+    get_all_bonus_items()

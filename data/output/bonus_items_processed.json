@@ -156,7 +156,8 @@
         "percentage": 10,
         "precisePercentage": 10.3
       }
-    ]
+    ],
+    "calculatedSavings": 1.1500000000000004
   },
   {
     "webshopId": 567052,
@@ -236,7 +237,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.45000000000000107
   },
   {
     "webshopId": 502305,
@@ -315,7 +317,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.6233333333333333,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 566924,
@@ -395,7 +400,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.09999999999999987
   },
   {
     "webshopId": 171425,
@@ -473,7 +479,10 @@
         "price": 0.99
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "currentPrice": 0.495,
+    "calculatedSavings": 0.15500000000000003,
+    "priceCalculationMethod": "Formula_2 voor 0.99"
   },
   {
     "webshopId": 567399,
@@ -553,7 +562,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.6300000000000008
   },
   {
     "webshopId": 141,
@@ -632,7 +642,8 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 3
+    "minBestBeforeDays": 3,
+    "calculatedSavings": 0.6200000000000001
   },
   {
     "webshopId": 598037,
@@ -712,7 +723,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.5500000000000007
   },
   {
     "webshopId": 94782,
@@ -870,7 +882,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 5
+    "minBestBeforeDays": 5,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.5233333333333332,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 4183,
@@ -949,7 +964,8 @@
         "price": 1.39
       }
     ],
-    "minBestBeforeDays": 3
+    "minBestBeforeDays": 3,
+    "calculatedSavings": 0.3600000000000001
   },
   {
     "webshopId": 107685,
@@ -1027,7 +1043,10 @@
         "count": 2
       }
     ],
-    "minBestBeforeDays": 5
+    "minBestBeforeDays": 5,
+    "currentPrice": 1.4925,
+    "calculatedSavings": 0.49750000000000005,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 4180,
@@ -1106,7 +1125,10 @@
         "price": 0.99
       }
     ],
-    "minBestBeforeDays": 5
+    "minBestBeforeDays": 5,
+    "currentPrice": 0.495,
+    "calculatedSavings": 0.555,
+    "priceCalculationMethod": "Formula_2 voor 0.99"
   },
   {
     "webshopId": 578631,
@@ -1186,7 +1208,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 531875,
@@ -1265,7 +1288,10 @@
         "price": 4.99
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "currentPrice": 2.495,
+    "calculatedSavings": 1.495,
+    "priceCalculationMethod": "Formula_2 voor 4.99"
   },
   {
     "webshopId": 567338,
@@ -1345,7 +1371,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 374144,
@@ -1420,7 +1447,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 2.1675,
+    "calculatedSavings": 0.7225000000000001,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 549195,
@@ -1497,7 +1527,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.4500000000000002
   },
   {
     "webshopId": 569537,
@@ -1577,7 +1608,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.7300000000000004
   },
   {
     "webshopId": 107671,
@@ -1656,7 +1688,8 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "calculatedSavings": 0.69
   },
   {
     "webshopId": 568750,
@@ -1736,7 +1769,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20999999999999952
   },
   {
     "webshopId": 567490,
@@ -1816,7 +1850,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.8199999999999985
   },
   {
     "webshopId": 567368,
@@ -1896,7 +1931,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.18999999999999995
   },
   {
     "webshopId": 567385,
@@ -1976,7 +2012,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 579310,
@@ -2052,7 +2089,10 @@
         "count": 2
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 2.3925,
+    "calculatedSavings": 0.7974999999999999,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 590440,
@@ -2132,7 +2172,8 @@
         "percentage": 30,
         "precisePercentage": 30
       }
-    ]
+    ],
+    "calculatedSavings": 1.0099999999999998
   },
   {
     "webshopId": 566650,
@@ -2212,7 +2253,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.7300000000000004
   },
   {
     "webshopId": 566923,
@@ -2292,7 +2334,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.18999999999999995
   },
   {
     "webshopId": 140130,
@@ -2370,7 +2413,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 217297,
@@ -2449,7 +2495,10 @@
         "price": 3.99
       }
     ],
-    "minBestBeforeDays": 7
+    "minBestBeforeDays": 7,
+    "currentPrice": 1.995,
+    "calculatedSavings": 0.9950000000000001,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 567548,
@@ -2526,7 +2575,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 3.9800000000000004
   },
   {
     "webshopId": 2600,
@@ -2605,7 +2655,10 @@
         "count": 2,
         "price": 5.5
       }
-    ]
+    ],
+    "currentPrice": 2.75,
+    "calculatedSavings": 0.20000000000000018,
+    "priceCalculationMethod": "Formula_2 voor 5.50"
   },
   {
     "webshopId": 574103,
@@ -2685,7 +2738,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3000000000000007
   },
   {
     "webshopId": 187594,
@@ -2762,7 +2816,10 @@
         "price": 7.99
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 3.995,
+    "calculatedSavings": 0.9950000000000001,
+    "priceCalculationMethod": "Formula_2 voor 7.99"
   },
   {
     "webshopId": 597588,
@@ -2839,7 +2896,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.9900000000000002
   },
   {
     "webshopId": 598046,
@@ -2919,7 +2977,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 533082,
@@ -2998,7 +3057,10 @@
         "price": 4.99
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "currentPrice": 2.495,
+    "calculatedSavings": 0.4950000000000001,
+    "priceCalculationMethod": "Formula_2 voor 4.99"
   },
   {
     "webshopId": 567361,
@@ -3075,7 +3137,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 0.9900000000000002
   },
   {
     "webshopId": 567481,
@@ -3155,7 +3218,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.7999999999999972
   },
   {
     "webshopId": 563181,
@@ -3235,7 +3299,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 598024,
@@ -3315,7 +3380,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 2601,
@@ -3394,7 +3460,10 @@
         "count": 2,
         "price": 5.5
       }
-    ]
+    ],
+    "currentPrice": 2.75,
+    "calculatedSavings": 0.33999999999999986,
+    "priceCalculationMethod": "Formula_2 voor 5.50"
   },
   {
     "webshopId": 545537,
@@ -3474,7 +3543,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.27999999999999936
   },
   {
     "webshopId": 568373,
@@ -3554,7 +3624,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2699999999999996
   },
   {
     "webshopId": 598042,
@@ -3634,7 +3705,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 572388,
@@ -3714,7 +3786,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 496941,
@@ -3814,7 +3887,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 2.59,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_STAPELEN TOT 40% KORTING"
   },
   {
     "webshopId": 596834,
@@ -3891,7 +3967,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.2999999999999998
   },
   {
     "webshopId": 440331,
@@ -3970,7 +4047,8 @@
         "unit": "GRAM"
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "calculatedSavings": 0.98
   },
   {
     "webshopId": 598474,
@@ -4047,7 +4125,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.96
   },
   {
     "webshopId": 544086,
@@ -4126,7 +4205,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.8233333333333335,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 566900,
@@ -4206,7 +4288,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.27000000000000046
   },
   {
     "webshopId": 502289,
@@ -4285,7 +4368,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 5
+    "minBestBeforeDays": 5,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.6233333333333333,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 566899,
@@ -4365,7 +4451,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.21999999999999975
   },
   {
     "webshopId": 567333,
@@ -4445,7 +4532,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.6899999999999995
   },
   {
     "webshopId": 203333,
@@ -4524,7 +4612,8 @@
         "unit": "GRAM"
       }
     ],
-    "minBestBeforeDays": 7
+    "minBestBeforeDays": 7,
+    "calculatedSavings": 0.48
   },
   {
     "webshopId": 598466,
@@ -4601,7 +4690,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 0.96
   },
   {
     "webshopId": 577882,
@@ -4760,7 +4850,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.23999999999999932
   },
   {
     "webshopId": 567393,
@@ -4840,7 +4931,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.1399999999999988
   },
   {
     "webshopId": 572362,
@@ -4920,7 +5012,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.14000000000000012
   },
   {
     "webshopId": 566664,
@@ -5000,7 +5093,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.4800000000000004
   },
   {
     "webshopId": 598459,
@@ -5080,7 +5174,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.35999999999999943
   },
   {
     "webshopId": 567386,
@@ -5160,7 +5255,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.7599999999999998
   },
   {
     "webshopId": 567337,
@@ -5240,7 +5336,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 222563,
@@ -5318,7 +5415,10 @@
         "count": 1,
         "freeCount": 1
       }
-    ]
+    ],
+    "currentPrice": 3.045,
+    "calculatedSavings": 3.045,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 563435,
@@ -5395,7 +5495,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 12.18
   },
   {
     "webshopId": 574107,
@@ -5475,7 +5576,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 61758,
@@ -5554,7 +5656,10 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.6949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 587375,
@@ -5631,7 +5736,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.3900000000000006
   },
   {
     "webshopId": 140123,
@@ -5709,7 +5815,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 597121,
@@ -5786,7 +5895,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 2.58
   },
   {
     "webshopId": 573535,
@@ -5866,7 +5976,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3200000000000003
   },
   {
     "webshopId": 211047,
@@ -5941,7 +6052,10 @@
         "count": 2,
         "freeCount": 2
       }
-    ]
+    ],
+    "currentPrice": 0.725,
+    "calculatedSavings": 0.725,
+    "priceCalculationMethod": "Formula_2 + 2 gratis"
   },
   {
     "webshopId": 490798,
@@ -6100,7 +6214,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5999999999999996
   },
   {
     "webshopId": 567029,
@@ -6180,7 +6295,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2599999999999998
   },
   {
     "webshopId": 2594,
@@ -6259,7 +6375,10 @@
         "count": 2,
         "price": 5.5
       }
-    ]
+    ],
+    "currentPrice": 2.75,
+    "calculatedSavings": 0.6400000000000001,
+    "priceCalculationMethod": "Formula_2 voor 5.50"
   },
   {
     "webshopId": 579113,
@@ -6339,7 +6458,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.6900000000000004
   },
   {
     "webshopId": 388475,
@@ -6418,7 +6538,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.8233333333333335,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 591422,
@@ -6498,7 +6621,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.6000000000000005
   },
   {
     "webshopId": 568370,
@@ -6578,7 +6702,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3000000000000007
   },
   {
     "webshopId": 3579,
@@ -6655,7 +6780,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 2.6175,
+    "calculatedSavings": 0.8725,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 590448,
@@ -6732,7 +6860,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.75
   },
   {
     "webshopId": 520805,
@@ -6811,7 +6940,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 3
+    "minBestBeforeDays": 3,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.5233333333333332,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 169175,
@@ -6890,7 +7022,8 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "calculatedSavings": 0.5
   },
   {
     "webshopId": 129244,
@@ -6968,7 +7101,10 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.6949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 575744,
@@ -7045,7 +7181,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.3900000000000006
   },
   {
     "webshopId": 209562,
@@ -7136,7 +7273,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 3.59,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 585194,
@@ -7213,7 +7353,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 2.51
   },
   {
     "webshopId": 2606,
@@ -7291,7 +7432,10 @@
         "count": 2,
         "price": 5.5
       }
-    ]
+    ],
+    "currentPrice": 2.75,
+    "calculatedSavings": 1.1400000000000001,
+    "priceCalculationMethod": "Formula_2 voor 5.50"
   },
   {
     "webshopId": 457839,
@@ -7369,7 +7513,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 586251,
@@ -7446,7 +7593,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.29
   },
   {
     "webshopId": 591421,
@@ -7526,7 +7674,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.6000000000000005
   },
   {
     "webshopId": 590454,
@@ -7606,7 +7755,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.6900000000000004
   },
   {
     "webshopId": 232017,
@@ -7685,7 +7835,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 12
+    "minBestBeforeDays": 12,
+    "currentPrice": 2.5,
+    "calculatedSavings": 0.29000000000000004,
+    "priceCalculationMethod": "Formula_2 voor 5.00"
   },
   {
     "webshopId": 162601,
@@ -7764,7 +7917,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 18
+    "minBestBeforeDays": 18,
+    "currentPrice": 2.5,
+    "calculatedSavings": 0.29000000000000004,
+    "priceCalculationMethod": "Formula_2 voor 5.00"
   },
   {
     "webshopId": 568379,
@@ -7844,7 +8000,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3000000000000007
   },
   {
     "webshopId": 578608,
@@ -7924,7 +8081,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.11000000000000032
   },
   {
     "webshopId": 215318,
@@ -8003,7 +8161,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.5233333333333332,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 477062,
@@ -8081,7 +8242,10 @@
         "count": 3,
         "price": 4.99
       }
-    ]
+    ],
+    "currentPrice": 1.6633333333333333,
+    "calculatedSavings": 0.5266666666666666,
+    "priceCalculationMethod": "Formula_3 voor 4.99"
   },
   {
     "webshopId": 566826,
@@ -8161,7 +8325,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.17999999999999972
   },
   {
     "webshopId": 593118,
@@ -8241,7 +8406,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5999999999999996
   },
   {
     "webshopId": 597527,
@@ -8321,7 +8487,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.4800000000000004
   },
   {
     "webshopId": 577749,
@@ -8401,7 +8568,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.5999999999999996
   },
   {
     "webshopId": 568571,
@@ -8481,7 +8649,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.18000000000000016
   },
   {
     "webshopId": 574575,
@@ -8565,7 +8734,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.5399999999999991
   },
   {
     "webshopId": 594418,
@@ -8645,7 +8815,8 @@
         "percentage": 20,
         "precisePercentage": 20
       }
-    ]
+    ],
+    "calculatedSavings": 1.13
   },
   {
     "webshopId": 584737,
@@ -8725,7 +8896,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.6600000000000001
   },
   {
     "webshopId": 163826,
@@ -8805,7 +8977,8 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 7
+    "minBestBeforeDays": 7,
+    "calculatedSavings": 0.7200000000000002
   },
   {
     "webshopId": 485577,
@@ -8885,7 +9058,10 @@
         "count": 3,
         "price": 4.99
       }
-    ]
+    ],
+    "currentPrice": 1.6633333333333333,
+    "calculatedSavings": 1.0266666666666666,
+    "priceCalculationMethod": "Formula_3 voor 4.99"
   },
   {
     "webshopId": 454161,
@@ -8964,7 +9140,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 18
+    "minBestBeforeDays": 18,
+    "currentPrice": 2.5,
+    "calculatedSavings": 0.4900000000000002,
+    "priceCalculationMethod": "Formula_2 voor 5.00"
   },
   {
     "webshopId": 514003,
@@ -9043,7 +9222,10 @@
         "count": 2,
         "price": 3.99
       }
-    ]
+    ],
+    "currentPrice": 1.995,
+    "calculatedSavings": 1.1949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 518423,
@@ -9124,7 +9306,8 @@
         "precisePercentage": 35
       }
     ],
-    "minBestBeforeDays": 7
+    "minBestBeforeDays": 7,
+    "calculatedSavings": 1.0500000000000003
   },
   {
     "webshopId": 590371,
@@ -9204,7 +9387,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.7599999999999998
   },
   {
     "webshopId": 594732,
@@ -9284,7 +9468,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.9000000000000004
   },
   {
     "webshopId": 573462,
@@ -9364,7 +9549,8 @@
         "percentage": 20,
         "precisePercentage": 20
       }
-    ]
+    ],
+    "calculatedSavings": 2.99
   },
   {
     "webshopId": 531869,
@@ -9443,7 +9629,10 @@
         "price": 4.99
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "currentPrice": 2.495,
+    "calculatedSavings": 0.7949999999999999,
+    "priceCalculationMethod": "Formula_2 voor 4.99"
   },
   {
     "webshopId": 577829,
@@ -9520,7 +9709,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.5899999999999999
   },
   {
     "webshopId": 587372,
@@ -9600,7 +9790,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 598465,
@@ -9680,7 +9871,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3100000000000005
   },
   {
     "webshopId": 440374,
@@ -9758,7 +9950,10 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.6949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 197154,
@@ -9837,7 +10032,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 18
+    "minBestBeforeDays": 18,
+    "currentPrice": 2.5,
+    "calculatedSavings": 0.29000000000000004,
+    "priceCalculationMethod": "Formula_2 voor 5.00"
   },
   {
     "webshopId": 595691,
@@ -9917,7 +10115,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.16000000000000014
   },
   {
     "webshopId": 578513,
@@ -9997,7 +10196,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 0.6299999999999999
   },
   {
     "webshopId": 594670,
@@ -10077,7 +10277,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 582866,
@@ -10157,7 +10358,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 0.54
   },
   {
     "webshopId": 578462,
@@ -10237,7 +10439,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.6600000000000001
   },
   {
     "webshopId": 222510,
@@ -10315,7 +10518,10 @@
         "count": 1,
         "freeCount": 1
       }
-    ]
+    ],
+    "currentPrice": 2.745,
+    "calculatedSavings": 2.745,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 591368,
@@ -10395,7 +10601,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 48679,
@@ -10497,7 +10704,10 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 2.99,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 50%"
   },
   {
     "webshopId": 594661,
@@ -10577,7 +10787,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.23999999999999932
   },
   {
     "webshopId": 562458,
@@ -10657,7 +10868,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3000000000000007
   },
   {
     "webshopId": 580252,
@@ -10737,7 +10949,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.40000000000000036
   },
   {
     "webshopId": 161329,
@@ -10826,7 +11039,10 @@
         "price": 4.49,
         "unit": "PIECE"
       }
-    ]
+    ],
+    "currentPrice": 1.9966666666666668,
+    "calculatedSavings": 0.7533333333333332,
+    "priceCalculationMethod": "Formula_3 stapelen voor 5.99"
   },
   {
     "webshopId": 566935,
@@ -10903,7 +11119,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 2.26
   },
   {
     "webshopId": 41069,
@@ -10980,7 +11197,8 @@
         "price": 2.29
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 589391,
@@ -11060,7 +11278,8 @@
         "percentage": 30,
         "precisePercentage": 30
       }
-    ]
+    ],
+    "calculatedSavings": 1.4900000000000002
   },
   {
     "webshopId": 548937,
@@ -11140,7 +11359,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 587370,
@@ -11220,7 +11440,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.35000000000000053
   },
   {
     "webshopId": 566827,
@@ -11300,7 +11521,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.21999999999999975
   },
   {
     "webshopId": 192853,
@@ -11379,7 +11601,8 @@
         "unit": "GRAM"
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "calculatedSavings": 0.5
   },
   {
     "webshopId": 598463,
@@ -11456,7 +11679,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 598464,
@@ -11536,7 +11760,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 591419,
@@ -11616,7 +11841,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5
   },
   {
     "webshopId": 410944,
@@ -11696,7 +11922,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 12
+    "minBestBeforeDays": 12,
+    "currentPrice": 1.495,
+    "calculatedSavings": 1.495,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 575712,
@@ -11776,7 +12005,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2599999999999998
   },
   {
     "webshopId": 590443,
@@ -11856,7 +12086,8 @@
         "percentage": 30,
         "precisePercentage": 30
       }
-    ]
+    ],
+    "calculatedSavings": 2.0999999999999996
   },
   {
     "webshopId": 594731,
@@ -11936,7 +12167,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.6799999999999997
   },
   {
     "webshopId": 597546,
@@ -12016,7 +12248,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.10000000000000009
   },
   {
     "webshopId": 591428,
@@ -12096,7 +12329,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 567122,
@@ -12176,7 +12410,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 568214,
@@ -12256,7 +12491,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33000000000000007
   },
   {
     "webshopId": 187604,
@@ -12336,7 +12572,8 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "calculatedSavings": 0.96
   },
   {
     "webshopId": 578161,
@@ -12413,7 +12650,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 3.84
   },
   {
     "webshopId": 461862,
@@ -12493,7 +12731,8 @@
         "percentage": 35,
         "precisePercentage": 35
       }
-    ]
+    ],
+    "calculatedSavings": 0.8700000000000001
   },
   {
     "webshopId": 555350,
@@ -12570,7 +12809,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 3.490000000000001
   },
   {
     "webshopId": 215520,
@@ -12649,7 +12889,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 3
+    "minBestBeforeDays": 3,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.5233333333333332,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 478021,
@@ -12728,7 +12971,10 @@
         "price": 6.0
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.75,
+    "priceCalculationMethod": "Formula_3 voor 6.00"
   },
   {
     "webshopId": 579112,
@@ -12808,7 +13054,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.3000000000000007
   },
   {
     "webshopId": 213365,
@@ -12885,7 +13132,8 @@
         "price": 2.39
       }
     ],
-    "minBestBeforeDays": 10
+    "minBestBeforeDays": 10,
+    "calculatedSavings": 1.1
   },
   {
     "webshopId": 123142,
@@ -12965,7 +13213,8 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 10
+    "minBestBeforeDays": 10,
+    "calculatedSavings": 0.5
   },
   {
     "webshopId": 594671,
@@ -13045,7 +13294,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 594704,
@@ -13125,7 +13375,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 0.7799999999999994
   },
   {
     "webshopId": 136084,
@@ -13203,7 +13454,10 @@
         "count": 2,
         "price": 5.5
       }
-    ]
+    ],
+    "currentPrice": 2.75,
+    "calculatedSavings": 0.5,
+    "priceCalculationMethod": "Formula_2 voor 5.50"
   },
   {
     "webshopId": 121581,
@@ -13281,7 +13535,10 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.6949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 590336,
@@ -13361,7 +13618,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.7300000000000004
   },
   {
     "webshopId": 592360,
@@ -13441,7 +13699,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.8700000000000001
   },
   {
     "webshopId": 597516,
@@ -13521,7 +13780,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.5500000000000007
   },
   {
     "webshopId": 198386,
@@ -13599,7 +13859,8 @@
         "amount": 1.0
       }
     ],
-    "minBestBeforeDays": 3
+    "minBestBeforeDays": 3,
+    "calculatedSavings": 0.9999999999999996
   },
   {
     "webshopId": 582867,
@@ -13679,7 +13940,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 0.7200000000000006
   },
   {
     "webshopId": 597536,
@@ -13759,7 +14021,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33000000000000007
   },
   {
     "webshopId": 597969,
@@ -13839,7 +14102,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 566665,
@@ -13919,7 +14183,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.4599999999999991
   },
   {
     "webshopId": 197173,
@@ -13998,7 +14263,8 @@
         "unit": "GRAM"
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "calculatedSavings": 0.5
   },
   {
     "webshopId": 598030,
@@ -14075,7 +14341,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 485578,
@@ -14155,7 +14422,10 @@
         "count": 3,
         "price": 4.99
       }
-    ]
+    ],
+    "currentPrice": 1.6633333333333333,
+    "calculatedSavings": 1.0266666666666666,
+    "priceCalculationMethod": "Formula_3 voor 4.99"
   },
   {
     "webshopId": 559302,
@@ -14233,7 +14503,10 @@
         "count": 3,
         "price": 6.0
       }
-    ]
+    ],
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.69,
+    "priceCalculationMethod": "Formula_3 voor 6.00"
   },
   {
     "webshopId": 163236,
@@ -14311,7 +14584,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 590367,
@@ -14391,7 +14667,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 2.120000000000001
   },
   {
     "webshopId": 586001,
@@ -14471,7 +14748,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5999999999999996
   },
   {
     "webshopId": 598665,
@@ -14551,7 +14829,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.8000000000000007
   },
   {
     "webshopId": 577367,
@@ -14631,7 +14910,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 1.7999999999999972
   },
   {
     "webshopId": 188227,
@@ -14711,7 +14991,8 @@
         "percentage": 35,
         "precisePercentage": 35
       }
-    ]
+    ],
+    "calculatedSavings": 0.7
   },
   {
     "webshopId": 562392,
@@ -14788,7 +15069,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 2.79
   },
   {
     "webshopId": 547694,
@@ -14863,7 +15145,10 @@
         "count": 2,
         "price": 4.99
       }
-    ]
+    ],
+    "currentPrice": 2.495,
+    "calculatedSavings": 0.4950000000000001,
+    "priceCalculationMethod": "Formula_2 voor 4.99"
   },
   {
     "webshopId": 595693,
@@ -14943,7 +15228,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.16000000000000014
   },
   {
     "webshopId": 594663,
@@ -15023,7 +15309,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 587374,
@@ -15103,7 +15390,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2599999999999998
   },
   {
     "webshopId": 61760,
@@ -15182,7 +15470,10 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.6949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 562459,
@@ -15262,7 +15553,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33000000000000007
   },
   {
     "webshopId": 584742,
@@ -15342,7 +15634,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 4.189999999999998
   },
   {
     "webshopId": 440336,
@@ -15421,7 +15714,8 @@
         "unit": "GRAM"
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "calculatedSavings": 0.98
   },
   {
     "webshopId": 598475,
@@ -15498,7 +15792,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.96
   },
   {
     "webshopId": 578654,
@@ -15578,7 +15873,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.21999999999999975
   },
   {
     "webshopId": 496904,
@@ -15656,7 +15952,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 567146,
@@ -15736,7 +16035,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 567398,
@@ -15816,7 +16116,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 594657,
@@ -15896,7 +16197,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 0.7799999999999994
   },
   {
     "webshopId": 582874,
@@ -15976,7 +16278,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.43999999999999995
   },
   {
     "webshopId": 171156,
@@ -16057,7 +16360,10 @@
         "count": 1,
         "freeCount": 1
       }
-    ]
+    ],
+    "currentPrice": 7.495,
+    "calculatedSavings": 7.495,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 595593,
@@ -16134,7 +16440,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 29.98
   },
   {
     "webshopId": 3472,
@@ -16211,7 +16518,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 1.4925,
+    "calculatedSavings": 0.49750000000000005,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 582200,
@@ -16288,7 +16598,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 578655,
@@ -16368,7 +16679,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2699999999999996
   },
   {
     "webshopId": 387615,
@@ -16444,7 +16756,10 @@
         "count": 2,
         "price": 2.99
       }
-    ]
+    ],
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.6949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 567484,
@@ -16524,7 +16839,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2599999999999998
   },
   {
     "webshopId": 584735,
@@ -16604,7 +16920,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5999999999999996
   },
   {
     "webshopId": 514005,
@@ -16684,7 +17001,10 @@
         "count": 2,
         "price": 3.99
       }
-    ]
+    ],
+    "currentPrice": 1.995,
+    "calculatedSavings": 1.895,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 591777,
@@ -16764,7 +17084,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5
   },
   {
     "webshopId": 594419,
@@ -16844,7 +17165,8 @@
         "percentage": 20,
         "precisePercentage": 20
       }
-    ]
+    ],
+    "calculatedSavings": 1.790000000000001
   },
   {
     "webshopId": 561719,
@@ -16923,7 +17245,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 9
+    "minBestBeforeDays": 9,
+    "currentPrice": 0.9083333333333333,
+    "calculatedSavings": 0.18166666666666675,
+    "priceCalculationMethod": "Formula_5 + 1 gratis"
   },
   {
     "webshopId": 571533,
@@ -17000,7 +17325,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.0899999999999999
   },
   {
     "webshopId": 580349,
@@ -17080,7 +17406,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2699999999999996
   },
   {
     "webshopId": 586003,
@@ -17160,7 +17487,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.54
   },
   {
     "webshopId": 580683,
@@ -17240,7 +17568,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5999999999999996
   },
   {
     "webshopId": 573407,
@@ -17320,7 +17649,8 @@
         "percentage": 13,
         "precisePercentage": 13.5
       }
-    ]
+    ],
+    "calculatedSavings": 1.5099999999999998
   },
   {
     "webshopId": 590122,
@@ -17400,7 +17730,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3000000000000007
   },
   {
     "webshopId": 428729,
@@ -17478,7 +17809,10 @@
         "count": 2,
         "price": 4.49
       }
-    ]
+    ],
+    "currentPrice": 2.245,
+    "calculatedSavings": 0.7450000000000001,
+    "priceCalculationMethod": "Formula_2 voor 4.49"
   },
   {
     "webshopId": 2803,
@@ -17567,7 +17901,10 @@
         "price": 4.49,
         "unit": "PIECE"
       }
-    ]
+    ],
+    "currentPrice": 1.9966666666666668,
+    "calculatedSavings": 0.7533333333333332,
+    "priceCalculationMethod": "Formula_3 stapelen voor 5.99"
   },
   {
     "webshopId": 140127,
@@ -17645,7 +17982,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 597112,
@@ -17722,7 +18062,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 2.58
   },
   {
     "webshopId": 587039,
@@ -17802,7 +18143,8 @@
         "percentage": 20,
         "precisePercentage": 20
       }
-    ]
+    ],
+    "calculatedSavings": 3.200000000000001
   },
   {
     "webshopId": 225279,
@@ -17880,7 +18222,8 @@
         "defaultDescription": "€1.00 euro korting",
         "amount": 1.0
       }
-    ]
+    ],
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 505580,
@@ -17957,7 +18300,10 @@
         "price": 2.5
       }
     ],
-    "minBestBeforeDays": 8
+    "minBestBeforeDays": 8,
+    "currentPrice": 1.25,
+    "calculatedSavings": 0.3400000000000001,
+    "priceCalculationMethod": "Formula_2 voor 2.50"
   },
   {
     "webshopId": 584608,
@@ -18034,7 +18380,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 5.9999999999999964
   },
   {
     "webshopId": 187605,
@@ -18113,7 +18460,8 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 578166,
@@ -18190,7 +18538,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 3.0
   },
   {
     "webshopId": 495901,
@@ -18266,7 +18615,8 @@
         "amount": 1.0
       }
     ],
-    "minBestBeforeDays": 3
+    "minBestBeforeDays": 3,
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 598021,
@@ -18346,7 +18696,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2999999999999998
   },
   {
     "webshopId": 587377,
@@ -18426,7 +18777,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 143235,
@@ -18528,7 +18880,10 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 2.99,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 50%"
   },
   {
     "webshopId": 594655,
@@ -18608,7 +18963,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 0.69
   },
   {
     "webshopId": 48585,
@@ -18683,7 +19039,8 @@
         "percentage": 50,
         "precisePercentage": 50
       }
-    ]
+    ],
+    "calculatedSavings": 1.7999999999999998
   },
   {
     "webshopId": 480505,
@@ -18761,7 +19118,10 @@
         "count": 2,
         "price": 4.0
       }
-    ]
+    ],
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.3900000000000001,
+    "priceCalculationMethod": "Formula_2 voor 4.00"
   },
   {
     "webshopId": 587698,
@@ -18841,7 +19201,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.8600000000000003
   },
   {
     "webshopId": 586254,
@@ -18921,7 +19282,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 2.1499999999999986
   },
   {
     "webshopId": 491167,
@@ -19084,7 +19446,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 2.0600000000000005
   },
   {
     "webshopId": 2597,
@@ -19162,7 +19525,10 @@
         "count": 2,
         "price": 5.5
       }
-    ]
+    ],
+    "currentPrice": 2.75,
+    "calculatedSavings": 0.3999999999999999,
+    "priceCalculationMethod": "Formula_2 voor 5.50"
   },
   {
     "webshopId": 202090,
@@ -19241,7 +19607,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 18
+    "minBestBeforeDays": 18,
+    "currentPrice": 2.5,
+    "calculatedSavings": 0.29000000000000004,
+    "priceCalculationMethod": "Formula_2 voor 5.00"
   },
   {
     "webshopId": 230456,
@@ -19319,7 +19688,10 @@
         "count": 2,
         "price": 4.0
       }
-    ]
+    ],
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.18999999999999995,
+    "priceCalculationMethod": "Formula_2 voor 4.00"
   },
   {
     "webshopId": 575718,
@@ -19399,7 +19771,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.35000000000000053
   },
   {
     "webshopId": 62060,
@@ -19490,7 +19863,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 5.99,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 585187,
@@ -19567,7 +19943,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 4.19
   },
   {
     "webshopId": 598038,
@@ -19647,7 +20024,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.35999999999999943
   },
   {
     "webshopId": 217296,
@@ -19724,7 +20102,10 @@
         "price": 3.99
       }
     ],
-    "minBestBeforeDays": 7
+    "minBestBeforeDays": 7,
+    "currentPrice": 1.995,
+    "calculatedSavings": 0.09499999999999975,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 408472,
@@ -19798,7 +20179,8 @@
         "defaultDescription": "BONUS"
       }
     ],
-    "externalWebshopUrl": "https://voordeelshop.ah.nl/persoonlijke-verzorging/parfum/828/dkny-be-delicious-fresh-blossom-edp-spray-30-ml/292609/?utm_source=AH&utm_medium=link&utm_campaign=vds_int"
+    "externalWebshopUrl": "https://voordeelshop.ah.nl/persoonlijke-verzorging/parfum/828/dkny-be-delicious-fresh-blossom-edp-spray-30-ml/292609/?utm_source=AH&utm_medium=link&utm_campaign=vds_int",
+    "calculatedSavings": 28.05
   },
   {
     "webshopId": 590524,
@@ -19872,7 +20254,8 @@
         "defaultDescription": "BONUS"
       }
     ],
-    "externalWebshopUrl": "https://voordeelshop.ah.nl/buiten-en-tuin/tuingereedschap-en-onderhoud/671/keter-southwood-643l-opbergbox/299493/?utm_source=AH&utm_medium=link&utm_campaign=vds_int"
+    "externalWebshopUrl": "https://voordeelshop.ah.nl/buiten-en-tuin/tuingereedschap-en-onderhoud/671/keter-southwood-643l-opbergbox/299493/?utm_source=AH&utm_medium=link&utm_campaign=vds_int",
+    "calculatedSavings": 50.0
   },
   {
     "webshopId": 220739,
@@ -19949,7 +20332,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 3.4875000000000003,
+    "calculatedSavings": 1.1625,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 594987,
@@ -20029,7 +20415,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.6900000000000004
   },
   {
     "webshopId": 561718,
@@ -20108,7 +20495,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 9
+    "minBestBeforeDays": 9,
+    "currentPrice": 0.9083333333333333,
+    "calculatedSavings": 0.18166666666666675,
+    "priceCalculationMethod": "Formula_5 + 1 gratis"
   },
   {
     "webshopId": 571534,
@@ -20185,7 +20575,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.0899999999999999
   },
   {
     "webshopId": 593081,
@@ -20265,7 +20656,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.75
   },
   {
     "webshopId": 120877,
@@ -20342,7 +20734,10 @@
         "price": 7.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 3.5,
+    "calculatedSavings": 0.79,
+    "priceCalculationMethod": "Formula_2 voor 7.00"
   },
   {
     "webshopId": 477910,
@@ -20421,7 +20816,10 @@
         "price": 6.0
       }
     ],
-    "minBestBeforeDays": 14
+    "minBestBeforeDays": 14,
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.9900000000000002,
+    "priceCalculationMethod": "Formula_3 voor 6.00"
   },
   {
     "webshopId": 590452,
@@ -20501,7 +20899,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.45999999999999996
   },
   {
     "webshopId": 568284,
@@ -20581,7 +20980,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.18999999999999995
   },
   {
     "webshopId": 591373,
@@ -20661,7 +21061,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5199999999999996
   },
   {
     "webshopId": 580335,
@@ -20741,7 +21142,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.7999999999999998
   },
   {
     "webshopId": 569883,
@@ -20820,7 +21222,10 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.7949999999999999,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 593684,
@@ -20900,7 +21305,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3700000000000001
   },
   {
     "webshopId": 591369,
@@ -20980,7 +21386,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 553873,
@@ -21069,7 +21476,10 @@
         "price": 4.49,
         "unit": "PIECE"
       }
-    ]
+    ],
+    "currentPrice": 1.9966666666666668,
+    "calculatedSavings": 0.6933333333333331,
+    "priceCalculationMethod": "Formula_3 stapelen voor 5.99"
   },
   {
     "webshopId": 576062,
@@ -21146,7 +21556,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 2.08
   },
   {
     "webshopId": 577719,
@@ -21226,7 +21637,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 591367,
@@ -21306,7 +21718,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 209567,
@@ -21397,7 +21810,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 4.15,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 594715,
@@ -21474,7 +21890,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 2.910000000000001
   },
   {
     "webshopId": 483912,
@@ -21551,7 +21968,10 @@
         "price": 7.99
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 3.995,
+    "calculatedSavings": 0.9950000000000001,
+    "priceCalculationMethod": "Formula_2 voor 7.99"
   },
   {
     "webshopId": 578170,
@@ -21628,7 +22048,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.9900000000000002
   },
   {
     "webshopId": 566657,
@@ -21708,7 +22129,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.4800000000000004
   },
   {
     "webshopId": 572389,
@@ -21788,7 +22210,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 112579,
@@ -21879,7 +22302,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 4.39,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 597514,
@@ -21959,7 +22385,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.47000000000000064
   },
   {
     "webshopId": 590127,
@@ -22039,7 +22466,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 594680,
@@ -22119,7 +22547,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 168583,
@@ -22199,7 +22628,8 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 9
+    "minBestBeforeDays": 9,
+    "calculatedSavings": 0.75
   },
   {
     "webshopId": 584728,
@@ -22279,7 +22709,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 3.5899999999999963
   },
   {
     "webshopId": 591839,
@@ -22356,7 +22787,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.5
   },
   {
     "webshopId": 197384,
@@ -22435,7 +22867,10 @@
         "price": 4.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.3900000000000001,
+    "priceCalculationMethod": "Formula_2 voor 4.00"
   },
   {
     "webshopId": 594413,
@@ -22515,7 +22950,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.4800000000000004
   },
   {
     "webshopId": 585881,
@@ -22593,7 +23029,8 @@
         "defaultDescription": "voor 0.99",
         "price": 0.99
       }
-    ]
+    ],
+    "calculatedSavings": 0.8999999999999999
   },
   {
     "webshopId": 587373,
@@ -22673,7 +23110,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.4800000000000004
   },
   {
     "webshopId": 593121,
@@ -22750,7 +23188,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 3.5999999999999996
   },
   {
     "webshopId": 590377,
@@ -22830,7 +23269,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5999999999999996
   },
   {
     "webshopId": 577828,
@@ -22910,7 +23350,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.1300000000000008
   },
   {
     "webshopId": 590373,
@@ -22990,7 +23431,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.7999999999999972
   },
   {
     "webshopId": 595687,
@@ -23070,7 +23512,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.13999999999999968
   },
   {
     "webshopId": 591545,
@@ -23150,7 +23593,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.0199999999999996
   },
   {
     "webshopId": 140124,
@@ -23228,7 +23672,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 580353,
@@ -23308,7 +23755,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.09000000000000008
   },
   {
     "webshopId": 566653,
@@ -23388,7 +23836,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2999999999999998
   },
   {
     "webshopId": 196169,
@@ -23469,7 +23918,8 @@
         "precisePercentage": 35
       }
     ],
-    "minBestBeforeDays": 7
+    "minBestBeforeDays": 7,
+    "calculatedSavings": 1.0500000000000003
   },
   {
     "webshopId": 597974,
@@ -23549,7 +23999,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3200000000000003
   },
   {
     "webshopId": 496943,
@@ -23649,7 +24100,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 3.09,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_STAPELEN TOT 40% KORTING"
   },
   {
     "webshopId": 128265,
@@ -23726,7 +24180,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 1.7925,
+    "calculatedSavings": 0.5975000000000001,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 559301,
@@ -23804,7 +24261,10 @@
         "count": 3,
         "price": 6.0
       }
-    ]
+    ],
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.69,
+    "priceCalculationMethod": "Formula_3 voor 6.00"
   },
   {
     "webshopId": 506602,
@@ -23880,7 +24340,10 @@
         "count": 2,
         "price": 2.99
       }
-    ]
+    ],
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.4949999999999999,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 593710,
@@ -23960,7 +24423,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 579080,
@@ -24040,7 +24504,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.08
   },
   {
     "webshopId": 520318,
@@ -24119,7 +24584,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.6833333333333333,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 574208,
@@ -24199,7 +24667,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 4.049999999999997
   },
   {
     "webshopId": 226519,
@@ -24290,7 +24759,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 3.59,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 594129,
@@ -24370,7 +24842,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5
   },
   {
     "webshopId": 128264,
@@ -24447,7 +24920,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 1.7175,
+    "calculatedSavings": 0.5725,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 173078,
@@ -24538,7 +25014,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 4.19,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 531884,
@@ -24618,7 +25097,8 @@
         "amount": 1.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 187593,
@@ -24695,7 +25175,10 @@
         "price": 7.99
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 3.995,
+    "calculatedSavings": 0.9950000000000001,
+    "priceCalculationMethod": "Formula_2 voor 7.99"
   },
   {
     "webshopId": 578168,
@@ -24772,7 +25255,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.9900000000000002
   },
   {
     "webshopId": 142435,
@@ -24850,7 +25334,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 13
+    "minBestBeforeDays": 13,
+    "currentPrice": 1.195,
+    "calculatedSavings": 1.195,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 575713,
@@ -24930,7 +25417,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33000000000000007
   },
   {
     "webshopId": 155587,
@@ -25007,7 +25495,8 @@
         "price": 2.29
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 546332,
@@ -25087,7 +25576,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.22000000000000064
   },
   {
     "webshopId": 567459,
@@ -25167,7 +25657,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 579284,
@@ -25247,7 +25738,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.18999999999999995
   },
   {
     "webshopId": 571450,
@@ -25321,7 +25813,10 @@
         "count": 1,
         "freeCount": 1
       }
-    ]
+    ],
+    "currentPrice": 6.995,
+    "calculatedSavings": 6.995,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 56027,
@@ -25401,7 +25896,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 13
+    "minBestBeforeDays": 13,
+    "currentPrice": 1.145,
+    "calculatedSavings": 1.145,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 496942,
@@ -25501,7 +25999,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 2.69,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_STAPELEN TOT 40% KORTING"
   },
   {
     "webshopId": 596925,
@@ -25578,7 +26079,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.3499999999999996
   },
   {
     "webshopId": 568676,
@@ -25658,7 +26160,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3200000000000003
   },
   {
     "webshopId": 597191,
@@ -25738,7 +26241,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.18999999999999995
   },
   {
     "webshopId": 594212,
@@ -25818,7 +26322,8 @@
         "percentage": 30,
         "precisePercentage": 30
       }
-    ]
+    ],
+    "calculatedSavings": 2.0900000000000007
   },
   {
     "webshopId": 474379,
@@ -25893,7 +26398,10 @@
         "count": 2,
         "freeCount": 4
       }
-    ]
+    ],
+    "currentPrice": 1.43,
+    "calculatedSavings": 2.8600000000000003,
+    "priceCalculationMethod": "Formula_2 + 4 GRATIS"
   },
   {
     "webshopId": 588228,
@@ -25968,7 +26476,8 @@
         "percentage": 40,
         "precisePercentage": 40
       }
-    ]
+    ],
+    "calculatedSavings": 8.58
   },
   {
     "webshopId": 478232,
@@ -26047,7 +26556,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 18
+    "minBestBeforeDays": 18,
+    "currentPrice": 2.5,
+    "calculatedSavings": 0.29000000000000004,
+    "priceCalculationMethod": "Formula_2 voor 5.00"
   },
   {
     "webshopId": 564933,
@@ -26127,7 +26639,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.5199999999999996
   },
   {
     "webshopId": 587080,
@@ -26207,7 +26720,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.1600000000000001
   },
   {
     "webshopId": 591360,
@@ -26287,7 +26801,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.6000000000000005
   },
   {
     "webshopId": 428732,
@@ -26365,7 +26880,10 @@
         "count": 2,
         "price": 4.49
       }
-    ]
+    ],
+    "currentPrice": 2.245,
+    "calculatedSavings": 0.7450000000000001,
+    "priceCalculationMethod": "Formula_2 voor 4.49"
   },
   {
     "webshopId": 513999,
@@ -26445,7 +26963,10 @@
         "count": 2,
         "price": 3.99
       }
-    ]
+    ],
+    "currentPrice": 1.995,
+    "calculatedSavings": 1.1949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 591420,
@@ -26525,7 +27046,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5
   },
   {
     "webshopId": 553924,
@@ -26602,7 +27124,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 1.9425,
+    "calculatedSavings": 0.6475,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 570826,
@@ -26677,7 +27202,10 @@
         "count": 2,
         "price": 4.99
       }
-    ]
+    ],
+    "currentPrice": 2.495,
+    "calculatedSavings": 2.1950000000000003,
+    "priceCalculationMethod": "Formula_2 voor 4.99"
   },
   {
     "webshopId": 67663,
@@ -26754,7 +27282,8 @@
         "price": 2.29
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 62699,
@@ -26834,7 +27363,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 13
+    "minBestBeforeDays": 13,
+    "currentPrice": 1.195,
+    "calculatedSavings": 1.195,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 577858,
@@ -26914,7 +27446,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.6000000000000014
   },
   {
     "webshopId": 485579,
@@ -26994,7 +27527,10 @@
         "count": 3,
         "price": 4.99
       }
-    ]
+    ],
+    "currentPrice": 1.6633333333333333,
+    "calculatedSavings": 1.0266666666666666,
+    "priceCalculationMethod": "Formula_3 voor 4.99"
   },
   {
     "webshopId": 589441,
@@ -27074,7 +27610,8 @@
         "percentage": 30,
         "precisePercentage": 30
       }
-    ]
+    ],
+    "calculatedSavings": 4.74
   },
   {
     "webshopId": 589379,
@@ -27154,7 +27691,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.7000000000000002
   },
   {
     "webshopId": 593054,
@@ -27233,7 +27771,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.6233333333333333,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 593116,
@@ -27313,7 +27854,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3700000000000001
   },
   {
     "webshopId": 520758,
@@ -27393,7 +27935,10 @@
         "count": 3,
         "price": 4.99
       }
-    ]
+    ],
+    "currentPrice": 1.6633333333333333,
+    "calculatedSavings": 1.3266666666666669,
+    "priceCalculationMethod": "Formula_3 voor 4.99"
   },
   {
     "webshopId": 594409,
@@ -27470,7 +28015,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 3.9800000000000004
   },
   {
     "webshopId": 368706,
@@ -27548,7 +28094,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 5
+    "minBestBeforeDays": 5,
+    "currentPrice": 0.545,
+    "calculatedSavings": 0.545,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 428731,
@@ -27626,7 +28175,10 @@
         "count": 2,
         "price": 4.49
       }
-    ]
+    ],
+    "currentPrice": 2.245,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 4.49"
   },
   {
     "webshopId": 114698,
@@ -27706,7 +28258,8 @@
         "percentage": 35,
         "precisePercentage": 35
       }
-    ]
+    ],
+    "calculatedSavings": 0.7
   },
   {
     "webshopId": 595577,
@@ -27786,7 +28339,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.4299999999999997
   },
   {
     "webshopId": 595689,
@@ -27866,7 +28420,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.16000000000000014
   },
   {
     "webshopId": 185768,
@@ -27943,7 +28498,8 @@
         "price": 2.29
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "calculatedSavings": 0.7000000000000002
   },
   {
     "webshopId": 533086,
@@ -28022,7 +28578,10 @@
         "price": 4.99
       }
     ],
-    "minBestBeforeDays": 4
+    "minBestBeforeDays": 4,
+    "currentPrice": 2.495,
+    "calculatedSavings": 0.4950000000000001,
+    "priceCalculationMethod": "Formula_2 voor 4.99"
   },
   {
     "webshopId": 597486,
@@ -28102,7 +28661,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.07000000000000006
   },
   {
     "webshopId": 163522,
@@ -28193,7 +28753,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 5.49,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 564546,
@@ -28273,7 +28836,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 2.5599999999999987
   },
   {
     "webshopId": 590453,
@@ -28350,7 +28914,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 3.8400000000000007
   },
   {
     "webshopId": 170059,
@@ -28429,7 +28994,8 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 8
+    "minBestBeforeDays": 8,
+    "calculatedSavings": 0.6699999999999999
   },
   {
     "webshopId": 399888,
@@ -28516,7 +29082,10 @@
         "price": 3.49,
         "unit": "PIECE"
       }
-    ]
+    ],
+    "currentPrice": 1.4966666666666668,
+    "calculatedSavings": 0.3533333333333333,
+    "priceCalculationMethod": "Formula_3 stapelen voor 4.49"
   },
   {
     "webshopId": 586377,
@@ -28596,7 +29165,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 3.5899999999999963
   },
   {
     "webshopId": 568021,
@@ -28676,7 +29246,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.13999999999999968
   },
   {
     "webshopId": 594654,
@@ -28756,7 +29327,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 0.6000000000000001
   },
   {
     "webshopId": 575714,
@@ -28836,7 +29408,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 574747,
@@ -28916,7 +29489,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 2.4000000000000004
   },
   {
     "webshopId": 409165,
@@ -28994,7 +29568,10 @@
         "count": 1,
         "freeCount": 1
       }
-    ]
+    ],
+    "currentPrice": 3.275,
+    "calculatedSavings": 3.275,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 597990,
@@ -29074,7 +29651,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.7599999999999998
   },
   {
     "webshopId": 140126,
@@ -29152,7 +29730,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 518871,
@@ -29230,7 +29811,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.645,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 590391,
@@ -29310,7 +29894,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.0399999999999991
   },
   {
     "webshopId": 498162,
@@ -29387,7 +29972,10 @@
         "price": 6.0
       }
     ],
-    "minBestBeforeDays": 13
+    "minBestBeforeDays": 13,
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.18999999999999995,
+    "priceCalculationMethod": "Formula_3 voor 6.00"
   },
   {
     "webshopId": 520300,
@@ -29466,7 +30054,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.8233333333333335,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 586066,
@@ -29546,7 +30137,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 2.990000000000002
   },
   {
     "webshopId": 569541,
@@ -29626,7 +30218,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.7100000000000009
   },
   {
     "webshopId": 168206,
@@ -29706,7 +30299,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 13
+    "minBestBeforeDays": 13,
+    "currentPrice": 1.145,
+    "calculatedSavings": 1.145,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 226264,
@@ -29806,7 +30402,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 2.79,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_STAPELEN TOT 40% KORTING"
   },
   {
     "webshopId": 80101,
@@ -29884,7 +30483,8 @@
         "percentage": 25,
         "precisePercentage": 25
       }
-    ]
+    ],
+    "calculatedSavings": 1.6600000000000001
   },
   {
     "webshopId": 575535,
@@ -29963,7 +30563,10 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "currentPrice": 1.495,
+    "calculatedSavings": 1.1949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 592359,
@@ -30040,7 +30643,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 2.3900000000000006
   },
   {
     "webshopId": 577727,
@@ -30120,7 +30724,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.4500000000000002
   },
   {
     "webshopId": 577863,
@@ -30200,7 +30805,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5999999999999996
   },
   {
     "webshopId": 597600,
@@ -30280,7 +30886,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.40000000000000036
   },
   {
     "webshopId": 568226,
@@ -30360,7 +30967,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2999999999999998
   },
   {
     "webshopId": 578642,
@@ -30440,7 +31048,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.17999999999999972
   },
   {
     "webshopId": 139461,
@@ -30517,7 +31126,10 @@
         "price": 4.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.3900000000000001,
+    "priceCalculationMethod": "Formula_2 voor 4.00"
   },
   {
     "webshopId": 594411,
@@ -30597,7 +31209,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 575715,
@@ -30677,7 +31290,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2599999999999998
   },
   {
     "webshopId": 579752,
@@ -30757,7 +31371,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.75
   },
   {
     "webshopId": 177119,
@@ -30846,7 +31461,10 @@
         "price": 3.49,
         "unit": "PIECE"
       }
-    ]
+    ],
+    "currentPrice": 2.995,
+    "calculatedSavings": 1.6950000000000003,
+    "priceCalculationMethod": "Formula_2 stapelen voor 5.99"
   },
   {
     "webshopId": 518443,
@@ -30927,7 +31545,8 @@
         "precisePercentage": 35
       }
     ],
-    "minBestBeforeDays": 7
+    "minBestBeforeDays": 7,
+    "calculatedSavings": 0.98
   },
   {
     "webshopId": 59296,
@@ -31007,7 +31626,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 13
+    "minBestBeforeDays": 13,
+    "currentPrice": 1.195,
+    "calculatedSavings": 1.195,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 598039,
@@ -31087,7 +31709,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.5
   },
   {
     "webshopId": 597479,
@@ -31167,7 +31790,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.1499999999999999
   },
   {
     "webshopId": 195106,
@@ -31243,7 +31867,10 @@
         "count": 2,
         "price": 3.99
       }
-    ]
+    ],
+    "currentPrice": 1.995,
+    "calculatedSavings": 0.9950000000000001,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 572372,
@@ -31323,7 +31950,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.4299999999999997
   },
   {
     "webshopId": 457430,
@@ -31401,7 +32029,10 @@
         "count": 2,
         "price": 2.99
       }
-    ]
+    ],
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.7949999999999999,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 132491,
@@ -31481,7 +32112,10 @@
         "count": 3,
         "price": 4.99
       }
-    ]
+    ],
+    "currentPrice": 1.6633333333333333,
+    "calculatedSavings": 1.2266666666666668,
+    "priceCalculationMethod": "Formula_3 voor 4.99"
   },
   {
     "webshopId": 579111,
@@ -31561,7 +32195,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 186724,
@@ -31640,7 +32275,10 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 7
+    "minBestBeforeDays": 7,
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.7949999999999999,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 595700,
@@ -31720,7 +32358,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.21999999999999975
   },
   {
     "webshopId": 514008,
@@ -31799,7 +32438,10 @@
         "count": 2,
         "price": 3.99
       }
-    ]
+    ],
+    "currentPrice": 1.995,
+    "calculatedSavings": 1.895,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 216034,
@@ -31876,7 +32518,10 @@
         "price": 4.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.3900000000000001,
+    "priceCalculationMethod": "Formula_2 voor 4.00"
   },
   {
     "webshopId": 128130,
@@ -31955,7 +32600,10 @@
         "price": 7.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 3.5,
+    "calculatedSavings": 0.4900000000000002,
+    "priceCalculationMethod": "Formula_2 voor 7.00"
   },
   {
     "webshopId": 567141,
@@ -32035,7 +32683,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.4399999999999995
   },
   {
     "webshopId": 591837,
@@ -32115,7 +32764,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.30000000000000027
   },
   {
     "webshopId": 584746,
@@ -32195,7 +32845,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 3.169999999999998
   },
   {
     "webshopId": 565879,
@@ -32275,7 +32926,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.4299999999999997
   },
   {
     "webshopId": 594667,
@@ -32355,7 +33007,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 568726,
@@ -32435,7 +33088,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2599999999999998
   },
   {
     "webshopId": 32847,
@@ -32512,7 +33166,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 2.6175,
+    "calculatedSavings": 0.8725,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 162681,
@@ -32603,7 +33260,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 5.59,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 567149,
@@ -32683,7 +33343,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.40000000000000036
   },
   {
     "webshopId": 594407,
@@ -32760,7 +33421,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.75
   },
   {
     "webshopId": 189672,
@@ -32838,7 +33500,10 @@
         "count": 2,
         "price": 3.99
       }
-    ]
+    ],
+    "currentPrice": 1.995,
+    "calculatedSavings": 0.9950000000000001,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 177112,
@@ -32913,7 +33578,10 @@
         "count": 2,
         "freeCount": 2
       }
-    ]
+    ],
+    "currentPrice": 1.995,
+    "calculatedSavings": 1.995,
+    "priceCalculationMethod": "Formula_2 + 2 gratis"
   },
   {
     "webshopId": 63581,
@@ -32991,7 +33659,8 @@
         "percentage": 25,
         "precisePercentage": 25
       }
-    ]
+    ],
+    "calculatedSavings": 5.619999999999997
   },
   {
     "webshopId": 386562,
@@ -33069,7 +33738,8 @@
         "percentage": 25,
         "precisePercentage": 25
       }
-    ]
+    ],
+    "calculatedSavings": 2.5
   },
   {
     "webshopId": 591858,
@@ -33146,7 +33816,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 5.0
   },
   {
     "webshopId": 579283,
@@ -33226,7 +33897,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2599999999999998
   },
   {
     "webshopId": 497903,
@@ -33302,7 +33974,10 @@
         "count": 3,
         "price": 6.0
       }
-    ]
+    ],
+    "currentPrice": 2.0,
+    "calculatedSavings": 0.18999999999999995,
+    "priceCalculationMethod": "Formula_3 voor 6.00"
   },
   {
     "webshopId": 398608,
@@ -33380,7 +34055,8 @@
         "defaultDescription": "voor 5.94",
         "price": 5.94
       }
-    ]
+    ],
+    "calculatedSavings": 2.05
   },
   {
     "webshopId": 459979,
@@ -33455,7 +34131,8 @@
         "percentage": 50,
         "precisePercentage": 50
       }
-    ]
+    ],
+    "calculatedSavings": 2.75
   },
   {
     "webshopId": 555022,
@@ -33532,7 +34209,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 8.239999999999998
   },
   {
     "webshopId": 220740,
@@ -33609,7 +34287,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 3.6374999999999997,
+    "calculatedSavings": 1.2125,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 419916,
@@ -33687,7 +34368,8 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 13
+    "minBestBeforeDays": 13,
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 567450,
@@ -33767,7 +34449,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 591841,
@@ -33847,7 +34530,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 594512,
@@ -33927,7 +34611,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 1.4100000000000001
   },
   {
     "webshopId": 590123,
@@ -34007,7 +34692,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.33999999999999986
   },
   {
     "webshopId": 576060,
@@ -34087,7 +34773,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 2.1000000000000014
   },
   {
     "webshopId": 591684,
@@ -34167,7 +34854,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 580358,
@@ -34247,7 +34935,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.5800000000000001
   },
   {
     "webshopId": 580365,
@@ -34327,7 +35016,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.6900000000000004
   },
   {
     "webshopId": 598019,
@@ -34407,7 +35097,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3000000000000007
   },
   {
     "webshopId": 594678,
@@ -34487,7 +35178,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.25
   },
   {
     "webshopId": 1487,
@@ -34568,7 +35260,10 @@
         "count": 1,
         "freeCount": 1
       }
-    ]
+    ],
+    "currentPrice": 3.995,
+    "calculatedSavings": 3.995,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 577369,
@@ -34645,7 +35340,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 23.97
   },
   {
     "webshopId": 217356,
@@ -34724,7 +35420,10 @@
         "price": 3.99
       }
     ],
-    "minBestBeforeDays": 10
+    "minBestBeforeDays": 10,
+    "currentPrice": 1.995,
+    "calculatedSavings": 0.7949999999999999,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 579337,
@@ -34804,7 +35503,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.5500000000000007
   },
   {
     "webshopId": 578658,
@@ -34884,7 +35584,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2699999999999996
   },
   {
     "webshopId": 594659,
@@ -34964,7 +35665,8 @@
         "percentage": 15,
         "precisePercentage": 15
       }
-    ]
+    ],
+    "calculatedSavings": 1.08
   },
   {
     "webshopId": 579359,
@@ -35044,7 +35746,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.18999999999999995
   },
   {
     "webshopId": 594730,
@@ -35124,7 +35827,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.7799999999999994
   },
   {
     "webshopId": 598043,
@@ -35204,7 +35908,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.39000000000000057
   },
   {
     "webshopId": 525240,
@@ -35280,7 +35985,8 @@
         "amount": 1.0
       }
     ],
-    "minBestBeforeDays": 3
+    "minBestBeforeDays": 3,
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 237426,
@@ -35359,7 +36065,10 @@
         "price": 7.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 3.5,
+    "calculatedSavings": 0.18999999999999995,
+    "priceCalculationMethod": "Formula_2 voor 7.00"
   },
   {
     "webshopId": 570848,
@@ -35439,7 +36148,8 @@
         "percentage": 35,
         "precisePercentage": 35
       }
-    ]
+    ],
+    "calculatedSavings": 0.94
   },
   {
     "webshopId": 572133,
@@ -35516,7 +36226,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 3.7699999999999996
   },
   {
     "webshopId": 594960,
@@ -35596,7 +36307,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 579079,
@@ -35676,7 +36388,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.2400000000000002
   },
   {
     "webshopId": 591359,
@@ -35756,7 +36469,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.3999999999999999
   },
   {
     "webshopId": 398597,
@@ -35834,7 +36548,8 @@
         "defaultDescription": "voor 0.99",
         "price": 0.99
       }
-    ]
+    ],
+    "calculatedSavings": 0.3600000000000001
   },
   {
     "webshopId": 196539,
@@ -35921,7 +36636,10 @@
         "price": 3.49,
         "unit": "PIECE"
       }
-    ]
+    ],
+    "currentPrice": 1.4966666666666668,
+    "calculatedSavings": 0.7533333333333332,
+    "priceCalculationMethod": "Formula_3 stapelen voor 4.49"
   },
   {
     "webshopId": 579286,
@@ -36001,7 +36719,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.1900000000000004
   },
   {
     "webshopId": 578329,
@@ -36081,7 +36800,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.1400000000000006
   },
   {
     "webshopId": 476564,
@@ -36159,7 +36879,10 @@
         "count": 2,
         "price": 3.49
       }
-    ]
+    ],
+    "currentPrice": 1.745,
+    "calculatedSavings": 0.44499999999999984,
+    "priceCalculationMethod": "Formula_2 voor 3.49"
   },
   {
     "webshopId": 593083,
@@ -36239,7 +36962,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.75
   },
   {
     "webshopId": 162664,
@@ -36330,7 +37054,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 4.65,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 590457,
@@ -36407,7 +37134,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 3.2600000000000007
   },
   {
     "webshopId": 567345,
@@ -36487,7 +37215,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.16999999999999993
   },
   {
     "webshopId": 578604,
@@ -36567,7 +37296,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20999999999999952
   },
   {
     "webshopId": 589926,
@@ -36658,7 +37388,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 3.19,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 590412,
@@ -36738,7 +37471,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.200000000000001
   },
   {
     "webshopId": 587083,
@@ -36818,7 +37552,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 409164,
@@ -36896,7 +37631,10 @@
         "count": 1,
         "freeCount": 1
       }
-    ]
+    ],
+    "currentPrice": 3.245,
+    "calculatedSavings": 3.245,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 578983,
@@ -36976,7 +37714,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.17999999999999972
   },
   {
     "webshopId": 562279,
@@ -37054,7 +37793,8 @@
         "precisePercentage": 25
       }
     ],
-    "minBestBeforeDays": 12
+    "minBestBeforeDays": 12,
+    "calculatedSavings": 0.75
   },
   {
     "webshopId": 566670,
@@ -37134,7 +37874,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.40000000000000036
   },
   {
     "webshopId": 597586,
@@ -37211,7 +37952,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 1.5
   },
   {
     "webshopId": 561686,
@@ -37288,7 +38030,10 @@
         "price": 6.0
       }
     ],
-    "minBestBeforeDays": 6
+    "minBestBeforeDays": 6,
+    "currentPrice": 3.0,
+    "calculatedSavings": 0.5899999999999999,
+    "priceCalculationMethod": "Formula_2 voor 6.00"
   },
   {
     "webshopId": 577378,
@@ -37372,7 +38117,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 3.680000000000007
   },
   {
     "webshopId": 596924,
@@ -37452,7 +38198,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 558179,
@@ -37531,7 +38278,8 @@
         "unit": "GRAM"
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "calculatedSavings": 1.5200000000000005
   },
   {
     "webshopId": 551190,
@@ -37610,7 +38358,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.5233333333333332,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 580351,
@@ -37690,7 +38441,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.2699999999999996
   },
   {
     "webshopId": 568402,
@@ -37770,7 +38522,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3000000000000007
   },
   {
     "webshopId": 577862,
@@ -37850,7 +38603,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 0.4500000000000002
   },
   {
     "webshopId": 513996,
@@ -37929,7 +38683,10 @@
         "count": 2,
         "price": 3.99
       }
-    ]
+    ],
+    "currentPrice": 1.995,
+    "calculatedSavings": 1.1949999999999998,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 160914,
@@ -38009,7 +38766,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 13
+    "minBestBeforeDays": 13,
+    "currentPrice": 1.145,
+    "calculatedSavings": 1.145,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 568345,
@@ -38089,7 +38849,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.23000000000000043
   },
   {
     "webshopId": 593117,
@@ -38169,7 +38930,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.3799999999999999
   },
   {
     "webshopId": 399889,
@@ -38256,7 +39018,10 @@
         "price": 3.49,
         "unit": "PIECE"
       }
-    ]
+    ],
+    "currentPrice": 1.4966666666666668,
+    "calculatedSavings": 0.3533333333333333,
+    "priceCalculationMethod": "Formula_3 stapelen voor 4.49"
   },
   {
     "webshopId": 140132,
@@ -38334,7 +39099,10 @@
         "count": 3,
         "price": 4.99
       }
-    ]
+    ],
+    "currentPrice": 1.6633333333333333,
+    "calculatedSavings": 0.5266666666666666,
+    "priceCalculationMethod": "Formula_3 voor 4.99"
   },
   {
     "webshopId": 590446,
@@ -38414,7 +39182,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.2599999999999998
   },
   {
     "webshopId": 490797,
@@ -38573,7 +39342,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.23999999999999932
   },
   {
     "webshopId": 595591,
@@ -38653,7 +39423,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.18999999999999995
   },
   {
     "webshopId": 568738,
@@ -38733,7 +39504,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.16999999999999993
   },
   {
     "webshopId": 571957,
@@ -38824,7 +39596,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 6.59,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 574212,
@@ -38904,7 +39679,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.45000000000000107
   },
   {
     "webshopId": 429647,
@@ -38995,7 +39771,10 @@
         "unit": "PIECE",
         "precisePercentage": 25
       }
-    ]
+    ],
+    "currentPrice": 6.99,
+    "calculatedSavings": 0.0,
+    "priceCalculationMethod": "Formula_stapelen tot 35%"
   },
   {
     "webshopId": 175214,
@@ -39069,7 +39848,10 @@
         "defaultDescription": "2e halve prijs",
         "count": 2
       }
-    ]
+    ],
+    "currentPrice": 0.7124999999999999,
+    "calculatedSavings": 0.23750000000000004,
+    "priceCalculationMethod": "Formula_2e Halve Prijs"
   },
   {
     "webshopId": 525358,
@@ -39147,7 +39929,10 @@
         "freeCount": 1
       }
     ],
-    "minBestBeforeDays": 13
+    "minBestBeforeDays": 13,
+    "currentPrice": 1.195,
+    "calculatedSavings": 1.195,
+    "priceCalculationMethod": "Formula_1 + 1 gratis"
   },
   {
     "webshopId": 575257,
@@ -39305,7 +40090,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 593701,
@@ -39385,7 +40171,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.21999999999999975
   },
   {
     "webshopId": 520275,
@@ -39464,7 +40251,10 @@
         "price": 5.0
       }
     ],
-    "minBestBeforeDays": 2
+    "minBestBeforeDays": 2,
+    "currentPrice": 1.6666666666666667,
+    "calculatedSavings": 0.8233333333333335,
+    "priceCalculationMethod": "Formula_3 voor 5.00"
   },
   {
     "webshopId": 577381,
@@ -39544,7 +40334,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 1.7999999999999972
   },
   {
     "webshopId": 217278,
@@ -39623,7 +40414,10 @@
         "price": 3.99
       }
     ],
-    "minBestBeforeDays": 10
+    "minBestBeforeDays": 10,
+    "currentPrice": 1.995,
+    "calculatedSavings": 0.29499999999999993,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 555357,
@@ -39703,7 +40497,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.40000000000000036
   },
   {
     "webshopId": 579451,
@@ -39783,7 +40578,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 505579,
@@ -39860,7 +40656,10 @@
         "price": 2.5
       }
     ],
-    "minBestBeforeDays": 8
+    "minBestBeforeDays": 8,
+    "currentPrice": 1.25,
+    "calculatedSavings": 0.3400000000000001,
+    "priceCalculationMethod": "Formula_2 voor 2.50"
   },
   {
     "webshopId": 514065,
@@ -39940,7 +40739,10 @@
         "count": 2,
         "price": 3.99
       }
-    ]
+    ],
+    "currentPrice": 1.995,
+    "calculatedSavings": 1.895,
+    "priceCalculationMethod": "Formula_2 voor 3.99"
   },
   {
     "webshopId": 440882,
@@ -40018,7 +40820,8 @@
         "defaultDescription": "€1.00 euro korting",
         "amount": 1.0
       }
-    ]
+    ],
+    "calculatedSavings": 1.0
   },
   {
     "webshopId": 585742,
@@ -40095,7 +40898,8 @@
         "code": "DISCOUNT_BUNDLE",
         "defaultDescription": "pakketkorting"
       }
-    ]
+    ],
+    "calculatedSavings": 6.0
   },
   {
     "webshopId": 579110,
@@ -40175,7 +40979,8 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.25
   },
   {
     "webshopId": 569884,
@@ -40254,7 +41059,10 @@
         "price": 2.99
       }
     ],
-    "minBestBeforeDays": 7
+    "minBestBeforeDays": 7,
+    "currentPrice": 1.495,
+    "calculatedSavings": 0.7949999999999999,
+    "priceCalculationMethod": "Formula_2 voor 2.99"
   },
   {
     "webshopId": 597508,
@@ -40334,7 +41142,8 @@
         "percentage": 5,
         "precisePercentage": 5
       }
-    ]
+    ],
+    "calculatedSavings": 0.20000000000000018
   },
   {
     "webshopId": 585189,
@@ -40414,6 +41223,7 @@
         "percentage": 10,
         "precisePercentage": 10
       }
-    ]
+    ],
+    "calculatedSavings": 1.5
   }
 ]

@@ -17,10 +17,10 @@ email:
   html_output_file: "generated_email.html" # Name of the HTML file generated for email content
 
 # Data Ingestion Paths
-data_ingestion:
+file_paths:
   # Path to your local bonus items JSON file
   # Example: "output/bonus_items.json" if you're using the filtering script output
-  local_json_path: "path/to/your/bonus_items.json"
+  bonus_items_save_path: "data/output/bonus_items.json"
   # GCP bucket details (if using GCP for data ingestion)
   # Uncomment and fill if applicable
   # gcp_bucket_name: "your-gcp-bucket-name"
@@ -33,7 +33,7 @@ llm_config:
   # These might be accessed via environment variables for security.
   llm_api_endpoint_env_var: "GITHUB_LLM_API_ENDPOINT"
   llm_model_name_env_var: "GITHUB_LLM_MODEL_NAME"
-  
+
 # LangGraph specific settings
 langgraph_config:
   # This might be used for 'temperature' or other generation parameters
@@ -44,4 +44,5 @@ langgraph_config:
 # For example, thresholds for discounts, health criteria for recipes, etc.
 recommendation_settings:
   min_discount_percentage: 20
-  health_criteria_keywords: ["low fat", "high fiber", "protein rich", "fresh vegetables"]
+  health_criteria_keywords:
+    ["low fat", "high fiber", "protein rich", "fresh vegetables"]
